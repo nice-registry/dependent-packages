@@ -1,0 +1,18 @@
+
+<--- Last few GCs --->
+
+  584825 ms: Mark-sweep 1233.3 (1434.3) -> 1228.6 (1434.3) MB, 1605.8 / 0 ms [allocation failure] [GC in old space requested].
+  586352 ms: Mark-sweep 1228.6 (1434.3) -> 1228.6 (1434.3) MB, 1527.0 / 0 ms [allocation failure] [GC in old space requested].
+  588037 ms: Mark-sweep 1228.6 (1434.3) -> 1228.6 (1434.3) MB, 1684.6 / 0 ms [last resort gc].
+  589651 ms: Mark-sweep 1228.6 (1434.3) -> 1228.5 (1434.3) MB, 1613.8 / 0 ms [last resort gc].
+
+
+<--- JS stacktrace --->
+
+==== JS stack trace =========================================
+
+Security context: 0x14bf00c9e31 <JS Object>
+    1: parse [native json.js:~51] [pc=0x188b3c54e7c3] (this=0x14bf00c3309 <a JSON with map 0x334d5c095e9>,x=0x257114090d01 <Very long string[163958]>,s=0x14bf0004189 <undefined>)
+    2: arguments adaptor frame: 1->2
+    3: _readData [/Users/zeke/zeke/npm-dependency-stats/node_modules/changes-stream/index.js:193] [pc=0x188b3c6159b1] (this=0x87dec657ec9 <a ChangesStream with map 0x131dbe65c61>,dat...
+

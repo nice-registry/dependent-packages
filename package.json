@@ -1,0 +1,23 @@
+{
+  "name": "npm-dependency-stats",
+  "version": "1.0.0",
+  "description": "An offline dataset of 'dependents' and 'devDependents' of all npm packages",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "count": "node count.js > counts.json",
+  },
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash.uniq": "^4.5.0",
+    "mkdirp": "^0.5.1",
+    "package-stream": "^1.0.2",
+    "path-exists": "^3.0.0",
+    "require-dir": "^0.3.1",
+    "rimraf": "^2.5.4"
+  },
+  "dependencies": {
+    "package-stream": "^1.0.2"
+  }
+}
