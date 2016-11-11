@@ -1,1 +1,1 @@
-["pull-abortable","pull-tomany"]
+["batchqueue","multicb","pull-abortable","pull-fork","pull-inactivity","pull-join","pull-many","pull-merge","pull-paramap","pull-tomany","ssb-blobs","ssb-feed","stream-view","streamview"]

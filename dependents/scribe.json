@@ -1,1 +1,1 @@
-["gf-zipkin","log4js-scribe-appender","winston-common-scribe","yuyii_scribe_send","zipkin-middleware"]
+["express-zipkin","gc-crawler","gf-zipkin","log4js-scribe-appender","scribely","winston-common-scribe","winston-scribe","yuyii_scribe_send","zipkin-middleware","zipkin-transport-scribe"]

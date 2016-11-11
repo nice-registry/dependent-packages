@@ -1,1 +1,1 @@
-["git-flow-db","http-store","simple-fs-rest"]
+["bookshelf-jsonpatch","git-flow-db","http-helper-functions","http-store","jsonapify","maptrans","rozu","simple-fs-rest","slush-regenerator"]

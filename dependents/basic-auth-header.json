@@ -1,1 +1,1 @@
-["bb-resolve","lokka-transport-http-auth"]
+["bb-resolve","couchdb-design-putter","lokka-transport-http-auth","twilio-stream"]

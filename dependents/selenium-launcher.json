@@ -1,1 +1,1 @@
-["cuked","grunt-mocha-selenium","grunt-mocha-webdriver","gulp-mocha-selenium","testudo"]
+["cuked","grunt-mocha-selenium","grunt-mocha-webdriver","grunt-selenium-launcher","gulp-mocha-selenium","kite","ss-cucumber","testudo"]

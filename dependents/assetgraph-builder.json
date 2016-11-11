@@ -1,1 +1,1 @@
-["metalsmith-assetgraph"]
+["grunt-reduce","gulp-reduce","metalsmith-assetgraph"]

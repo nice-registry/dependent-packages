@@ -1,1 +1,1 @@
-["distify","easy-repl","insert-module-globals"]
+["cordova-plugin-require-bluetoothle","distify","easy-repl","global-leak-hunter","grunt-coffee-build","insert-module-globals","specialize"]

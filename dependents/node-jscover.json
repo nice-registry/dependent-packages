@@ -1,1 +1,1 @@
-["node-jscover-webpack-loader"]
+["node-jscover-handler","node-jscover-webpack-loader","pagerun-jscoverage","rc-server"]

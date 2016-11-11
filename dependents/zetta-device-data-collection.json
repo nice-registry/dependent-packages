@@ -1,1 +1,1 @@
-["zetta-device-data-kairosdb","zetta-device-data-keenio"]
+["zetta-device-data-influxdb","zetta-device-data-kairosdb","zetta-device-data-keenio","zetta-device-data-kinesis","zetta-device-data-sqs"]

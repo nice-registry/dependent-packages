@@ -1,1 +1,1 @@
-["nodemvc","plus.garden.fixtures-mysql"]
+["grunt-sequelize-fixtures","nodemvc","plus.garden.fixtures-mysql","scaffi-server-core","sequelize-mocking","sequelize-test-setup"]

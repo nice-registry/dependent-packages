@@ -1,1 +1,1 @@
-["gulp-postmortem","monitorctrlc","xmldocformatter"]
+["gulp-postmortem","gulp-taskfromstreams","mocha-testdata","monitorctrlc","node-neural-network","xmldocformatter"]

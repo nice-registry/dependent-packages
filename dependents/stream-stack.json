@@ -1,1 +1,1 @@
-["modbus-stack","node-parser3"]
+["cgi","gzip-stack","header-stack","http-stack","icecast-stack","mail-stack","modbus-stack","multipart-stack","node-parser3","node-roc-stack","nttpd"]

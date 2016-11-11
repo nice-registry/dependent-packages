@@ -1,1 +1,1 @@
-["broccoli-jade-render"]
+["broccoli-eyeglass","broccoli-funnel","broccoli-jade-render","broccoli-pages","broccoli-plugin","broccoli-pug-render","broccoli-rollup","broccoli-sass-tree","broccoli-styleguide","broccoli-watchify","broccoli-whatchanged","brunch","ember-module-migrator"]

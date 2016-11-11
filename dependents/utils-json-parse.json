@@ -1,1 +1,1 @@
-["app-etc-load","argv-to-object","env-to-object","flow-to-geckoboard","npm-list-author-packages","npm-list-package-dependents","utils-fs-read-json"]
+["app-etc-load","argv-to-object","env-to-object","flow-to-geckoboard","github-create-issue","github-create-repo","github-create-token","npm-list-author-packages","npm-list-package-dependents","npm-package-download-counts","npm-registry-package-info","travis-ci-access-token","travis-ci-get","travis-ci-post","travis-ci-put","utils-fs-read-json"]

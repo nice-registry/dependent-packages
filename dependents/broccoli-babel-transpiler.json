@@ -1,1 +1,1 @@
-["broccoli-dsl","broccoli-es6-npm-compiler","broccoli-multi-builder","broccoli-test-builder","ember-highcharts-extra","pixijs-cli"]
+["angular-bro-app","broccoli-dsl","broccoli-es6-npm-compiler","broccoli-multi-builder","broccoli-test-builder","denali","denali-babel","ember-cli","ember-cli-asset-sizes-shim","ember-cli-babel","ember-cli-d3-primitive","ember-cli-qunit","ember-data","ember-highcharts-extra","ember-impagination","ember-phoenix-chan","ember-service-worker","emberjs-build","mock-socket","pixijs-cli"]

@@ -1,1 +1,1 @@
-["appium-ci","appium-test-support","appium-transpile-runtime","gitmodified","lsd-cli","packweb","pg-live-table","reql-pointfree","triager"]
+["appium-ci","appium-test-support","appium-transpile-runtime","asyncbox","dagon","gitmodified","gustav-rabbitmq-pubsub","lsd-cli","packweb","pg-live-table","rabbitmq-pubsub","reql-pointfree","restauth","triager"]

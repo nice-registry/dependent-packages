@@ -1,1 +1,1 @@
-["karma-commonjs-require"]
+["brunch","grunt-apps-c","karma-commonjs-require"]

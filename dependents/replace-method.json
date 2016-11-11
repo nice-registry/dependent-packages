@@ -1,1 +1,1 @@
-["glslify-live","json-live"]
+["brstar","glslify-live","json-live","remove-catch-require","remove-try-require"]

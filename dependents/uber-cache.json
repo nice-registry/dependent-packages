@@ -1,1 +1,1 @@
-["express-droonga"]
+["express-droonga","uber-cache-express","uber-cache-helpers"]

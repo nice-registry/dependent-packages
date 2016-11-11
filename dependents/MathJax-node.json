@@ -1,1 +1,1 @@
-["athene2-editor","gitbook-plugin-mathjax-beta","jstransformer-mathjax","mathjax-pandoc-filter","prerender-mathjax"]
+["evermark","evermark-fork","gitbook-plugin-mathjax","gulp-mathjax-node","gulp-task-metalsmith","hexo-renderer-moemark","jstransformer-mathjax","mathjax-pandoc-filter","metalsmith-mathjax","minori","moemark-renderer","tex-equation-to-svg"]

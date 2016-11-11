@@ -1,1 +1,1 @@
-["nativescript-firebase"]
+["nativescript-actioncable","nativescript-firebase","nativescript-meteor","nativescript-redux-devtools","nativescript-signalr"]

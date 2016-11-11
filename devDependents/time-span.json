@@ -1,1 +1,1 @@
-["delay"]
+["delay","p-debounce","p-each-series","p-limit","p-map","p-map-series","p-queue","p-tap","p-throttle","p-wait-for"]

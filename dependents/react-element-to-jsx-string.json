@@ -1,1 +1,1 @@
-["chai-equal-jsx","chai-jsx","expect-to-equal-jsx","lydia","tape-jsx-equals"]
+["chai-assert-jsx","chai-enzyme","chai-equal-jsx","chai-jsx","expect-jsx","expect-to-equal-jsx","goomap","html2jsx","jsx-chai","lydia","must-jsx","react-atomic-wrapper","react-bandjs-renderer","should-jsx","tape-jsx-equals","tape-jsx-includes","tape-jsx-notequals","tape-jsx-notincludes","youi"]

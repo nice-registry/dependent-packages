@@ -1,1 +1,1 @@
-["zkflow-task-browserify"]
+["gulp-zkflow-angular","gulp-zkflow-load-tasks","gulp-zkflow-logger","gulp-zkflow-utils","zkflow","zkflow-task-browserify","zkflow-task-jasmine","zkflow-task-sequence","zkflow-watcher"]

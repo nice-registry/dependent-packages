@@ -1,1 +1,1 @@
-["dynamic-gcloud","require-wiredep","sg-wiredep"]
+["dynamic-gcloud","gcloud","generator-huh","google-cloud-storage-standalone","require-wiredep","sg-wiredep","wiredep"]

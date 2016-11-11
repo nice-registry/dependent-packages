@@ -1,1 +1,1 @@
-["topdown-physics"]
+["box2d-player","continuous-box2d","topdown-physics","vkeys"]

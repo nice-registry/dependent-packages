@@ -1,1 +1,1 @@
-["ember-sockets"]
+["ember-connection-status","ember-es-adapter","ember-sockets"]

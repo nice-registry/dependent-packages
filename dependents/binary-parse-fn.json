@@ -1,1 +1,1 @@
-["msgpack-unpack"]
+["msgpack-unpack","zeromq-frame-parser"]

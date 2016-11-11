@@ -1,1 +1,1 @@
-["lockit-couchdb-adapter"]
+["lockit-couchdb-adapter","lockit-couchdb-adapter-auth","lockit-koa-couchdb","wavy-api"]

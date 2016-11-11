@@ -1,1 +1,1 @@
-["failpoints","node-stap","tcap","thriftify"]
+["bufrw","canduit","canduitz","failpoints","hyperbahn","idl","jetstream","kafka-logger","kafka-rest-client","larch","node-flame","node-stap","ringpop","sea","tcap","tcurl","thriftify","thriftrw","uber-larch","yarpc"]

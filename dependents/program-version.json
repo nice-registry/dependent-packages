@@ -1,1 +1,1 @@
-["browserify-standalone","hound-cli"]
+["browserify-standalone","hound-cli","rerun-script"]

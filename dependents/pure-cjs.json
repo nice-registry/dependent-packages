@@ -1,1 +1,1 @@
-["gulp-pure-cjs"]
+["aster-commonjs","grunt-pure-cjs","gulp-pure-cjs"]

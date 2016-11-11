@@ -1,1 +1,1 @@
-["grunt-sequelize"]
+["grunt-sequelize","knex-umzug"]

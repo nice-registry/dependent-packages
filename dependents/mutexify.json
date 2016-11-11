@@ -1,1 +1,1 @@
-["changes-feed","dat-core","just-login-core","level-dat","level-enumerate","level-naive-bayes","merkle-dag","queuealot","read-write-lock","syzer-level-naive-bayes","utun"]
+["changes-feed","dat-core","deploy-from-npm","hyper-textarea","hypercore-dag","hyperkv","hyperlog","just-login-core","level-dat","level-enumerate","level-naive-bayes","logbase","merkle-dag","nanobench","osm-p2p-db","queuealot","read-write-lock","syzer-level-naive-bayes","utun"]

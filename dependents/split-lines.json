@@ -1,1 +1,1 @@
-["grunt-bower-check","markdown-live-preview"]
+["eslint-plugin-script-tags","feverish-routes","grunt-bower-check","html-pack","markdown-live-preview","move-lines","stylelint-processor-arbitrary-tags","stylelint-processor-jekyll","stylelint-processor-markdown"]

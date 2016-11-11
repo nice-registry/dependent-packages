@@ -1,1 +1,1 @@
-["miaow-amd-wrap","miaow-js-lint"]
+["miaow-amd-parse","miaow-amd-wrap","miaow-babel-parse","miaow-css-autoprefixer","miaow-css-mini","miaow-css-pack","miaow-css-sprite","miaow-ftl-parse","miaow-inline-parse","miaow-jpg-mini","miaow-js-lint","miaow-js-mini","miaow-less-parse","miaow-lowbandwidth-task","miaow-pack-plugin","miaow-png-mini","miaow-replace","miaow-thirdparty-plugin","miaow-url-parse","miaow-vue-parse"]

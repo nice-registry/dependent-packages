@@ -1,1 +1,1 @@
-["hapi-ratelimit","koa-ratelimit-multi","koa-ratelimit2","rate-limiter-wrapper"]
+["hapi-ratelimit","hapi-ratelimiter","hapi-throttling","koa-ratelimit","koa-ratelimit-multi","koa-ratelimit-promises","koa-ratelimit2","koa-redis-ratelimit","node-mw-api-prodest","now-rate-limit","pointr","rate-limiter-wrapper","webexapp"]

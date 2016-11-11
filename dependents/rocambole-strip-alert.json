@@ -1,1 +1,1 @@
-["config-strip-debug"]
+["config-strip-debug","own-strip","strip-debug"]

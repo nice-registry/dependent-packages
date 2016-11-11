@@ -1,1 +1,1 @@
-["grunt-metal","grunt-metalsmith","gulp-file-bundle"]
+["grunt-autospritesmith","grunt-cleanempty","grunt-image-debower","grunt-metal","grunt-metalsmith","gulp-file-bundle","hive-queen"]

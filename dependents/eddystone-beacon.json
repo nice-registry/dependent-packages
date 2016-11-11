@@ -1,1 +1,1 @@
-["eddystone-react-material","node-red-contrib-eddystone"]
+["eddystone-beacon-electron-emulator","eddystone-beacon-emulator","eddystone-react-material","node-red-contrib-eddystone","node-red-node-physical-web"]

@@ -1,1 +1,1 @@
-["polyup"]
+["gulp-xgettext-js","node-require-transform","polyup","rollup-plugin-ascii","rollup-plugin-commonjs","rollup-plugin-inject","rollup-plugin-minifyliterals","rollup-plugin-node-globals","rollup-plugin-strip","rollup-plugin-strip-logger","rollup-plugin-ternary","rollup-pluginutils","xgettext-js"]

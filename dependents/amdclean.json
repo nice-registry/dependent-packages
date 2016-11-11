@@ -1,1 +1,1 @@
-["amdbuilder","grunt-amdclean","gulp-amdclean","leiquan-npm-test","modjs","nova-compile"]
+["adaptivejs","amdbuilder","broccoli-amdclean","easy-build","fis-deploy-amdpackage","fis-postpackager-amdclean","gobble-amdclean","grunt-amdclean","gulp-amdclean","iutils","leiquan-npm-test","modjs","nova-compile","task-requirejs","vbuilder"]

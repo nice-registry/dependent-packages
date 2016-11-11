@@ -1,1 +1,1 @@
-["fnm-parser","gulp-react-jade-include","mhtml-parser","unicodify","vcgrep"]
+["createDOC","fnm-parser","gulp-react-jade-include","mhtml-parser","mx-resolve","node-red-contrib-read-line","split-by-line","unicodify","vcgrep"]

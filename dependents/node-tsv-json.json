@@ -1,1 +1,1 @@
-["tsv-loader"]
+["gulp-tsv2json","tsv-loader","yamQuery-excel"]

@@ -1,1 +1,1 @@
-["lie-iter"]
+["lie-all","lie-any","lie-every","lie-filter","lie-fold","lie-iter","lie-lfold","lie-map","lie-parallel","lie-rfold","lie-some","lie-zip","lie-zipwith"]

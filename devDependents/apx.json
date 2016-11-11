@@ -1,1 +1,1 @@
-["apx-mongoose"]
+["apx-express-socket.io","apx-helper-crud","apx-kue","apx-mongoose","apx-roles","apx-session","apx-winston"]

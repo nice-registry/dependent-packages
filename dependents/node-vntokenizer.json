@@ -1,1 +1,1 @@
-["node-stopwords-filter","node-tfidf"]
+["node-ngram","node-stopwords-filter","node-tfidf"]

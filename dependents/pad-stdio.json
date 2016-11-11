@@ -1,1 +1,1 @@
-["grunt-multicore","term-slides"]
+["grunt-concurrent-ct","grunt-multicore","grunt-vagrantup","jasdriver","term-slides"]

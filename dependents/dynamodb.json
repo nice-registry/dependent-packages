@@ -1,1 +1,1 @@
-["my-two-bits-server","seneca-dynamodb"]
+["modli-dynamodb","my-two-bits-server","seneca-dynamo-store","seneca-dynamodb"]

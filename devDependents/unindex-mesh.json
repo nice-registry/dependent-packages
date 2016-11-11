@@ -1,1 +1,1 @@
-["extrude","generator-webgl"]
+["cube-cube","display-tree","extrude","generator-webgl","gl-geometry","matcap","mesh-reindex","parse-pc2","scene-tree","surface-vectors","svg-mesh-3d"]

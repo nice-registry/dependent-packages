@@ -1,1 +1,1 @@
-["grunt-aws-s3-gzip","tilelive-cardboard"]
+["cardboard","grunt-aws-s3","grunt-aws-s3-gzip","probo-asset-receiver","taskcluster-lib-monitor","taskcluster-lib-validate","tilelive-cardboard","web-lager"]

@@ -1,1 +1,1 @@
-["fetch-jsonify","must-sinon","must-targaryen"]
+["fetch-defaults","fetch-formify","fetch-jsonify","fetch-off","must","must-sinon","must-targaryen","selenium-dom"]

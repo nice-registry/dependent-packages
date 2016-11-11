@@ -1,1 +1,1 @@
-["grunt-xtemplate","gulp-modulex","gulp-xtemplate","kison","koa-modularize","modulex-attribute","modulex-base","modulex-event-base","modulex-event-custom","modulex-event-dom","modulex-io","saucelabs-runner"]
+["grunt-xtemplate","gulp-modulex","gulp-xtemplate","kison","koa-modularize","modulex-attribute","modulex-base","modulex-event-base","modulex-event-custom","modulex-event-dom","modulex-io","rc-server","rc-tools","saucelabs-runner"]

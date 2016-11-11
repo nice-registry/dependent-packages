@@ -1,1 +1,1 @@
-["grunt-contrib-mongo-migrate"]
+["grunt-contrib-mongo-migrate","rutha-grunt-mongo-migrations"]

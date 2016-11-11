@@ -1,1 +1,1 @@
-["graphene-marionette-runner","marionette-b2gdesktop-host","marionette-firefox-host","marionette-js-runner"]
+["graphene-marionette-runner","marionette-b2gdesktop-host","marionette-firefox-host","marionette-host-environment","marionette-js-runner"]

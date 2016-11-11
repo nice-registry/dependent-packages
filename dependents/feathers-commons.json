@@ -1,1 +1,1 @@
-["feathers-batch"]
+["canjs-feathers","feathers-batch","feathers-cache","feathers-filemaker","feathers-hook-validation-jsonschema","feathers-hooks","feathers-memory","feathers-reactive","feathers-rx","feathers-socket-commons"]

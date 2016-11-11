@@ -1,1 +1,1 @@
-["google-panorama-depthmap","http-transport"]
+["google-panorama-depthmap","google-transliterate","http-transport","validate-jsonp"]

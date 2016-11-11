@@ -1,1 +1,1 @@
-["bounding-client-rect","get-window","save-range","unwrap-node","zeditor"]
+["bounding-client-rect","element-client-rect","get-window","save-range","simple-xpath-position","timoxley-offset","unwrap-node","unwrap-range","wrap-range","xpath-range","zeditor"]

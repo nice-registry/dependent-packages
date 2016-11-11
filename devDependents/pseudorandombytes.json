@@ -1,1 +1,1 @@
-["webcrypto"]
+["crypto-browserify","webcrypto"]

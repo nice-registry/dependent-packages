@@ -1,1 +1,1 @@
-["acclimate-variables","ast-children","bigfile","eval-as-module","free-variables","jkroso-type","jsx-to-js","map-ast","parse-mime","rename-variables","serve-js","todo","transducer"]
+["acclimate-variables","ast-children","bigfile","borm","borm-jstore","cp-r","dlisp-core","equals","eval-as-module","event-to-stream","free-variables","hippie","hydro-co","hydro-html","iterative-eval","jkroso-type","jstore","jsx-to-js","lift-result","logankoester-nixt","map-ast","nixt","parse-metric","parse-mime","rename-variables","respict","result-core","serve-js","to-date","todo","transducer"]

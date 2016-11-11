@@ -1,1 +1,1 @@
-["glslify-stream","html-table-stream","rewrite-js","rheo","vtree-query"]
+["codelyzer","cssauron-esprima","cssauron-falafel","cssauron-glsl","cssauron-html","cssauron-json","glsl-man","glslify-stream","glslmin","html-select","html-table-stream","mithril-query","programify","query-dom","rewrite-js","rheo","selax","snabbdom-selector","vtree-query","vtree-select"]

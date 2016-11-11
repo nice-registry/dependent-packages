@@ -1,1 +1,1 @@
-["mssql-session-store","osql","simplorm"]
+["hfjy-knex","knex-firebird","knex-generic-errors","knex-list-db-table","knex-node-firebird","knex-oracledb","knex-ping","knex-redshift","knex-redshift-fork","mssql-session-store","opensesame","osql","punch-knex","sf-data-loader","simplorm","sql-generate","sworm"]

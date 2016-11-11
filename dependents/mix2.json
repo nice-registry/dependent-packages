@@ -1,1 +1,1 @@
-["clean","cortex","cortex-canary","neuron-builder","run-mocha-cases","spawns"]
+["clean","comfort","commonjs-walker","cortex","cortex-canary","module-walker","neuron-build","neuron-builder","neuron-cli","neuron-jade-compiler","neuron-module-builder","neuron-stylus-compiler","proxy-pass","read-cortex-json","run-mocha-cases","spawns","xconfig"]

@@ -1,1 +1,1 @@
-["assemble-ask","assemble-render-string","base-list"]
+["assemble-ask","assemble-handle","assemble-permalinks","assemble-render-string","assemble-select-files","assemble-select-views","base-cli-process","base-cli-schema","base-compose","base-config-process","base-generators","base-list","base-questions","base-test-suite","helper-link-to","helper-reflinks","templates-each-of","verb-readme-generator"]

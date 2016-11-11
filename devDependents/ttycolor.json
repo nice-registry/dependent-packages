@@ -1,1 +1,1 @@
-["cli-env","cli-input","cli-logger","husk"]
+["cli-command","cli-env","cli-error","cli-input","cli-logger","cli-mid-logger","husk"]

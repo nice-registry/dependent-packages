@@ -1,1 +1,1 @@
-["grunt-k3po"]
+["grunt-k3po","node-jxls2","xsltdoc"]

@@ -1,1 +1,1 @@
-["deanius-meteor-client","reactive-object"]
+["deanius-meteor-client","meteor-blaze","meteor-client","meteor-minimongo","meteor-observe-sequence","meteor-reactive-object-map","meteor-reactive-var","meteor-spacebars","reactive-object"]

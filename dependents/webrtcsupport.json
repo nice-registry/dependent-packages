@@ -1,1 +1,1 @@
-["mediastream-gain","otalk-model-media","simplewebrtc-newsocketio"]
+["janus-gateway-js","jingle","jingle-rtcpeerconnection","mediastream-gain","otalk-media-controller","otalk-model-media","r-rtc","simplewebrtc","simplewebrtc-filetransfer","simplewebrtc-newsocketio","socket.io-p2p","stunturncheck","vroom","webrtc","webrtc-data","webrtc-sources","webrtc-tfx","webrtc.js","yodlr-client"]

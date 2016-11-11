@@ -1,1 +1,1 @@
-["distify","nodepack"]
+["browser-pack","distify","nodepack","rebrowser-pack"]

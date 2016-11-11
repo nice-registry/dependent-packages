@@ -1,1 +1,1 @@
-["changes-feed","dat-core","dat-graph","dat-stream-replicator","docker-registry-server","hypergraph","level-indexer","merkle-dag","torrent-docker"]
+["beaker-plugin-dat","changes-feed","copy-on-write","dat-core","dat-graph","dat-stream-replicator","dependency-db","docker-registry-server","feed-indexer","fixed-size-chunk-hashing","hypelight","hypelightcore","hypercore","hypercore-archiver","hyperdrive","hyperdrive-browserify","hypergraph","hyperlog","level-indexer","level-logs","level-simple-log","merkle-dag","signalhub","torrent-docker"]

@@ -1,1 +1,1 @@
-["hapi-rethinkdb-init","landho-crud","refactory","share-ace-rethinkdb","socket.io-rethinkdb"]
+["datda","hapi-rethinkdb-init","jsonapi-store-rethinkdb","landho-crud","refactory","share-ace-rethinkdb","socket.io-rethinkdb"]

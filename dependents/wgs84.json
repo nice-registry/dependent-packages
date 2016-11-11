@@ -1,1 +1,1 @@
-["ecef-projector","geodetic-to-ecef","ray-earth-intersection"]
+["ecef-projector","geodetic-to-ecef","geojson-area","leaflet-geodesy","ray-earth-intersection","spherical"]

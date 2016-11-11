@@ -1,1 +1,1 @@
-["peerpair","rtc-attach","rtc-capture","rtc-signaller","rtc-signaller-testrun","rtc-sip","rtc-taskqueue"]
+["peerpair","rtc-attach","rtc-capture","rtc-captureconfig","rtc-glue","rtc-quickconnect","rtc-quickconnect-test","rtc-screenshare","rtc-signal","rtc-signaller","rtc-signaller-testrun","rtc-sip","rtc-taskqueue","rtc-tools","rtc-tools-test"]

@@ -1,1 +1,1 @@
-["prepend-http-extra","redirect-requests","sindredash","tosck"]
+["canonical-url","generator-arc","prepend-http-extra","protocolify","psi","redirect-requests","sindredash","tosck","url-parse-lax","web-component-tester-bundle","wpcheck","wpscan"]

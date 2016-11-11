@@ -1,1 +1,1 @@
-["gl-big-quad","gl-big-triangle","glsl-token-whitespace-trim","glslify-bundle"]
+["benchmark.gl-benchmarks","gl-big-quad","gl-big-triangle","gl-magic-uniforms","glsl-token-whitespace-trim","glslify-bundle","interactive-shader-format","kindred-shader-formatter","load-collada-dae","load-wavefront-obj","luma.gl","mapbox-gl","mapbox-gl-opendoor","regl","regl-recorder","regl-tween","virtjs"]

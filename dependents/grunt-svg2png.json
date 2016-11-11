@@ -1,1 +1,1 @@
-["grunt-svg-icon-font-png-fallback","grunt-svg2png-colorfy"]
+["grunt-svg-icon-font-png-fallback","grunt-svg2png-colorfy","svgscript"]

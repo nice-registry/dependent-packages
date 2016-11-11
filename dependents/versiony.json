@@ -1,1 +1,1 @@
-["beaker","hexo-deploy-parse","sm.bump"]
+["beaker","grunt-release-emc","hexo-deploy-parse","pr-bumper","released","sm.bump","versiony-cli"]

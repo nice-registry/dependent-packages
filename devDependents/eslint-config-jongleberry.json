@@ -1,1 +1,1 @@
-["babel-nodepack","streaming-object-transform","theta"]
+["aws-sdk-then","babel-nodepack","babel-preset-jongleberry","koa-body-parsers","koa-redis-session-sets","s3-proxy-stream","streaming-object-transform","theta","waterfall-then"]

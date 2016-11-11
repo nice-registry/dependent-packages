@@ -1,1 +1,1 @@
-["function-proxy","hipcheck","redis-types"]
+["function-proxy","hipcheck","muxdemux","primus-graphql","redis-types","rethinkdb-observable","runnable-hermes","validate-dockerfile"]

@@ -1,1 +1,1 @@
-["promisify-any"]
+["co-series","co-series-bluebird","promisify-any","shimstack","walk-folder-tree"]

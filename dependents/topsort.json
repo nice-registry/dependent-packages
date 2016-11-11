@@ -1,1 +1,1 @@
-["grunt-concat-depends","grunt-tso"]
+["docker-dashboard-agent-api","grunt-concat-depends","grunt-tso","lore","lore-hook-reducers"]

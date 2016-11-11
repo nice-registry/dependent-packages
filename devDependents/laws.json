@@ -1,1 +1,1 @@
-["applicative.validation","control.monads","data.future","monads.either","monads.future","monads.maybe","monads.validation","specify-assertions"]
+["alright","applicative.validation","control.monads","core.arity","data.array","data.future","data.list","data.maybe","data.persistent","data.task","hifive-bdd","monads.either","monads.future","monads.maybe","monads.validation","net.http-client","parsing.combinators","specify-assertions","versione","wrapper.express"]

@@ -1,1 +1,1 @@
-["assemble-indexer","expand-front-matter"]
+["assemble-indexer","assemble-loader","base-test-converter","composer","dry","expand-front-matter","generate-license","middleware-rename-file","namespace-context","template"]

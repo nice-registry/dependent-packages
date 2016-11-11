@@ -1,1 +1,1 @@
-["exec-retry","fleetctl-list-units","fleetctl-start","fleetctl-stop"]
+["exec-retry","fleetctl-list-units","fleetctl-start","fleetctl-stop","node-raspbian-wifi"]

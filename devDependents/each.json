@@ -1,1 +1,1 @@
-["connect-dojo","hbase"]
+["connect-dojo","csv-parse","hbase","ron"]

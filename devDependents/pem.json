@@ -1,1 +1,1 @@
-["express-mongo-rest","got-retry","gulp-livereload-for-was","stormpath-sdk-express","thin","tosck"]
+["auth0-guardian-js","cf-framework-strategy","closedssl","cloudinit","codius-ca","debug-http","distriprob","eight-track","enumerate-devices","express-mongo-rest","fugot","got","got-retry","gulp-livereload-for-was","http-deduplicate","kad","kad-js","koa2-proxy","microgateway-plugins","nine-track","node-req","node-xmpp-tmp","passport-tequila","restfs-api-identity","stormpath-sdk-express","thin","tosck","unexpected-mitm","webrtc-samples"]

@@ -1,1 +1,1 @@
-["alinex-error","alinex-monitor","alinex-server","alinex-worktime"]
+["alinex-config","alinex-core","alinex-database","alinex-error","alinex-exec","alinex-format","alinex-formatter","alinex-fs","alinex-handlebars","alinex-mail","alinex-mailman","alinex-monitor","alinex-report","alinex-server","alinex-ssh","alinex-sshtunnel","alinex-table","alinex-util","alinex-validator","alinex-worktime"]

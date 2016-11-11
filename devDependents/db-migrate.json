@@ -1,1 +1,1 @@
-["pg-jobs","pg-orm"]
+["ampersand-sync-pg","db-migrate-cql","db-migrate-diff","node-pg-jobs","pg-jobs","pg-orm","postgres-queue"]

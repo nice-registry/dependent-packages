@@ -1,1 +1,1 @@
-["ember-cli-easy-table"]
+["ember-anchor","ember-cli-easy-table","ember-cli-materialize","ember-each-in-polyfill","ember-gestures","ember-localstorage-with-where-adapter","ember-view-state","smack-ember-adapters"]

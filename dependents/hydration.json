@@ -1,1 +1,1 @@
-["modeler-leveldb"]
+["amino-queue","amino-redis","hydration-cli","level-encrypt","modeler-elasticsearch","modeler-leveldb","modeler-redis","modeler-stripe","oil","stow"]

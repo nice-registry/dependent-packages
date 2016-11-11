@@ -1,1 +1,1 @@
-["is-blank"]
+["hapi-sanitize-payload","is-blank","shtml","trim-leading-lines"]

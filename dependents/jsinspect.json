@@ -1,1 +1,1 @@
-["gulp-jsinspect"]
+["check-build","grunt-jsinspect","gulp-jsinspect"]

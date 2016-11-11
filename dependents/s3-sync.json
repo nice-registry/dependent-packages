@@ -1,1 +1,1 @@
-["s3fsync","s3sync-cli"]
+["caisson","geo-photo-blog-cli","grunt-s3-sync","hexo-s3-deploy","rm-s3-put-dir","s3fsync","s3sync-cli"]

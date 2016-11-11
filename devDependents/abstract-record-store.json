@@ -1,1 +1,1 @@
-["ipfs-kad-record-store"]
+["ipfs-drs","ipfs-kad-record-store","libp2p-kad-record-store"]

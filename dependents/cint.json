@@ -1,1 +1,1 @@
-["grunt-multicore","updatehammer"]
+["grunt-multicore","npm-check-updates","updatehammer"]

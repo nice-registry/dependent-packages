@@ -1,1 +1,1 @@
-["ember-cli-admin-auth","ember-simple-auth-firebase","ember-simple-auth-registration","trs-translation"]
+["admin-engine-addon","ember-cli-admin-auth","ember-cli-impact-base","ember-pt-config","ember-seneca-auth","ember-simple-auth-chrome-app","ember-simple-auth-firebase","ember-simple-auth-loopback","ember-simple-auth-pouch","ember-simple-auth-registration","ember-simple-auth-token","ember-simple-token","hospitalkiller","hospitalrun","hotel-reservation","reservation-admin-engine-addon","trs-translation"]

@@ -1,1 +1,1 @@
-["create-hash","create-hmac","webcrypto"]
+["create-hash","create-hmac","crypto-browserify","crypto-hashing","md5.js","ripemd160","sha.js-browser","webcrypto"]

@@ -1,1 +1,1 @@
-["sendsip","twilio-sip-proxy"]
+["sendsip","sip-client","twilio-sip-proxy"]

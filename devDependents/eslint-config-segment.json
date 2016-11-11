@@ -1,1 +1,1 @@
-["analytics.js-integration-sumome"]
+["analytics.js","analytics.js-core","analytics.js-integration-sumome","json-to-dynamo","to-unix-timestamp","utm-params"]

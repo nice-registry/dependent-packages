@@ -1,1 +1,1 @@
-["camera-picking-ray","camera-unproject","css-mat4","glsl-blend-overlay","glsl-blend-soft-light","image-rotate","ndarray-gaussian-filter","ndarray-resample","ndarray-translate-fft","poly-mult-fft","transformist"]
+["camera-picking-ray","camera-unproject","css-mat4","eases-fancy","f1","gl-shader-output","glsl-blend-overlay","glsl-blend-soft-light","glsl-hsl2rgb","image-rotate","kimi","ndarray-gaussian-filter","ndarray-resample","ndarray-translate-fft","poly-mult-fft","transformist"]

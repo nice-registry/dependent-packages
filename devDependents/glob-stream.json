@@ -1,1 +1,1 @@
-["fs-readdir","fs-readdir-alt","stream-rename"]
+["fs-readdir","fs-readdir-alt","globby","gulp-rm","jsrender","jsviews","lithium-sdk","mars-deimos","mars-phobos","stream-rename"]

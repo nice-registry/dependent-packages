@@ -1,1 +1,1 @@
-["beagle-heroku","redux-pouch"]
+["beagle-heroku","domain-driven-pouchdb-persistence-plugin","enviar","kazana-server","metadata-js","metadata-pouchdb","redux-pouch","wavy-api"]

@@ -1,1 +1,1 @@
-["babel-live","babel-plugin-dev-module-alias","bicycle-query-tester","insert-css-module","octo-release"]
+["babel-live","babel-plugin-dev-module-alias","babel-plugin-import-globals","babel-plugin-insert-css-module","babel-plugin-transform-bql","bicycle","bicycle-query-tester","digital-navy","email-auth","heroku-release","insert-css-module","moped-auth-github","moped-bicycle","moped-runtime","moped-scripts","octo-release","react-bicycle","run-on-ssh"]

@@ -1,1 +1,1 @@
-["grunt-template-progeny","jade-pages-brunch","styl-brunch","stylus-spritesmith-brunch"]
+["bs-systemjs-hot-reloader","grunt-template-progeny","gulp-progeny","jade-brunch","jade-pages-brunch","less-brunch","plain-jade-brunch","postcss-brunch","postcss-brunch-again","riot-brunch","sass-brunch","styl-brunch","stylus-brunch","stylus-spritesmith-brunch","umd-builder"]

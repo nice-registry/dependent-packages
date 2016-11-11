@@ -1,1 +1,1 @@
-["east-mysql","gypsi","ng-blueprint","steeplejack-errors"]
+["datautils","east-mysql","gypsi","mongoconnection","ng-blueprint","ng-page-title","osel-search","steeplejack","steeplejack-errors","ui-router.login"]

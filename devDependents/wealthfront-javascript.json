@@ -1,1 +1,1 @@
-["babel-plugin-rewire-es5","execution-environment","privatestate","sinon-sandbox","thea-js-sdk","thea-test-uploader","verify-engine"]
+["babel-plugin-rewire-es5","execution-environment","find-parent","git-common-ancestor","grunt-before-after-hooks","privatestate","rewire-global","scss-to-json","sinon-sandbox","thea-js-sdk","thea-test-uploader","verify-engine"]

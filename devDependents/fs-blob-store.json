@@ -1,1 +1,1 @@
-["express-transform"]
+["autocannon-storage","bb-feathers-blob","cloud-cache","express-transform","feathers-blob","feathers-blob-store","persistent-memoize","store-uploader"]

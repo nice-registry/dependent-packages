@@ -1,1 +1,1 @@
-["castor-load-xmlcorpus","epha-robot","istanbul-cobertura-badger"]
+["castor-load-xmlcorpus","epha-robot","grunt-coverage-badger","istanbul-cobertura-badger"]

@@ -1,1 +1,1 @@
-["assemble-indexer","expand-front-matter","template-toc"]
+["assemble-indexer","assemble-permalinks","assemble-select-files","composer","expand-front-matter","middleware-rename-file","template-toc"]

@@ -1,1 +1,1 @@
-["forkability","superagent-es6-promise","superagent-interface-promise"]
+["forkability","superagent-bluebird-promise","superagent-es6-promise","superagent-interface-promise","superagent-promise-headers"]

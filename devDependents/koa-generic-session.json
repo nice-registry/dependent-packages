@@ -1,1 +1,1 @@
-["koa-mongodb","koa-pg-session","koa-ws","siren-lusca"]
+["Mkoa-pg-session","co-wechat","koa-better-error-handler","koa-csrf","koa-graphql-next","koa-mongodb","koa-pg-session","koa-redis","koa-session-ioredis","koa-session-mongoose","koa-session-sequelize","koa-userauth","koa-ws","koa2-wechat","passport-openapi","siren-lusca"]

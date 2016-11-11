@@ -1,1 +1,1 @@
-["physical-ui","piswitch"]
+["7-segment","baked-in-a-pi-server","blinktjs","hmc5883l-pi","homebridge-gpio-128keaton","homebridge-gpio-wpi","iot-client","mpu6050-wiringpi","node-blinkt","physical-ui","pi-display","piswitch","pm2-socket.io","r6rs-async-io-wiring-pi","raspberry-outlet-sender","raspio","rpi-rgb","spi-hub","stepper-wiringpi","tingbot-node","wiring-pi-wrapper"]

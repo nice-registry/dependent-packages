@@ -1,1 +1,1 @@
-["icebreaker-rpc"]
+["icebreaker","icebreaker-rpc","interface-stream-muxer","pull-handshake","pull-server"]

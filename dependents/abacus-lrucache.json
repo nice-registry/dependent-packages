@@ -1,1 +1,1 @@
-["abacus-price-config","abacus-provisioning-stub"]
+["abacus-account-plugin","abacus-dataflow","abacus-dedupe","abacus-lrudown","abacus-metering-config","abacus-price-config","abacus-pricing-config","abacus-provisioning-plugin","abacus-provisioning-stub","abacus-rating-config","abacus-request","abacus-usage-analyzer","abacus-usage-collector","cf-abacus"]

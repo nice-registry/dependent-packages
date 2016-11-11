@@ -1,1 +1,1 @@
-["jstransformer-stylecow","stylecow-loader"]
+["grunt-stylecow","gulp-stylecow","jstransformer-stylecow","stylecow","stylecow-loader"]

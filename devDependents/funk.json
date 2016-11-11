@@ -1,1 +1,1 @@
-["connect-mongodb-autodestroy"]
+["connect-mongodb","connect-mongodb-autodestroy","joyentmongosession","node-backbone-couch"]

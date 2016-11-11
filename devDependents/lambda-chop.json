@@ -1,1 +1,1 @@
-["core.check","data.stream","dollphie","encoding.json","freebusy","io.filesystem","jumperskirt","mermaid-language","param-trie","specify-core","specify-dsl-bdd","text.pretty-printing"]
+["cajole","core.check","data.stream","dollphie","encoding.json","freebusy","hifive","io.filesystem","jumperskirt","macros.operators","mermaid-language","net.http-client","param-trie","specify-core","specify-dsl-bdd","text.pretty-printing","wrapper.express"]

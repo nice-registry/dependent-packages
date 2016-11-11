@@ -1,1 +1,1 @@
-["sm-log-exporter","sm-topline-stats","timestamp-grabber"]
+["apps-api","locket","maclogger","node-clock","oref0","sm-log-exporter","sm-topline-stats","streammachine","syncorm","timestamp-grabber","tzwhere"]

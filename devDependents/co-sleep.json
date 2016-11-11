@@ -1,1 +1,1 @@
-["array-generators","co-readable","co-urllib","ko-timeout","koa-errorhandler","ssdb"]
+["array-generators","co-readable","co-urllib","dispatch-all","egg-logger","ko-timeout","koa-errorhandler","koa-onerror","koa-roles","koa-signed-url","logen","mongoose-with-redis","ssdb"]

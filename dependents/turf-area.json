@@ -1,1 +1,1 @@
-["geojson-clip-polygon","geojson-derived-properties","worldpop"]
+["compare-geojson","geojson-clip-polygon","geojson-derived-properties","geojson-polygon-aggregate","max-inscribed-circle","sat-api-lib","simplepolygon","turf","worldpop"]

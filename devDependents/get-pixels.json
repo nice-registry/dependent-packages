@@ -1,1 +1,1 @@
-["block-models","grunt-unit-switch-spritesmith","rect-mip-map","vectorize-text"]
+["ball-morphology","block-models","canvas-to-pixels","dmcreator","gif-encoder","gifsockets","gifsockets-middleware","gifsockets-server","graycolorize","grunt-spritesmith","grunt-unit-switch-spritesmith","image-diff","image-diff-2","interactive-shader-format","lbp","load-wavefront-obj","luma.gl","mcmeta","phantomjs-pixel-server","posterize","quick-normal-map","rect-mip-map","save-pixels","se2-correlate","spritesmith","swint-builder-png","tile-mip-map","vectorize-text"]

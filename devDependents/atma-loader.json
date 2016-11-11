@@ -1,1 +1,1 @@
-["atma-loader-less","atma-loader-sass","atma-loader-traceur"]
+["atma-loader-babel","atma-loader-less","atma-loader-postcss","atma-loader-postmask","atma-loader-sass","atma-loader-traceur","atma-loader-yml"]

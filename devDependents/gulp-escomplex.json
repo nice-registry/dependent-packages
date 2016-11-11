@@ -1,1 +1,1 @@
-["db-engine","hapi-auth-jwt-request","hapi-jwt","http-db","koop-server"]
+["db-engine","gulp-escomplex-reporter-html","gulp-escomplex-reporter-json","hapi-auth-jwt-request","hapi-jwt","http-db","koop-server"]

@@ -1,1 +1,1 @@
-["hipchat-js-client"]
+["babelify","hipchat-js-client","protractor-helpers","wen-babelify","wenke-babelify"]

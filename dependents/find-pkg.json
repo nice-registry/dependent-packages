@@ -1,1 +1,1 @@
-["load-pkg"]
+["ava-jspm-loader","babel-plugin-component-resolver","babel-plugin-relative-import","base-app","base-cwd","base-test-suite","cwd","gulp-bundle-webtask","lint-deps","load-pkg","project-name","update"]

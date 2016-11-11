@@ -1,1 +1,1 @@
-["base-frame","blaster","cvdom","mercury-rx","sanitize-hs","vdom-versionify","virtual-form","virtual-markdown","virtual-webcomponent","vtag"]
+["base-frame","base-router","blaster","cvdom","hyperdom","hyperscript-helpers-opts","mercury","mercury-rx","nexilis","plastiq","remark-vdom","sanitize-hs","vdom-serialized-patch","vdom-versionify","vigour-element","vigour-player","virtual-form","virtual-jade","virtual-markdown","virtual-webcomponent","vtag"]

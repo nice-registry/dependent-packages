@@ -1,1 +1,1 @@
-["pouchdb-seamless-auth"]
+["pouchdb-auth","pouchdb-list","pouchdb-replicator","pouchdb-rewrite","pouchdb-seamless-auth","pouchdb-security","pouchdb-show","pouchdb-update","pouchdb-vhost"]

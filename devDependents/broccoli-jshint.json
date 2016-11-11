@@ -1,1 +1,1 @@
-["content-kit-utils","ember-cli-node-webkit","es6-promise-min"]
+["colossus","colossus-browser","content-kit-utils","ember-cli-node-webkit","ember-cli-nwjs","ember-qunit","ember-test-helpers","emblem","es6-promise-min","handlebars-serializer","htmlbars","mesosphere-manager-frontend","metis-layout","react-bb-broccoli"]

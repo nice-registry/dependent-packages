@@ -1,1 +1,1 @@
-["check-linked-deps","log-archive-s3"]
+["check-linked-deps","cuke-tap","fro","log-archive-s3","log-range-query","mtime-reduce","multiblob","pull-fs-meta","pull-vinyl","tacodb","tree-query"]

@@ -1,1 +1,1 @@
-["api-router","cat-mvc","grunt-vash","jstransformer-vash","lightmvc","thunderstone","vashify"]
+["api-router","cat-mvc","docpad-plugin-vash","grunt-vash","gulp-vash-static","hatchjs","jstransformer-vash","lightmvc","most-web-vash","rshtml-express","thunderstone","vash-adapter","vash-static","vashify"]

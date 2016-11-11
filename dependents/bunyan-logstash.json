@@ -1,1 +1,1 @@
-["bunyan-child","s3-connector"]
+["bunyan-child","bunyan-tooled","s3-connector","ut-log","vz-dockerino"]

@@ -1,1 +1,1 @@
-["cache-middleware","persist-request","pixijs-cli","rv-ember-server"]
+["backblaze-b2","cache-middleware","doop-cli","ldclient-node","persist-request","pixijs-cli","rv-ember-server","rv-ember-server-proxy"]

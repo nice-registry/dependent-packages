@@ -1,1 +1,1 @@
-["2lemetry","cassandra-orm","ueberdb"]
+["2lemetry","cassandra-helenus-api","cassandra-orm","cassandra-simple-orm","http-cache-cassandra","kvstore","lemonade","ueberdb"]

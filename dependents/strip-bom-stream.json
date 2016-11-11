@@ -1,1 +1,1 @@
-["strip-bom-cli","vinyl-file","vinyl-fs-browser"]
+["custom-file","gulp-read","gulp-storefile","refresh-vinyl-fs","strip-bom-cli","vinyl-file","vinyl-fs","vinyl-fs-browser"]

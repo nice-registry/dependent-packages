@@ -1,1 +1,1 @@
-["cycle-sse-driver","ngn-sse","simple-sse","sse-channel","ssejson","turbobreaker"]
+["apeman-app-sse","apeman-middleware-sse","apeman-ui","connect-sse","cycle-sse-driver","express-sse","hapi-rx-sse","hapi-sse-kafka","instantly","mediablast","ngn-sse","nwb","quik","react-server-sent-event-container","simple-sse","sse-channel","sse-pusher","ssejson","strong-remoting","strong-remotingnext","turbobreaker","wheelhouse-resource"]

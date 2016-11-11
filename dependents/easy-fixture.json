@@ -1,1 +1,1 @@
-["easy-postgresql-fixture","grunt-easy-mongo-fixture"]
+["easy-mongo-fixture","easy-postgresql-fixture","grunt-easy-mongo-fixture","grunt-easy-postgresql-fixture"]

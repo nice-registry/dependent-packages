@@ -1,1 +1,1 @@
-["abstract-peer-routing","abstract-record-store","interface-peer-routing"]
+["abstract-peer-routing","abstract-record-store","interface-connection","interface-peer-routing","interface-record-store"]

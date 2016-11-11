@@ -1,1 +1,1 @@
-["d-pac.cms","eda-curator","esrol-errors","express-responder","gypsi","model-magic","mongoose-model-magic","ournet.core","remjson","restful-keystone"]
+["api-common","cc-errors","d-pac.cms","dobox-kit","eda-curator","esrol-errors","esrol-router","express-responder","gypsi","inlay","json-schema-aopromise","model-magic","mongoose-model-magic","node-express-crud-router","ournet.core","remjson","restful-keystone","restful-keystone-onode","restful-keystone2","transvolve","wishapi"]

@@ -1,1 +1,1 @@
-["parallel-uglifyjs","recursive-uglifyjs"]
+["parallel-uglifyjs","recursive-cssmin","recursive-uglifyjs"]

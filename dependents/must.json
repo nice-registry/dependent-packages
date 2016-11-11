@@ -1,1 +1,1 @@
-["bootform","codeeval-runner","owski-arglist","owski-lens","owski-parse","owski-promise","powerstone","unit.js"]
+["bootform","codeeval-runner","kvasir","owski-arglist","owski-lens","owski-lists","owski-object","owski-parse","owski-primitives","owski-promise","perturb","powerstone","unit.js","urarse","webhdfs"]

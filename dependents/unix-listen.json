@@ -1,1 +1,1 @@
-["qb-http"]
+["architect-restify","architect-socket-server","qb-http"]

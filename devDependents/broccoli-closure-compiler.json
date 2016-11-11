@@ -1,1 +1,1 @@
-["es6-promise-min","rx-socket-subject"]
+["es6-promise-min","fm-rxjs-websocket","rx-socket-subject"]

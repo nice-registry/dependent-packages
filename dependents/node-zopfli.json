@@ -1,1 +1,1 @@
-["assetgraph-builder-esprima","assetgraph-builder-teepee","gulp-zopfli","shark-transformer-zopfli"]
+["assetgraph-builder","assetgraph-builder-esprima","assetgraph-builder-teepee","balmung","broccoli-zopfli","compression-webpack-plugin","grunt-contrib-zopfli","grunt-zopfli-native","gulp-zopfli","lzma-compression-webpack-plugin","shark-transformer-zopfli","shrink-ray","webpack-compress-plugin"]

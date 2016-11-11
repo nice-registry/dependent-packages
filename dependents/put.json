@@ -1,1 +1,1 @@
-["dbus-native","dbus-native-windows","dbus-promised","gearman-js","hoard","modbus-stack","pi-fast-gpio","simple-socks","tinyrender"]
+["binrpc","collectjs","dbus-native","dbus-native-windows","dbus-promised","gearman","gearman-js","hoard","hoarder","jsmodbus","keyx","led-matrix-sender","modbus-stack","node-modbus","node-red-contrib-nexnode","node-red-contrib-nexnode-azure","node-red-contrib-nexnode-cloud","node-red-contrib-nexnode-modbus","node-roc-stack","node-smb-server","obelisk-client","pi-fast-gpio","rfb","rtkapi","simple-socks","tinyrender"]

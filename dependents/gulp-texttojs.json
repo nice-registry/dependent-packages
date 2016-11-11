@@ -1,1 +1,1 @@
-["gulp-onejs-build"]
+["gulp-core-build-sass","gulp-core-build-typescript","gulp-onejs-build"]

@@ -1,1 +1,1 @@
-["css-minifiers","grunt-cssc","hexo-generator-minify"]
+["css-minifiers","grunt-cssc","gulp-css-condense","hexo-generator-minify","hexo-optimize"]

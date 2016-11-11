@@ -1,1 +1,1 @@
-["liferay-forms-ui-tests"]
+["liferay-forms-alloy-config","liferay-forms-ui-tests","liferay-karma-alloy-config","lithium-sdk"]

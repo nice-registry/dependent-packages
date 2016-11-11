@@ -1,1 +1,1 @@
-["schema-mapper-api","schema-mapper-store","x-client"]
+["mux-memo","nubs-cli","reconnect","schema-mapper-api","schema-mapper-store","x-client"]

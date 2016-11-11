@@ -1,1 +1,1 @@
-["atom-highlightsjs","atom-utils","basarat-text-buffer","last-mate","meteor-pathwatcher-tweaks","nuclide-text-buffer","pathwatcher-without-runas","text-buffer-nuclide"]
+["atom-highlightsjs","atom-keymap","atom-mocha-test-runner","atom-utils","basarat-text-buffer","first-mate","first-mate-async","last-mate","meteor-pathwatcher-tweaks","nuclide-text-buffer","pathwatcher","pathwatcher-without-runas","pps-keymap","saffron-editor","saffronapp","text-buffer","text-buffer-nuclide","wiggzz-first-mate"]

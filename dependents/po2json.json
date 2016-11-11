@@ -1,1 +1,1 @@
-["component-builder-jed","fxa-auth-mailer","gettext-loader","grunt-i18n-abide","jade-l10n","make-gettext","puttext"]
+["catbee-i18n-cli","component-builder-jed","fxa-auth-mailer","gettext-loader","gettext.js","glotpress2json","grunt-i18n-abide","grunt-po2json","grunt-po2json-remi","gulp-po2json","i18n-tools","jade-l10n","jedify","jspot","make-gettext","pcc-translation-webpack-plugin","puttext","react-intl-po","restackjs-cli","slot"]

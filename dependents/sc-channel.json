@@ -1,1 +1,1 @@
-["iocluster","sc-simple-broker"]
+["iocluster","sc-broker-cluster","sc-simple-broker","socketcluster-client"]

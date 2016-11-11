@@ -1,1 +1,1 @@
-["simple-map-server","tile-stat-stream","tilelive-composite","tilelive-local","tilelive-solid","tileserver"]
+["mapbox-geostats","mapbox-tile-copy","mapbox-upload-validate","mbtiles","nbtiles","simple-map-server","tile-stat-stream","tilejson","tilelive-arcgis","tilelive-blend","tilelive-composite","tilelive-foxgis","tilelive-local","tilelive-s3","tilelive-solid","tilelive-streaming","tilelive-vector","tileserver"]

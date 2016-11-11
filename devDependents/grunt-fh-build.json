@@ -1,1 +1,1 @@
-["cc-foo-bar"]
+["cc-foo-bar","fh-aaa-client","fh-amqp-js","fh-cachekey-client","fh-cluster","fh-component-metrics","fh-config","fh-dev-tools","fh-forms","fh-gridfs","fh-internal-stats","fh-logger","fh-mbaas-api","fh-mbaas-api-lcm","fh-mbaas-client","fh-mbaas-express","fh-mbaas-middleware","fh-messaging-client","fh-metrics-client","fh-millicore-client","fh-npm","fh-reportingclient","fh-security","fh-service-auth","fh-statsc","fh-streamer","fh-target-openshift3","sharepointconnector","sharepointer"]

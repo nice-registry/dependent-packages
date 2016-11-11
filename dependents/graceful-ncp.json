@@ -1,1 +1,1 @@
-["grunt-download-wcjs","grunt-ffmpeg-libs","grunt-vlc-libs","nw-builder-rtmp"]
+["cws-nw-builder","graceful-fs-extra","grunt-download-wcjs","grunt-ffmpeg-libs","grunt-vlc-libs","jalangi2","node-webkit-builder","nw-builder","nw-builder-rtmp","webkit-builder"]

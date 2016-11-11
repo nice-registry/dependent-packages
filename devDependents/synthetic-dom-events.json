@@ -1,1 +1,1 @@
-["add-event-handler","away","kdf-dom-event-delegator","kdf-dom-operations","kdf-view","mercury-rx","mouseenter","mouseleave"]
+["add-event-handler","away","dom-delegator","domy-events","filter-event","fire-native-event","fix-ev","frp-keyboard","grid-ui","html-delegator","kdf-dom-event-delegator","kdf-dom-operations","kdf-view","list-ui","mapbox-gl-draw","mercury","mercury-rx","middle-router","mouseenter","mouseleave","salvager","value-event","vdom-event-listener"]

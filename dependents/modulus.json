@@ -1,1 +1,1 @@
-["qa-deployer"]
+["continuous-deployment-modulus","grunt-modulus-deploy","qa-deployer"]

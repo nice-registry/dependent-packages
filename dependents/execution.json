@@ -1,1 +1,1 @@
-["gulp-adapter","task-cleancss","task-glob","task-jst","task-kmc","task-rev","task-writer","task-xtemplate"]
+["gulp-adapter","task-autoprefixer","task-clean","task-cleancss","task-coffee","task-combine","task-compass","task-copy","task-eslint","task-exec","task-glob","task-htmlminifier","task-jshint","task-jst","task-karma","task-kmc","task-less","task-open","task-reader","task-replace","task-request","task-requirejs","task-rev","task-shell","task-svgo","task-uglifyjs","task-writer","task-xtemplate"]

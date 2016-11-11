@@ -1,1 +1,1 @@
-["dynamodb-migrate","dynamodb-q","node-red-node-ddb","versions-as-a-service"]
+["aws-test-utils","balihoo-fulfillment-worker","chronos-consumer-utils","dynamodb-migrate","dynamodb-q","dynograte","lojects-dynamodb","node-red-contrib-dynamodb-scan","node-red-node-ddb","versions-as-a-service"]

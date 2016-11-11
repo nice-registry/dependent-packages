@@ -1,1 +1,1 @@
-["es6-lib","gulp-instant-mocha"]
+["es6-lib","gulp-instant-mocha","gulp-modern-tasks","gulp-pipeline","indexdotco-js","queryloader2","sleepwalker-gulp-bootstrap","webreflected-utils"]

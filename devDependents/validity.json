@@ -1,1 +1,1 @@
-["crud-service","validity-or-validator","validity-validate-each","validity-validate-if-property-in","validity-validation-group"]
+["cf-crud-service-api-builder","cf-signpost","crud-service","crud-subservice","schemata","validation-stream","validity-or-validator","validity-validate-each","validity-validate-if-property-equals","validity-validate-if-property-in","validity-validate-if-property-set","validity-validate-if-set","validity-validation-group"]

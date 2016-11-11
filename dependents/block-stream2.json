@@ -1,1 +1,1 @@
-["append-only-torrent","idb-blob-store"]
+["append-only-torrent","chunk-store-stream","create-raidtorrent","create-torrent","idb-blob-store","minio","t2-cli","udp-messenger"]

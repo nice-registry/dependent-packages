@@ -1,1 +1,1 @@
-["kafkasauce"]
+["bunyan-nokafka","ebb-core","hapi-sse-kafka","hiot-kafka","kafka-proxy","kafka-queue","kafkasauce","kbus","log4js-logstash-kafka","rx-no-kafka"]

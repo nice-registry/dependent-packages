@@ -1,1 +1,1 @@
-["expand-task","grunt-workflow-hooks","tweetstorm"]
+["expand-target","expand-task","grunt-workflow-hooks","scaffold","tweetstorm"]

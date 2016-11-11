@@ -1,1 +1,1 @@
-["tap-consumer","tap-producer","tap-runner"]
+["jetrunner","tap-consumer","tap-global-harness","tap-harness","tap-producer","tap-runner","tap-test"]

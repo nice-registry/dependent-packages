@@ -1,1 +1,1 @@
-["async-require","express-composer"]
+["async-require","express-composer","express-status","jsvat"]

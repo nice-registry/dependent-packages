@@ -1,1 +1,1 @@
-["mongo-wrapper"]
+["avocado-api","mongo-wrapper","node-elasticsearch"]

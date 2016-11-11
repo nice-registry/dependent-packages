@@ -1,1 +1,1 @@
-["browserify-window-context","caseify","find-main","get-package","jshint-growl","npm-scripts","yoloader"]
+["browserify-assets","browserify-shim","browserify-window-context","caseify","confify","find-main","get-package","jshint-growl","npm-scripts","replpad","require-injector","yoloader"]

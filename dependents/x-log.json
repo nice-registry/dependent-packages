@@ -1,1 +1,1 @@
-["x-callback","x-dom","x-middleware-composite","x-middleware-log","x-proxy","x-requests","x-select","x-server-clusterize","x-server-heapdump","x-server-monitor","x-servers","x-templates","x-xui"]
+["x-callback","x-dom","x-format","x-middleware-composite","x-middleware-log","x-proxy","x-requests","x-select","x-server-clusterize","x-server-heapdump","x-server-monitor","x-servers","x-templates","x-xui"]

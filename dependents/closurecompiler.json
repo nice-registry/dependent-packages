@@ -1,1 +1,1 @@
-["broccoli-closure-compiler","gulp-closure","gulp-closurecompiler","roosevelt-closure","springbokjs-base"]
+["apeman-task-closurecompiler","broccoli-closure-compiler","grunt-closurecompiler","gulp-closure","gulp-closurecompiler","metaphorjs-build","roosevelt-closure","springbokjs-base"]

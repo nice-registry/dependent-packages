@@ -1,1 +1,1 @@
-["faction-service-events","feathers-sync","mongo-mq","primus-mongodb","socket.io-adapter-mongo","socket.io-mongo","socket.io-mongodb-emitter"]
+["faction-service-events","feathers-sync","loopback-connector-mubsub","mong.socket.io","mongo-mq","primus-mongodb","simpleio","socket.io-adapter-mongo","socket.io-adapter-mongo-replica","socket.io-mongo","socket.io-mongodb","socket.io-mongodb-emitter","ss-mubsub"]

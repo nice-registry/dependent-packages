@@ -1,1 +1,1 @@
-["esformatter-rename","fs-memory-store"]
+["esformatter-rename","fixed-server","fs-memory-store","request-redis-cache"]

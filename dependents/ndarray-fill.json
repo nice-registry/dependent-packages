@@ -1,1 +1,1 @@
-["crunch-js","dot-product-ndarray","gof-gpu","ndarray-awise-prototype","ndarray-function-basis","ndarray-householder-qr","ndarray-vandermonde","ndsamples-generate","node-audio-rms"]
+["benchmark.gl-benchmarks","cave-automata-2d","column-mesh","crunch-js","dot-product-ndarray","gof-gpu","implicit-mesh","ndarray-awise-prototype","ndarray-bundle","ndarray-freqz","ndarray-function-basis","ndarray-householder-qr","ndarray-linspace","ndarray-vandermonde","ndsamples-generate","node-audio-rms","pixelsmith","plotly.js","scene-client","voxel-2d-print"]

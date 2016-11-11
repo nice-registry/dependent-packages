@@ -1,1 +1,1 @@
-["rdf-ext-dist-builder","rdf-mime-type-util","rdf-parser-n3-browser","rdf-store-fs","rdf-test-data"]
+["ld2h","rdf-ext-dist-builder","rdf-formats-common","rdf-mime-type-util","rdf-parser-n3-browser","rdf-store-fs","rdf-store-sparql","rdf-test-data","rdf2h"]

@@ -1,1 +1,1 @@
-["wait-for-redis"]
+["durations","hrstopwatch","log-a-log","sql-query-runner","wait-for-cassandra","wait-for-redis"]

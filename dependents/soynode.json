@@ -1,1 +1,1 @@
-["soy-loader"]
+["connect-soy","gulp-soynode","matador","pbnj","rode","soy-loader","soy-template-loader","soyset","torero"]

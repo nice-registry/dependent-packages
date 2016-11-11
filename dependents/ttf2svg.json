@@ -1,1 +1,1 @@
-["font-cutter","grunt-embedfont"]
+["font-carrier","font-cutter","fontfacegen","google-fonts-manager","grunt-embedfont"]

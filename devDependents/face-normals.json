@@ -1,1 +1,1 @@
-["extrude","generator-webgl"]
+["display-tree","extrude","generator-webgl","gl-geometry","parse-pc2","scene-tree"]

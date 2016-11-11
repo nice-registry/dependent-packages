@@ -1,1 +1,1 @@
-["gulp-lego","gulp-ryspm","gulp-spm","gulp-transport"]
+["aliyun-egg","egg-knex","egg-leancloud","egg-mysql","gulp-lego","gulp-ryspm","gulp-spm","gulp-transport","gulp-ystamp","socket-emitter"]

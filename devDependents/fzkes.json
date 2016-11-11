@@ -1,1 +1,1 @@
-["fajax","karma-jsx","promise-helpers"]
+["css-resolve-import","express-node_modules","fajax","http-test-helper","karma-jsx","karma-react-jsx-preprocessor","karma-react-jsx-preprocessor-custom","minifier","promise-helpers"]

@@ -1,1 +1,1 @@
-["crafity-core","crafity-filesystem","crafity-imageinfo","crafity-storage"]
+["crafity-config","crafity-core","crafity-everyauth","crafity-filesystem","crafity-gzip","crafity-http","crafity-http-jade","crafity-imageinfo","crafity-logging","crafity-mailer","crafity-nodemanager","crafity-process","crafity-resources","crafity-storage","crafity-templates","crafity-types","crafity-webserver"]

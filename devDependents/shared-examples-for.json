@@ -1,1 +1,1 @@
-["grunt-sequelize","grunt-sequelize-migrations"]
+["grunt-sequelize","grunt-sequelize-migrations","mappersmith"]

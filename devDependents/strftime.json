@@ -1,1 +1,1 @@
-["cgrpc","mission-control"]
+["cartodb-redis","cgrpc","fast-strftime","hyperlog-calendar-index","isomer","mission-control","parse-messy-schedule","parse-messy-time"]

@@ -1,1 +1,1 @@
-["cjs-to-es6"]
+["cjs-to-es6","ember-validator-shim","ember-z-schema"]

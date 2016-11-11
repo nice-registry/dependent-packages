@@ -1,1 +1,1 @@
-["hw-logger"]
+["hw-error","hw-logger","hw-redis-ohm"]

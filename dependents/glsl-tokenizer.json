@@ -1,1 +1,1 @@
-["glsl-extract","glsl-inject-defines","glsl-parser","glsl-shader-name","glsl-token-defines","glslify-bundle","glslify-detective","glslify-fancy-imports","glslify-import","glslify-stream","tamarind"]
+["gl","gl-engine","glsl-exports","glsl-extract","glsl-inject-defines","glsl-parser","glsl-shader-name","glsl-strip-comments","glsl-testify","glsl-token-defines","glsl-transition-minify","glsl-transpiler","glslify-bundle","glslify-deps","glslify-detective","glslify-fancy-imports","glslify-import","glslify-stream","glslmin","kindred-shader-formatter","programify","tamarind"]

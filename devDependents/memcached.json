@@ -1,1 +1,1 @@
-["dynamis","hipache","hipache-raft","mcclient","mmtrix","nodetime","oneapm-cheniu","pantry","simplecouch"]
+["couchcache","dynamis","express-throttle-memcached","hipache","hipache-raft","mcclient","memcache-server-stream","memcached-multiplex","memoize-promise-memcached","mmtrix","nodejs.jsx","nodetime","nodetime047","oneapm","oneapm-cheniu","pantry","sequelize-cacher","simplecouch","tml-express","tml-server","traceview","uber-cache-memcached","zipkin-instrumentation-memcached"]

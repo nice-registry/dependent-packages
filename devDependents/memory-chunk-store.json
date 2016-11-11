@@ -1,1 +1,1 @@
-["abstract-chunk-transport","chunk-store-multi-get","hex-dump"]
+["abstract-chunk-transport","cache-chunk-store","chunk-store-multi-get","chunk-store-stream","hex-dump","immediate-chunk-store","osm-p2p-geojson"]

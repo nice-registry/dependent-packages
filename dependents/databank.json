@@ -1,1 +1,1 @@
-["pump.io-client-app"]
+["connect-databank","databank-leveldb","databank-lrucache","databank-memcached","databank-mongodb","databank-redis","dialback-client","fuzzy.ai-microservice","fuzzy.io-microservice","pump.io-client-app","scarab"]

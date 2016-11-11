@@ -1,1 +1,1 @@
-["adapter-filters","checkstyle-formatter","crmfetchkit","eslint-browserify","eslint-jenkins","hackmyapi","hackmycore","infosms","odb2graphml","pencil-mustache","z2g","zstreams-xml-writer"]
+["adapter-filters","checkstyle-formatter","cr2checkstyle","crmfetchkit","ep_xmlexport","eslint-browserify","eslint-jenkins","fluentcv","hackmyapi","hackmycore","hackmyresume","infosms","jira-todo","odb2graphml","ooxml-signature-pages","pencil-mustache","smartsms","strxml","tc-cli","vcremote-lib","z2g","zstreams-xml-writer"]

@@ -1,1 +1,1 @@
-["angular2-meteor-client","jquery-widget-compiler","spacebars-loader"]
+["angular2-meteor-client","jquery-widget-compiler","meteor-blaze","meteor-blaze-tools","meteor-client","meteor-observe-sequence","meteor-spacebars","meteor-spacebars-compiler","spacebars-compiler","spacebars-loader"]

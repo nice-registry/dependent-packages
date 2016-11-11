@@ -1,1 +1,1 @@
-["grunt-bump-pom"]
+["grunt-bump-nexus","grunt-bump-pom"]

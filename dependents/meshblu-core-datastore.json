@@ -1,1 +1,1 @@
-["meshblu-core-datastore-device"]
+["meshblu-core-datastore-device","meshblu-core-manager-root-token","meshblu-core-manager-token","meshblu-core-task-get-device","meshblu-core-task-revoke-all-tokens","nanocyte-configuration-saver-redis","nanocyte-flow-deploy-service","nanocyte-iot-app-service"]

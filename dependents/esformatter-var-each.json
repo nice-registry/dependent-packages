@@ -1,1 +1,1 @@
-["ajsfmt","devstack-tools","embedit-devstack-tools","fecs-repair","fuck-style-check","ripple-format","uber-standard-format"]
+["ajsfmt","devstack-tools","embedit-devstack-tools","fecs","fecs-repair","fuck-style-check","jsfmt","lookly-preset-esformatter","mongodb-js-fmt","mongodb-js-precommit","ripple-format","uber-standard-format","vscode-esformatter"]

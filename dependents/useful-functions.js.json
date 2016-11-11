@@ -1,1 +1,1 @@
-["database-utils"]
+["configuration.js","database-utils","express-json-rpc"]

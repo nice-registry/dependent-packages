@@ -1,1 +1,1 @@
-["isotropy-module-static"]
+["isotropy-adapter-webapp","isotropy-adapter-webapp-browser","isotropy-adapter-webapp-in-dom","isotropy-module-static","isotropy-plugin-graphql","isotropy-plugin-react","isotropy-plugin-react-relay","isotropy-plugin-webapp","isotropy-router"]

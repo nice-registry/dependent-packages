@@ -1,1 +1,1 @@
-["angular-gettext-cli","angular-gettext-loader"]
+["angular-gettext-cli","angular-gettext-extract-loader","angular-gettext-loader","cumulocity-tools","grunt-angular-gettext","grunt-angular-gettext-message","grunt-angular-gettext-studygps","gulp-angular-gettext","pojson","webpack-angular-gettext"]

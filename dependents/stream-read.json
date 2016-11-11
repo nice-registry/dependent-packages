@@ -1,1 +1,1 @@
-["orderable","phantomjs-stream"]
+["co-read","electron-stream","mongoose-gridfs","orderable","phantomjs-stream"]

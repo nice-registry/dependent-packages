@@ -1,1 +1,1 @@
-["grunt-ipfs"]
+["beaker-plugin-ipfs","grunt-ipfs","ipfs-daemon","ipscend","node-ipfs-mirror"]

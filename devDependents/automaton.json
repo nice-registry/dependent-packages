@@ -1,1 +1,1 @@
-["autofile-cp","autofile-mv"]
+["autofile-chmod","autofile-cp","autofile-download","autofile-init","autofile-mkdir","autofile-mv","autofile-rm","autofile-run","autofile-scaffolding-append","autofile-scaffolding-close","autofile-scaffolding-file-rename","autofile-scaffolding-replace","autofile-symlink","node-webkit-builds"]

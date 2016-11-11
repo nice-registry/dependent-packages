@@ -1,1 +1,1 @@
-["seed-forge"]
+["seed-filestore","seed-forge","seed-mongodb","seed-redis","seed-riak"]

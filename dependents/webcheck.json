@@ -1,1 +1,1 @@
-["webcheck-to-string","webcheck-wait"]
+["webcheck-cheerio","webcheck-crawl-once","webcheck-follow","webcheck-mirror","webcheck-plugin-group","webcheck-robots","webcheck-to-string","webcheck-wait"]

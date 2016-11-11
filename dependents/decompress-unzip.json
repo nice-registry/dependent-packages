@@ -1,1 +1,1 @@
-["adapt-setup","native-boost","native-opencv"]
+["adapt-setup","decompress","native-boost","native-opencv","nobook-render-factory","pixvector"]

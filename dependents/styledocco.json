@@ -1,1 +1,1 @@
-["grunt-styleguide","utility.css"]
+["grunt-styledocco","grunt-styleguide","utility.css"]

@@ -1,1 +1,1 @@
-["virtual-select"]
+["bunyan-nokafka","bunyan-streams-parser","cached-rethinkdb","virtual-select"]

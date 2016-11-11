@@ -1,1 +1,1 @@
-["koa-trie-router"]
+["koa-joi-router","koa-trie-router","trie-koa-router"]

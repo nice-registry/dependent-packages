@@ -1,1 +1,1 @@
-["carcass-config","carcass-program"]
+["carcass-auth","carcass-config","carcass-couch","carcass-monitor","carcass-program","carcass-stripe"]

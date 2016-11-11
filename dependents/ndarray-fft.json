@@ -1,1 +1,1 @@
-["audio-analyser","detect-pitch","ndarray-convolve","ndarray-downsample2x","ndarray-gaussian-filter","ndarray-resample","ndarray-translate-fft","phase-align","poly-mult-fft"]
+["audio-analyser","detect-pitch","frequency-viewer","ndarray-bundle","ndarray-convolve","ndarray-downsample2x","ndarray-gaussian-filter","ndarray-resample","ndarray-translate-fft","ndsamples-frequencies","num4js","numjs","orientation-scores","phase-align","poly-mult-fft","se2-correlate","sillyscope","stft"]

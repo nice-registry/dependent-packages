@@ -1,1 +1,1 @@
-["infolis-schema","infolis-web","metalsmith-watcher","react-image-publisher","react-openpublish-doc","react-openpublish-iframe","react-published-images-list"]
+["bower-license-webpack-plugin","browser-express","hash.subscribe","infolis-schema","infolis-web","license-webpack-plugin","metalsmith-watcher","mongoose-jsonld","react-image-publisher","react-openpublish-doc","react-openpublish-iframe","react-published-images-list","rotorjs","shapedom","slugify-files","tap-spec","three-file-island","tson","underpromise","vim2html","wsabi-client-bacon"]

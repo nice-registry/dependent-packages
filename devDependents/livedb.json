@@ -1,1 +1,1 @@
-["livedb-knex","livedb-mongo-memory","livedb-rethink","racer-store-hooks","share-ace","share-ace-rethinkdb","share-codemirror","share-js-stream","share-primus"]
+["derby-user","livedb-dynamodb","livedb-knex","livedb-mongo","livedb-mongo-memory","livedb-rethink","racer-store-hooks","share-ace","share-ace-rethinkdb","share-codemirror","share-js-stream","share-primus"]

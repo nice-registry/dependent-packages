@@ -1,1 +1,1 @@
-["file-register","param-injection"]
+["file-register","loopback-connector-couchdb","loopback-extended-lib","micro-mockers","param-injection"]

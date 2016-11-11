@@ -1,1 +1,1 @@
-["messenger-ws"]
+["http-stream","messenger-ws","pull-sse","pull-ws"]

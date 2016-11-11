@@ -1,1 +1,1 @@
-["cloudinary-uploader","hapi-cloudinary-connector"]
+["cloudinary-uploader","hapi-cloudinary-connector","multer-storage-cloudinary","react-slack-feedback"]

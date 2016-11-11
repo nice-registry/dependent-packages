@@ -1,1 +1,1 @@
-["metalsmith-sense","mimosa-copy-all"]
+["koa-load-routes","metalsmith-sense","mimosa-copy-all","sequelize-models"]

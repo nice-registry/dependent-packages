@@ -1,1 +1,1 @@
-["grunt-heroku-build-api"]
+["app-cloner-heroku","app-profiler-heroku","grunt-heroku-build-api"]

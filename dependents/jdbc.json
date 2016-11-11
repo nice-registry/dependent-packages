@@ -1,1 +1,1 @@
-["ibm-bigsql","node-jdbc-api","node-sybasease-api","node-vertica-api"]
+["any-db-jdbc","ibm-bigsql","most-data-h2","node-jdbc-api","node-red-node-gaiandb","node-sybasease-api","node-vertica-api","sails-derby","teradata","weaver-connector-virtuoso"]

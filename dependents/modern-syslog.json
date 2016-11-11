@@ -1,1 +1,1 @@
-["haraka-content-scanning-server","simple-log"]
+["Haraka","filog","haraka-content-scanning-server","node-wrapper","simple-log","ssi-logger","strong-supervisor","winston-modern-syslog"]

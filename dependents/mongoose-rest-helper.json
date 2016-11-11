@@ -1,1 +1,1 @@
-["hapi-identity-store","hapi-routes-notifications","hapi-store-accounts","hapi-store-notifications","hapi-user-store-multi-tenant","mongoose-oauth-store-multi-tenant","mongoose-user-store-multi-tenant"]
+["hapi-identity-store","hapi-routes-notifications","hapi-store-accounts","hapi-store-notifications","hapi-user-store-multi-tenant","mongoose-identity-store-multi-tenant","mongoose-oauth-store-multi-tenant","mongoose-user-store-multi-tenant"]

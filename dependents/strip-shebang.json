@@ -1,1 +1,1 @@
-["grunt-strip-shebang","gulp-strip-shebang"]
+["grunt-strip-shebang","gulp-strip-shebang","module-calls"]

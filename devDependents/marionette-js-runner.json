@@ -1,1 +1,1 @@
-["fxos-button","fxos-checkbox","fxos-dialog","fxos-header","fxos-sub-header","fxos-text-input","fxos-toast","marionette-device-host","marionette-file-manager","marionette-firefox-host"]
+["fxos-button","fxos-checkbox","fxos-dialog","fxos-header","fxos-sub-header","fxos-text-input","fxos-toast","marionette-content-script","marionette-debug","marionette-device-host","marionette-file-manager","marionette-firefox-host","marionette-hardware","marionette-settings-api"]

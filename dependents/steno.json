@@ -1,1 +1,1 @@
-["bjson","eosdb","jodb","lodb","low-file-sync","yamlop"]
+["bjson","eosdb","jodb","jsop","lightningdb","lodb","low-file-sync","mistdb","nef-fs","node-flat-db","yamlop"]

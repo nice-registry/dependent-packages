@@ -1,1 +1,1 @@
-["grunt-tomcat-developer"]
+["commonlog-bunyan","grunt-tomcat-developer","log2slack"]

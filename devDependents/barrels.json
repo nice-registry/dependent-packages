@@ -1,1 +1,1 @@
-["sails-hook-sqlize"]
+["quirkbot-data-api","sails-hook-authorization","sails-hook-jsonapi","sails-hook-sqlize"]

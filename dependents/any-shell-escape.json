@@ -1,1 +1,1 @@
-["grunt-behat-wrapper","grunt-bundle-wrapper","gulp-git-deploy","gulp-taggit","gulp-tatami-git"]
+["grunt-behat-wrapper","grunt-bundle-wrapper","gulp-git","gulp-git-deploy","gulp-git-workingclone","gulp-go-tools","gulp-hg","gulp-taggit","gulp-tatami-git","meanie","mgj-eslint","mogu-eslint","shell-escape-tag","slow-deps","slow-deps-tnpm"]

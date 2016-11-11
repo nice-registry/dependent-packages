@@ -1,1 +1,1 @@
-["apc-pdu-snmp","tellki-network-check-snmp-monitor","tellki-probe-discover-monitor","tellki-snmp-monitor"]
+["apc-pdu-snmp","apc-ups-snmp","domotz-remote-pawn","homebridge-digipower-pdu","little-brother-dcim-agent","monitt_agent","node-red-node-snmp","sensorjs-futuretek","tellki-network-check-snmp-monitor","tellki-probe-discover-monitor","tellki-snmp-monitor"]

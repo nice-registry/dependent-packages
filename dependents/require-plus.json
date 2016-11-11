@@ -1,1 +1,1 @@
-["hapi-loader"]
+["hapi-json-schema","hapi-loader","yajsv"]

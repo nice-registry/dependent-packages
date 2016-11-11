@@ -1,1 +1,1 @@
-["min-server"]
+["min-angular","min-babel","min-karma","min-karma-webpack","min-server","min-webpack"]

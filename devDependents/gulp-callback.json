@@ -1,1 +1,1 @@
-["all-colors","beacon-core","beacon-js-error-parser","eslint-beacon","gulp-babel-beacon","json-vision","scaffront"]
+["all-colors","babel-plugin-decorator-metadata","babel-plugin-immutable-record","babel-plugin-type-metadata","babel-plugin-workframe","beacon-core","beacon-js-error-parser","dromedary-serverless","eslint-beacon","gearworks","gulp-babel-beacon","json-vision","scaffront","spaceman"]

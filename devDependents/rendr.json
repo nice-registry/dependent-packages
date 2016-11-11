@@ -1,1 +1,1 @@
-["grunt-rendr-requirejs"]
+["grunt-multibundle-requirejs","grunt-rendr-requirejs","multibundle"]

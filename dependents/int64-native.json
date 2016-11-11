@@ -1,1 +1,1 @@
-["jsr-rdb","ntfs"]
+["ibmi","jsr-rdb","node-avro-io","nsq-client","ntfs","nx-parser","rdb-tools","redis-array"]

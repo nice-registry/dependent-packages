@@ -1,1 +1,1 @@
-["gf-zipkin","zipkin-middleware"]
+["express-zipkin","gf-zipkin","zipkin-middleware"]

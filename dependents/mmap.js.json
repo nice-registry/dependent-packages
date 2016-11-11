@@ -1,1 +1,1 @@
-["heap.js","jit.js","mmap-stream","wasm-jit"]
+["backing","heap.js","jit.js","mmap-kit","mmap-stream","node-hgt","wasm-jit"]

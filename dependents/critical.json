@@ -1,1 +1,1 @@
-["broccoli-critical"]
+["broccoli-critical","grunt-critical","gulp-armadillo","moff-cli","opticache"]

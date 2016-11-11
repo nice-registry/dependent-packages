@@ -1,1 +1,1 @@
-["koa-pg-session","node-stores"]
+["Mkoa-pg-session","es-migrate","kirjato","koa-pg","koa-pg-session","node-stores","pg.mayflower"]

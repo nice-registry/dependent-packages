@@ -1,1 +1,1 @@
-["nodalion-amqp","nodalion-http","nodalion-redis"]
+["nodalion-amqp","nodalion-http","nodalion-mongo","nodalion-objstore","nodalion-redis"]

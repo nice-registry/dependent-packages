@@ -1,1 +1,1 @@
-["babel-plugin-auto-symbol-description"]
+["babel-plugin-auto-symbol-description","babel-plugin-remove-symbol-description","eslint-plugin-sort-requires","react-click-outside"]

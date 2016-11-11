@@ -1,1 +1,1 @@
-["excess","generator-ats-node-webapp","no-boilerplate-passport"]
+["excess","generator-ats-node-webapp","kuzzle-plugin-auth-passport-oauth","no-boilerplate-passport","organic-express-passport","toubkal","zombie-passport-twitter"]

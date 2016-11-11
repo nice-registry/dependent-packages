@@ -1,1 +1,1 @@
-["request-callback-wrapper"]
+["generic-callback","generic-sequelize-errors","prequelize","request-callback-wrapper"]

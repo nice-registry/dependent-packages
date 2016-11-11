@@ -1,1 +1,1 @@
-["end2end-wd-runner","fixtures-fs","jshint-brunch","stylint-brunch","uncaught-exception"]
+["broccoli-template-builder","end2end-wd-runner","es6-module-transpiler","fixtures-fs","gulp-less-changed","jshint-brunch","node-puma-dev","scripted","skylark-tools","stormpath","stylint-brunch","uncaught-exception"]

@@ -1,1 +1,1 @@
-["is-path-in-cwd"]
+["generator-arc","is-global-exec","is-path-global","is-path-in-cwd","taskcluster-vcs","tmpgen"]

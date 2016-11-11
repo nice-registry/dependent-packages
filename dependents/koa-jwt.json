@@ -1,1 +1,1 @@
-["kronos-service-manager-admin"]
+["ct-oauth-plugin","egg-jwt","koa-jwt-mongo","kronos-service-manager-admin","mu-koan","muffin","plu","presence-tracker","sagitta","sonido"]

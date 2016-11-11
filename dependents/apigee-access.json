@@ -1,1 +1,1 @@
-["express-session-apigee-cache"]
+["express-session-apigee-cache","microgateway-edgeauth","nucleus-security-factory","nucleus-utils","volos-cache-apigee","volos-oauth-apigee","volos-quota-apigee"]

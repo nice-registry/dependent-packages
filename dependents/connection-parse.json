@@ -1,1 +1,1 @@
-["memcached-lite","redis-lite"]
+["hashring","memcached-lite","redis-lite"]

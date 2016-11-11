@@ -1,1 +1,1 @@
-["fontpath-canvas","fontpath-gl","fontpath-renderer"]
+["fontpath-canvas","fontpath-gl","fontpath-renderer","fontpath-shape2d","shape2d-triangulate"]

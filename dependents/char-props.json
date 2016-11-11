@@ -1,1 +1,1 @@
-["raptor-templates","require-sugar"]
+["marko","raptor-templates","require-sugar","source-map-index-generator"]

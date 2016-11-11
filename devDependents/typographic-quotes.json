@@ -1,1 +1,1 @@
-["frontmatter-loader","posthtml-textr","textr-loader"]
+["frontmatter-loader","grunt-textr","gulp-textr","posthtml-textr","remark-textr","textr-cli","textr-loader","typographic-markdown"]

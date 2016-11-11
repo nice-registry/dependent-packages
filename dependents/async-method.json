@@ -1,1 +1,1 @@
-["ee-orm","facr","mysql-tools","pg-tools","related-nested-set","restful-api-client"]
+["ee-orm","ee-soa-permissions","facr","mysql-tools","pg-tools","related","related-nested-set","request-rate-limiter","restful-api-client"]

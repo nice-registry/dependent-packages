@@ -1,1 +1,1 @@
-["atomic-queue","consul-event-cache","consul-kv-cache","daff-stream","hyperemitter","hyperkv-server","hyperswarm","mqemitter-p2p"]
+["atomic-queue","consul-event-cache","consul-kv-cache","cookie-auth","daff-stream","dat-list","dat-ls","dat-ping","exandria","gridcontrol","hyper-string","hypercore-create-stream","hypercore-dag","hypercore-stream","hyperdrive-inception","hyperdrive-nested-archive","hyperemitter","hyperfeed","hyperkv-server","hypermirror","hyperpad","hyperswarm","mqemitter-p2p","peer-robot"]

@@ -1,1 +1,1 @@
-["grunt-google-tts","grunt-words-and-hyphens","words-and-hyphens"]
+["grunt-google-tts","grunt-words-and-hyphens","metalsmith-hyphenate","words-and-hyphens"]

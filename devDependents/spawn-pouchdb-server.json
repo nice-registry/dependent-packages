@@ -1,1 +1,1 @@
-["hapi-couchdb-account","hoodie-standalone-account"]
+["coinstac-common","couch-node","grunt-couchdb","hapi-couchdb-account","hoodie-standalone-account","pouchy"]

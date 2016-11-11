@@ -1,1 +1,1 @@
-["awsbox","ec2tail"]
+["aws-billing","awsbox","ec2tail","get-iam-creds","outer_realm_hosting"]

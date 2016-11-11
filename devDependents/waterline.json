@@ -1,1 +1,1 @@
-["sails-hook-audittrail","waterline-orientdb","waterline-rabbitmq-simple","waterline-sqlserver"]
+["datish","dogwater","feathers-waterline","graysql-orm-loader-waterline","haute-couture","image-model-storage","sails-cassandra","sails-hook-audittrail","sails-hook-serializer","sails-orientdb","sails-sparql","voodoo-waterline-postgres","waterline-jsonapi","waterline-leancloud","waterline-lighter","waterline-mssql","waterline-orientdb","waterline-paginator","waterline-rabbitmq-simple","waterline-sqlserver","waterline-to-boom","webot-chat-wall"]

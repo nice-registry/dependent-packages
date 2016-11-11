@@ -1,1 +1,1 @@
-["docker-ci","grunt-opsworks-deploy","moment-countdown"]
+["backup2","countdown-component","docker-ci","grunt-opsworks-deploy","moment-countdown","node-countdown","recurrent"]

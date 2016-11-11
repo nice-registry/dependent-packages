@@ -1,1 +1,1 @@
-["gulpplug"]
+["gulp-gray-matter","gulp-static-site-generator","gulp-watchify-browserify","gulpplug","requirements-mapper"]

@@ -1,1 +1,1 @@
-["broccoli-svg-sprite","gulp-svg-sprite-plus","leaflet-measure-locale","svg-sprite-sacha"]
+["broccoli-svg-sprite","d3-node","grunt-svg-sprite","gulp-svg-sprite","gulp-svg-sprite-plus","leaflet-measure","leaflet-measure-locale","leaflet-minimap","simplyimport","svg-diff","svg-sprite","svg-sprite-data","svg-sprite-sacha"]

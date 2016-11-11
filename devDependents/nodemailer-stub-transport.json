@@ -1,1 +1,1 @@
-["hapi-mailer","in2-webhooks-js","lockit","lockit-forgot-password","lockit-sendmail","lockit-signup","upmon-mail"]
+["alinex-mail","feathers-mailer","hapi-mailer","hobs-registry","in2-webhooks-js","local-email-verification","lockit","lockit-forgot-password","lockit-sendmail","lockit-signup","machinepack-email","nodemailer-any-promise","nodemailer-cli","nodemailer-express-handlebars","pomo-mailer","positron","posto","upmon-mail","we-plugin-email","winston-email"]

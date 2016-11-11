@@ -1,1 +1,1 @@
-["atomic-plugin","grunt-atomizer"]
+["atomic-loader","atomic-plugin","babel-plugin-atomizer","grunt-atomizer","gulp-atomizer","webpack-atomizer-loader"]

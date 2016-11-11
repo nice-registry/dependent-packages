@@ -1,1 +1,1 @@
-["grunt-emanate-copy"]
+["grunt-contrib-copy-force","grunt-dj-rename","grunt-emanate-copy","grunt-vegas-assets-copy","gulp-pipeline"]

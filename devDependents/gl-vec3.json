@@ -1,1 +1,1 @@
-["camera-picking-ray","camera-project","camera-unproject","ray-aabb","ray-aabb-intersection","ray-aabb-slab","ray-earth-intersection"]
+["camera-picking-ray","camera-project","camera-unproject","collada-dae-parser","geojs","glsl-cos-palette","glsl-godrays","glsl-gradient-palette","glsl-worley","pnp-gui","ray-aabb","ray-aabb-intersection","ray-aabb-slab","ray-earth-intersection","regl","regl-model","svg-mesh-3d","wavefront-obj-parser"]

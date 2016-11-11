@@ -1,1 +1,1 @@
-["jaydata-indexeddb","jaydata-inmemory","jaydata-mongodb","jaydata-sqlite","jaydata-webapi"]
+["jaydata-indexeddb","jaydata-inmemory","jaydata-mongodb","jaydata-server","jaydata-sqlite","jaydata-storm","jaydata-webapi"]

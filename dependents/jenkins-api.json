@@ -1,1 +1,1 @@
-["build-light","grunt-jenkins-runner","gulp-recipes","jenkins-job-watcher"]
+["build-light","grunt-jenkins-runner","gulp-jenkins","gulp-recipes","jenkins-asskicker-server","jenkins-copy-diff","jenkins-hue","jenkins-job-watcher","jenkins-status-shaker"]

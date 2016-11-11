@@ -1,1 +1,1 @@
-["grunt-cordova"]
+["grunt-blurred-images","grunt-cordova","grunt-imagemagick","grunt-respimg","grunt-responsive-images","grunt-responsive-images-sbcustom","grunt-retinafy","grunt-sprite-packer","wuml"]

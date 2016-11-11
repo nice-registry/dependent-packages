@@ -1,1 +1,1 @@
-["api-facade"]
+["api-facade","mongoose-identity-store","mongoose-identity-store-multi-tenant"]

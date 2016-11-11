@@ -1,1 +1,1 @@
-["aes","bs64","btc-address","btc-opcode","btc-script","btc-transaction","convert-string","cryptocoin-ecc-named","cryptocoin-eckey","cryptocoin-ripemd160","cryptocoin-sha256","dq","ecurve-names","jsontocsv","qr-encode","secure-random","sha512","situation"]
+["aes","binstring","bs64","btc-address","btc-opcode","btc-script","btc-transaction","convert-string","cryptocoin-ecc-named","cryptocoin-eckey","cryptocoin-ripemd160","cryptocoin-sha256","dq","ecurve-names","jsontocsv","qr-encode","rock","secure-random","sha256","sha512","situation","starbound-sha256"]

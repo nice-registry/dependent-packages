@@ -1,1 +1,1 @@
-["babel-preset-es2015-loose-rollup","babel-preset-es2015-min","ima.js-gulp-tasks","tim-react-native"]
+["ak-rn-packager","akpack","babel-globals","babel-preset-es2015-loose-rollup","babel-preset-es2015-min","babel-preset-quad","broccoli-babel-plugin","broccoli-pug-plugin","ctx-core","fl-google-maps-react","gulp-conventional-release","ima-gulp-tasks","ima.js-gulp-tasks","tim-react-native","transfigure-babel"]

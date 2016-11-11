@@ -1,1 +1,1 @@
-["hapi-taskcluster-api"]
+["azure-entities","docker-exec-websocket-server","hapi-taskcluster-api","taskcluster-client","taskcluster-lib-legacyentities"]

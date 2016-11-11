@@ -1,1 +1,1 @@
-["initialize-cli","initialize-subpackage","tooler","unused-bundle-deps"]
+["conjig","initialize-cli","initialize-subpackage","install-if-needed","tooler","unused-bundle-deps"]

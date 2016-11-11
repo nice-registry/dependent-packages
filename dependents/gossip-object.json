@@ -1,1 +1,1 @@
-["gossipdb"]
+["data-store-client","gossipdb","gossipdb-row"]

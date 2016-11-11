@@ -1,1 +1,1 @@
-["array-buffer"]
+["array-buffer","error-class","fortune-http","fortune-indexeddb","fortune-json-api","fortune-micro-api","fortune-postgres","fortune-redis","fortune-ws","monkey-router","promise-compose","promise-middleware","simulacra"]

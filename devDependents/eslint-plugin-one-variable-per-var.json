@@ -1,1 +1,1 @@
-["hod-foundation"]
+["audiostreamsource.js","hod-foundation","hof-controllers","hof-middleware","obox","rtp-monitoring-metrics","rtp-sqs-producer","simple-folder-watcher","simple-tree-watcher","twgl.js"]

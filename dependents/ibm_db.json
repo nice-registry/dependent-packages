@@ -1,1 +1,1 @@
-["unified-sql"]
+["connect-db2","db2-wrapper","loopback-connector-informix","loopback-ibmdb","node-edumate","node-red-nodes-cf-sqldb-dashdb","sails-db2","unified-sql"]

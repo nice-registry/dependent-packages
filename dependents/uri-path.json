@@ -1,1 +1,1 @@
-["grunt-contrib-blackcoffee","grunt-contrib-uglify-plus","grunt-resource-publish"]
+["grunt-companeo-concatanduglify-cached","grunt-contrib-blackcoffee","grunt-contrib-coffee","grunt-contrib-uglify","grunt-contrib-uglify-plus","grunt-resource-publish"]

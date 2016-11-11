@@ -1,1 +1,1 @@
-["metaljs","nodesoy","soy-loader"]
+["gulp-soy","gulp-soynode","metal-soy-incremental-dom-bundle","metaljs","nodesoy","soy-loader","soynode"]

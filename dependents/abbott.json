@@ -1,1 +1,1 @@
-["sequelize-cps"]
+["prequelize","sequelize-cps","sequelize-migrate","zack-sequelize"]

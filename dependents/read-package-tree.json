@@ -1,1 +1,1 @@
-["check-stale-node-modules","component-man","copy-amd-modules","naver-npm","nodupdeps","npm-msys2"]
+["check-stale-node-modules","ci-yarn-upgrade","component-man","copy-amd-modules","copy-browser-modules","danf","gather-dependencies","gather-package-details","jmpr-jpm","licensee","naver-npm","nodupdeps","npm","npm-idempotent-rebuild","npm-msys2","npm_cache_share","same-author","tinker","tsdm"]

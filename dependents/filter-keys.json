@@ -1,1 +1,1 @@
-["filter-web-colors","handlebars-helper-include","lookup-deps","webhookit-block","webhookit-permit"]
+["filter-object","filter-web-colors","handlebars-helper-include","lookup-deps","ozw-cli","webhookit-block","webhookit-permit"]

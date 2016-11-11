@@ -1,1 +1,1 @@
-["check-pnr-status"]
+["ava-init","chalk-cli","check-pnr-status","mos-init"]

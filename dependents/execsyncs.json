@@ -1,1 +1,1 @@
-["ebookama","ember-cli-ramdisk","gulp-execsyncs"]
+["ebookama","ember-cli-ramdisk","grunt-execsyncs","grunt-run-if-branch-modified","gulp-execsyncs"]

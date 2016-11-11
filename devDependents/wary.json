@@ -1,1 +1,1 @@
-["resin-config-json","resin-device-operations"]
+["etcher-image-write","resin-config-json","resin-device-init","resin-device-operations","resin-image-fs","resin-settings-client"]

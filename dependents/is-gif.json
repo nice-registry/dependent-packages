@@ -1,1 +1,1 @@
-["grunt-kraken-io","imgminify"]
+["cuttingboard","grunt-contrib-kraken","grunt-kraken-io","grunt-kraken_image_compression","grunt-mega-image","gulp-image","imagemin-giflossy","imagemin-gifsicle","imgminify","imgo","yellowlabtools"]

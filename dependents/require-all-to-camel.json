@@ -1,1 +1,1 @@
-["bridges-console","bridges-supervisor","gatewayd","gatewayd-4","gatewayd-cli"]
+["bridges-console","bridges-supervisor","gatewayd","gatewayd-4","gatewayd-cli","ripple-gateway","ripple-gateway-data-sequelize"]

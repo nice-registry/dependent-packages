@@ -1,1 +1,1 @@
-["cubelets","kit-iot-wearable","node-red-contrib-bluetooth","node-red-contrib-bluetooth-serial","zetta-obd2-car-driver"]
+["bluetooth-obd","coiote-plugin","cubelets","kit-iot-wearable","node-red-contrib-bluetooth","node-red-contrib-bluetooth-serial","webduino-bluetooth-transport","zetta-obd2-car-driver"]

@@ -1,1 +1,1 @@
-["mongoose-oauth-store-multi-tenant","mongoose-user-store-multi-tenant"]
+["mongoose-identity-store","mongoose-identity-store-multi-tenant","mongoose-oauth-store-multi-tenant","mongoose-user-store-multi-tenant"]

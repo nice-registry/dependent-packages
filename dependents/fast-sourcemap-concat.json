@@ -1,1 +1,1 @@
-["broccoli-bem"]
+["broccoli-bem","broccoli-concat","broccoli-sourcemap-concat"]

@@ -1,1 +1,1 @@
-["tower"]
+["tower","tower-adapter","tower-console","tower-ec2-adapter","tower-memory-adapter","tower-record"]

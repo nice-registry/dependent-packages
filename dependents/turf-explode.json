@@ -1,1 +1,1 @@
-["geojson-clip-polygon","wgs84-intersect-util","worldpop"]
+["geojson-clip-polygon","geojson-path-finder","turf","turf-clip","turf-point-on-surface","wgs84-intersect-util","worldpop"]

@@ -1,1 +1,1 @@
-["backbone-model","hyperbone-model-with-io","hyperbone-router"]
+["backbone-collection","backbone-model","halogen-resource","halogen-route","halogen-view","hyperbone-model-with-io","hyperbone-router","hyperbone-view"]

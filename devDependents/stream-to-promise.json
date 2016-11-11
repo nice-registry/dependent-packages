@@ -1,1 +1,1 @@
-["command-promise","express-transform","fastchat","mockfirebase","mockwilddog","omni-vfs-local","proxyquire-universal","short-revs"]
+["command-promise","cordova-plugin-sqlite-2","element-dataset","express-transform","fastchat","fragments","hapi-magic-filter","hapi-s3-upload","ipfs","kazana-raw-data","kazana-server","mockfirebase","mockwilddog","npm-tarball","omni-vfs-local","package-json-versionify","promise-worker","promise-worker-transferable","proxyquire-universal","rollupify","short-revs"]

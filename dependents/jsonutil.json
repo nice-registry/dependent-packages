@@ -1,1 +1,1 @@
-["json-datashape","nio-engine"]
+["json-datashape","muon-cli","muon-core","nio-engine","requireable-registry-couchapp","streambin-cli"]

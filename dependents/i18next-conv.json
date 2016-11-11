@@ -1,1 +1,1 @@
-["grunt-hs-i18next-conv","grunt-i18next-conv"]
+["grunt-hs-i18next-conv","grunt-i18next-conv","grunt-i18next-extract-gettext","gulp-i18next-conv","i18next-extract-gettext","i18next-node-zanata-backend","i18next-po-loader","po2icu"]

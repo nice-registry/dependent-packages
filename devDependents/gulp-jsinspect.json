@@ -1,1 +1,1 @@
-["async-require","express-composer","valigator"]
+["async-require","express-composer","express-status","hafiz","model-base","mongo-stash","simple-dijs","valigator"]

@@ -1,1 +1,1 @@
-["alpha-complex","angle-normals","delaunay-triangulate","gl-simplicial-complex","refine-mesh"]
+["alpha-complex","angle-normals","bitmap-triangulate","delaunay-triangulate","gl-plot3d","gl-simplicial-complex","incremental-delaunay","quasicrystals","refine-mesh","spherical-triangulation"]

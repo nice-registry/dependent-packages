@@ -1,1 +1,1 @@
-["depcheck-web"]
+["appveyor-runner","depcheck","depcheck-web","urbanjs-tools","xively-kinesis-bridge"]

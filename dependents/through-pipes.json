@@ -1,1 +1,1 @@
-["gulp-define-vm-module"]
+["gastropod","gulp-define-vm-module","gulp-sprockets-compiler"]

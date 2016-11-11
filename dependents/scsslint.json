@@ -1,1 +1,1 @@
-["scss-lint-loader"]
+["grunt-scsslint","scss-lint-loader"]

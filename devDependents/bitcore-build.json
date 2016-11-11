@@ -1,1 +1,1 @@
-["bitcoin-rpc","bitcore-namecoin","bitcore-p2p-browserify","coinforge","decentraland-core","digicore","digicore-explorers"]
+["bitcoin-rpc","bitcore-channel","bitcore-channel-dash","bitcore-cli","bitcore-ecies","bitcore-explorers","bitcore-lib","bitcore-lib-litecoin","bitcore-message","bitcore-mnemonic","bitcore-mnemonic-litecoin","bitcore-namecoin","bitcore-p2p","bitcore-p2p-browserify","bitcore-payment-protocol","coinforge","decentraland-core","digicore","digicore-explorers"]

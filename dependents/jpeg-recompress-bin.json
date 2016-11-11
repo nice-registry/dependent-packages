@@ -1,1 +1,1 @@
-["gulp-image-jpegoptim-bind-fix","jpgo"]
+["grunt-mega-image","gulp-image","gulp-image-jpegoptim-bind-fix","gulp-jpeg-recompress","imagemin-jpeg-recompress","imgo","jpgo"]

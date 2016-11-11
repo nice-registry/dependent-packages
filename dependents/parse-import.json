@@ -1,1 +1,1 @@
-["cssimports","duo-sass","mixedstyle-loader","rework-custom-import","rework-import","rework-plugin-import-url"]
+["cssimports","duo-sass","gulp-concat-css","mixedstyle-loader","n4","rework-custom-import","rework-import","rework-inline","rework-plugin-import-url"]

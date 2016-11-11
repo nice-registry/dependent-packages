@@ -1,1 +1,1 @@
-["connect-owin","grunt-mstest"]
+["connect-owin","grunt-dotnet-codecoverage","grunt-dotnet-mspec","grunt-mstest","grunt-xunit","mindef-starterskit"]

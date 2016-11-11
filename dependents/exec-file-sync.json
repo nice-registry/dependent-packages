@@ -1,1 +1,1 @@
-["gulp-closure-compiler-sync","transform-require","unix-path-max"]
+["gulp-closure-compiler-sync","npmwrap","transform-require","unix-path-max"]

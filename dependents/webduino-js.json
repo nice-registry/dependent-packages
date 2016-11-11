@@ -1,1 +1,1 @@
-["webduino-blockly"]
+["node-red-contrib-webduino","webduino-blockly","webduino-bluetooth-transport","webduino-serial-transport"]

@@ -1,1 +1,1 @@
-["leaflet-mapbox-vector-tile","tile-stat-stream","vt-geojson","vt2geojson"]
+["ldmap","leaflet-mapbox-vector-tile","leaflet-underneath","mapbox-geostats","mapbox-gl","mapbox-gl-opendoor","openlayers","terriajs","tile-reduce","tile-stat-stream","vt-geojson","vt-pbf","vt2geojson"]

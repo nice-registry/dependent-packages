@@ -1,1 +1,1 @@
-["cluster-remote-control","idup","metrics-process","oneapm-cheniu","oneapm-cli","pitboss-ng"]
+["cluster-remote-control","clusty","express-node-metrics","express-status-monitor","hapijs-status-monitor","idup","koa-monitor","metrics-process","node-daemon","node-monitor-ui","oneapm-cheniu","oneapm-cli","ood","pitboss-ng","pm2-gui","pm2-jhonny","pm25","pmt","protractor-memory","ps-tree-usage","rtp-monitoring-metrics","stats-influxdb","tinymonit","trek-status-monitor"]

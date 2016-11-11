@@ -1,1 +1,1 @@
-["bartleby","gulp-marked-mustache"]
+["bartleby","docker","grunt-tocdoc","gulp-marked-mustache","gulp-toc","whim"]

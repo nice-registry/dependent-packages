@@ -1,1 +1,1 @@
-["sira-codegen-rest-js","sira-express-explorer"]
+["grunt-sira-codegen-rest-js","grunt-sira-sdk-rest-js","sira-codegen-rest-js","sira-core","sira-express-explorer"]

@@ -1,1 +1,1 @@
-["buster-istanbul"]
+["buster-args","buster-assertions","buster-bayeux-emitter","buster-capture-server","buster-client","buster-coverage","buster-evented-logger","buster-format","buster-glob","buster-istanbul","buster-multicast","buster-promise","buster-resources","buster-server","sinon-buster"]

@@ -1,1 +1,1 @@
-["balanced-addon-models","ember-cli-test-imagine-api"]
+["balanced-addon-models","ember-cli-test-imagine-api","ember-sinon-chai","ember-sinon-qunit"]

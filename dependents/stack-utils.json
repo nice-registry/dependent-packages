@@ -1,1 +1,1 @@
-["tap-emitter"]
+["ava","ava-no-babel","ava-tf","chuhai","err-candy","pg-parade","pull-test","start-pretty-logger","start-pretty-reporter","tap","tap-emitter","tapromise"]

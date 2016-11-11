@@ -1,1 +1,1 @@
-["esri-leaflet-dynamic-tilelayer","esri-leaflet-heatmap-feature-layer","esri-leaflet-related"]
+["esri-leaflet-cluster","esri-leaflet-clustered-feature-layer","esri-leaflet-dynamic-tilelayer","esri-leaflet-geocoder","esri-leaflet-gp","esri-leaflet-heatmap","esri-leaflet-heatmap-feature-layer","esri-leaflet-legend","esri-leaflet-related","esri-leaflet-renderers","esri-leaflet-stream","esri-leaflet-vector","esri-leaflet-webmap","leaflet-esri-webmap","react-arcgis-boilerplate","react-esri-map","react-webmap"]

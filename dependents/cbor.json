@@ -1,1 +1,1 @@
-["coap-cbor-cli","node-ipld","transformator"]
+["aleph","clac","coap-cbor-cli","cose-js","cuckoo-filter","ipld","ipld-dag-cbor","node-ipld","node-red-contrib-coap","rainfall","transformator"]

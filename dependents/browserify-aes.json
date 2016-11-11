@@ -1,1 +1,1 @@
-["aes-kw","browserify-cipher","crypto-stream","parse-asn1"]
+["aes-kw","bip38","browserify-cipher","crypto-stream","drbg.js","native-crypto","oneline-crypto","parse-asn1","runtime-node-crypto","web-push-meteor"]

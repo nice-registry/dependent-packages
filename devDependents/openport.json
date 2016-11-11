@@ -1,1 +1,1 @@
-["grunt-openport-async"]
+["bankai","gallop","grunt-openport-async","ht-http-transport","ht-jsonrpc-http-transport","ht-tcp-transport"]

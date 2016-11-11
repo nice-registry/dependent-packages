@@ -1,1 +1,1 @@
-["4front-cli","4front-ldap-auth","4front-logger","4front-s3-deployments"]
+["4front-cli","4front-ldap-auth","4front-logger","4front-s3-deployments","express-request-proxy","s3-proxy"]

@@ -1,1 +1,1 @@
-["cmd-build","easycache","easyproxy","fresh-mysql","hc-lite","honey","justlog","mysql-extension","node-ali-oss","qws","shared-memory","tbj-cli"]
+["cmd-build","conn","dxp","dxp-appinfo","easycache","easynotify","easyproxy","easyredirect","fresh-mysql","hc-common","hc-common-page","hc-lite","honey","js-coffee","justlog","middleware-loader","middleware-session","mock-http-request","mysql-extension","node-ali-oss","nvsr","qws","shared-memory","tbj-cli","vip-resp","watchtree","webhook"]

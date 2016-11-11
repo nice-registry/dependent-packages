@@ -1,1 +1,1 @@
-["grunt-weinre"]
+["grunt-inject","grunt-nodemon","grunt-pages","grunt-weinre","grunt-wendy","html-diff","lesshint-lint-xml-reporter"]

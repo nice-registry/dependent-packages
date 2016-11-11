@@ -1,1 +1,1 @@
-["plumber-all","plumber-glob","plumber-jshint"]
+["plumber-all","plumber-coffee","plumber-filter","plumber-glob","plumber-hash","plumber-jshint","plumber-libsass","plumber-lodash","plumber-myth","plumber-rename","plumber-requirejs","plumber-rework","plumber-traceur","plumber-uglifyjs"]

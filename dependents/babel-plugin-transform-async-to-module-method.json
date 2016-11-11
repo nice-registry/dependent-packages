@@ -1,1 +1,1 @@
-["babel-preset-node","babel-preset-node-lts"]
+["babel-preset-async-to-bluebird","babel-preset-bro","babel-preset-dysonshell","babel-preset-es2015-co","babel-preset-esnext","babel-preset-flowics","babel-preset-flowics-node","babel-preset-jongleberry","babel-preset-node","babel-preset-node-lts","babel-preset-self-defined","babel-preset-stage-0-bluebird","better-babel-cli","dbmigrations","fun-http","tpack-babel"]

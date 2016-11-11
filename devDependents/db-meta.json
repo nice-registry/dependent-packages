@@ -1,1 +1,1 @@
-["pg-db-migrate"]
+["db-migrate-mysql","db-migrate-pg","db-migrate-sqlite3","pg-db-migrate"]

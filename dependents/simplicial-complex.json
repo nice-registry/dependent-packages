@@ -1,1 +1,1 @@
-["3p","full-convex-hull","loop-subdivide","mesh-heightmap-contours"]
+["3p","differential","euler-characteristic","full-convex-hull","grid-graph","incremental-convex-hull","loop-subdivide","mesh-geodesic","mesh-heightmap-contours","ndflow","simplicial-cartesian-product","simplicial-disjoint-union","simplicial-layout","simplify-2d-complex","simplify-planar-graph","stars","webgl-workshop"]

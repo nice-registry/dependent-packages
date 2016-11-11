@@ -1,1 +1,1 @@
-["chrome-launch","firefox-launch","grunt-dancer","grunt-sinatra-server","gulp-nodemon-tempfix"]
+["chrome-launch","execa","firefox-launch","grunt-dancer","grunt-sinatra","grunt-sinatra-server","gulp-nodemon-tempfix","monitor-pid"]

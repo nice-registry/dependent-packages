@@ -1,1 +1,1 @@
-["node-red-node-mqlight","seneca-mqlight-transport"]
+["loopback-connector-mqlight","node-red-bluemix-nodes","node-red-node-mqlight","seneca-mqlight-transport"]

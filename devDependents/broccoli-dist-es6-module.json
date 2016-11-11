@@ -1,1 +1,1 @@
-["ember-data-hal-adapter","ember-fsm","ember-helpers-on-action","form-autofill","ic-ajax","select-transformer","un-calendar"]
+["chai-qunit","d3-plugins-dist","ember-cli-inplace-edit","ember-components","ember-data-hal-adapter","ember-declarative-authorization","ember-fsm","ember-helpers-on-action","ember-state-composer","ember-ui-calendar","form-autofill","ftw-toggle","ic-ajax","ic-autocomplete","ic-droppable","ic-modal","ic-sortable","ic-tabs","select-transformer","un-calendar"]

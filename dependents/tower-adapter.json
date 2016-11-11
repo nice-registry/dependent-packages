@@ -1,1 +1,1 @@
-["tower"]
+["tower","tower-console","tower-ec2-adapter","tower-memory-adapter","tower-mongodb-adapter","tower-record","tower-restful-adapter"]

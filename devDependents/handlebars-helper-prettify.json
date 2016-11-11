@@ -1,1 +1,1 @@
-["assemble-boilerplate","grunt-assemble-anchors","handlebars-helper-css"]
+["assemble-boilerplate","assemble-contrib-anchors","assemble-middleware-anchors","boilerplate-bootstrap","grunt-assemble-anchors","handlebars-helper-compose","handlebars-helper-css"]

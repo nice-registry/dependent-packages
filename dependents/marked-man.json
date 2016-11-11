@@ -1,1 +1,1 @@
-["alinex-make","babel-plugin-handbook"]
+["alinex-builder","alinex-make","babel-plugin-handbook","grunt-markedman","gulp-marked-man","man-modules","md-glossary","pliigo-cups-agent","rss-o-bot","socketizer","tangle-util"]

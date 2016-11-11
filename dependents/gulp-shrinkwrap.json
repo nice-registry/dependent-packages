@@ -1,1 +1,1 @@
-["load-common-gulp-tasks"]
+["gulpfile.basics","load-common-gulp-tasks"]

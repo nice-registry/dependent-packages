@@ -1,1 +1,1 @@
-["ht-decorators"]
+["cockrel-ht-client","ht-decorators","ht-express","ht-sqs-transport","ht-tv4"]

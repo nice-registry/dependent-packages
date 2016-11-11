@@ -1,1 +1,1 @@
-["dragonnodejs-express","dragonnodejs-webserver","metas-detect","restify-i18n"]
+["dragonnodejs-express","dragonnodejs-webserver","fxa-shared","hapi-domainculture","light-core","metas-detect","mofo-localize","restify-i18n"]

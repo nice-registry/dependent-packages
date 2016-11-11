@@ -1,1 +1,1 @@
-["gulp-multimarkdown"]
+["docpad-plugin-multimarkdown","gulp-multimarkdown","louis"]

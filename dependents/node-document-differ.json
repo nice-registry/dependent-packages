@@ -1,1 +1,1 @@
-["node-document"]
+["node-document","node-document-differ-deepdiff","node-document-differ-jsondiff","node-document-differ-objectdiff","node-document-differ-patcher"]

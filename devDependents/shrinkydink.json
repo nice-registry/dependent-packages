@@ -1,1 +1,1 @@
-["grunt-requiresafe","gulp-requiresafe","requiresafe","requiresafe-sdk"]
+["grunt-nsp","grunt-requiresafe","gulp-nsp","gulp-requiresafe","nsp","nsp-jcare","requiresafe","requiresafe-sdk"]

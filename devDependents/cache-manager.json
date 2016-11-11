@@ -1,1 +1,1 @@
-["cache-manager-memcached","dbc-node-moreinfo-client","dbc-node-openholdingstatus-client","dbc-node-openuserstatus-client"]
+["cache-manager-memcached","cache-manager-memcached-store","cache-manager-mongoose","dbc-node-moreinfo-client","dbc-node-openagency-client","dbc-node-openholdingstatus-client","dbc-node-openorder-client","dbc-node-openuserstatus-client","fl-backbone-rest","memoize-cache","passwordless-cache-manager","request-cached-promise","request-plus"]

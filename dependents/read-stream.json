@@ -1,1 +1,1 @@
-["level-livefeed","levelidb"]
+["chain-stream","events-stream","from-source","gulp-wc","http-stream","inotifyr","level-cache","level-livefeed","levelidb","mongo-stream","npm-used","promise-stream","promise-tests","pubnub-stream","read-write-stream"]

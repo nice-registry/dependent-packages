@@ -1,1 +1,1 @@
-["raynos-sentry-logger"]
+["kafka-logger","raynos-sentry-logger","sentry-logger"]

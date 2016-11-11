@@ -1,1 +1,1 @@
-["node-socks-client","pac-proxy-agent","socks-proxy-agent"]
+["electron-proxy-agent","http-proxy-agent","https-proxy-agent","node-socks-client","pac-proxy-agent","proxy-agent","proxy-all","snowflakedb","socks-proxy-agent","web-component-tester-bundle"]

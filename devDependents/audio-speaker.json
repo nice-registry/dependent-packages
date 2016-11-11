@@ -1,1 +1,1 @@
-["audio-element","audio-graph","audio-processor","audio-spectrum","audio-waveform"]
+["audio-biquad","audio-buffer","audio-decode","audio-element","audio-formant","audio-gain","audio-generator","audio-graph","audio-oscillator","audio-processor","audio-shader","audio-slice","audio-source","audio-spectrum","audio-through","audio-waveform","web-audio-stream"]

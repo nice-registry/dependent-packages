@@ -1,1 +1,1 @@
-["multibuffer-stream","record-sink","redis-scanstreams","rum-node","through2-spy"]
+["express-loggly","flatson","mission-ctrl","multibuffer","multibuffer-stream","record-sink","redis-scanstreams","rum-node","runat","through2-asyncmap","through2-map","through2-map-promise","through2-reduce","through2-spy"]

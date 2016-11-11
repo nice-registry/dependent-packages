@@ -1,1 +1,1 @@
-["pool-redis-sentinel","primus-redis-rooms-withauth","primus-redis-with-auth","primus-redis-withauth","redis-sentinel-shard","redis-sharelatex"]
+["authtoken","ortoo-analytics","persistence","pool-redis-sentinel","primus-redis","primus-redis-rooms","primus-redis-rooms-withauth","primus-redis-with-auth","primus-redis-withauth","redis-sentinel-shard","redis-sharelatex","xtralife-server"]

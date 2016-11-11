@@ -1,1 +1,1 @@
-["build-layer-lint"]
+["build-layer-lint","dependents","grunt-shimney-sweeper","module-lookup-amd","shims"]

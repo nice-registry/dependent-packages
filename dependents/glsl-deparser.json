@@ -1,1 +1,1 @@
-["glsl-extract","glslify-api"]
+["glsl-extract","glsl-testify","glsl-transition-minify","glslify-api","glslifyify","glslmin","programify","renders"]

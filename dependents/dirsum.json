@@ -1,1 +1,1 @@
-["smi.cli"]
+["grunt-asset-revision","grunt-cmp-builder","katapult","smi.cli"]

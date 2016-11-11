@@ -1,1 +1,1 @@
-["express-cjs"]
+["browserify-middleware","express-assets-middlewares","express-cjs","moped","moped-runtime","neofe"]

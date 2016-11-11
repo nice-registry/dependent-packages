@@ -1,1 +1,1 @@
-["jux-scroller","paperclip","pixi-transitionable","pixitilemap","spritepacker"]
+["foo-core","jux-scroller","paperclip","pixi-animate","pixi-animationloop","pixi-audio","pixi-lib","pixi-live2d","pixi-multistyle-text-esnext","pixi-stick","pixi-tests-tool","pixi-tiledmap","pixi-timer","pixi-transitionable","pixiapp","pixitilemap","react-draw","react-pixi","spritepacker","waterify"]

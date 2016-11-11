@@ -1,1 +1,1 @@
-["tap-emitter"]
+["ava","ava-no-babel","ava-tf","tap","tap-emitter"]

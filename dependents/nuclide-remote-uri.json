@@ -1,1 +1,1 @@
-["nuclide-arcanist-base","nuclide-atom-helpers","nuclide-buck-commons","nuclide-client","nuclide-format-js-base","nuclide-hg-repository-client","nuclide-hhvm-toolbar","nuclide-path-search","nuclide-remote-connection"]
+["nuclide-arcanist-base","nuclide-atom-helpers","nuclide-buck-commons","nuclide-client","nuclide-format-js-base","nuclide-hg-repository-client","nuclide-hhvm-toolbar","nuclide-path-search","nuclide-path-search-rx","nuclide-remote-connection","nuclide-server"]

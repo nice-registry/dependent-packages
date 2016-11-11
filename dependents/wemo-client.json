@@ -1,1 +1,1 @@
-["meshblu-wemo-motion","meshblu-wemo-switch"]
+["homebox-driver-wemo-switch","homebridge-platform-wemo","meshblu-wemo-motion","meshblu-wemo-switch","thinglator-driver-wemo-switch","wemo-wrapper","zetta-wemothat-driver"]

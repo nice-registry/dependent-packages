@@ -1,1 +1,1 @@
-["awesome-content-sender","grunt-liquid","gruntfile-gtx","hublin-client","keycloak-nodejs","om-email-invitation","om-invitation","om-mailer","om-webrtc-backend","om-websocket-server"]
+["awesome-content-sender","eslint-path-formatter","grunt-contrib-outdated","grunt-liquid","grunt-weblint","gruntfile-gtx","hublin","hublin-client","keycloak-nodejs","mocha-unfunk-reporter","om-email-invitation","om-invitation","om-mailer","om-webrtc-backend","om-websocket-server","tslint-path-formatter","tslint-teamcity-reporter"]

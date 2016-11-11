@@ -1,1 +1,1 @@
-["codem-transcode","qunit-multi-coverage"]
+["artemis","browsify","codem-manager","codem-transcode","codem-watcher","doctasia","gapserver","genstatic","jslint-tap","linter","litb-packager","nodecover","pipe2browser","prefixr","qunit","qunit-multi-coverage","ria-packager","sharedjs","simple-httpserver","staticserver","statify","svg2jadepartial","tcplock","tiny-asset-pipeline"]

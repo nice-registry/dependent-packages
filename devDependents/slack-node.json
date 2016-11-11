@@ -1,1 +1,1 @@
-["log-notifier"]
+["ember-cli-slack-chat","log-notifier","log2slack"]

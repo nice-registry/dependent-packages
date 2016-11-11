@@ -1,1 +1,1 @@
-["grunt-staged","tests-for-staged-files","vinyl-git"]
+["beautify.hks","dont-commit-conflicts.hks","grunt-staged","grunt-staged2","lint-staged","tests-for-staged-files","vinyl-git"]

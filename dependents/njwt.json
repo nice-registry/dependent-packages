@@ -1,1 +1,1 @@
-["authenticate-rhodes","choreo","rhodesauthentication","rhodesrefreshauthentication","stormpath-sdk-express"]
+["authenticate-rhodes","b2butils","balihoo-stormpath-client","choreo","express-stormpath","koa-stormpath","rhodesauthentication","rhodesrefreshauthentication","stormpath","stormpath-sdk-express"]

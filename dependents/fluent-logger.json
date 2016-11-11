@@ -1,1 +1,1 @@
-["express-droonga"]
+["cloud-compute-cannon","connect-fluent-logger","express-droonga","express-fluent-logger","good-fluent","logquacious-fluent","lsc","node-red-contrib-itemsense","nodus","pm2-fluentd","winston-fluent"]

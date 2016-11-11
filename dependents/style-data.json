@@ -1,1 +1,1 @@
-["gulp-inline_css"]
+["extract-css","gulp-inline_css"]

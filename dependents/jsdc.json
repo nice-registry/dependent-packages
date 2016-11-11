@@ -1,1 +1,1 @@
-["gulp-jsdc","jsdc-loader","ranma","zranma"]
+["gulp-jsdc","jsdc-cli","jsdc-loader","lefty","ranma","zranma"]

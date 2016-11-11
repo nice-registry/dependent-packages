@@ -1,1 +1,1 @@
-["buster-node","buster-static","buster-test-cli"]
+["buster","buster-minimal","buster-node","buster-static","buster-test-cli","grunt-tdd","sinon-buster"]

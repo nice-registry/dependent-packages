@@ -1,1 +1,1 @@
-["oada-client-secret","passport-imf-token-validation"]
+["blueoak-server","bms-mca-token-validation-strategy","botbuilder","botbuilder-calling","google-id-token-verifier","jws-jwk","oada-client-secret","oidc","passport-imf-token-validation","privakey-sign-on"]

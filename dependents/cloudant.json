@@ -1,1 +1,1 @@
-["bluemixcloudant","cloudant-backup","cloudant-restore","couchshell","docpad-plugin-cloudant","pipes-sdk","pipes_sdk"]
+["bluemix-helper-config","bluemixcloudant","cloudant-backup","cloudant-envoy","cloudant-initializer","cloudant-promise","cloudant-restore","cloudant-wrapper","connect-cloudant","connect-cloudantdb","couchbackup","couchimport","couchshell","couchtransform","docpad-plugin-cloudant","hubot-ibmcloud-cloudant","loopback-connector-cloudant","node-red-node-cf-cloudant","nosqlimport-couchdb","pipes-sdk","pipes_sdk","simple-data-pipe-sdk","swgtc-db-mgr","wavy-api"]

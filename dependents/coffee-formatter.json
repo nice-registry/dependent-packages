@@ -1,1 +1,1 @@
-["coffee-formatter-cli"]
+["coffee-formatter-cli","grunt-commonjs-tamer"]

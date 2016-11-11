@@ -1,1 +1,1 @@
-["clear-canvas","jchart"]
+["canvas-gradient","clear-canvas","jchart","karma-jasmine-imagediff","origamijs","rasterizehtml"]

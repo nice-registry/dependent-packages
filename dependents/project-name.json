@@ -1,1 +1,1 @@
-["ask-once","base-paths"]
+["answer-store","ask-once","base-paths","base-project","base-store","data-store","flowdock-deploy-notify","github-deploy-notify","lissie","lucify-component-builder","lucify-deploy-config","question-cache","question-store","react-native-rename","repo-utils"]

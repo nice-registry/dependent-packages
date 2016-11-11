@@ -1,1 +1,1 @@
-["fortune-client","fortune-nedb-uuid","fortune-ninja"]
+["fortune-client","fortune-http","fortune-indexeddb","fortune-json-api","fortune-micro-api","fortune-nedb-uuid","fortune-ninja","fortune-postgres","fortune-redis","fortune-ws"]

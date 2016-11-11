@@ -1,1 +1,1 @@
-["resin-config-inject","resin-image-config"]
+["disk","resin-config-inject","resin-image-config","resin-image-fs"]

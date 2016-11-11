@@ -1,1 +1,1 @@
-["ddl","gametime-db","hapi-taskcluster-api","openvgdb","telehash-promise"]
+["cordova-plugin-sqlite-2","ddl","debounce-accumulate","element-dataset","extra-entry-webpack-plugin","favicons-webpack-plugin","gametime-db","github-slug-cli","hapi-taskcluster-api","install-files","local-npm","mastic-polyfills","openvgdb","pouchdb-adapter-http-react-native","pouchdb-mapreduce-no-ddocs","promise-worker","promise-worker-transferable","radium-starter","style-ext-html-webpack-plugin","telehash-promise","webpack-dependency-stats"]

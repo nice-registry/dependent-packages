@@ -1,1 +1,1 @@
-["backbone-idb","levelidb","swordjs"]
+["backbone-idb","cell","choo-persist","fetch-sync","filesystem-browserify","level-js","levelidb","minimongo","offline-leaflet-map","swordjs","voxel-storage"]

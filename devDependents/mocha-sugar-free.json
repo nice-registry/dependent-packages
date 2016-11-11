@@ -1,1 +1,1 @@
-["connect-static-file"]
+["babel-plugin-program-metadata-literals","connect-static-file","jsdom","jsonbird","koa-redux","react-recorder-redux","redux-audio","svg-captcha"]

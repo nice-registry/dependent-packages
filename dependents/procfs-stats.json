@@ -1,1 +1,1 @@
-["cpu-percent","jtprocfs-stats","linux-swap"]
+["cpu-percent","jtprocfs-stats","linux-swap","numbat-netstat","numbat-process","pid-io-stats-stream","sematext-agent-docker","spm-agent-os","webdilio-sm"]

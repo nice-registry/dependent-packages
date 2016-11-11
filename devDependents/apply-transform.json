@@ -1,1 +1,1 @@
-["autoprefixer-stream","browserify-swap","styl-stream"]
+["autoprefixer-stream","browserify-swap","format-json-stream","jsdoc-githubify","styl-stream","syuilo-transformify","transformify"]

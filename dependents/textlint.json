@@ -1,1 +1,1 @@
-["fly-textlint","retext-textlint"]
+["codemirror-textlint","fly-textlint","grunt-textlint","gulp-textlint","retext-textlint","textlint-tester","textstat"]

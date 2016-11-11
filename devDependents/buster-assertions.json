@@ -1,1 +1,1 @@
-["spm-sinon"]
+["buster-evented-logger","buster-format","buster-multicast","buster-promise","empower","empower-core","pasties-validator","pasties-validator-web","sinon-es6","spm-sinon"]

@@ -1,1 +1,1 @@
-["awsbox","basin","ec2tail","jsbundle","phnq_widgets"]
+["ambulance","aws-billing","aws-cloudwatch-statsd-backend","awsbox","basin","connect-error-amazon-ses","dynroute","ec2-each","ec2tail","fstream-s3","gcs-console","get-iam-creds","grunt-awssum-deploy","grunt-awssum-deploy-branch","grunt-barkeep","jolira-logger","jolira-logviewer","jsbundle","mhp.vinfo.web.common","modeista-queue-engine","outer_realm_hosting","phnq_widgets","s3-store","sqstask","winston-simpledb"]

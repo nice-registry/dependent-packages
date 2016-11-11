@@ -1,1 +1,1 @@
-["fis-preprocessor-iconfont","font-collector","grunt-iconprocessor-imweb-tpl","icon-repacker","node-font-collector","svg2iconfont"]
+["fis-postpackager-iconfont","fis-preprocessor-iconfont","fis3-hook-iconfont","font-collector","grunt-font-generator","grunt-font-manager","grunt-iconprocessor-imweb-tpl","icon-repacker","node-font-collector","svg2iconfont","svgfont"]

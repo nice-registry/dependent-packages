@@ -1,1 +1,1 @@
-["karma-tidy","nemo-cucumberjs-example","nemo-grunt-cucumberjs"]
+["generator-nemo","karma-scrivito","karma-tidy","karma-with-custom-context-html","nemo-cucumberjs-example","nemo-grunt-cucumberjs","superhuman-karma"]

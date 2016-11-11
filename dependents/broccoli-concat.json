@@ -1,1 +1,1 @@
-["broccoli-dsl","broccoli-test-builder","driven-cli","ember-cli-pod-styles","ember-cli-toranb","pixijs-cli"]
+["angular-bro-app","bricks-cli","broccoli-dist-es6-module","broccoli-dsl","broccoli-symbolizer","broccoli-test-builder","driven-cli","ember-animatable","ember-bundle-i18n","ember-cli","ember-cli-asset-sizes-shim","ember-cli-d3-primitive","ember-cli-file-creator","ember-cli-pod-styles","ember-cli-rollup","ember-cli-toranb","ember-component-css","ember-css-modules","ember-sprite","emberjs-build","frampton-build","nashtech-angular-cli","pixijs-cli"]

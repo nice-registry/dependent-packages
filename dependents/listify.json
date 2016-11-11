@@ -1,1 +1,1 @@
-["bump-version","comments"]
+["bump-version","comments","grunt-travis-matrix","n-run","set-version"]

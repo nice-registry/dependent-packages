@@ -1,1 +1,1 @@
-["deltadb-server","knex-mycat","nexridge","schemakit","sqlmagic"]
+["deltadb-server","hfjy-knex","knex","knex-dschumann","knex-firebird","knex-mycat","knex-node-firebird","knex-oracledb","knex-redshift","knex-redshift-fork","meadow-endpoints","mysql-connection","nexridge","panthera-model","punch-knex","queryize","schemakit","sequelize-hierarchy","sequelize-models","sequelize-values","sequelize-virtual-fields","sqlmagic"]

@@ -1,1 +1,1 @@
-["gobbler","null-logtron","zetta-store-and-forward"]
+["gobbler","null-logtron","uber-statsd-client","zetta-store-and-forward"]

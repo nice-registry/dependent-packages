@@ -1,1 +1,1 @@
-["connect-waterline","sails-postgresql-live-select"]
+["connect-waterline","sails-postgresql-live-select","waterline-adapter-tests","waterline-sequel"]

@@ -1,1 +1,1 @@
-["chiasm-crossfilter","crossbio","crossfilter-helpers","crossfilter-sql","moa","pivot-crossfilter","react-pivot-table","simple-filter"]
+["DataManager","chiasm-crossfilter","crossbio","crossfilter-helpers","crossfilter-sql","d3-fluid","d3.cartodb","dc-addons","dc.graph","hyphy-vision","ideogram","map-tools","moa","node-snapshot","pivot-crossfilter","punchcardjs","qb-ui-components","react-pivot-table","simple-filter","snapshot-js"]

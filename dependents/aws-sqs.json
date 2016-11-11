@@ -1,1 +1,1 @@
-["hooq-provider-amazon-sqs","simpleesb"]
+["deploy-agent","hooq-provider-amazon-sqs","queues","simpleesb"]

@@ -1,1 +1,1 @@
-["connect-caminte","node-queue","shelloid-sessionstore"]
+["bitcore-wallet-client","bitcore-wallet-client-dash","bitcore-wallet-service","bitcore-wallet-service-dash","bitpay-public-client","bitpay-push-notification-client","cmbf2-base","connect-caminte","cqrs-eventdenormalizer","cqrs-saga","digicore-wallet-client","digicore-wallet-service","maf","mongoose-crate","node-queue","recursor","sessionstore","sessionstore-cloudant","shelloid-sessionstore","tempcol","viewmodel"]

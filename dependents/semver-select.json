@@ -1,1 +1,1 @@
-["sequelize-definer"]
+["sequelize-definer","sequelize-hierarchy","sequelize-values","sequelize-virtual-fields"]

@@ -1,1 +1,1 @@
-["loopback-component-sqlizer","loopback-ds-readonly-mixin"]
+["bunyan-loopback-stream","gulp-loopback-swagger-validator","loopback-audit-trail","loopback-component-logger","loopback-component-migrate","loopback-component-mq","loopback-component-ping","loopback-component-sqlizer","loopback-component-storage-mongo","loopback-component-templates","loopback-ds-clean-html-field-mixin","loopback-ds-readonly-mixin","loopback-ds-resultset-limit-mixin","loopback-glue","n-odata-server"]

@@ -1,1 +1,1 @@
-["calculated-cached-properties","require-clean","umatch"]
+["calculated-cached-properties","glob-expand","require-clean","uberscore","umatch","upath","urequire","urequire-rc-rxjs5-custom-build"]

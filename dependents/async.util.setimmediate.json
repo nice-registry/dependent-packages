@@ -1,1 +1,1 @@
-["async.auto","async.eachofseries","async.memoize","async.priorityqueue","async.setimmediate","async.util.ensureasync","async.util.nexttick","async.util.queue"]
+["async.auto","async.eachofseries","async.memoize","async.priorityqueue","async.setimmediate","async.util.ensureasync","async.util.nexttick","async.util.queue","curvecp","kad-localstorage-js","kad-memstore-thomas","mm-platform"]

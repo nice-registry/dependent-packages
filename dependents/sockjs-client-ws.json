@@ -1,1 +1,1 @@
-["sockjs-client-ws-mimic","token-sockjs-client"]
+["node-vertxbus","sockjs-client-ws-mimic","sockjs-multichannel","sockjs-rooms","token-sockjs-client","xcf-linux","xcf-server"]

@@ -1,1 +1,1 @@
-["cantina-cron"]
+["cantina-cache","cantina-cron","cantina-queue"]

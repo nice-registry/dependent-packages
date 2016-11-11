@@ -1,1 +1,1 @@
-["qb","qb-monitor","qb-relyq","qb-statsd"]
+["gigwalk","messageq","qb","qb-monitor","qb-relyq","qb-statsd","redis-eval","relyq","simpleq"]

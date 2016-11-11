@@ -1,1 +1,1 @@
-["lookup-deps","mustache-spec","ng-cli","scholar","snippet","template-utils"]
+["angular2-cli","assemble","assemble-handlebars-helpers","assemble-recipes","assemble-workshop","base-cli-process","base-cli-schema","base-config-process","base-config-schema","expand-pkg","generate","glob-fs","lookup-deps","mangony-hbs-helpers","mustache-spec","ng-cli","normalize-pkg","readme-generator","scholar","snippet","template","template-helpers","template-utils","templates","undertaker-app-tasks","undertaker-lib-tasks","update","utils","verb"]

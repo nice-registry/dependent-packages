@@ -1,1 +1,1 @@
-["activity-streams","node-redis-pool","object-assert","secure-store-redis","sockethub","sockethub-platform-feeds","sockethub-platform-irc"]
+["activity-streams","array-keys","binary-data-chunking","connection-manager","node-redis-pool","object-assert","redis-connection-pool","remotestoragejs","secure-store-redis","sockethub","sockethub-client","sockethub-platform-feeds","sockethub-platform-irc","webfinger.js"]

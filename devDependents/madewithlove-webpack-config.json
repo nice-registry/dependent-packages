@@ -1,1 +1,1 @@
-["redux-socket-middleware"]
+["auth-manager","margaret-fetcher","redux-reducer-factory","redux-saga-debounce-effect","redux-socket-middleware"]

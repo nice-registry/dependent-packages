@@ -1,1 +1,1 @@
-["reducers"]
+["buffer-reduce","cache-reduce","callback-reduce","coreduction","dom-reduce","event","fs-reduce","http-reduce","introspect-reduce","invoker","mongo-client","normalize-reduce","reducers","sample","seducer","streduce","tree-reduce","zip-reduce"]

@@ -1,1 +1,1 @@
-["json-parse-async"]
+["exists-file","exists-link","find-up-glob","json-future","json-parse-async"]

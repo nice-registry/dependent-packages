@@ -1,1 +1,1 @@
-["spid-storage-configuration-jsonfile"]
+["spid-storage-configuration-bootfile","spid-storage-configuration-jsonfile","spid-storage-configuration-redis"]

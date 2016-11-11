@@ -1,1 +1,1 @@
-["gideon","gspark","hapi-upload-s3","pkgcloud1","s3-simple-blob-store","s3-tile-storage","swfr","webcdn-downloader"]
+["empujar","gideon","gspark","hapi-upload-s3","hapi-video-encoder","modra-driver-fs","mongo-s3","offworld-heapdumper","pkgcloud","pkgcloud-bluemix-objectstorage","pkgcloud1","pkgcloud_v.1.3_hack","s3-deploy-dotenv","s3-simple-blob-store","s3-tile-storage","swfr","taskcluster-lib-docs","uh-storage","webcdn-downloader","xtralife-dashboard"]

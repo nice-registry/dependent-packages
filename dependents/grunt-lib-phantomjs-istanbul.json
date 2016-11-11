@@ -1,1 +1,1 @@
-["grunt-qunit-examples","grunt-qunit-istanbul-fixed","grunt-qunit-istanbul-plus"]
+["fru-grunt-qunit-istanbul","grunt-qunit-examples","grunt-qunit-istanbul","grunt-qunit-istanbul-fixed","grunt-qunit-istanbul-plus"]

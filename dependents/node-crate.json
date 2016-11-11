@@ -1,1 +1,1 @@
-["loopback-connector-crateio","node-red-contrib-crate","winston-crate"]
+["loopback-connector-crateio","node-red-contrib-crate","sqlpad","winston-crate"]

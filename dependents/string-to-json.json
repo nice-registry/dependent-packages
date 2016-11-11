@@ -1,1 +1,1 @@
-["oplog-transform","periodicjs.ext.admin"]
+["nodenvconf","oplog-transform","periodicjs.core.controller","periodicjs.ext.admin"]

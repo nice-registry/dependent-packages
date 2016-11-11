@@ -1,1 +1,1 @@
-["koa-input","koa-jade","koa-mongoose","koa-repath","koa-resource-builder"]
+["express-prom-bundle","koa-accept-override","koa-acl","koa-async-validator","koa-auth-header","koa-input","koa-jade","koa-jwt-redis-session","koa-mongoose","koa-papers","koa-postcss","koa-pug","koa-repath","koa-resource-builder","koa-sslify","nuodata-db-api","pg-manati","railroad"]

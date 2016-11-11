@@ -1,1 +1,1 @@
-["crud-service"]
+["cf-base-model","cf-crud-service-api-builder","cf-dedupe-list-aggregator","cf-form-cancel-delegate","cf-list-aggregator","cf-signpost","cf-text-search","crud-service","crud-subservice","validation-stream"]

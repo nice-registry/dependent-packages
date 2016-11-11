@@ -1,1 +1,1 @@
-["filter-pouch","pouchdb-abstract-mapreduce","pouchdb-authentication-cloudant","pouchdb-hoodie-sync","pouchdb-hoodie-unsynced-local-docs","pouchdb-migrate"]
+["filter-pouch","pouchdb-abstract-mapreduce","pouchdb-authentication","pouchdb-authentication-cloudant","pouchdb-browser-level","pouchdb-find","pouchdb-full-sync","pouchdb-hoodie-api","pouchdb-hoodie-sync","pouchdb-hoodie-unsynced-local-docs","pouchdb-load","pouchdb-migrate","pouchdb-quick-search","pouchdb.mapreduce.noeval","relational-pouch"]

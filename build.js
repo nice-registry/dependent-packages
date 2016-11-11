@@ -6,6 +6,7 @@ const uniq = require('lodash.uniq')
 const rm = require('rimraf').sync
 const mkdirp = require('mkdirp')
 const fuckups = ['es-snapshot', 'textile-engine']
+let count = 0
 
 function emptyDir(name) {
   rm(path.join(__dirname, name))
@@ -18,16 +19,17 @@ emptyDir('devDependents')
 registry
   .on('package', function (pkg) {
     try {
-      process.stdout.write('\n' + pkg.name)
+      process.stdout.write(`\n${pkg.name} (${++count})`)
       extract(pkg, 'dependencies')
       extract(pkg, 'devDependencies')
     } catch (e) {
-      console.error('\n\n\n\n')
+      console.error('\n\n\n')
       console.error(e)
-      console.error('\n\n\n\n')
+      console.error('\n\n\n')
     }
   })
   .on('up-to-date', function () {
+    console.log('up to date')
     process.exit()
   })
 

@@ -1,1 +1,1 @@
-["assemble-handlebars-3","assemble-indexer","grunt-assemble-anchors","load-options","readme-includes"]
+["assemble-handlebars-3","assemble-indexer","assemble-middleware-anchors","assemble-middleware-permalinks","grunt-assemble","grunt-assemble-anchors","grunt-assemble-zrh","load-options","readme-includes","utils"]

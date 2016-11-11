@@ -1,1 +1,1 @@
-["middleware-json-parse"]
+["http-error-factories","middleware-json-parse"]

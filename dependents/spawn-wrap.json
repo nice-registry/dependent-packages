@@ -1,1 +1,1 @@
-["phl","spawn-require"]
+["kpdecker-nyc","nyc","phl","spawn-log","spawn-require","tarec-plugin-mocha-test"]

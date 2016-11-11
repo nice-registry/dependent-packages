@@ -1,1 +1,1 @@
-["express-gettext","grunt-ejs-render-i18n","grunt-gettext-static-build","hapi-l10n-gettext","kotsu","xgettext-dust"]
+["devuo-gettext","express-gettext","grunt-ejs-render-i18n","grunt-gettext-static-build","grunt-we-ng-tpl","hapi-l10n-gettext","hernanex3-grunt-static-i18n","hogan-i18n","i18next-conv","i18next-conv-inline","kotsu","node-gettext-sprintf","nv","po2icu","xgettext-dust"]

@@ -1,1 +1,1 @@
-["superagent-http-signature"]
+["crypto-browserify","native-crypto","runtime-node-crypto","superagent-http-signature"]

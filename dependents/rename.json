@@ -1,1 +1,1 @@
-["agave-documentation","ep","generico","grunt-hasp-css","gulp-hasp-css","gulp-lego","gulp-ryspm","gulp-spm","gulp-transport","open-browser","serve-lego","serve-spm","watch-uglify"]
+["agave-documentation","browserify-build","cache-digest-brunch","chui","ep","generico","grunt-hasp-css","gulp-hasp-css","gulp-lego","gulp-logger","gulp-responsive","gulp-responsive-images","gulp-ryspm","gulp-spm","gulp-transport","open-browser","retis","serve-lego","serve-spm","watch-uglify"]

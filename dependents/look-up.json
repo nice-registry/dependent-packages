@@ -1,1 +1,1 @@
-["assemble-cli","config-file","deploy-asset-release","glob-fs-gitignore","look-up-cli","lookup-deps","post-web","postweb","tape-init"]
+["argo-cli","assemble-cli","config-file","deploy-asset","deploy-asset-release","glob-fs-gitignore","look-up-cli","lookup-deps","nio","post-web","postweb","silk-cli","tape-init","whim"]

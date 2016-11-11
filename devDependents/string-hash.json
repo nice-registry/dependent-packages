@@ -1,1 +1,1 @@
-["postcss-autoextend"]
+["immutable-hash","persistent-hash-trie","postcss-autoextend"]

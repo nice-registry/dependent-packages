@@ -1,1 +1,1 @@
-["bookshelf-fields","opensoc-ui"]
+["bookshelf-base-model","bookshelf-fields","bookshelf-schema","krypton-orm","lodash-checkit","mongoose-checkit","niftycloud-auth","opensoc-ui","tennu-respond"]

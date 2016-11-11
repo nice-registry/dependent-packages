@@ -1,1 +1,1 @@
-["rx-lite-angular-compat","rx-lite-dom-ajax-compat","rx-lite-dom-compat","rx-lite-dom-events-compat"]
+["rx-lite-aggregates-compat","rx-lite-angular-compat","rx-lite-async-compat","rx-lite-backpressure-compat","rx-lite-coincidence-compat","rx-lite-dom-ajax-compat","rx-lite-dom-compat","rx-lite-dom-events-compat","rx-lite-experimental-compat","rx-lite-extras-compat","rx-lite-joinpatterns-compat","rx-lite-time-compat","rx-lite-virtualtime-compat"]

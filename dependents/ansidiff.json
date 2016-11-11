@@ -1,1 +1,1 @@
-["es6-transpiler","tap-simple"]
+["es6-transpiler","esdiff","tap-difflet","tap-simple","wavy-api"]

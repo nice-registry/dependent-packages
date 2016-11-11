@@ -1,1 +1,1 @@
-["node-shovel"]
+["karma-subunit-reporter","node-shovel","node-subunit","openstack-lib","subunit-js"]

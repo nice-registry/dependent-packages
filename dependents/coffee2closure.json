@@ -1,1 +1,1 @@
-["grunt-este"]
+["grunt-closure-coffee-stack","grunt-este","gulp-coffee2closure"]

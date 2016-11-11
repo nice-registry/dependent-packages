@@ -1,1 +1,1 @@
-["beaglebone-io","grove-gray-oled-js-bbg","mpr121.js","nunchuck-js","pcduino-io","raspberry-sensor-sense-hat","rpitd","xloborg"]
+["adafruit-i2c-lcd","adafruit-mpr121","beaglebone-io","beaglebone-windvane","caf_rpi_nap","caf_rpi_zx","compass-hmc5883l","favor","favor-it","grove-gray-oled-js-bbg","hts221-js","i2c-sensor-am2315","ina219","lcdi2c","ledpanel","lps25h-js","mpr121.js","node-gopigo","node-grovepi","node-grovepi-tm","node-i2c-mcp23017","nunchuck-js","pcduino-io","raspberry-sensor-sense-hat","raspi-i2c","rpitd","vex4pi","webpowermon","xloborg"]

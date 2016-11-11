@@ -1,1 +1,1 @@
-["cidoc","docker-ci","wires-bash","wires-client","wires-include-all","wires-server"]
+["cidoc","docker-ci","image-server-client","wires-bash","wires-client","wires-include-all","wires-mongo","wires-server"]

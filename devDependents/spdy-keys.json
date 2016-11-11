@@ -1,1 +1,1 @@
-["normalize-registry","spdy-push"]
+["koa-file-server","koa-normalize","koa-spdy-push","normalize-agent","normalize-client","normalize-proxy","normalize-registry","push-polyfills","spdy-push"]

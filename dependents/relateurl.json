@@ -1,1 +1,1 @@
-["html_min"]
+["html-minifier","html_min","rehype-minify-url"]

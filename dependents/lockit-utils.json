@@ -1,1 +1,1 @@
-["lockit","lockit-delete-account","lockit-login"]
+["lockit","lockit-auth","lockit-delete-account","lockit-login","lockit-login-auth"]

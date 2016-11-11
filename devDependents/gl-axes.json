@@ -1,1 +1,1 @@
-["3d-view","delaunay-triangulate","gl-scatter-plot","gl-simplicial-complex","orbit-camera-controller","turntable-camera-controller","voronoi-diagram"]
+["3d-view","delaunay-triangulate","gl-error-bars","gl-line-plot","gl-line3d","gl-scatter-plot","gl-simplicial-complex","incremental-delaunay","orbit-camera-controller","spherical-triangulation","turntable-camera-controller","voronoi-diagram"]

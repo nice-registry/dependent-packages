@@ -1,1 +1,1 @@
-["crunch-js","gl-surface-plot","ndarray-chunk","ndarray-heatmap"]
+["code2stl","crunch-js","get-pixels","gl-surface-plot","gl-surface3d","ndarray-bundle","ndarray-chunk","ndarray-heatmap","static-kdtree","tsne-js"]

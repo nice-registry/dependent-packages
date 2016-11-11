@@ -1,1 +1,1 @@
-["textlint-rule-max-ten"]
+["markdown-to-ast","sentence-splitter","spellcheck-growthbeat-word","spellcheck-technical-word","textlint","textlint-plugin-asciidoc-loose","textlint-plugin-html","textlint-plugin-rst","textlint-rule-bittermelon","textlint-rule-max-ten","textlint-rule-prh","textlint-rule-spellcheck-growthbeat-word","textlint-util-to-string"]

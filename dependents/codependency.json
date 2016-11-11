@@ -1,1 +1,1 @@
-["broccoli-stylus-sourcemaps","logentries-client","metalsmith-metafiles"]
+["broccoli-stylus-single","broccoli-stylus-sourcemaps","ctrl-web-socket-server","logentries-client","metalsmith-metafiles","waterline-lighter"]

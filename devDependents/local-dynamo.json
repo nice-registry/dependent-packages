@@ -1,1 +1,1 @@
-["bunyan-dynamodb","simple-dyno"]
+["bunyan-dynamodb","connect-dynamodb-session","dynamite","simple-dyno","vogels-cache"]

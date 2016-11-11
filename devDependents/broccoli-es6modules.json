@@ -1,1 +1,1 @@
-["ember-package","ember-table","workerio"]
+["ember-package","ember-table","emblem","orbit-core","orbit-indexeddb","orbit-jsonapi","orbit-local-storage","orbit-store","salesforce-ember-models","salesforce-schema-reader","smack-js-compiler","where-clause-evaluate","workerio"]

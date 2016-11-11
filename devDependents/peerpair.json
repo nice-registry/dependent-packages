@@ -1,1 +1,1 @@
-["rtc-core"]
+["rtc-bufferedchannel","rtc-core","rtc-dcstream","rtc-tools"]

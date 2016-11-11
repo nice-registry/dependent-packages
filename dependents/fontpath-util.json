@@ -1,1 +1,1 @@
-["fontpath-renderer"]
+["fontpath-glyph-iterator","fontpath-renderer","fontpath-vecmath"]

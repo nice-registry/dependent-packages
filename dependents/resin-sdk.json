@@ -1,1 +1,1 @@
-["resin-cli-events","resin-config-json"]
+["resin-cli","resin-cli-auth","resin-cli-events","resin-config-json","resin-device-config","resin-device-init","resin-image-manager","resin-integrator","resin-plugin-sync","resin-sync"]

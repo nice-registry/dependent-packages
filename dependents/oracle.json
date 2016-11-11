@@ -1,1 +1,1 @@
-["light-framework","oracle-api","orapool","sails-oracledb"]
+["dbtool","light-framework","migrate-oracle-to-mysql","oracle-api","oracle-utilities","orapool","sails-oracle","sails-oracledb","seneca-oracle-store"]

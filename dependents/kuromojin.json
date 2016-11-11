@@ -1,1 +1,1 @@
-["kuromoji-cli","textlint-rule-max-appearence-count-of-words","textlint-rule-max-ten","textstat-plugin-ja"]
+["analyze-desumasu-dearu","kuromoji-cli","kuromojist","textlint-rule-ja-no-abusage","textlint-rule-ja-no-successive-word","textlint-rule-ja-no-weak-phrase","textlint-rule-max-appearence-count-of-words","textlint-rule-max-ten","textlint-rule-no-doubled-conjunction","textlint-rule-no-doubled-conjunctive-particle-ga","textlint-rule-no-doubled-joshi","textlint-rule-no-dropping-the-ra","textstat-plugin-ja"]

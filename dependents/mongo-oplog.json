@@ -1,1 +1,1 @@
-["knot-mongo-graph-connector","lapidus","lowladb-node-mongo","mongo-listener","mongo-trigger","mongodb-oplog-publisher","node-thing","oplog-transform-tail"]
+["app-dbsync","app-dbtool","apptool","data-line-expansion-mongodb","knot-mongo-graph-connector","lapidus","lowladb-node-mongo","marvel-agent","mongo-cached-find","mongo-listener","mongo-trigger","mongodb-oplog-publisher","mongodb-tailor","mongodb-trigger","node-elasticsearch-sync","node-thing","oplog-transform-tail","opserver","reactive-mongo","spincycle"]

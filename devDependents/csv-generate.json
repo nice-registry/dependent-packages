@@ -1,1 +1,1 @@
-["stream-transform"]
+["csv-parse","csv-stringify","stream-transform"]

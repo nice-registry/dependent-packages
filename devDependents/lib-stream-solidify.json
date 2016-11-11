@@ -1,1 +1,1 @@
-["lib-init","lib-job-queue"]
+["lib-init","lib-job-queue","lib-stream-http","lib-stream-series"]

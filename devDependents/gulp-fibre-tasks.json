@@ -1,1 +1,1 @@
-["pg-long"]
+["msgpack-javascript","pg-crypt","pg-long","pg-uuid"]

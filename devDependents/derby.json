@@ -1,1 +1,1 @@
-["derby-email","derby-render"]
+["connect-derby","derby-email","derby-entities-lib","derby-render","derby-user","sharedb-backend-hooks"]

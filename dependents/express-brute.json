@@ -1,1 +1,1 @@
-["brute-rethinkdb","express-brute-pg","express-brute-redis"]
+["brute-knex","brute-rethinkdb","express-brute-couchbase","express-brute-loki","express-brute-memcached","express-brute-mongoose","express-brute-mongoose-anodot","express-brute-pg","express-brute-redis","express-brute-sequelize","quail-rest","staticman"]

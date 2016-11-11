@@ -1,1 +1,1 @@
-["boss-daemon"]
+["baseapp.matrix","boss-daemon","guvnor","pm2-server-monit","sysmonitor-client"]

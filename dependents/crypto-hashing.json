@@ -1,1 +1,1 @@
-["bip38-decrypt","bitcore-namecoin","btc-address","btc-script","btc-transaction","coinmsg","ecdsa-signed-response"]
+["bip38-decrypt","bitcore-namecoin","btc-address","btc-script","btc-transaction","cc-assetid-encoder","cc-metadata-handler","coinmsg","colu","ecdsa-signed-response","hdwallet","namecoin-transaction"]

@@ -1,1 +1,1 @@
-["cantina-cron","cantina-models"]
+["cantina-app-ui-users","cantina-app-users","cantina-auth-twitter","cantina-cache","cantina-cron","cantina-models","cantina-models-redis","cantina-permissions","cantina-session","cantina-tokens"]

@@ -1,1 +1,1 @@
-["body-parser-extendable","browser-emitter","event-drive","log-life","noleak-emitter","supertimer","task-strategy","web-storages"]
+["body-parser-extendable","browser-emitter","event-drive","grunt-q","grunt-runner","grunt-tree-prepare","locale-list","log-life","noleak-emitter","stable-socket","supertimer","task-strategy","time-calc","web-storages"]

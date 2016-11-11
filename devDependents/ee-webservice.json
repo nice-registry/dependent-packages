@@ -1,1 +1,1 @@
-["em-formdata-collector","restful-api-client"]
+["em-basicauth","em-formdata-collector","request-rate-limiter","restful-api-client"]

@@ -1,1 +1,1 @@
-["vega-browserify"]
+["vega-browserify","vega-crossfilter","vega-encode","vega-force","vega-geo","vega-hierarchy","vega-voronoi"]

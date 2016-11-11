@@ -1,1 +1,1 @@
-["mongodb-models","mydb-client"]
+["everlive-sdk","expressa","koa-mongodb-session","mongodb-models","mydb-client"]

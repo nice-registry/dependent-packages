@@ -1,1 +1,1 @@
-["tap-runner"]
+["ensure","fast-or-slow","nodeunit-fork","nodeunit2","tap-harness","tap-runner"]

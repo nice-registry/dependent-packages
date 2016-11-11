@@ -1,1 +1,1 @@
-["ember-bugsnag"]
+["ember-bugsnag","ember-cli-bugsnag","mongodb-js-metrics"]

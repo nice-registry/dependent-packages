@@ -1,1 +1,1 @@
-["domine-html5","is-html","jsx-to-dom","jsx-to-html","polish-no-styling-elements"]
+["dom-stats","domine-html5","eslint-plugin-jsx","gulp-jsxify","is-html","jsx-to-dom","jsx-to-html","midas","polish-no-styling-elements","react-gen-props","stylelint","template-dom"]

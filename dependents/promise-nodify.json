@@ -1,1 +1,1 @@
-["pouchdb-erase","pouchdb-seamless-auth","pouchdb-size","pouchdb-wrappers"]
+["pouchdb-auth","pouchdb-erase","pouchdb-list","pouchdb-replicator","pouchdb-rewrite","pouchdb-seamless-auth","pouchdb-security","pouchdb-show","pouchdb-size","pouchdb-update","pouchdb-vhost","pouchdb-wrappers"]

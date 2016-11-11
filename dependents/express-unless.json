@@ -1,1 +1,1 @@
-["express-aad-jwt","express-jwt-2","express-jwt-axss","restify-jwks","userbase"]
+["double-submit-cookies","express-aad-jwt","express-acl","express-basic-token","express-jwt","express-jwt-2","express-jwt-axss","github-webook-signature-middleware","moesifapi-express","opensesame","restify-jwks","restify-jwt","restify-server-manager","restify-versioning-middleware","userbase","web-trenets"]

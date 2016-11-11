@@ -1,1 +1,1 @@
-["audio5","httparchive.js","node-redis-queue","pjs-mediagen-parser","pjs-mrss-parser","pjs-vmap-parser","sidekiq"]
+["audio5","bugsnag-js","chrome-i18n","flypaper","front-bugsnag-js","grunt-codename","grunt-sildoc","handlebars-precompile-directory","httparchive.js","iconate","node-redis-queue","pjs-form-factor-mapper","pjs-logger","pjs-mediagen-parser","pjs-mrss-parser","pjs-vmap-parser","sidekiq","simple-redis-queue","superhuman-bugsnag-js","vmap-parser","wheelhouse-couch","wheelhouse-handlebars","wheelhouse-model","wheelhouse-resource","wheelhouse-router","winston-hipchat"]

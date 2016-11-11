@@ -1,1 +1,1 @@
-["rle-components"]
+["mesh-to-binvox","rle-classify","rle-components","rle-extents","rle-funcs","rle-mesh","rle-ndarray","rle-rasterize","rle-repair","rle-sample","rle-save-binvox"]

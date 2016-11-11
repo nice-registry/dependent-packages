@@ -1,1 +1,1 @@
-["gulp-lsn-angular-file-sorter","ng-filesort"]
+["grunt-angular-file-loader","grunt-angular-file-loader2","gulp-angular-filesort","gulp-lsn-angular-file-sorter","karma-angular-filesort","ng-filesort","wallaby-angular-filesort"]

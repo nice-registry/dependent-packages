@@ -1,1 +1,1 @@
-["couchdb-objects","pouchdb-req-http-query"]
+["couchdb-objects","express-pouchdb","mockserver","pouchdb-req-http-query"]

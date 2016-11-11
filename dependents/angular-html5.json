@@ -1,1 +1,1 @@
-["grunt-angular-htmlify"]
+["grunt-angular-htmlify","gulp-angular-htmlify"]

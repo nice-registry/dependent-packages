@@ -1,1 +1,1 @@
-["bigpipe-domain","bigpipe-minifier","bootstrap-pagelet","fittings","pagelet"]
+["bigpipe-content","bigpipe-domain","bigpipe-layout","bigpipe-minifier","bigpipe-watch","bootstrap-pagelet","configuration-pagelet","fittings","pagelet","sign-in-pagelet","sign-up-pagelet","system-pagelet","user-pagelet","users-pagelet","vote-pagelet"]

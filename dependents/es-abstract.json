@@ -1,1 +1,1 @@
-["array.prototype.find","core-x","map-tojson","object.entries","object.values","regexp.escape","set-tojson","string-at","string.prototype.padright","tang-union-find"]
+["array-includes","array.from","array.prototype.find","array.prototype.findindex","core-x","generator-arc","is-x","map-tojson","object.entries","object.getownpropertydescriptors","object.values","promise.prototype.finally","promise.try","regexp.escape","set-tojson","string-at","string.prototype.padleft","string.prototype.padright","string.prototype.padstart","string.prototype.trim","tang-union-find"]

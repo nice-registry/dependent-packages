@@ -1,1 +1,1 @@
-["hapi-couchdb-store","hoodie-standalone-store"]
+["corsproxy","corsproxy2","hapi-couchdb-store","hoodie-standalone-store","kazana-server"]

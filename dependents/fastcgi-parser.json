@@ -1,1 +1,1 @@
-["connect-yii","httpjs"]
+["connect-fastcgi","connect-yii","fastcgi","fastcgi-server","httpjs","pm2-php-fpm"]

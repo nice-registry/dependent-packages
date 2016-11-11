@@ -1,1 +1,1 @@
-["authenticator","lockit-utils","zetta-app","zetta-login"]
+["auth-center","authenticator","circle-api","elementz-sso","gzotp","iris-app","lockit-utils","node-2fa","nodebb-plugin-2factor","passport-2fa-totp","passport-hotp","passport-totp","passport-totp-req","quickotp","rm3","sotp","telegram-totp-bot","totp-cli","zetta-app","zetta-login"]

@@ -1,1 +1,1 @@
-["grunt-build-postcss","spm-build"]
+["grunt-build-postcss","grunt-mbb-build","mspm","seajs-packager","slate-build","spm-build","spm-chaos-build","spm-modules-build","spm-storeinc-build","spm-wb-build","spm-zjj-build","wenke"]

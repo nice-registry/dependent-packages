@@ -1,1 +1,1 @@
-["broccoli-clean-css","broccoli-esnext","ereqt","express-compile-sass","forking-tap","grunt-esnext","node-sass-evergreen","yoloader"]
+["broccoli-clean-css","broccoli-esnext","ereqt","express-compile-sass","express-systemjs-translate","forking-tap","gourmet-server","grunt-esnext","hotpot","node-jspm-jasmine","node-sass-evergreen","nutra-babel","nutra-coverage","nutra-jspm","nutra-mock","tolk","yoloader"]

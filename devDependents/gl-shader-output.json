@@ -1,1 +1,1 @@
-["glsl-blend-overlay","glsl-blend-soft-light"]
+["fourier-transform","glsl-blend-overlay","glsl-blend-soft-light","glsl-hsl2rgb"]

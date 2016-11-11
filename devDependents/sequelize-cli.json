@@ -1,1 +1,1 @@
-["axes-api","lan","sequelstore-connect","supertoken","validator-registry-api"]
+["axes-api","lan","lightning-server","mentat","restifizer","sequelize-models","sequelize-session-store","sequelstore-connect","supertoken","validator-registry-api"]

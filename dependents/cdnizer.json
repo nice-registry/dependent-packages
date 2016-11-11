@@ -1,1 +1,1 @@
-["broccoli-cdnizer"]
+["broccoli-cdnizer","gulp-cdnizer","webpack-s3-plugin"]

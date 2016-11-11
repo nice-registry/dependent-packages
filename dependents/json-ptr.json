@@ -1,1 +1,1 @@
-["consul-kv-sync","dto","gce-inventory","json-path"]
+["boco-cached-firebase","boco-object-store","boco-secrets","chix-flow","consul-kv-sync","dto","gce-inventory","json-from-schema","json-path","prg","visor"]

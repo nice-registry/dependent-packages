@@ -1,1 +1,1 @@
-["express-kafka-producer"]
+["bunyan-influxdb","express-kafka-producer"]

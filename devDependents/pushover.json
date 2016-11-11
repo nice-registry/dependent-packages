@@ -1,1 +1,1 @@
-["git-controller","git-side-band-message"]
+["git-controller","git-emit","git-side-band-message","github-push-receive","gitty"]

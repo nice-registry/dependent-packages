@@ -1,1 +1,1 @@
-["split-with"]
+["buf2str","drop-while","key-remap","map-require","merge-with","reductions","split-with","take-while"]

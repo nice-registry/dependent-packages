@@ -1,1 +1,1 @@
-["gulp-dest-paths","polyclean","template-init","template-render"]
+["gulp-bump","gulp-collection","gulp-debug-finder","gulp-dest-paths","gulp-json-modify","gulp-lesshint","gulp-map-files","gulp-mongodb-data","gulp-unretina","handlebars-what-partial","notary","performance-budget","polyclean","template-init","template-render","verb"]

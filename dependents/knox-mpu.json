@@ -1,1 +1,1 @@
-["aws-mongodump","big-query-bot","dumpstr","mongodump-stream","quick-s3","s3-rsync"]
+["aws-mongodump","big-query-bot","dumpstr","dyngodb2","esarchive","mongodump-stream","quick-s3","s3-rsync","sails-s3","unzip-to-s3"]

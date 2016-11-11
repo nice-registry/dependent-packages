@@ -1,1 +1,1 @@
-["hapi-email","stream-to-s3"]
+["aws-lambda-helper","hapi-auth-facebook","hapi-auth-github","hapi-auth-github-example","hapi-auth-google","hapi-email","hapi-redis-connection","learn-nightwatch","redis-connection","redis-pool-connection","sendemail","stream-to-s3","taggable-searcher"]

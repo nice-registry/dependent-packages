@@ -1,1 +1,1 @@
-["area-matcher","geomorph","geotype","hoods","introturf","mapheat","node-geojson-grid","parcel-gridder","tilemantle","torpedo","turf-jsdoc"]
+["area-matcher","fences-slicer","finnish-aip","geo-find-close-polylines","geomorph","geotype","hoods","introturf","isodist","mapheat","nearby-cities","node-geojson-grid","node-red-contrib-turf","osm2geojson-polygon","osm2x3d","osmlint","parcel-gridder","polygon-city-cli","polygon-city-cli-multi","random-points-generator","react-webmap","stacker-of-worlds","tile-maker","tilemantle","torpedo","turf-cli","turf-jsdoc","turf-runner"]

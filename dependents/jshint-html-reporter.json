@@ -1,1 +1,1 @@
-["grunt-regex-extract"]
+["grunt-jshint-extended","grunt-regex-extract"]

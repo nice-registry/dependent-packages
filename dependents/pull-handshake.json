@@ -1,1 +1,1 @@
-["icebreaker-rpc","private-stream"]
+["binomial-hash-list","icebreaker-rpc","libp2p-secio","multistream-select","private-stream","pull-2step-replicate","secret-handshake"]

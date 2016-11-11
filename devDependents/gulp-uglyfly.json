@@ -1,1 +1,1 @@
-["dchart","gulp-requirejs2"]
+["cocos2d-js-helpers","dchart","dchart-core","gulp-requirejs2","wxa-compressor"]

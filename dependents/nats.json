@@ -1,1 +1,1 @@
-["cf-queue","lapidus","nats-repl","node-humix","node-humix-sense","node-red-contrib-nats","sockjs-nats-server"]
+["cf-queue","fruster-bus","hapi-health-check","humix-sense","lapidus","nats-node-rpc","nats-repl","nats-sockjs-server","nats-weather-service","natsify","node-humix","node-humix-sense","node-nats-streaming","node-red-contrib-nats","qaap-node-kickstart","qb-nats","raft-nats","seneca-nats-transport","socket.io-nats","socket.io-nats-emitter","sockjs-nats-server"]

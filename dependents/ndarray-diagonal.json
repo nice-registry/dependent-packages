@@ -1,1 +1,1 @@
-["ndarray-determinant","ndarray-householder-qr","ndarray-ldl-factorization","ndarray-trace"]
+["ndarray-determinant","ndarray-householder-qr","ndarray-householder-qr-complex","ndarray-ldl-factorization","ndarray-lup-factorization","ndarray-trace"]

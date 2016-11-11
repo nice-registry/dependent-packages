@@ -1,1 +1,1 @@
-["async-future","blocks.js","build-modules","gem.js","grapetree","grapetree-core","incremental-installer","installer-maker","nqm-mongo-parse","proto","stackinfo"]
+["async-future","blocks.js","build-modules","deadunit-core","gem","gem.js","grapetree","grapetree-core","incremental-installer","incremental-installer-maker","installer-maker","keysight","mongo-parse","nqm-mongo-parse","odiff","proto","require-traverser","sourcemap-locator","stackinfo"]

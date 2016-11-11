@@ -1,1 +1,1 @@
-["carrier-mongo"]
+["bem-crud-core","bem-invoke-db-hook","bem-mongo","bem-register","carrier-mongo"]

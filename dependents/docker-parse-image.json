@@ -1,1 +1,1 @@
-["docker-registry-server","docker-tag"]
+["docker-pull","docker-registry-server","docker-tag"]

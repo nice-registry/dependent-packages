@@ -1,1 +1,1 @@
-["node-core-audio-edison"]
+["node-core-audio","node-core-audio-edison","node-red-contrib-fft","prong"]

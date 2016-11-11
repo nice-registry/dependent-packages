@@ -1,1 +1,1 @@
-["chainscript","expandobem","github-config","jstransformer-bliss","jstransformer-mdast","jstransformer-ractive","jstransformer-riotjs","update-package","vez"]
+["base-cli-process","base-cli-schema","canvas-support-utils","chainscript","content2json","expandobem","github-config","gulpy-boiler-config","gulpy-boiler-utils","jstransformer-bliss","jstransformer-mdast","jstransformer-ractive","jstransformer-riotjs","kronos-step","npm-api","npm-info","password-revealer","startcraft","update-package","updater-travis","vez"]

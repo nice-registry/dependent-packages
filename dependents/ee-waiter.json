@@ -1,1 +1,1 @@
-["ee-dynamodb","em-rest"]
+["ee-aws-s3-bucket","ee-dynamodb","ee-machine-id","ee-mysql","ee-mysql-schema","ee-webserver","em-api-restrictions","em-rest"]

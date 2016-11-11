@@ -1,1 +1,1 @@
-["streamfilter"]
+["bufferstreams","gulp-streamify","streamfilter"]

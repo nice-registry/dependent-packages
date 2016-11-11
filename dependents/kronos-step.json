@@ -1,1 +1,1 @@
-["kronos-step-archive-arangodb"]
+["kronos-adapter-inbound-file","kronos-adapter-inbound-http","kronos-adapter-inbound-http-file","kronos-adapter-outbound-file","kronos-adapter-outbound-http","kronos-adapter-outbound-loadbalancer","kronos-flow","kronos-flow-control-step","kronos-http-routing-step","kronos-service-manager","kronos-step-aggregate","kronos-step-archive-arangodb","kronos-step-archive-tar","kronos-step-data-processor-csv","kronos-step-file","kronos-step-gzip","kronos-step-logger","kronos-step-passthrough","kronos-step-stdio","kronos-step-system"]

@@ -1,1 +1,1 @@
-["resolve-glob"]
+["base-app","base-config-schema","base-register","copy","delete","delete-empty","expand-files","fs-utils","generate-gulpfile","getpapers","glob-keys","gulp-dry","gulp-unused","helper-apidocs","load-helpers","load-templates","multi-entry-loader","resolve-glob","resolve-up","rollup-plugin-multi-entry","template"]

@@ -1,1 +1,1 @@
-["codemetrics-process-sloc","grunt-file-sloc","gulp-sloc","ljve.io","sloc-for-jenkins"]
+["codemetrics-process-sloc","galaxy-parser","grunt-cellarise-istanbul","grunt-cmd-combo2","grunt-file-sloc","grunt-maxlines","grunt-sloccount","gulp-sloc","gulp-sloc2","istanbul-reporter-clover-limits","ljve.io","metropolis","metropolis-core","module-data","njs-stats","sloc-for-jenkins","sloccount","xxl"]

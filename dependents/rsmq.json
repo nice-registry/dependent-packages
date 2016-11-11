@@ -1,1 +1,1 @@
-["job-broker","mc-core","rest-rsmq","task-queue-worker"]
+["job-broker","mc-core","nodejs-utils","redis-message","rest-rsmq","rsmq-cli","rsmq-consumer","rsmq-worker","seguir","task-queue-worker","websocketmq"]

@@ -1,1 +1,1 @@
-["mojito","mojito-cache","mojito-debug","mojito-dimensions-base","mojito-globals","mojito-jscheck","mojito-pipeline","mojito-rs-hotswap","mojito-shaker","mojito-waterfall"]
+["mojito","mojito-cache","mojito-cli-dimension","mojito-config-expansion","mojito-debug","mojito-dimensions-base","mojito-globals","mojito-image-lazyload","mojito-jscheck","mojito-markup-test","mojito-pipeline","mojito-rs-hotswap","mojito-shaker","mojito-waterfall"]

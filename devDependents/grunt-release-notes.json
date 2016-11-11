@@ -1,1 +1,1 @@
-["grunt-build-gh-pages"]
+["grasshopper-admin","grasshopper-api","grasshopper-core","grunt-build-gh-pages","grunt-requirejs-paths"]

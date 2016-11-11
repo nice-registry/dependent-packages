@@ -1,1 +1,1 @@
-["grpc-client","jsonschema-protobuf","resolve-protobuf-schema","sql-protobuf"]
+["bin-protocol","grpc-client","jsonschema-protobuf","protocol-buffers","resolve-protobuf-schema","sql-protobuf"]

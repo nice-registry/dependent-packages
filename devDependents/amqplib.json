@@ -1,1 +1,1 @@
-["amqprpc","gn-hapi-rabbit-stats","rabbitmq-tracing","telemetryupdate"]
+["amqplib-rpc","amqprpc","amqpworkers","coworkers","gn-hapi-rabbit-stats","hulk-cut","jhaynie-amqplib-retry","msgflo","msgflo-nodejs","proton-amqp-exchange","proton-amqp-queue","rabbitmq-tracing","tcptestproxy","telemetryupdate","traceview","zhike-crm-entrance"]

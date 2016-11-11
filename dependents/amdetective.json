@@ -1,1 +1,1 @@
-["gluejs","gulp-sort-amd","requirepack"]
+["gluejs","gulp-sort-amd","modulor","requirepack","transform-runner"]

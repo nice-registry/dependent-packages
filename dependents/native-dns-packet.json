@@ -1,1 +1,1 @@
-["dnschain","dnsjs","nsfilter","smartdns"]
+["dns-map","dns-proxy","dns-transmit-service","dnschain","dnsjs","dnsmm","native-dns","native-dns-cache","native-dns-multisocket","native-dns-rogerc","node-dns","nsfilter","rainbow-dns","sinodns","smartdns","zonemaster"]

@@ -1,1 +1,1 @@
-["3d-view","3d-view-controls","delaunay-triangulate","gl-axes","loop-subdivide","orbit-camera-controller","orbiter","turntable-camera-controller","voronoi-diagram"]
+["3d-view","3d-view-controls","delaunay-triangulate","gl-axes","incremental-delaunay","loop-subdivide","orbit-camera-controller","orbiter","spherical-triangulation","turntable-camera-controller","voronoi-diagram"]

@@ -1,1 +1,1 @@
-["go-jsonrpc","redis-rstream","remjson"]
+["accum","go-jsonrpc","jayson","redis-rstream","redis-wstream","remjson"]

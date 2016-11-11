@@ -1,1 +1,1 @@
-["bittodo","icebreaker-rpc","mynosql","private-stream"]
+["bittodo","fs-pull-blob-store","icebreaker-network","icebreaker-rpc","idb-pull-blob-store","interface-connection","ipfs-bitswap","ipfs-repo","libp2p-secio","mtg-tourney-app","multiblob","mynosql","private-stream","pull-http-client","pull-reconnect","pull-xhr","secure-scuttlebutt"]

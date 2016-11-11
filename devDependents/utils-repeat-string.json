@@ -1,1 +1,1 @@
-["math-float64-get-high-word","math-float64-to-words"]
+["math-float32-from-word","math-float32-nextafter","math-float32-to-word","math-float64-get-high-word","math-float64-nextafter","math-float64-to-words"]

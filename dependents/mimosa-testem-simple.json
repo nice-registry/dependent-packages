@@ -1,1 +1,1 @@
-["mimosa-ember-test","mimosa-testem-require"]
+["mimosa-ember-test","mimosa-testem-qunit","mimosa-testem-require"]

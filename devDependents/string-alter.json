@@ -1,1 +1,1 @@
-["grunt-transform"]
+["grunt-raven-wrap","grunt-transform"]

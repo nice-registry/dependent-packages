@@ -1,1 +1,1 @@
-["mserv","taskcluster-npm-cache"]
+["azure-entities","docker-exec-websocket-server","epochtalk-core-pg","koa-identify","mserv","taskcluster-cli","taskcluster-client","taskcluster-example-worker","taskcluster-lib-api","taskcluster-lib-legacyentities","taskcluster-lib-log","taskcluster-lib-testing","taskcluster-npm-cache","taskcluster-task-factory","taskcluster-vcs","the_validator"]

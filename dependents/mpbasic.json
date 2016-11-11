@@ -1,1 +1,1 @@
-["task-queue-worker"]
+["aws-s3-form","hyperrequest","nsq-logger","nsq-nodes","nsq-topics","nsq-watch","polar-sdk","redis-heartbeat","redis-notifications","rsmq-cli","rsmq-worker","systemhealth","task-queue-worker","warni"]

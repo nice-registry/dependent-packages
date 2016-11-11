@@ -1,1 +1,1 @@
-["gulp-angular-injector","nginjector-loader","webpack-angular-injector-plugin"]
+["browserify-angular-injector","grunt-angular-injector","gulp-angular-injector","nginjector-loader","webpack-angular-injector-plugin"]

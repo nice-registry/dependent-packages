@@ -1,1 +1,1 @@
-["gulp-ccr-concat","gulp-ccr-each"]
+["gulp-ccr-concat","gulp-ccr-each","gulp-ccr-each-dir","gulp-ccr-watch"]

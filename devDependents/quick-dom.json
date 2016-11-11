@@ -1,1 +1,1 @@
-["data-binding-plugin","get-dataset","nouage"]
+["data-binding-plugin","dom-stack","event-plugin","get-dataset","get-nodes","jsonp-utils","nouage","place-plugin","script-utils","seam","seam-view"]

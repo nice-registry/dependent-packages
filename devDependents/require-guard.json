@@ -1,1 +1,1 @@
-["fetch-jsonify"]
+["fetch-defaults","fetch-formify","fetch-jsonify","fetch-throw"]

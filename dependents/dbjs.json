@@ -1,1 +1,1 @@
-["mano-auth"]
+["dbjs-dom","dbjs-ext","dbjs-level","dbjs-mongo","dbjs-ms-sql","dbjs-persistence","mano","mano-auth"]

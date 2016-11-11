@@ -1,1 +1,1 @@
-["babel-core-flint","babel-fast-react-core","flint-babel-core","mocha-fixtures"]
+["babel-core-flint","babel-fast-react-core","babel-helper-fixtures","es-usage-rate","flint-babel-core","mocha-fixtures","mocha-fixtures-generic","textlint","textstat"]

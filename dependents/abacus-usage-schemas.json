@@ -1,1 +1,1 @@
-["abacus-account-stub","abacus-provisioning-stub"]
+["abacus-account-plugin","abacus-account-stub","abacus-cf-bridge-itest","abacus-cf-renewer","abacus-cf-renewer-itest","abacus-provisioning-plugin","abacus-provisioning-stub","abacus-usage-analyzer","abacus-usage-collector","abacus-usage-reporting","cf-abacus"]

@@ -1,1 +1,1 @@
-["good-mongodb","good-mongodb-viewer","hapi-couchdb-account","hapi-log-response","hoodie-standalone-account","minigun","minigun-core"]
+["artillery","artillery-core","good-mongodb","good-mongodb-viewer","hapi-app-mongo-model","hapi-confi","hapi-couchdb-account","hapi-error","hapi-fox","hapi-good-datadog","hapi-log-response","hapi-swagger","hapi-swagger-plugins","hoodie-standalone-account","kued","microformat-node","microformat-shiv","minigun","minigun-core","swagger-exemplar","swagger-har","waypointer"]

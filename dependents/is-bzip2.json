@@ -1,1 +1,1 @@
-["decompress-bzip2"]
+["bzip2-maybe","decompress-bzip2"]

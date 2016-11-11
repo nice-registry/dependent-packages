@@ -1,1 +1,1 @@
-["babel-js-to-jsx","gulp-jsxformat","happiness-format","html-to-react-components","marlint-format"]
+["babel-js-to-jsx","babel-plugin-js-to-jsx","babel-transform-js-to-jsx","contrib-subgen-react-webpack-container","esbeautifier","gulp-jsxformat","happiness-format","html-to-react-components","html-to-react-components-es6","lapanoid-standard-format","marlint-format","reacterminator","sane-format","semi-4standard-format","standard-format","structor","vscode-esformatter"]

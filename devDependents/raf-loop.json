@@ -1,1 +1,1 @@
-["canvas-text","glsl-hash-blur","kelvin-to-rgb","parse-dds","spring-input","touch-scroll-physics"]
+["canvas-text","collada-dae-parser","glsl-fast-gaussian-blur","glsl-film-grain","glsl-hash-blur","kelvin-to-rgb","parse-dds","scene-template","spring-input","three-line-2d","three-mtl-loader","touch-position","touch-scroll-physics","virtual-loading-dots","wavefront-obj-parser"]

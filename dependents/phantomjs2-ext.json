@@ -1,1 +1,1 @@
-["grunt-lib-phantomjs2-unofficial"]
+["grunt-lib-phantomjs2-unofficial","karma-phantomjs2-ext-launcher","karma-phantomjs2-launcher"]

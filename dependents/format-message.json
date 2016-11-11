@@ -1,1 +1,1 @@
-["format-message-loader"]
+["babel-plugin-transform-format-message","eslint-plugin-format-message","format-message-loader"]

@@ -1,1 +1,1 @@
-["gaia-develop","node-firefox-connect","node-firefox-find-ports","node-firefox-start-simulator","reload-firefox"]
+["fx-ports","fxconsole","fxos-connect","fxos-deploy","fxos-findapp","fxos-reloadcss","fxos-start","gaia-develop","node-firefox-connect","node-firefox-find-ports","node-firefox-start-simulator","reload-firefox","tabsy"]

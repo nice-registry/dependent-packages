@@ -1,1 +1,1 @@
-["btrz-mongo-factory"]
+["btrz-mongo-factory","db-migrate-couchbase","grunt-combine-media-queries","heroku-redis-client"]

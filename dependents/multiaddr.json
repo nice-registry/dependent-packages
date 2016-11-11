@@ -1,1 +1,1 @@
-["ipfs-mdns","ipfs-railing","ipfs-swarm","libp2p-mdns-discovery","libp2p-railing","libp2p-utp"]
+["aleph","gossip-cyclon","interface-stream-muxer","interface-transport","ipfs","ipfs-mdns","ipfs-railing","ipfs-swarm","ipfsd-ctl","ipld","js-libp2p-pstn-node","libp2p-identify","libp2p-ipfs","libp2p-ipfs-browser","libp2p-mdns-discovery","libp2p-pstn","libp2p-pstn-node","libp2p-railing","libp2p-tcp","libp2p-utp","mafmt","peer-info","skiff"]

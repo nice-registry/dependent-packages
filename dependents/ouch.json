@@ -1,1 +1,1 @@
-["adonis-app","koa-ouch"]
+["adonis-app","koa-ouch","kratos-error-provider","positron"]

@@ -1,1 +1,1 @@
-["loopback-service-wechat"]
+["loopback-example-app","loopback-rest-connector-syncgateway","loopback-service-wechat","sls-sample-app"]

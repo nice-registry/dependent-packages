@@ -1,1 +1,1 @@
-["esformatter-flow","rocambole-indent"]
+["esformatter-flow","esformatter-semicolon-first","mithril-codemods","rocambole-indent"]

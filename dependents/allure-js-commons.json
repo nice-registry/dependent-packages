@@ -1,1 +1,1 @@
-["karma-allure-reporter"]
+["cucumberjs-allure-reporter","hermione-allure-reporter","jasmine-allure-reporter","karma-allure-reporter","mocha-allure-reporter","mocha-allure-teamcity-reporter","nightwatch-allure-adapter","wdio-allure-addons-reporter","wdio-allure-reporter"]

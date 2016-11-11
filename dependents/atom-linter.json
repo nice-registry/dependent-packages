@@ -1,1 +1,1 @@
-["linter-lesshint","linter-nplint"]
+["atom-linter-flow","linter-elm-make","linter-jscs","linter-lesshint","linter-nplint","mdtkit-lint"]

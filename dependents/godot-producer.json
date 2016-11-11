@@ -1,1 +1,1 @@
-["godot-log-producer","godot-npm-publish-producer"]
+["godot-elasticsearch","godot-haproxy","godot-log-producer","godot-npm-publish-producer","godot-redis","godot-sensortag"]

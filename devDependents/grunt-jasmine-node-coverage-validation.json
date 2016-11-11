@@ -1,1 +1,1 @@
-["generator-mean-seed","zmq-service-suite-message"]
+["generator-mean-seed","logger-facade-airbrake-plugin","logger-facade-console-plugin-nodejs","logger-facade-nodejs","zmq-service-suite-broker","zmq-service-suite-client","zmq-service-suite-message","zmq-service-suite-service"]

@@ -1,1 +1,1 @@
-["feathers-accounts","feathers-tcomb"]
+["can-fixture-socket","canjs-feathers","feathers-accounts","feathers-authentication","feathers-authentication-patch-wechat","feathers-authentication-refreshtoken","feathers-bootstrap","feathers-mongodb","feathers-mongoose","feathers-passport","feathers-primus","feathers-reactive","feathers-rx","feathers-sendgrid","feathers-service-logger-stats","feathers-socketio","feathers-solr","feathers-stripe","feathers-tcomb"]

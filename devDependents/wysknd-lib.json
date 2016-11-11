@@ -1,1 +1,1 @@
-["s4-client-lib","zmq-lib"]
+["grunt-wysknd-aws-cf-generator","s4-client-lib","wysknd-args","wysknd-aws-cf-generator","wysknd-aws-lambda","wysknd-common","wysknd-error","wysknd-identity","wysknd-log","zmq-lib"]

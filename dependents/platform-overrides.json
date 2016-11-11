@@ -1,1 +1,1 @@
-["gulp-platform-overrides","nw-builder-rtmp"]
+["cws-nw-builder","gulp-platform-overrides","node-webkit-builder","nw-builder","nw-builder-rtmp","webkit-builder"]

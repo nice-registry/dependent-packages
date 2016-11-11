@@ -1,1 +1,1 @@
-["godot","graphite-feeder","grunt-asset-bender","metronic-graphite","phantom-stats-graphite","websocket-bench-sockjs"]
+["cloudwatch-conveyor","dreadnot","godot","graphite-feeder","grunt-asset-bender","jnpm-monitor","metricador","metrics-conveyor","metronic-graphite","mongodb-metrics","monyt","origami-build-tools","phantom-stats-graphite","pm2-graphite","websocket-bench-sockjs"]

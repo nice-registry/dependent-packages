@@ -1,1 +1,1 @@
-["geohash-poly","geojson-clip-polygon","idris-geojson","tylr","wgs84-intersect-util","worldpop"]
+["geohash-poly","geojson-clip-polygon","idris-geojson","idris-geojson-model","sat-api-lib","turf","turf-clip","tylr","wgs84-intersect-util","worldpop"]

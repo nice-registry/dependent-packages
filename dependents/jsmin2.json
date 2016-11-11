@@ -1,1 +1,1 @@
-["gulp-html-builder","increjs","tryfb"]
+["bone-act-include","grunt-assetser","gulp-html-builder","gulp-html-builder-debug","gulp-html-inline","gulpman","gupack","increjs","jsmin-sourcemap","jt-jsmin","tryfb"]

@@ -1,1 +1,1 @@
-["metrics-express","metrics-redis","orpheus","redis_dcio"]
+["gf-redis","happn-swim","hyperbahn","metrics-express","metrics-influxdb","metrics-redis","node-tailor","orpheus","pohl","redis-knack","redis-proxy","redis_dcio","swim"]

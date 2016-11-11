@@ -1,1 +1,1 @@
-["extrude","glsl-determinant","glsl-transpose"]
+["collada-dae-parser","extrude","geojs","glsl-determinant","glsl-transpose","load-collada-dae","regl"]

@@ -1,1 +1,1 @@
-["cypher-api-maker","glob-build","graphlib-json-graph","implexus","simple-css","stream-compute"]
+["cypher-api-maker","cypher-promise","glob-build","graphlib-json-graph","implexus","rpc-websocket","simple-css","stream-compute"]

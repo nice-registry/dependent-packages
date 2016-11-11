@@ -1,1 +1,1 @@
-["hexo-filter-gzip","node-png-histogram"]
+["hexo-filter-gzip","hexo-filter-htmlminifier","node-png-histogram"]

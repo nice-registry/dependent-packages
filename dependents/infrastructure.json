@@ -1,1 +1,1 @@
-["infrastructure-mail","infrastructure-mysql"]
+["infrastructure-app","infrastructure-appcontroller-ractive","infrastructure-express","infrastructure-mail","infrastructure-mongodb","infrastructure-mysql","infrastructure-socketio","infrastructure-webpack"]

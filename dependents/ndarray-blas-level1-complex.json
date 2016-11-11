@@ -1,1 +1,1 @@
-["ndarray-blas-gemm-complex","ndarray-blas-trsv-complex","ndarray-gram-schmidt-qr-complex"]
+["ndarray-blas-gemm-complex","ndarray-blas-trsv-complex","ndarray-gram-schmidt-qr-complex","ndarray-householder-qr-complex"]

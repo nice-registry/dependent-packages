@@ -1,1 +1,1 @@
-["node-svnsync"]
+["node-svnsync","svn-spawn","svn-spawn-pp"]

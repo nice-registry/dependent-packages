@@ -1,1 +1,1 @@
-["koa-handlebars-ext","revver"]
+["koa-handlebars","koa-handlebars-ext","revver","webmockjs"]

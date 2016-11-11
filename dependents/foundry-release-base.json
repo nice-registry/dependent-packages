@@ -1,1 +1,1 @@
-["foundry-release-bower","foundry-release-component","foundry-release-git","foundry-release-git-semver-branches","foundry-release-npm","foundry-release-pypi"]
+["foundry-release-bower","foundry-release-component","foundry-release-git","foundry-release-git-semver-branches","foundry-release-npm","foundry-release-pypi","foundry-release-require-branch","foundry-release-slack-notify","foundry-release-webhook-notify"]

@@ -1,1 +1,1 @@
-["cidoc","docker-ci","wires-bash","wires-config","wires-mysql","wireshook"]
+["cidoc","docker-ci","realm-mongo","wires-bash","wires-config","wires-mongo","wires-mysql","wireshook"]

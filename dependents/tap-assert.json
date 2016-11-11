@@ -1,1 +1,1 @@
-["tap-runner"]
+["nodeunit-fork","nodeunit2","tap-harness","tap-runner","tap-test"]

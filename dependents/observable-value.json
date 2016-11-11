@@ -1,1 +1,1 @@
-["dom-ext","observable-array","observable-map"]
+["dbjs","dbjs-dom","dbjs-domjs","dom-ext","domjs","observable-array","observable-map","observable-set"]

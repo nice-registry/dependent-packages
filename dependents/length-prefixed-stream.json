@@ -1,1 +1,1 @@
-["dat-http-replicator","dat-stream-replicator","hyperlog-data","munro","peernet","peervision"]
+["browser-sync-stream","dat-http-replicator","dat-stream-replicator","hypelight-protocol","hyperlog","hyperlog-data","libp2p-floodsub","limitd","limitd-client","msgpack5-stream","multileveldown","munro","peer-protocol","peernet","peervision","pubkey-value","screenshot-pool","scuttleup","sendy","stream-channels","time-stream"]

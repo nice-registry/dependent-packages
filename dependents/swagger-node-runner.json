@@ -1,1 +1,1 @@
-["sails-hook-swagger-node"]
+["sails-hook-swagger-node","swagger-connect","swagger-express-mw","swagger-hapi","swagger-restify-mw","swagger-sails-hook"]

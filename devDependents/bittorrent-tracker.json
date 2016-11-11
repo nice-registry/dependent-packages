@@ -1,1 +1,1 @@
-["append-only-torrent","torrent-http-bridge"]
+["append-only-torrent","torrent-blob-store","torrent-http-bridge","torrent-stream","webtorrent"]

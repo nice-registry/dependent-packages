@@ -1,1 +1,1 @@
-["aws-apigateway-exporter","cloudformation-z"]
+["ami-motley-tool","aws-apigateway-exporter","aws-component-inventory","aws-ecs-z","cloudformation-z","ecs-task-deploy","fluct","ghost-s3-compat","ghost-s3-service","ghost-storage-s3","multi-region-promised-aws","schema-validator-publisher","sky-runtime-lambda"]

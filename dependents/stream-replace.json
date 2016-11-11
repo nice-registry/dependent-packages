@@ -1,1 +1,1 @@
-["gulp-simple-inject","replacefile"]
+["github-cornerify","gulp-simple-inject","microsvc","replace-require-self","replacefile"]

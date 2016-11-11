@@ -1,1 +1,1 @@
-["qunit-multi-coverage","socket.io-mongo"]
+["qunit","qunit-multi-coverage","socket.io-mongo"]

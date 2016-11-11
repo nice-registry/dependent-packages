@@ -1,1 +1,1 @@
-["assetgraph-esprima","express-couchdb-arraysofobjects"]
+["assetgraph-esprima","dnserrors","express-couchdb-arraysofobjects","express-errorhandler","express-validate-ip","mockrequest","socketerrors","socketerrors-papandreou","teepee"]

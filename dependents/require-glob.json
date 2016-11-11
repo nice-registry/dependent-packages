@@ -1,1 +1,1 @@
-["autoroute-base","gulp-prettylittle-handlebars","handlebars-registrar"]
+["autoroute-base","gulp-prettylittle-handlebars","handlebars-glob","handlebars-registrar","handlebars-wax","hapi-glob-routes","heliks"]

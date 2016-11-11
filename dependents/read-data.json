@@ -1,1 +1,1 @@
-["config-file","extend-file"]
+["config-file","extend-file","fs-utils","namespace-data","password-simple-manager","static-site","template-loader"]

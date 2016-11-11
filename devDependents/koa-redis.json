@@ -1,1 +1,1 @@
-["koa-cache-it","koa-header-session"]
+["koa-better-error-handler","koa-cache-it","koa-generic-session","koa-header-session","koa-sess"]

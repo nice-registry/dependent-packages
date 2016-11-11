@@ -1,1 +1,1 @@
-["gulp-artifactory-upload-f","rget-jsftp"]
+["gulp-artifactory-upload","gulp-artifactory-upload-f","hc-common","nami-test","rget-jsftp"]

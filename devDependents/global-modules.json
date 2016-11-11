@@ -1,1 +1,1 @@
-["base-resolver","map-dest"]
+["base-resolver","expand-files","generate-assemblefile","generate-babelrc","generate-contributing","generate-editorconfig","generate-license","generate-package","generate-readme","generate-snippet","generate-updatefile","generate-verbfile","handlebars-helpers","map-dest","scaffold","verb-generate-readme"]

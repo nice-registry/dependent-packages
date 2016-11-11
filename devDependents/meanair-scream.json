@@ -1,1 +1,1 @@
-["meanair-server.util","meanair-shared","meanair-shared.util"]
+["meanair-auth","meanair-middleware","meanair-model","meanair-server","meanair-server.util","meanair-shared","meanair-shared.util"]

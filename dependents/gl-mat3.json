@@ -1,1 +1,1 @@
-["animaxe","camera-2d","ctx-get-transform-bugfix","gl-quat","gl-tetrahedron","transformist"]
+["animaxe","camera-2d","ctx-get-transform-bugfix","gl-engine","gl-matrix-invert","gl-quat","gl-shape","gl-tetrahedron","load-wavefront-obj","scene-tree","transformist"]

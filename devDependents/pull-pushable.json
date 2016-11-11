@@ -1,1 +1,1 @@
-["messenger-ws"]
+["libp2p-secio","messenger-ws","pull-cat","pull-combine-latest","pull-live","pull-stringify","secret-stack","ssb-feed"]

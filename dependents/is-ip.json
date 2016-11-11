@@ -1,1 +1,1 @@
-["runtime-node-net"]
+["chai-http","runtime-node-net","solid-server","tough-cookie-no-native"]

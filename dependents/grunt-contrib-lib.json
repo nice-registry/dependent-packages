@@ -1,1 +1,1 @@
-["grunt-contrib-manifest","the-grid-compiler"]
+["grunt-contrib-manifest","grunt-eco-amd","grunt-image-normalize","platypus-grunt-image-normalize","the-grid-compiler"]

@@ -1,1 +1,1 @@
-["async-map-stream","benz","each-done","gulp-ccr-parallel","gulp-ccr-series","mocha-cases","spawn-task-experiment"]
+["agg-watcher","argumentable-queue","async-map-stream","async-settle","async-time","bach","benz","bionode-watermill","bionode-waterwheel","each-done","gloup","gulp-batch","gulp-ccr-parallel","gulp-ccr-series","mocha-cases","runtime","spawn-task-experiment","spawn-task-experiment-2"]

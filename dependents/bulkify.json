@@ -1,1 +1,1 @@
-["gee-build","lightning.js"]
+["browserify-build","gee-build","hc-frontend-skeleton","infrastructure-webpack","lightning.js","normalmap","republic","svg-sketch-controls","yo-static"]

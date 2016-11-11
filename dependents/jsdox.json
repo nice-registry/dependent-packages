@@ -1,1 +1,1 @@
-["grunt-jsdox"]
+["droplit-sdk","grunt-jsdox","gulp-jsdox-z","jsdox-struct"]

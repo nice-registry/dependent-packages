@@ -1,1 +1,1 @@
-["runtime-node-dns","runtime-node-net","tap-closer"]
+["runtime-node-dns","runtime-node-net","runtime-shell","tap-closer"]

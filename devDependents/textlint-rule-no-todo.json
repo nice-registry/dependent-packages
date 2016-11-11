@@ -1,1 +1,1 @@
-["textlint-formatter-codecov","textlint-formatter-lcov","textlint-plugin-text"]
+["textlint","textlint-formatter-codecov","textlint-formatter-lcov","textlint-plugin-asciidoc-loose","textlint-plugin-html","textlint-plugin-markdown","textlint-plugin-review","textlint-plugin-satsuki","textlint-plugin-text","textlint-tester"]

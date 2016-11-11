@@ -1,1 +1,1 @@
-["math-float64-frexp"]
+["math-float64-copysign","math-float64-flipsign","math-float64-frexp","math-float64-ldexp","math-float64-nextafter","stdmath"]

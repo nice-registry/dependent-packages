@@ -1,1 +1,1 @@
-["appc-cache","appc-cli-mocha","appc-request-ssl"]
+["appc-cache","appc-cli-mocha","appc-platform-sdk","appc-pubsub","appc-request-ssl","appc-security"]

@@ -1,1 +1,1 @@
-["sentry-stream"]
+["bristol-sentry","bunyan-sentry","koa2-raven","pilsner","sentry-stream"]

@@ -1,1 +1,1 @@
-["periodicjs.ext.admin","periodicjs.ext.googleanalytics","periodicjs.ext.previewtheme","periodicjs.ext.replication"]
+["periodic-cli","periodicjs.core.controllerhelper","periodicjs.ext.admin","periodicjs.ext.googleanalytics","periodicjs.ext.previewtheme","periodicjs.ext.replication","periodicjs.ext.user_acces_control"]

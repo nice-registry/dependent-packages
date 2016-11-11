@@ -1,1 +1,1 @@
-["gl-pixel-stream","gl-texture2d-pip"]
+["audio-shader","gl-pixel-stream","gl-texture2d-pip","glsl-fast-gaussian-blur","glsl-godrays"]

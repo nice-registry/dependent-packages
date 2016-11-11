@@ -1,1 +1,1 @@
-["flow-babel","inline-sourcemap-concat","mimosa-minify-js","minifyretracer","rollup-plugin-browserify-transform"]
+["broccoli-concat-source-map","broccoli-uglify-sourcemap","clickcss","fast-sourcemap-concat","flow-babel","html-webpack-inline-chunk-plugin","inline-manifest-webpack-plugin","inline-sourcemap-concat","mimosa-minify-js","minifyretracer","project-tools","rollup-plugin-browserify-transform","source-map-resolve","source-map-resolver"]

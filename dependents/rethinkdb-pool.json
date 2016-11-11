@@ -1,1 +1,1 @@
-["uow-store-rethink"]
+["koa-rethinkdb","uow-store-rethink"]

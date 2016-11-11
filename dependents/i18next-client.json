@@ -1,1 +1,1 @@
-["grunt-static-i18next","i18next-node-stable","jspm-test","marionette_lib","node-red-node-swaggerclient","react-better-example"]
+["customer-appointment-detail-widget","grunt-static-i18next","i18next-node-stable","jspm-test","kazana-account-app","marionette_lib","node-red-node-swagger","node-red-node-swaggerclient","opening_hours","pileple","react-better-example"]

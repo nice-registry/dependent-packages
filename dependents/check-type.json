@@ -1,1 +1,1 @@
-["gulp-lint-filepath","ikettle","neboola"]
+["grunt-keybase-dir","gulp-lint-filepath","gulp-yaml-validate","ikettle","neboola","rsmq-consumer","yaml-validator"]

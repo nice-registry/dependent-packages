@@ -1,1 +1,1 @@
-["frontmatter-loader","textr-loader"]
+["frontmatter-loader","grunt-textr","gulp-textr","textr-cli","textr-loader"]

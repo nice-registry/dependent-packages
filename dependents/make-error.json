@@ -1,1 +1,1 @@
-["generator-pkg","proxy-cache-file","proxy-cache-multi-file","trivialdb"]
+["app-conf","circuit-breaker-as-promised","dull-config","generator-pkg","json-rpc-protocol","jsonrpc-websocket-client","make-error-cause","max-inscribed-circle","node-postgres-patch","promise-toolbox","proxy-cache-file","proxy-cache-multi-file","rainet","sharedb","trivialdb","trivialmodels","ts-node-extendable","ts-node-warnings","tsmvc","typescript-node","xen-api","xo-collection","xo-common","xo-lib"]

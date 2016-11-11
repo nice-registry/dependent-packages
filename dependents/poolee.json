@@ -1,1 +1,1 @@
-["hapi-fxa-oauth","riak-js"]
+["crate-client","hapi-fxa-oauth","riak","riak-js"]

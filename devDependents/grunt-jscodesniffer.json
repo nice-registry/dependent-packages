@@ -1,1 +1,1 @@
-["backbone-abstract","cordova-plugin-alljoyn","html5formshim","micro-requirejs"]
+["backbone-abstract","cjsc","cordova-plugin-alljoyn","cordova-plugin-sphero","html5formshim","micro-requirejs","project-oxford"]

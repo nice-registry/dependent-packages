@@ -1,1 +1,1 @@
-["bitcoin-cli","blockcast-state-engine","rpc-common-blockchain"]
+["bitcoin-cli","bitcore-node","bitcore-node-dash","bitcore-node-dash-test","bitcore-node-vec","blockcast-state-engine","blockchain-to-sqlite","lamassu-bitcoind","litecore-node","rawcore-node","rpc-common-blockchain","zcash-bitcore-node"]

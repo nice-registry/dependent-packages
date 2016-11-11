@@ -1,1 +1,1 @@
-["rippled-network-crawler","validation-tracker"]
+["neocrawler","rippled-historical-database","rippled-network-crawler","validation-tracker","winston-hbase"]

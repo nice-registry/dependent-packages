@@ -1,1 +1,1 @@
-["diso.core","diso.mongo","diso.router","diso.view","iotkit-agent"]
+["attache.js","child-process-helpers","configwd","diso.core","diso.mongo","diso.router","diso.view","dotmix","dundee","iotkit-agent","requireindex","tf","type-of-is"]

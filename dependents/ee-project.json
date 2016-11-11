@@ -1,1 +1,1 @@
-["ee-elasticache-autodiscovery","ee-face-detection","ee-mysql-connection","ee-travis","test-config","travis-tools"]
+["ee-bookshelf-schema","ee-config","ee-configfile","ee-distributed-cache","ee-elasticache-autodiscovery","ee-face-detection","ee-mysql-connection","ee-shopify","ee-simple-repl","ee-travis","ee-webserver","ee-webservice","em-passport","em-rest-service","em-rewrite","et-github-autorelease","test-config","travis-tools"]

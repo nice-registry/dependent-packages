@@ -1,1 +1,1 @@
-["async-node-events","queue-flow"]
+["async-cancelable-events","async-node-events","parallel-queue-flow","queue-flow"]

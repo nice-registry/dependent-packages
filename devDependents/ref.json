@@ -1,1 +1,1 @@
-["arrayfire_js","dlfcn","node-ffi-php-bindings"]
+["arrayfire-js","arrayfire_js","dlfcn","node-ffi-php-bindings","win32api","win32ole"]

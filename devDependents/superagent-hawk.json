@@ -1,1 +1,1 @@
-["hapi-taskcluster-api"]
+["express-hawkauth","hapi-taskcluster-api"]

@@ -1,1 +1,1 @@
-["grunt-cmd-transport","gulp-lego","gulp-ryspm","gulp-spm","gulp-transport","jsmb-cmd-transport"]
+["grunt-cmd-transport","grunt-cmd-transport-wnd","gulp-lego","gulp-ryspm","gulp-spm","gulp-transport","jsmb-cmd-transport"]

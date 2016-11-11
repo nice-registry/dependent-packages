@@ -1,1 +1,1 @@
-["expose-s3","township-media"]
+["autocannon-storage","expose-s3","filepunk","store-s3-blobs","township-media"]

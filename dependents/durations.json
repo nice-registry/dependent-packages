@@ -1,1 +1,1 @@
-["wait-for-mysql","wait-for-redis"]
+["cassandra-migration","cogs-javascript-sdk","cogs-sdk","levelscan","node-levelscan","sql-query-runner","wait-for-cassandra","wait-for-mysql","wait-for-postgres","wait-for-redis"]

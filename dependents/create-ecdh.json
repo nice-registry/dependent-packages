@@ -1,1 +1,1 @@
-["secret-stream"]
+["cordova-plugin-require-bluetoothle","crypto-browserify","native-crypto","secret-stream","web-push-meteor"]

@@ -1,1 +1,1 @@
-["browserify-aws-sdk","jwt-bearer-client-auth","sycle-gateway"]
+["auth0-api-tokens","browserify-aws-sdk","jsjws","jwt-bearer-client-auth","sycle-gateway"]

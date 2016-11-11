@@ -1,1 +1,1 @@
-["blas-dnrm2","distributions-normal-random","math-hypot"]
+["blas-dnrm2","distributions-normal-cdf","distributions-normal-random","distributions-truncated-normal-pdf","math-beta","math-erfcinv","math-erfinv","math-hypot","stdmath"]

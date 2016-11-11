@@ -1,1 +1,1 @@
-["generator-base","generator-verb"]
+["expand-pkg","generator-base","generator-tag","generator-verb","gulp-normalize-pkg","sync-pkg"]

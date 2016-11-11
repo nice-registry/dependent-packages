@@ -1,1 +1,1 @@
-["packin","serve-js","when-all"]
+["cp-r","dir-each","fs-equals","i18n4react","packin","read-slice","result-core","resultify","rm-r","serve-js","when-all","writefile"]

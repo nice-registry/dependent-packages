@@ -1,1 +1,1 @@
-["aws2js","ftp-get","http-get","text-autolinker"]
+["aws2js","formstream","ftp-get","http-get","node-patch","poorequest","text-autolinker","urlexpand","webcache"]

@@ -1,1 +1,1 @@
-["docker-service","dropbox-symlink","express-serve-writable","fs-finder","jive-angular","xl-repo-linker"]
+["cache-storage","docker-service","docker-service-manager","dropbox-symlink","express-serve-writable","fs-finder","ftp-diff-deployer","jive-angular","xl-repo-linker"]

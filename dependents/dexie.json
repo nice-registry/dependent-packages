@@ -1,1 +1,1 @@
-["datacube","podato","tilectron"]
+["datacube","dexie-observable","dexie-syncable","idb-pull-blob-store","podato","tilectron","typestore-example-webpack","typestore-plugin-indexeddb"]

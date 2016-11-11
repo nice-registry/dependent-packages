@@ -1,1 +1,1 @@
-["acquit-ignore","acquit-markdown","ajl-mongoose","mongoose-autopopulate","mongoose-nested","mongoose-tenant","mooring","nimrod"]
+["acquit-ignore","acquit-markdown","ajl-mongoose","archetype-js","babel-remove-process-env-assignment","connect-mongodb-session","json-schema-class","kareem","mongoose-explain","mongoose-fixedsetdefaultsoninsert","mongoose-int32","mongoose-nested","mongoose-reload","mongoose-tenant","monogram","mooring","nimrod","superagent-httpbackend","switchblade","wagner-core"]

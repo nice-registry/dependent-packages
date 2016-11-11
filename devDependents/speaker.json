@@ -1,1 +1,1 @@
-["audio-processor","icecast-parser","node-openjtalk","nodetunes","spotify-web","wav-lowpass","wimp-api","yfitops-web"]
+["audio-processor","icecast-parser","lowpass","node-mpg123-util","node-openjtalk","nodetunes","pcm-cache-stream","spotify-web","spotify-web-cw","wav-lowpass","wimp-api","yfitops-web"]

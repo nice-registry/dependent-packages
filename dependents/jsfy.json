@@ -1,1 +1,1 @@
-["messageformat-compile-object"]
+["closure-compiler-wrapper","fear-core-aut","fear-core-tasks","messageformat-compile-object","mns-core-test"]

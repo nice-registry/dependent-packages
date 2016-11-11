@@ -1,1 +1,1 @@
-["norma","seneca-mail","seneca-riak-store","seneca-run","use-plugin"]
+["auth-token-cookie","batch-process","concorda","concorda-dashboard","cqrs-monolith","deploytool","devis","node-cqrs-framework","norma","seneca","seneca-auth","seneca-balance-client","seneca-cluster","seneca-entity","seneca-google-auth","seneca-jsonfile-store","seneca-legacy-logger","seneca-local-auth","seneca-mail","seneca-mysql-store","seneca-riak-store","seneca-run","seneca-transport","seneca-user","seneca-web","seneca-web-adapter-connect","use-plugin"]

@@ -1,1 +1,1 @@
-["meshblu-elasticsearch","meshblu-splunk-forwarder"]
+["meshblu-elasticsearch","meshblu-splunk-forwarder","meshblu-util","meshblu-verifier-websocket"]

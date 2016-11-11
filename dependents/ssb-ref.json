@@ -1,1 +1,1 @@
-["phoenix-api","ssb-msgs","ssb-names","ssb-patchwork-api","ssb-patchwork-ui","ssbpm"]
+["git-remote-ssb","patchbay","patchkit-form-pub-invite","patchkit-msg-view","patchkit-post-composer","patchkit-util","phoenix-api","scuttlebot","secure-scuttlebutt","ssb-avatar","ssb-blobs","ssb-dns","ssb-exporter","ssb-feed","ssb-markdown","ssb-mentions","ssb-msg-schemas","ssb-msgs","ssb-names","ssb-patchwork-api","ssb-patchwork-ui","ssb-pull-requests","ssb-secret-blob","ssb-sort","ssb-web-server","ssb-ws","ssbpm"]

@@ -1,1 +1,1 @@
-["beez-foundation","cantina-web","charp","connect-thumbs","passport-jwt-strategy","passport-restify"]
+["adhoc","authorized","beez-foundation","cantina-web","charp","connect-ipaccess","connect-redis-sessions","connect-session","connect-thumbs","devserver","dscli","dssrv","dssrv-srv-prerender","harp","harp-markdown-it","karma-ember-imt","livereloadx","lt-surge","motley","node-image-farmer","passport-dn","passport-jwt-strategy","passport-restify","re-passport","unum"]

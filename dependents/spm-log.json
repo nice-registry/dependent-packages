@@ -1,1 +1,1 @@
-["amb","dong-build","dong-check","dong-doc","dong-i18n","dong-init","dong-patch","dong-update","latest-java","moekit","nd-sea","spm-client","spm-sea","spm-server","spmcss-loader"]
+["amb","atool-i18n","dong-build","dong-check","dong-doc","dong-i18n","dong-init","dong-java","dong-patch","dong-update","dora","dora-plugin-config-manager","dora-plugin-upload","intl-translate","latest-java","moekit","nd-sea","package-dedupe","spm","spm-client","spm-sea","spm-server","spm-webpack-plugin","spm3-sea","spmcss-loader","spmh","tmt-init"]

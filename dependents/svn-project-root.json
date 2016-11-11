@@ -1,1 +1,1 @@
-["grunt-ivantage-svn-changelog","gulp-asvn","gulp-ecs-svn"]
+["grunt-ivantage-svn-changelog","grunt-svn-tag","gulp-asvn","gulp-ecs-svn","gulp-svn","semver-tags"]

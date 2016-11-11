@@ -1,1 +1,1 @@
-["grunt-anybar","hr.logger"]
+["grunt-anybar","grunt-notify","grunt-notify-chrome","hr.logger"]

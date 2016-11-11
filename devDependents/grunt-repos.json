@@ -1,1 +1,1 @@
-["grunt-assemble-download","grunt-readme","handlebars-helper-feed","handlebars-helper-track","haystack","less-docs"]
+["assemble-contrib-download","assemble-contrib-permalinks","assemble-middleware-download","grunt-assemble-download","grunt-gettext-json","grunt-readme","handlebars-helper-compose","handlebars-helper-feed","handlebars-helper-md","handlebars-helper-track","haystack","less-docs","lodash-mixin-safename","yfm"]

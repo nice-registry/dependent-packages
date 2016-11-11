@@ -1,1 +1,1 @@
-["engine.io-client-no-github-dependency","engine.io-client-private"]
+["engine.io-client","engine.io-client-no-github-dependency","engine.io-client-private","engine.io-client-pure","engine.io-client-test-sourcemap","react-native-engine.io-client","web-component-tester-bundle"]

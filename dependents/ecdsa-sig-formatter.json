@@ -1,1 +1,1 @@
-["blockchain-auth","jwt-js"]
+["blockchain-auth","blockstack-auth","ethereum-web-token","jwa","jwt-js","native-crypto"]

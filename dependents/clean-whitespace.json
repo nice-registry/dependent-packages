@@ -1,1 +1,1 @@
-["kevbook.text-cleanup"]
+["clean-whitespace-cmd","grunt-file-cleaner","kevbook.text-cleanup","pug-doc"]

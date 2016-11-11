@@ -1,1 +1,1 @@
-["browserify-ng-htmlmin2js","grunt-module-merge","grunt-ng-html2js","multic"]
+["browserify-ng-html2js","browserify-ng-htmlmin2js","fh-wfm-template-build","grunt-module-merge","grunt-ng-html2js","multic"]

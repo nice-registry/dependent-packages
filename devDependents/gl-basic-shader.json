@@ -1,1 +1,1 @@
-["gl-sprite-batch","gl-sprite-text","parse-dds"]
+["gl-quad","gl-sprite-batch","gl-sprite-text","parse-dds","tweenr"]

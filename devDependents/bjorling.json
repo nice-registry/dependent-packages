@@ -1,1 +1,1 @@
-["bjorling-nedb-storage"]
+["bjorling-level-storage","bjorling-memory-storage","bjorling-nedb-storage","bjorling-static-storage"]

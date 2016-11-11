@@ -1,1 +1,1 @@
-["ajl-mongoose","fm-winston-mongodb","mongobird","mongoose-nested","mongotail"]
+["ajl-mongoose","coccyx","democracyos-db","fm-winston-mongodb","mongobird","mongoose-fixedsetdefaultsoninsert","mongoose-nested","mongoose-prefixset","mongoose-reload","mongotail"]

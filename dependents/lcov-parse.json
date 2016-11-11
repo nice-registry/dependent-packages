@@ -1,1 +1,1 @@
-["avcoveralls","codacy","grunt-appc-coverage","grunt-covreview","grunt-mocha-cov","lcov-summary"]
+["avcoveralls","codacy","codacy-coverage","codeclimate-test-reporter","coverage-blamer","coverage-percentage","coveralls","coveralls.io","covis","cvr","galaxy-parser","grunt-appc-coverage","grunt-code-coverage-enforcer","grunt-covreview","grunt-mocha-cov","highlight-cov","lcov-autosourcemap","lcov-sourcemap","lcov-summary","lcovshow"]

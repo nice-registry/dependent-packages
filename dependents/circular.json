@@ -1,1 +1,1 @@
-["cli-compiler","cli-logger","mk3","rlx"]
+["cli-compiler","cli-die","cli-logger","mdp","mk3","rlx","ttycolor","wavy-api"]

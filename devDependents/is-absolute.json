@@ -1,1 +1,1 @@
-["load-options","resolve-dep","resolve-glob"]
+["base-generators","findup-sync","generate","load-options","look-up","resolve-dep","resolve-glob","update"]

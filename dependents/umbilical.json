@@ -1,1 +1,1 @@
-["hive-queue","hive-worker","hive-worker-pool"]
+["hive-core","hive-queue","hive-worker","hive-worker-pool"]

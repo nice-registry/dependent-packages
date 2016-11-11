@@ -1,1 +1,1 @@
-["dependency-walker","register-plugin"]
+["dependency-walker","gulp-ext3order","gulp-extify","register-plugin","taskcluster-lib-loader"]

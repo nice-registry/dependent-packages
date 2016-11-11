@@ -1,1 +1,1 @@
-["clean-urls","slashify"]
+["clean-urls","connect-redis-sessions","seneca","slashify","wee-promise"]

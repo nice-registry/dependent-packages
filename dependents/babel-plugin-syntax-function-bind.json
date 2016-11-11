@@ -1,1 +1,1 @@
-["babel-preset-escompile","babel-preset-escompile-node","babel-preset-hyeonu","gitignore-merge"]
+["babel-plugin-flow-relay-query","babel-preset-escompile","babel-preset-escompile-node","babel-preset-hyeonu","babel-preset-metalab","babel-preset-syntax-from-presets","babel-preset-target","babel-preset-yw","better-babel-cli","format-message-cli","gitignore-merge","headland-babel","module-imports-exports","unbundle"]

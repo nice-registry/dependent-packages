@@ -1,1 +1,1 @@
-["ajl-mongoose","mongoose-nested"]
+["ajl-mongoose","mongoose-fixedsetdefaultsoninsert","mongoose-nested","mongoose-prefixset","mongoose-reload"]

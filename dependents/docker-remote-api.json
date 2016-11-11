@@ -1,1 +1,1 @@
-["docker-clean","docker-event-stream","docker-ps","docker-run","docker-tag","torrent-docker"]
+["docker-build","docker-clean","docker-event-stream","docker-ps","docker-pull","docker-remote-api-as-promised","docker-run","docker-tag","torrent-docker","whale"]

@@ -1,1 +1,1 @@
-["grunt-closure-tools"]
+["closure-helpers","closure-structs","grunt-closure-tools","server2js"]

@@ -1,1 +1,1 @@
-["level-scuttlebutt","rouchdb"]
+["level-average","level-inverted-index","level-mapped-index","level-scuttlebutt","level-sum","rouchdb","rumours"]

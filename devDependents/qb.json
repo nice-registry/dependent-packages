@@ -1,1 +1,1 @@
-["qb-http","qb-monitor","qb-relyq","qb-statsd"]
+["qb-http","qb-kafka","qb-messageq","qb-monitor","qb-nats","qb-relyq","qb-statsd"]

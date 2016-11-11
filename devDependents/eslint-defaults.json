@@ -1,1 +1,1 @@
-["fs-extra-promise-es6","jspm-node","serve-es6"]
+["build-bin","build-cloudfoundry","build-esnext","build-gzip","build-heroku","build-html","directory-helpers","dist-es6","esnext-async","esnext-decorators","fs-extra-promise-es6","jasmine-es6","jspm-node","node-promise-es6","phantomjs-adapter","serve-bin","serve-es6","serve-esnext","serve-static-assets","test-inject"]

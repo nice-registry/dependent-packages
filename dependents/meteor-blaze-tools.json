@@ -1,1 +1,1 @@
-["jquery-widget-compiler","spacebars-loader"]
+["jquery-widget-compiler","meteor-client","meteor-spacebars-compiler","spacebars-compiler","spacebars-loader"]

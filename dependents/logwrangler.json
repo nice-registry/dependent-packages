@@ -1,1 +1,1 @@
-["broadcast-client","broadcast-server","harvestd-client","rabbitmq-wrapper"]
+["broadcast-client","broadcast-server","db-base","express-static-content","express-wrangler","harvestd","harvestd-client","logwrangler-http","rabbitmq-wrapper","webserver-base"]

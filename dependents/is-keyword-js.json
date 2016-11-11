@@ -1,1 +1,1 @@
-["gulp-props","gulp-props2json"]
+["es-css-modules","gulp-props","gulp-props2json","postcss-modules-es"]

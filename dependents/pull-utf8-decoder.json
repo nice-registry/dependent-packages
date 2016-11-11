@@ -1,1 +1,1 @@
-["appenddb","pull-couch","pull-wc"]
+["appenddb","pull-concat","pull-couch","pull-file","pull-npm-registry-updates","pull-wc"]

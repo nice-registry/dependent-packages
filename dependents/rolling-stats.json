@@ -1,1 +1,1 @@
-["seneca-msgstats"]
+["mongo-stash","seneca","seneca-msgstats","vidi-seneca-metrics"]

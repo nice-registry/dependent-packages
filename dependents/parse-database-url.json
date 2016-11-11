@@ -1,1 +1,1 @@
-["ep_cloudfoundry","heroku-db","pg-db-migrate"]
+["db-migrate","ep_cloudfoundry","heroku-db","heroku-env","pg-db-migrate"]

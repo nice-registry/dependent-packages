@@ -1,1 +1,1 @@
-["is-standard-emoji"]
+["generator-arc","is-standard-emoji","loader-utils","postcss-modules-emoji-classname"]

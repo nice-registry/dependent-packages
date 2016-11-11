@@ -1,1 +1,1 @@
-["khepri","khepri-compile","khepri-parse"]
+["khepri","khepri-ast-zipper","khepri-compile","khepri-parse"]

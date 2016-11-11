@@ -1,1 +1,1 @@
-["hapi-job-queue","patronus"]
+["hapi-job-queue","hapi-swagger","hapi-swagger-plugins","patronus","waypointer"]

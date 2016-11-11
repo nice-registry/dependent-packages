@@ -1,1 +1,1 @@
-["decode-passphrase","encode-passphrase","mstorage","opensoc-ui"]
+["blobbr-block-upload","decode-passphrase","encode-passphrase","hash-request-cache","js-stl-polyfill","light-cycle","lz4","mstorage","node-pogo-signature","opensoc-ui"]

@@ -1,1 +1,1 @@
-["couchdb-eval","couchdb-render","couchdb-resp-completer","pouchdb-req-http-query","pouchdb-route","pouchdb-system-db","pouchdb-validation"]
+["couchdb-eval","couchdb-render","couchdb-resp-completer","pouchdb-auth","pouchdb-list","pouchdb-replicator","pouchdb-req-http-query","pouchdb-rewrite","pouchdb-route","pouchdb-security","pouchdb-show","pouchdb-system-db","pouchdb-update","pouchdb-validation"]

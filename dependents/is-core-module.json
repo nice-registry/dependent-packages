@@ -1,1 +1,1 @@
-["all-requires","scan-dependencies"]
+["all-requires","lazy-deps","node-resolver","readme","scan-dependencies"]

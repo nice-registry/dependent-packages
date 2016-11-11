@@ -1,1 +1,1 @@
-["brisk-api","brisk-client","brisk-contact","brisk-google","brisk-mongodb","brisk-security","brisk-simpledb"]
+["brisk-account","brisk-admin","brisk-api","brisk-client","brisk-contact","brisk-cron","brisk-facebook","brisk-google","brisk-letsencrypt","brisk-mongodb","brisk-security","brisk-simpledb","brisk-twitter"]

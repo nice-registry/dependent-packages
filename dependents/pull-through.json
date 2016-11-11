@@ -1,1 +1,1 @@
-["private-stream","pull-chacha20poly1305-stream","pull-mac","ssb-names"]
+["binomial-hash-list","json-sst","palmetto","private-stream","pull-block","pull-chacha20poly1305-stream","pull-join","pull-mac","pull-npm-registry-updates","pull-split","pull-sql","ssb-entitydb","ssb-names"]

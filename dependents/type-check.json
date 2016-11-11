@@ -1,1 +1,1 @@
-["byte-sdk","canopy-node-client","level-librarian","metalsmith-validate","mipod","ohgenerator","pavios","pierro-validate","staticdev","xsql"]
+["byte-sdk","canopy-node-client","data-tools","data-visualizer","generator-arc","jsonapi-mapper","jsonapi-translator","jsreport-sekure-dispatcher","level-librarian","levn","metalsmith-validate","mipod","ohgenerator","optionator","pack-node","pavios","pierro-validate","rb-jsonapi-mapper","specifier","sphinx-promise","staticbuild","staticdev","test-anything-protocol","ttyped","type-assert","type-check-throw","type-precedence","xsql"]

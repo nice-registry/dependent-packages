@@ -1,1 +1,1 @@
-["messenger-ws","observ-users","quickconnect-matrix","rtc-signaller","rtc-switchboard-messenger","rtc-taskqueue","strcmp","videoproc"]
+["messenger-ws","observ-users","quickconnect-matrix","rtc-captureconfig","rtc-dcstream","rtc-health","rtc-quickconnect","rtc-quickconnect-test","rtc-signaller","rtc-signaller-socket.io","rtc-switchboard-messenger","rtc-taskqueue","rtc-tools","rtc-tools-test","strcmp","taskify","videoproc"]

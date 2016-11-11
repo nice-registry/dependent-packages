@@ -1,1 +1,1 @@
-["grunt-wcjs","gulp-atom-shell","gulp-download-atom-shell","gulp-download-electron"]
+["grunt-download-electron","grunt-wcjs","grw","gulp-atom-electron","gulp-atom-shell","gulp-awesome-electron","gulp-download-atom-shell","gulp-download-electron"]

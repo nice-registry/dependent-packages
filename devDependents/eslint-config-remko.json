@@ -1,1 +1,1 @@
-["buffering-object-stream","gulp-xxhash","itunes-db","json-array-streams"]
+["buffering-object-stream","gulp-hashsum","gulp-xxhash","itunes-db","json-array-streams","lcg-random"]

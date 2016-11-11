@@ -1,1 +1,1 @@
-["node-webhooker","simplemail"]
+["allons-y-mails","email-ricochet","node-webhooker","parse-server-sendmail-adapter","simplemail"]

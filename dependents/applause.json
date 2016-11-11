@@ -1,1 +1,1 @@
-["fez-replace","grunt-ctrip-replace","grunt-gitshow","grunt-rappar","metalsmith-replace","replace-task-webpack-plugin","tpkg-builder"]
+["fez-replace","grunt-canvgc","grunt-ctrip-replace","grunt-gitshow","grunt-rappar","grunt-replace-status","gulp-replace-task","metalsmith-replace","nodejs-tpkg-builder","replace-task-webpack-plugin","tpkg-builder"]

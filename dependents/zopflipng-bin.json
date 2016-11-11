@@ -1,1 +1,1 @@
-["gulp-image-jpegoptim-bind-fix","pngo"]
+["grunt-mega-image","gulp-image","gulp-image-jpegoptim-bind-fix","imagemin-zopfli","imgo","pngo"]

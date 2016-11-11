@@ -1,1 +1,1 @@
-["easycache","fresh-mysql","hc-lite","justlog","shared-memory","tbj-cli"]
+["dxp","easycache","fresh-mysql","hc-common","hc-common-page","hc-lite","js-coffee","justlog","middleware-loader","middleware-session","shared-memory","tbj-cli","webhook"]

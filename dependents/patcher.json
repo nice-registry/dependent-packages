@@ -1,1 +1,1 @@
-["live-patch","observable-patch"]
+["level-commit","level-objectify","live-patch","node-document-differ-patcher","object-viewer","observable-patch","replicant"]

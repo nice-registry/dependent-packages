@@ -1,1 +1,1 @@
-["griddle-selection-plugin","npm-collection-minimalism"]
+["griddle-core","griddle-selection-plugin","griddle-subgrid-plugin","is-safe-integer","npm-collection-minimalism","tick-id"]

@@ -1,1 +1,1 @@
-["msda-error-service-client","msda-language-service-client","msda-session-server-client"]
+["msda-error-service-client","msda-errors-client","msda-language-service-client","msda-session-server-client","msda-translate-client"]

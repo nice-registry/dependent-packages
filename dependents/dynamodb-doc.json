@@ -1,1 +1,1 @@
-["dynamise","dynamo-data-api","joumae-resources","joumae-users","lkd-collection"]
+["backbone-dynamodb","dynamise","dynamo-data-api","joumae-resources","joumae-users","lambda-ne-classic-package-provider","lkd-collection","modli-dynamodb","npdynamodb","repository-dynamodb"]

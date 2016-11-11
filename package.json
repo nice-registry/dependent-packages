@@ -6,6 +6,7 @@
   "scripts": {
     "build": "node build.js",
     "count": "node count.js > counts.json",
+    "test": "node test.js | tap-spec"
   },
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
@@ -15,7 +16,9 @@
     "package-stream": "^1.0.2",
     "path-exists": "^3.0.0",
     "require-dir": "^0.3.1",
-    "rimraf": "^2.5.4"
+    "rimraf": "^2.5.4",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.2"
   },
   "dependencies": {
     "package-stream": "^1.0.2"

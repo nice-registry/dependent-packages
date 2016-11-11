@@ -1,1 +1,1 @@
-["redis-rstream"]
+["accum","bench-rest","digest-stream","facets","length-stream","pass-stream","redis-rstream","redis-wstream","trilby"]

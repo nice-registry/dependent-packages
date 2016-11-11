@@ -1,1 +1,1 @@
-["grunt-jsforce-deploy"]
+["force-coverage","generator-force","grunt-jsforce-deploy","sfdc-travisci-coveralls"]

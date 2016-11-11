@@ -1,1 +1,1 @@
-["fi-security","fi-seed-component-auth","heroku-bouncer","request-persistent"]
+["cheetahmail-api","cordova-plugin-mobile-explorer","feathers-passport","fi-auth","fi-security","fi-seed-component-auth","grunt-upload-file","heroku-bouncer","level-session-store","medea-session-store","request-persistent"]

@@ -1,1 +1,1 @@
-["loopback-component-passport-refresh"]
+["formide","kuzzle-plugin-auth-github","kuzzle-plugin-auth-passport-oauth","loopback-component-passport-refresh"]

@@ -1,1 +1,1 @@
-["redux-middleware-react-native-appstate","redux-middleware-react-native-netinfo","uilog"]
+["redux-middleware-react-native-appstate","redux-middleware-react-native-netinfo","redux-storage-engine-cookies","redux-storage-engine-sessionstorage","uilog"]

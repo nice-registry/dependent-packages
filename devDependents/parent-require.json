@@ -1,1 +1,1 @@
-["hubot-hangupsjs","hubot-slack-relay","mongoose-csv"]
+["hubot-hangupsjs","hubot-slack-relay","knex-mssql","mongoose-csv","mongoose-simple-fixtures"]

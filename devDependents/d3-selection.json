@@ -1,1 +1,1 @@
-["d3-bundler"]
+["d3-batcher","d3-bundle","d3-bundler","dependency-parser","kibana-chord","rollup-plugin-visualizer","scale-to-fit"]

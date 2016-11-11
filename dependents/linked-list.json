@@ -1,1 +1,1 @@
-["sc1-client","sc2-client"]
+["event-to-stream","sc1-client","sc2-client","socketcluster-client"]

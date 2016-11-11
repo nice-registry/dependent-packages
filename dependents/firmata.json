@@ -1,1 +1,1 @@
-["cylon-firmata-llwoll","genisys","mqtt-vsp","noscmata","switch-board-driver"]
+["arduino.vytronics","bean-io","cylon-firmata-llwoll","dublin-disco","firmata-hid","firmata-http","firmata-ioboard","genisys","hardware-firmata","lunijs","mqtt-vsp","node-pixel","node-red-contrib-gpio","node-red-node-arduino","noscmata","p5bots-server","pinio","playground-io","skynet-firmata","switch-board-driver"]

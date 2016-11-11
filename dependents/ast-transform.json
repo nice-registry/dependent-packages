@@ -1,1 +1,1 @@
-["browserify-optional"]
+["browserify-optional","remove-catch-require","remove-try-require"]

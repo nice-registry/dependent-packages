@@ -1,1 +1,1 @@
-["etcd-config","faster","hapi-dropbox-webhooks","hapi-forwarded","hapi-webpack"]
+["ammo","aws-lambda-helper","b64","etcd-config","faster","hapi","hapi-class-controllers","hapi-dropbox-webhooks","hapi-forwarded","hapi-swagger","hapi-swagger-plugins","hapi-swaggered","hapi-webpack","hapi-webpack-dev-plugin","ipfs-npm","levee","mrhorse","pez","registry-mirror","s3put","skiff","swagger-exemplar","swagger-har","timeoutengine","waypointer"]

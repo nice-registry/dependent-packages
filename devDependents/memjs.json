@@ -1,1 +1,1 @@
-["shelloid-sessionstore"]
+["ReasonDB","pip-services-runtime-node","sessionstore","sessionstore-cloudant","shelloid-sessionstore","tilelive-multicache"]

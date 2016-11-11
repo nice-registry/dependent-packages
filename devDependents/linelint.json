@@ -1,1 +1,1 @@
-["browser-ls","fh-dev-proxy","fh-mocks","ng-feedhenry","ng-local-storage","vector2d"]
+["browser-ls","expeditious","expeditious-engine-memory","express-expeditious","fh-bunyan","fh-dev-proxy","fh-instance-url","fh-mbaas-proxy","fh-mocks","fh-rest-express-router","fh-rest-memory-adapter","fh-rest-mongodb-adapter","fh-rest-mysql-adapter","fh-rest-sync-proxy","fhlog","html5-fs","ng-local-storage","obd-parser","sns-mobile","vector2d"]

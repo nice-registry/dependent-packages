@@ -1,1 +1,1 @@
-["gulp-react-templates","node-react-templates","react-templates-brunch","sauron-web"]
+["babel-plugin-react-templates","broccoli-react-templates","grunt-react-page-templates","grunt-react-templates","gulp-react-templates","node-async-require","node-async-require-loader","node-react-templates","react-templates-brunch","react-templatify","sauron-web","seek-component-loader"]

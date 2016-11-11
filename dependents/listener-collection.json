@@ -1,1 +1,1 @@
-["jsreport-embedded-store","jsreport-mongodb-provider"]
+["jsreport-core","jsreport-embedded-store","jsreport-fs-store","jsreport-mongodb-provider","jsreport-mongodb-store"]

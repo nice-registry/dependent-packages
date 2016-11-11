@@ -1,1 +1,1 @@
-["dom.tpl","express-micro-tpl","gulp-amd-template"]
+["dom.tpl","express-micro-tpl","grunt-imweb-tpl-complie","gulp-amd-template","gulp-dmd"]

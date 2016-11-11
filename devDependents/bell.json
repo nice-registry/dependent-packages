@@ -1,1 +1,1 @@
-["hapi-bnet-provider"]
+["bell-andyet","hapi-bnet-provider","hapi-strategy-loader","hapi-user-router","seneca-auth","server-auth","server-frame-auth"]

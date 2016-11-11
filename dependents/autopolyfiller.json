@@ -1,1 +1,1 @@
-["enb-autopolyfiller","grunt-autopolyfiller","polyfill-service-webpack","polyify"]
+["autopolyfiller-fxd-loader","autopolyfiller-loader","enb-autopolyfiller","grunt-autopolyfiller","gulp-autopolyfiller","polyfill-service-webpack","polyify"]

@@ -1,1 +1,1 @@
-["taco-dependency-installer","taco-kits","taco-tests-utils"]
+["remotebuild","taco-dependency-installer","taco-kits","taco-remote","taco-remote-lib","taco-tests-utils"]

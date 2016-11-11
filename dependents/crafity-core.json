@@ -1,1 +1,1 @@
-["crafity-filesystem","crafity-jstest","crafity-storage"]
+["crafity-config","crafity-filesystem","crafity-http","crafity-jstest","crafity-nodemanager","crafity-process","crafity-resources","crafity-storage","crafity-webserver"]

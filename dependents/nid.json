@@ -1,1 +1,1 @@
-["lumen-fx","seneca-admin","seneca-loadbalance-transport","seneca-ng-web","seneca-run","use-plugin"]
+["batch-process","deco-server","hotelx-seneca-mesh","lumen-fx","patmos","saytime","seneca","seneca-admin","seneca-basic","seneca-beanstalk-transport","seneca-card","seneca-cart","seneca-couchbase-store","seneca-kafka-transport","seneca-loadbalance-transport","seneca-mesh","seneca-ng-card","seneca-ng-web","seneca-project","seneca-run","seneca-transport","seneca-worldpay","use-plugin"]

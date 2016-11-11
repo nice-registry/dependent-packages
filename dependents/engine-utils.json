@@ -1,1 +1,1 @@
-["engine-handlebars","engine-less","engine-lodash","template-nunjucks"]
+["engine-base","engine-handlebars","engine-less","engine-lodash","engine-plntr-handlebars","template-nunjucks"]

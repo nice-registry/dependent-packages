@@ -1,1 +1,1 @@
-["gulp-requirejs-bundle","petal"]
+["broccoli-petal","ember-watson","gulp-requirejs-bundle","petal"]

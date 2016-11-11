@@ -1,1 +1,1 @@
-["big-query-bot","s3streamylogs"]
+["big-query-bot","dynamo-backup-to-s3","file-storage","s3streamylogs"]

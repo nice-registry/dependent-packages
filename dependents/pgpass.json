@@ -1,1 +1,1 @@
-["pg-core"]
+["dbmigrations","pg-core","pg.js"]

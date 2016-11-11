@@ -1,1 +1,1 @@
-["s3-log-fetcher","s3-rsync","skipper-s3","skipper-s3-resize"]
+["betty","s3-log-fetcher","s3-rsync","s3-set-headers","s3m","sails-s3","skipper-s3","skipper-s3-resize","skipper-s3-resizer"]

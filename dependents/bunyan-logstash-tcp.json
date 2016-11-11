@@ -1,1 +1,1 @@
-["mongodb-event-logger","nscale-server","odilo-audit4node","rabbitmq-connector","radiowave"]
+["fwsp-hydra-express","mongodb-event-logger","nscale-server","odilo-audit4node","rabbitmq-connector","radiowave","service-logging-streams","ut-log","vz-dockerino"]

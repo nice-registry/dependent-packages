@@ -1,1 +1,1 @@
-["koa-logs-full","tiny-log"]
+["koa-logs-full","mini-logger","sfs","tiny-log"]

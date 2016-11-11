@@ -1,1 +1,1 @@
-["es6-promise-min","sl-ember-modelize","sl-ember-store"]
+["ember-data","ember-inspector","ember-qunit","es6-promise-min","htmlbars","orbit-core","orbit-indexeddb","orbit-jsonapi","orbit-local-storage","orbit-store","sl-ember-behavior","sl-ember-modelize","sl-ember-store","sl-ember-test-helpers","sl-ember-translate"]

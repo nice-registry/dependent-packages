@@ -1,1 +1,1 @@
-["ee-db-connection","ee-formdata-reader","ee-travis","ee-ttl-queue","travis-tools"]
+["ee-async","ee-aws-s3-bucket","ee-bookshelf-schema","ee-db-connection","ee-formdata-reader","ee-mime-decoder","ee-net","ee-protocol-json","ee-rate-limiter","ee-resource-pool","ee-travis","ee-ttl-queue","ee-webserver","ee-xml-to-json","em-rest-service","em-rewrite","travis-tools"]

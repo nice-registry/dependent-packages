@@ -1,1 +1,1 @@
-["newww-metrics","numbat-redis"]
+["newww","newww-metrics","numbat-haproxy","numbat-netstat","numbat-process","numbat-reachability","numbat-redis","numbat-send"]

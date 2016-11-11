@@ -1,1 +1,1 @@
-["mdast-validate-links"]
+["mdast-util-to-hast","mdast-validate-links","remark-inline-links","remark-strip-badges","remark-validate-links"]

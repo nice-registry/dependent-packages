@@ -1,1 +1,1 @@
-["ldp","rdf-mime-type-util","rdf-serializer-n3","rdf-serializer-ntriples","rdf-serializer-sparql-update","rdf-store-abstract","solid-acl","tbbt-ld"]
+["ldp","rdf-body-parser","rdf-fetch","rdf-mime-type-util","rdf-parser-abstract","rdf-serializer-n3","rdf-serializer-ntriples","rdf-serializer-sparql-update","rdf-serializer-xml","rdf-store-abstract","simplerdf-fetch","solid-acl","tbbt-ld"]

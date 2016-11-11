@@ -1,1 +1,1 @@
-["posthtml-textr","textr-loader","typographic-base"]
+["grunt-textr","gulp-textr","posthtml-textr","remark-textr","textr-cli","textr-loader","typographic-base"]

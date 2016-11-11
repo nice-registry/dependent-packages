@@ -1,1 +1,1 @@
-["channeladvisor-rest","node-google-sheets-logger","winston-google-spreadsheet"]
+["channeladvisor-rest","csup","gapps-directory","gapps-provisioning","gas-manager","node-google-sheets-logger","winston-google-spreadsheet"]

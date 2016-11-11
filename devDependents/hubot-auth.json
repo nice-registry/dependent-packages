@@ -1,1 +1,1 @@
-["hubot-db-heimdall","hubot-fabric"]
+["hubot-at-events","hubot-cron-events","hubot-db-heimdall","hubot-es-logger","hubot-fabric","hubot-phabs"]

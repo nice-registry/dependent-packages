@@ -1,1 +1,1 @@
-["add-collaborator","ask-for-github-auth","ask-once","assemble-ask","base-list"]
+["add-collaborator","ask-for-github-auth","ask-once","assemble-ask","base-list","common-config","gulp-choose-file","gulp-choose-files","gulp-pick-keys","question-store","sync-pkg"]

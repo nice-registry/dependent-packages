@@ -1,1 +1,1 @@
-["exposed","gulp-clang-format","gulp-format"]
+["exposed","fs-equals","glob-equal","gulp-clang-format","gulp-format","osprey-method-handler","vimeo-downloader"]

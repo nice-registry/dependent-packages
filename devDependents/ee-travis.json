@@ -1,1 +1,1 @@
-["cinergy-content-api","ee-db-connection","ee-elasticache-autodiscovery","ee-formdata-reader","ee-postgres-connection","ee-postgres-query-builder","ee-soa-website","em-formdata-collector"]
+["cinergy-content-api","ee-bookshelf-schema","ee-db-connection","ee-elasticache-autodiscovery","ee-formdata-reader","ee-mime-decoder","ee-postgres-connection","ee-postgres-query-builder","ee-shopify","ee-soa-discovery-response","ee-soa-discoverymanager","ee-soa-website","ee-webserver","em-formdata-collector","em-webfiles-file","em-webfiles-loader"]

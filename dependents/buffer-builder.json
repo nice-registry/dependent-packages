@@ -1,1 +1,1 @@
-["hessian-proxy-cn","hessian-proxy-dj","node-amqp-1-0","node-amqp-encoder","xbee-serialsim"]
+["amqp10","cat-client","counterparty-transaction-parser","hessian","hessian-proxy","hessian-proxy-cn","hessian-proxy-dj","hessian-proxy-garbled","hessian-proxy-xl","kafkaesque","node-amqp-1-0","node-amqp-encoder","time-chunked-stream","xbee-api","xbee-serialsim"]

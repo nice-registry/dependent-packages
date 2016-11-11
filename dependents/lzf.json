@@ -1,1 +1,1 @@
-["jsr-rdb"]
+["jsr-rdb","node-compress-util","node-document-compressor-lzf","rdb-parser","rdb-tools"]

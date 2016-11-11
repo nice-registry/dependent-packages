@@ -1,1 +1,1 @@
-["gulpack-browserify","gulpack-browsersync","gulpack-ls","gulpack-watchify","gulpack-webserver"]
+["gulpack-browserify","gulpack-browsersync","gulpack-concat","gulpack-copy","gulpack-del","gulpack-iconfont","gulpack-jade","gulpack-ls","gulpack-replace","gulpack-sass","gulpack-sassimporter","gulpack-series","gulpack-svgsprite","gulpack-watch","gulpack-watchify","gulpack-webserver"]

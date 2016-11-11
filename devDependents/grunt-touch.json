@@ -1,1 +1,1 @@
-["connect-keyclaok","connect-keycloak","grunt-find","grunt-sass-multi-import","keycloak-nodejs"]
+["connect-keyclaok","connect-keycloak","grunt-find","grunt-sass-multi-import","grunt-webdavpush","keycloak-auth-utils","keycloak-nodejs","snew"]

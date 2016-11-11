@@ -1,1 +1,1 @@
-["observ-conference","observ-users","rtc-mesh","rtc-plugin-node","rtc-signaller","rtc-taskqueue"]
+["observ-conference","observ-users","rtc-glue","rtc-health","rtc-mesh","rtc-plugin-node","rtc-proxy","rtc-quickconnect","rtc-quickconnect-test","rtc-signaller","rtc-taskqueue","rtc-tools","rtc-tools-test"]

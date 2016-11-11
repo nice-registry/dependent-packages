@@ -1,1 +1,1 @@
-["bpmn-js-debug-overlay","bpmn-js-embedded-comments","camunda-resource-deployer-js"]
+["bpmn-js-cli","bpmn-js-cli-modeling-dsl","bpmn-js-debug-overlay","bpmn-js-embedded-comments","bpmn-js-properties-panel","bpmn-js-transaction-boundaries","camunda-modeler","camunda-resource-deployer-js","runbpm-js-properties-panel"]

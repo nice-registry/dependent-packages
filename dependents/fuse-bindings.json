@@ -1,1 +1,1 @@
-["buttsfs","difffs","exclfs","fuseql","hyperfs","mount-solid","mount-url","punzip","torrent-docker","torrent-mount"]
+["async-fuse","buttsfs","copy-on-write","difffs","distfs","exclfs","fuseql","fusile","hyperfs","mongofuse","mount-solid","mount-url","punzip","slick-io","torrent-docker","torrent-mount","webdav-fuse"]

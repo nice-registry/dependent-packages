@@ -1,1 +1,1 @@
-["adonis-http-dispatcher"]
+["adonis-ace","adonis-ally","adonis-antl","adonis-auth","adonis-binding-resolver","adonis-broccoli","adonis-bull","adonis-cache","adonis-commands","adonis-encrypter","adonis-hashids","adonis-http-dispatcher","adonis-kue","adonis-kue-provider","adonis-lucid","adonis-mail-provider","adonis-middleware","adonis-mongorito","adonis-queue","adonis-rate-limiter","adonis-redis","adonis-scheduler","adonis-sms","adonis-throttle-requests","adonis-validation-provider"]

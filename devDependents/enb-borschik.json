@@ -1,1 +1,1 @@
-["bem-matchers","enb-bem-grid"]
+["bem-components","bem-core","bem-http","bem-matchers","enb-bem-grid","koa-bem-render","zireael"]

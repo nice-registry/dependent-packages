@@ -1,1 +1,1 @@
-["consulate","consulate-authcode-simple-secrets","consulate-simple-secrets","consulate-validate-redirect-uri"]
+["ar-drone","consulate","consulate-authcode-simple-secrets","consulate-authcode-simple-secrets-redis","consulate-scopes-env","consulate-simple-secrets","consulate-validate-redirect-uri","keyset","passport-scope-restrict","smd"]

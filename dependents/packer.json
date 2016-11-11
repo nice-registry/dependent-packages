@@ -1,1 +1,1 @@
-["grunt-packitjs"]
+["grunt-jspacker","grunt-packitjs","grunt-pngdrive"]

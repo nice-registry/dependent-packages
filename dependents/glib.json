@@ -1,1 +1,1 @@
-["ent-hapi-negotiate"]
+["ent-hapi-elasticsearch","ent-hapi-negotiate","ent-hapi-sequelize","ent-query"]

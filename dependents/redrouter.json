@@ -1,0 +1,1 @@
+["redrouter.agent.http-proxy","redrouter.agent.ssh-proxy","redrouter.agent.wetty","redrouter.backend.etcd","redrouter.middleware.docker","redrouter.middleware.round-robin","redrouter.resolver.http","redrouter.resolver.ssh"]

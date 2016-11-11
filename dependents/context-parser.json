@@ -1,1 +1,1 @@
-["context-parser-handlebars"]
+["context-parser-handlebars","html-purify","secure-handlebars"]

@@ -1,1 +1,1 @@
-["fly-cssfmt","fly-cssnano","fly-minify","fly-webpack"]
+["fly-cssfmt","fly-cssnano","fly-define","fly-minify","fly-mocha","fly-webpack"]

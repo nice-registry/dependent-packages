@@ -1,1 +1,1 @@
-["protobuf-activetick","protobuf-ib","protobuf-jsonschema"]
+["pbf","protobuf-activetick","protobuf-ib","protobuf-jsonschema","protobuf-validator"]

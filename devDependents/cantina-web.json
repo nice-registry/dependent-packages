@@ -1,1 +1,1 @@
-["cantina-engine.io","cantina-socket.io","cantina-vhosts","cantina-webpack"]
+["cantina-app-ui-users","cantina-app-users","cantina-auth-twitter","cantina-cache","cantina-engine.io","cantina-log","cantina-session","cantina-socket.io","cantina-vhosts","cantina-webpack"]

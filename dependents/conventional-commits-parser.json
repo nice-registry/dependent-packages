@@ -1,1 +1,1 @@
-["publish-dist"]
+["analyze-commits-commitstylerc","autorelease","conventional-changelog-core","conventional-changelog-lint","conventional-recommended-bump","gitlab-ci-releaser","nlm","publish-dist","release-flow","semantic-release-gitlab-notifier"]

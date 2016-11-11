@@ -1,1 +1,1 @@
-["ember-cli-history-mixin"]
+["ember-cli-crudtable","ember-cli-history-mixin","ember-quiz","ember-simple-auth-token"]

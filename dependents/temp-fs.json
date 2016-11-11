@@ -1,1 +1,1 @@
-["jslinker"]
+["browserstack-local","jslinker","sync-module","webpack-recompilation-simulator"]

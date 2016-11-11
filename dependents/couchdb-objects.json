@@ -1,1 +1,1 @@
-["pouchdb-validation"]
+["pouchdb-list","pouchdb-rewrite","pouchdb-show","pouchdb-update","pouchdb-validation"]

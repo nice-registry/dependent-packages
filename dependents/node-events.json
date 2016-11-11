@@ -1,1 +1,1 @@
-["node-redis-client"]
+["node-redis-client","node-redis-protocol","node-resp"]

@@ -1,1 +1,1 @@
-["grunt-thin-aws"]
+["grunt-thin-aws","imapper-auth-s3","s3-easy-deploy"]

@@ -1,1 +1,1 @@
-["bash-exec","mstorage","simple-pmysql","simple-ticker"]
+["bash-exec","bellman","bellman-graylog","mstorage","simple-pmysql","simple-ticker","telegram-alert","winston-tcp-graylog"]

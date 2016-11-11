@@ -1,1 +1,1 @@
-["http-jquery","promise-armor"]
+["backbone-crux","http-jquery","marionette.module","promise-armor"]

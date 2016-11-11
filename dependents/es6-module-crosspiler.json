@@ -1,1 +1,1 @@
-["rewrite-js-dependencies"]
+["normalize-builder","normalize-walk","rewrite-js-dependencies"]

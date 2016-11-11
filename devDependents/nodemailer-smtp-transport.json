@@ -1,1 +1,1 @@
-["meteoremailer","ses-proxy","smtpeshka"]
+["meteoremailer","node_express_user_manager","ses-proxy","smtpeshka","sql_login_middleware","sql_user_auth","sql_user_manager"]

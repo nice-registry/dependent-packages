@@ -1,1 +1,1 @@
-["express-service-discovery","misaka"]
+["express-service-discovery","hapi-service-discovery","misaka","node-opcua"]

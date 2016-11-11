@@ -1,1 +1,1 @@
-["babel-helper-modules"]
+["babel-helper-modules","babel-helper-modules-es3","babel-runtime","forgot-await","node-odata","react-obj","scraper.js","scraper.js-queue-bull","scraper.js-urlcache-redis"]

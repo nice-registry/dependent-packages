@@ -1,1 +1,1 @@
-["lineman-riot"]
+["lineman-bower","lineman-browserify","lineman-less","lineman-less-goog","lineman-lib","lineman-riot"]

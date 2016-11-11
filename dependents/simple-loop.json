@@ -1,1 +1,1 @@
-["data-binding-plugin","emily","local-observable-store","nouage","observable-store","shallow-diff","watch-notify"]
+["data-binding-plugin","emily","jstransformer-postcss","jstransformer-posthtml","local-observable-store","nouage","observable-store","place-plugin","seam","shallow-diff","simple-object-mixin","synchronous-fsm","watch-notify"]

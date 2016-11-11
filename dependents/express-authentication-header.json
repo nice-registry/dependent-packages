@@ -1,1 +1,1 @@
-["express-authentication-bearer"]
+["express-authentication-basic","express-authentication-bearer"]

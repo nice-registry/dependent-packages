@@ -1,1 +1,1 @@
-["postcss-deps"]
+["css-module-deps","postcss-deps","postcss-simple-import"]

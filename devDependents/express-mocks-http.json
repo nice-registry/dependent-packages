@@ -1,1 +1,1 @@
-["ignis","ignis-passport","ignis-validate","imop-league-api","versatile-node-logger","websocket-access-service"]
+["background-service-runner","hafiz","ignis","ignis-passport","ignis-validate","imop-league-api","mock-redis-client","mongo-stash","node-messaging-commons","simple-node-db","socket-logger","socket-model","versatile-node-logger","web-app-runner","websocket-access-service","websocket-spellcheck-service"]

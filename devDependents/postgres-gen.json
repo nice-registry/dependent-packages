@@ -1,1 +1,1 @@
-["postgres-gen-migrate"]
+["postgres-gen-dao","postgres-gen-migrate"]

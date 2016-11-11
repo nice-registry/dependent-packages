@@ -1,1 +1,1 @@
-["grunt-html-prettyprinter"]
+["grunt-curl","grunt-html-prettyprinter","grunt-install-init","grunt-jsmin-sourcemap","grunt-zip"]

@@ -1,1 +1,1 @@
-["gulp-s3-concurrent-upload","icg-task-queue","icg-task-service-manager","knox-copy"]
+["gulp-s3-concurrent-upload","icg-task-queue","icg-task-service-manager","knox-copy","rabbit-hat","shopify-api-tools"]

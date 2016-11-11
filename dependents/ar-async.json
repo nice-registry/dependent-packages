@@ -1,1 +1,1 @@
-["ipkg-util"]
+["grunt-contrib-deb","ipkg-util","nobin-debian-installer"]

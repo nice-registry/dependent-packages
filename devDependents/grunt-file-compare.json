@@ -1,1 +1,1 @@
-["grunt-simple-protractor"]
+["grunt-multibundle-requirejs","grunt-simple-protractor"]

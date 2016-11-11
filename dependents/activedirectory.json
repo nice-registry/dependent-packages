@@ -1,1 +1,1 @@
-["express-cached-ldap","mediasuitenz-ldap-user-authentication","oc-auth-ldap"]
+["activedirectoryuserobject","express-cached-ldap","horus-authen","ldap-express-auth-middleware","mediasuitenz-ldap-user-authentication","meshblu-connector-activedirectory","objectum-ee","oc-auth-ldap","passport-activedirectory","sinopia-activedirectory"]

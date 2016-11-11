@@ -1,1 +1,1 @@
-["mongoose-oauth-store-multi-tenant","mongoose-rest-helper","mongoose-user-store-multi-tenant","mongraph"]
+["easy-mongo","entangle-mongo","mongo-col","mongo-stampede","mongoose-identity-store","mongoose-identity-store-multi-tenant","mongoose-oauth-store-multi-tenant","mongoose-plugins-accessible-by","mongoose-rest-helper","mongoose-user-store-multi-tenant","mongraph","simple-db","syncit-server","tracer","xml-to-es"]

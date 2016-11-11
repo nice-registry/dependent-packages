@@ -1,1 +1,1 @@
-["base-list","get-download-stats"]
+["base-cli-process","base-data","base-list","cache-base","clone-repos","data-store","generate-gulpfile","get-download-stats","log-events","sort-object","updater-verb"]

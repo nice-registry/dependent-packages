@@ -1,1 +1,1 @@
-["mongo-db-populator"]
+["grunt-mongodb-fixtures","mongo-db-populator","plus.garden.fixtures-mongo"]

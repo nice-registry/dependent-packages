@@ -1,1 +1,1 @@
-["airplay-xbmc","airproxy","canary","edison-cli","freebox-qml-run","matchstick-scanner","meshblu-chromecast","meshblu-device-discoverer","nwjs-cast"]
+["airplay-js","airplay-xbmc","airproxy","canary","chromecast-discover","device-discovery-cli","dynamorse","edison-cli","freebox-qml-run","matchstick-scanner","meshblu-chromecast","meshblu-connector-chromecast","meshblu-device-discoverer","nbp-bridge","node-mdns-easy","nodebmc","nwjs-cast","t2-cli"]

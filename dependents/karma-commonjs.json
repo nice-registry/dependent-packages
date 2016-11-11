@@ -1,1 +1,1 @@
-["boilerplate-gulp-angular-sass","gherkin-karma-example","gulp-component-helper","liferay-forms-ui-tests"]
+["boilerplate-gulp-angular","boilerplate-gulp-angular-sass","gherkin-karma-example","gulp-component-helper","liferay-forms-alloy-config","liferay-forms-ui-tests","liferay-karma-alloy-config","liferay-karma-config","lithium-sdk","metal-karma-config"]

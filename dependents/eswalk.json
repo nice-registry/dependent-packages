@@ -1,1 +1,1 @@
-["esschema","put-packages-in-requirejs-config"]
+["add-define-names","esschema","put-packages-in-requirejs-config","replace-i18n"]

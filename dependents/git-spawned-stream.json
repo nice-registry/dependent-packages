@@ -1,1 +1,1 @@
-["git-diff-tree","git-tag-stream","git-tree"]
+["git-blame","git-commits","git-diff-tree","git-download-archive","git-get-file","git-get-patch","git-grep","git-show-ref","git-tag-stream","git-tree"]

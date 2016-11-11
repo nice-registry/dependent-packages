@@ -1,1 +1,1 @@
-["amqp-route","amqp-stream","co-punch","plinko"]
+["amqp-request-reply","amqp-retry","amqp-route","amqp-stream","caeleb","co-punch","node-discovery","nodemailer-any-promise","plinko","rikki","traceview"]

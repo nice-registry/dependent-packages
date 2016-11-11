@@ -1,1 +1,1 @@
-["metalsmith-env"]
+["metalsmith-env","metalsmith-jstransformer-layouts"]

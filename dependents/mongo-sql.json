@@ -1,1 +1,1 @@
-["pg-crud","pg-plus","portal"]
+["connect-request-logger-pg","dirac","frakture-utility","less-sql","mio-mysql","modella-mysql","mongo-pg","pg-crud","pg-key-value-stream","pg-plus","portal","relational","syncable-api","vakoo"]

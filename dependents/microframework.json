@@ -1,1 +1,1 @@
-["microframework-t-controllers","microframework-t-event-dispatcher","microframework-t-validator"]
+["avegao-microframework-winston","microframework-controllers.ts","microframework-elasticsearch","microframework-event-dispatch","microframework-event-dispatcher.ts","microframework-express","microframework-rabbit.ts","microframework-t-controllers","microframework-t-event-dispatcher","microframework-t-validator","microframework-typeodm","microframework-validator.ts"]

@@ -1,1 +1,1 @@
-["io.filesystem","net.http-server","network.http-router","specify-assertions","specify-core","specify-dsl-bdd","test.benchmark"]
+["alright","funkytown","hifive","hifive-bdd","io.filesystem","madeleine","net.http-client","net.http-server","network.http-router","specify-assertions","specify-core","specify-dsl-bdd","test.benchmark","wrapper.express"]

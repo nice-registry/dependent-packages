@@ -1,1 +1,1 @@
-["patch-layout","torch-css"]
+["css-module-deps","depsify","patch-layout","torch-css"]

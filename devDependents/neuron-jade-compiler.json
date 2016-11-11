@@ -1,1 +1,1 @@
-["neuron-builder"]
+["commonjs-walker","module-walker","neuron-builder","neuron-module-builder"]

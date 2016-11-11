@@ -1,1 +1,1 @@
-["accountdown-parser","hammock-request","routes-router"]
+["accountdown-parser","hammock-request","mixdown-publish","mixdown-router","pipeline-router","ringpop","routes-router"]

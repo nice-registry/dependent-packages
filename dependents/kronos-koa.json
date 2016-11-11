@@ -1,1 +1,1 @@
-["kronos-koa-service"]
+["kronos-adapter-inbound-http","kronos-koa-service","kronos-service-koa"]

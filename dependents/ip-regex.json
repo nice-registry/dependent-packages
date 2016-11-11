@@ -1,1 +1,1 @@
-["anonymize-ip","clean-this-tweet-up","commonchecks","half-duplex","ip-port-regex","ipgeo","iplocation","ips"]
+["anonymize-ip","clean-this-tweet-up","commonchecks","half-duplex","hyperlinks","hyperlinks-iterm","hyperlinks2","hyperterm-clicky","ip-filter","ip-port-regex","ipgeo","iplocation","iplocation-cli","ips","is-ip","jssb-ref","mongo-throttle","my-autolink","randomdns","react-native-tcp","regexhub","superhuman-url-regex","type-detection","url-regex"]

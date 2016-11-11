@@ -1,1 +1,1 @@
-["pg-core"]
+["pg-core","pg-custom-types","pg-postgis-types","pg-safe-numbers"]

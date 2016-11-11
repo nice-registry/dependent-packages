@@ -1,1 +1,1 @@
-["mqtt-stack"]
+["aedes","aedes-cached-persistence","aedes-persistence","aedes-persistence-level","aedes-persistence-mongodb","aedes-persistence-redis","ascoltatori","ascoltatori-lowfat","mosca","mosca-bitfinder","mosca-lowfat","mqemitter","mqlobber","mqlobber-access-control","mqtt-stack","mqtt2opcua","qlobber-fsq","seneca-mosca-auth","upring-pubsub"]

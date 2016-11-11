@@ -1,1 +1,1 @@
-["box-maze","eslint-plugin-paths","gulp-require-order"]
+["box-maze","eslint-plugin-bdd","eslint-plugin-paths","gulp-require-order","sblog"]

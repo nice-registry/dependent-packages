@@ -1,1 +1,1 @@
-["interface.server.gui","interface.server.osc","interface.simpleserver","max4node","moscow","oscm","oscurl","supercolliderjs-browser"]
+["interface.server.gui","interface.server.osc","interface.simpleserver","max4node","meshblu-connector-osc","moscow","node-osc","osc-cli","osc-emitter","osc-receiver","oscm","oscurl","rhizome-server","supercolliderjs","supercolliderjs-browser"]

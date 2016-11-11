@@ -1,1 +1,1 @@
-["taskcluster-npm-cache"]
+["bower2nix","fs-transaction","taskcluster-npm-cache","taskcluster-vcs"]

@@ -1,1 +1,1 @@
-["cpu-profile-dumper","node-stap"]
+["cpu-profile-dumper","node-flame","node-stap","tree-sitter-cli","tree-sitter-compiler"]

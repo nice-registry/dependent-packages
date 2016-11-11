@@ -1,1 +1,1 @@
-["jsonapi-store-elasticsearch"]
+["jsonapi-server","jsonapi-store-elasticsearch","jsonapi-store-mongodb","jsonapi-store-relationaldb","oa-ascync"]

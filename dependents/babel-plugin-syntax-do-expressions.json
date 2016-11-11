@@ -1,1 +1,1 @@
-["babel-preset-lightsofapollo"]
+["babel-plugin-flow-relay-query","babel-preset-lightsofapollo","babel-preset-syntax-from-presets","babel-preset-target","better-babel-cli","format-message-cli","module-imports-exports","unbundle"]

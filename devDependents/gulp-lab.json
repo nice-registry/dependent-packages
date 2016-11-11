@@ -1,1 +1,1 @@
-["amma-plugin-loader","goldvault","good-winston-reporter","hapi-auth-jwt-request","hapi-jwt","hapi-simple-session","hapi-static-content"]
+["amma-plugin-loader","badge","goldvault","good-winston-reporter","hapi-and-healthy","hapi-auth-jwt-request","hapi-jwt","hapi-locale-i18n","hapi-logentries","hapi-simple-session","hapi-static-content","importer-core","outflux","teamcity-package-reporter"]

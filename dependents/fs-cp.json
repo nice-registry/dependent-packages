@@ -1,1 +1,1 @@
-["autopack","co-multipart","fs-lru-cache","genome","mgmt-images","s3-cnpm","tiny-request"]
+["autopack","chui","chui-android","co-multipart","fs-lru-cache","genome","koa-body-parsers","koa-s3-cache","mgmt-images","normalize-build","normalize-client","requisition","s3-cnpm","tiny-request"]

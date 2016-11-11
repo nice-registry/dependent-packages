@@ -1,1 +1,1 @@
-["posthtml-extend-attrs","posthtml-static-react"]
+["posthtml-collect-styles","posthtml-extend-attrs","posthtml-inline-css","posthtml-modules","posthtml-postcss-modules","posthtml-remove-duplicates","posthtml-static-react"]

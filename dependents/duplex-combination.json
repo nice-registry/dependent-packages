@@ -1,1 +1,1 @@
-["gulp-nw","inline-htmlify"]
+["abraxas","format-response","gulp-nw","inline-htmlify","zeromq-frame-stream"]

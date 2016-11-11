@@ -1,1 +1,1 @@
-["memdb-client"]
+["memdb-client","memdb-server","mongodb-transaction"]

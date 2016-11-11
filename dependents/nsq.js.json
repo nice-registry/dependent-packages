@@ -1,1 +1,1 @@
-["node-consumer-nsq","nsqubicle"]
+["mux.io","node-consumer-nsq","npublish","nsq-service","nsq-to-stdout","nsqubicle","unt","winston-nsq"]

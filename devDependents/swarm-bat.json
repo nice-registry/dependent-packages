@@ -1,1 +1,1 @@
-["swarm-client","swarm-replica"]
+["swarm-cli","swarm-client","swarm-peer","swarm-replica","swarm-server","swarm-syncable"]

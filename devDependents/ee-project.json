@@ -1,1 +1,1 @@
-["ee-formdata-reader","ee-orm","ee-orm-localization","ee-orm-nested-set","ee-orm-timestamps","em-formdata-collector","related-nested-set","related-timestamps"]
+["ee-aws-s3-bucket","ee-formdata-reader","ee-mime-decoder","ee-orm","ee-orm-localization","ee-orm-nested-set","ee-orm-timestamps","em-formdata-collector","related","related-localization","related-nested-set","related-timestamps"]

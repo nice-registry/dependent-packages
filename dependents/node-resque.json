@@ -1,1 +1,1 @@
-["hound-javascript","nhf_db","sails-hook-resque","server-proto"]
+["actionhero","hound-javascript","koop-agol","koop-queue","koop-worker","nhf_db","node-queue-bus","node-resquebus","sails-hook-resque","server-proto","stellar-fw"]

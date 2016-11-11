@@ -1,1 +1,1 @@
-["math-float64-exponent","math-float64-from-words","math-float64-get-high-word","math-float64-get-low-word","math-float64-normalize","math-float64-set-high-word","math-float64-set-low-word","math-float64-to-words"]
+["float64-to-float32","math-digamma","math-float64-copysign","math-float64-exponent","math-float64-flipsign","math-float64-from-words","math-float64-get-high-word","math-float64-get-low-word","math-float64-nextafter","math-float64-normalize","math-float64-set-high-word","math-float64-set-low-word","math-float64-to-words"]

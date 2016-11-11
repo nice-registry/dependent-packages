@@ -1,1 +1,1 @@
-["grunt-remove-html-comments"]
+["grunt-remove-html-comments","gulp-remove-html-comments"]

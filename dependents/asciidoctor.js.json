@@ -1,1 +1,1 @@
-["grunt-asciidoctor","metalsmith-asciidoc"]
+["asciidoctor-cli","asciidoctor-docbook.js","asciidoctor-loader","asciidoctor-template.js","broccoli-asciidoc","cwl-ts-parser","docketjs","docpad-plugin-asciidoc","fis-parser-asciidoctor.js","gitbook-asciidoc","grunt-asciidoctor","gulp-makdoc","hexo-renderer-asciidoc","litoria","metalsmith-asciidoc","metalsmith-blue","yaml-to-json"]

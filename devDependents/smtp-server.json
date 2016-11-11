@@ -1,1 +1,1 @@
-["jsbox","service-checker"]
+["jsbox","mailx","ms-mailer","nodemailer-any-promise","nodemailer-direct-transport","nodemailer-smtp-pool","nodemailer-smtp-transport","service-checker","service-scaff","smtp-connection","winston-mail","xd-smtp-connection","xdmailer-smtp-transport"]

@@ -1,1 +1,1 @@
-["grunt-contrib-handlebars-es2015","grunt-contrib-jst-fork","grunt-hoganjs","grunt-md-jst"]
+["bmaland-grunt-contrib-handlebars","grunt-contrib-custom-handlebars","grunt-contrib-handlebars","grunt-contrib-handlebars-bzin","grunt-contrib-handlebars-es2015","grunt-contrib-handlebars-rhengles","grunt-contrib-jst-fork","grunt-domly","grunt-handlebars-universal","grunt-hoganjs","grunt-htmltjs","grunt-jst2","grunt-md-jst","gulp-declare"]

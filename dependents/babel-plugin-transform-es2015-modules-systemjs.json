@@ -1,1 +1,1 @@
-["ima.js-gulp-tasks"]
+["babel-preset-cordial","babel-preset-env","babel-preset-es2015","babel-preset-es2015-no-reg","babel-preset-features","babel-preset-modern-node","babel-preset-mse-video","better-babel-cli","builder-systemjs","cmpjs","flarum-gulp","generator-arc","gourmet-babel-processor","gulp-helpers","ima-gulp-tasks","ima.js-gulp-tasks","joobster","laravel-elixir-system","node-es-module-loader","oribella-dev","serve-esnext","spoonx-tools","unbundle","vfx"]

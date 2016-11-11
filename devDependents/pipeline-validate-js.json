@@ -1,0 +1,1 @@
+["pipeline-compile-less","pipeline-compile-sass","pipeline-handyman","pipeline-minify-css","pipeline-minify-js","pipeline-test-node","pipeline-validate-css"]

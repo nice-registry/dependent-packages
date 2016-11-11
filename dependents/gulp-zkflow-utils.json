@@ -1,1 +1,1 @@
-["zkflow-task-browserify"]
+["gulp-zkflow-angular","zkflow-task-assets","zkflow-task-browserify","zkflow-task-eslint","zkflow-task-jasmine","zkflow-task-karma"]

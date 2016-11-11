@@ -1,1 +1,1 @@
-["express-jsxtransform","magicpen-media"]
+["express-autoprefixer","express-jsxtransform","magicpen-media","oconf","postgres-migrate"]

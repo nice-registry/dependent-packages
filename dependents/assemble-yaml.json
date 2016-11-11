@@ -1,1 +1,1 @@
-["grunt-readme","handlebars-helper-aggregate","handlebars-helper-post","helper-compose"]
+["assemble-front-matter","blackbaud-stache","grunt-matter","grunt-readme","grunt-template-db-insert","handlebars-helper-aggregate","handlebars-helper-post","helper-aggregate","helper-compose"]

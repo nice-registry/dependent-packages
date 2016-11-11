@@ -1,1 +1,1 @@
-["uber-cache-mongodb","uber-cache-namespace","uber-memoize"]
+["cf-dedupe-list-aggregator","fleet-street","uber-cache-memcached","uber-cache-mongodb","uber-cache-namespace","uber-cache-redis","uber-memoize"]

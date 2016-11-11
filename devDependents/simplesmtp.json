@@ -1,1 +1,1 @@
-["emailjs-cli","emailjs-knotz","emails","erizo-webmail-api","fxa-auth-mailer","webmail","wo-smtpclient"]
+["cozy-emails","emailjs","emailjs-cli","emailjs-knotz","emailjs-plus","emailjs-smtp-client","emailjs-strict","emailjstmp","emails","erizo-webmail-api","fxa-auth-mailer","mailers","mlcl_mailer","webmail","winston-nodemail","wo-smtpclient"]

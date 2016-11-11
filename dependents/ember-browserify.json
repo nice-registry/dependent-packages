@@ -1,1 +1,1 @@
-["uses-ember-browserify"]
+["ember-cli-mocha-reporter","ember-jszip","ember-localstorage-with-where-adapter","ember-redux-core","ember-socrata","smack-ember-adapters","unity-jobs","uses-ember-browserify"]

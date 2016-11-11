@@ -1,1 +1,1 @@
-["elastic_filter","graphiti","mixdown","mixdown-config-filesystem","mixdown-handlebars","mixdown-json","mixdown-streaming-cli","string-obfuscator"]
+["aws-sqs-stream","elastic_filter","graphiti","mixdown","mixdown-config-filesystem","mixdown-error","mixdown-handlebars","mixdown-json","mixdown-router","mixdown-streaming-cli","string-obfuscator"]

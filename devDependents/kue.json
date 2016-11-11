@@ -1,1 +1,1 @@
-["kue-chain","unique-kue"]
+["byteskode-mailer","byteskode-push","kue-chain","kue-mock","kue-ui","kue-unique","parallel-queue-partitioner","redibox-hook-job","tower-dev","unique-kue"]

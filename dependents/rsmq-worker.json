@@ -1,1 +1,1 @@
-["mc-core","run.sitespeed.io-worker"]
+["mc-core","nodejs-utils","redis-message","redis-notifications","run.sitespeed.io-worker","seguir","websocketmq"]

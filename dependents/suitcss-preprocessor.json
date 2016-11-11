@@ -1,1 +1,1 @@
-["broccoli-suitcss","jstransformer-suitcss","metalsmith-suitcss"]
+["broccoli-suitcss","grunt-suitcss","gulp-suitcss","jstransformer-suitcss","metalsmith-suitcss"]

@@ -1,1 +1,1 @@
-["grunt-force-developer","node-red-contrib-salesforce"]
+["alpine-analytics","alpine-logging","dmc","forcelog","grunt-force-developer","node-red-contrib-salesforce","skuid-grunt"]

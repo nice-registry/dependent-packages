@@ -1,1 +1,1 @@
-["http-prometheus-metrics","level-prometheus-metrics","memory-prometheus-metrics"]
+["http-prometheus-metrics","level-prometheus-metrics","memory-prometheus-metrics","node-app-base","prometheus-log-client"]

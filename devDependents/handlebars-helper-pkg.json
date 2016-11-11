@@ -1,1 +1,1 @@
-["grunt-assemble-anchors"]
+["assemble-middleware-anchors","example-assemble-lunr","grunt-assemble-anchors"]

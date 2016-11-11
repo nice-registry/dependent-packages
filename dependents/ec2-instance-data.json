@@ -1,1 +1,1 @@
-["ec2-cfn-tags","ec2-instance-data-promise"]
+["aws-component-inventory","ec2-cfn-tags","ec2-instance-data-promise","ubuntu-ami-locator"]

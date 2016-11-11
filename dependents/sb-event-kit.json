@@ -1,1 +1,1 @@
-["process-communication","sb-communication","worker-exchange"]
+["disposable-event","flint","packaged-linter-ui-default","process-communication","pundle","pundle-dev","sb-communication","sb-downloader","worker-exchange"]

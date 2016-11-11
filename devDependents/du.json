@@ -1,1 +1,1 @@
-["a-native-module-without-prebuild","leveldown-basho","leveldown-mobile","leveldown-prebuilt","leveldown-sync","levelup-sync","nosql-leveldb","rocksdb"]
+["a-native-module-without-prebuild","flat-rocks","leveldown","leveldown-basho","leveldown-basho-andris","leveldown-hyper","leveldown-hyper-prebuilt","leveldown-mips","leveldown-mobile","leveldown-prebuilt","leveldown-sync","levelout","levelup-sync","nosql-leveldb","rocksdb","rocksdown"]

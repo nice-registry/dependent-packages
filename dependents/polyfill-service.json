@@ -1,1 +1,1 @@
-["express-polyfill-service","grunt-polyfill-service","gulp-polyfill-service","koa-polyfill-service"]
+["autopolyfiller-fxd-loader","autopolyfiller-loader","express-polyfill-service","gemini","grunt-polyfill-service","gulp-polyfill-service","karma-polyfill-service","koa-polyfill-service","webpack-polyfil-plugin","webpack-polyfill-service-plugin"]

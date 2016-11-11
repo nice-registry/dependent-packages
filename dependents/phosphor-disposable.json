@@ -1,1 +1,1 @@
-["jupyter-js-metaservice-plugin","phosphor-domutil","phosphor-plugins","phosphor-splitpanel","phosphor-tabs","phosphor-widget"]
+["jupyter-js-editor","jupyter-js-filebrowser","jupyter-js-metaservice-plugin","jupyter-js-notebook","jupyter-js-output-area","jupyter-js-plugins","jupyter-js-widgets-labextension","jupyterlab-emrys","phosphide","phosphor-domutil","phosphor-dragdrop","phosphor-plugins","phosphor-splitpanel","phosphor-tabs","phosphor-widget"]

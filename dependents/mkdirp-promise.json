@@ -1,1 +1,1 @@
-["fs-writefile-promise","gulp-stylelint-checkstyle","herakles","uglify-instruction"]
+["appveyor-runner","avanti-core","bkg","ember-cli-css-preprocess","fs-writefile-promise","gulp-stylelint-checkstyle","gulp-stylelint-checkstyle-reporter","herakles","html-inject-webpack-plugin","image-tiler","link-dir","ned-transpile","patternplate","plex-landing","samsara-lib","silk-cli","sitemap-renderer","slimane-cli","svg-fallback-loader","taskmatic","uglify-instruction","vitreum"]

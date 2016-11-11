@@ -1,1 +1,1 @@
-["aws-lambda-deploy","aws-s3-list-stream","local-deploy"]
+["article-publisher","aws-elasticbeanstalk-deploy","aws-lambda-deploy","aws-s3-deploy","aws-s3-list-stream","local-deploy","opta-data"]

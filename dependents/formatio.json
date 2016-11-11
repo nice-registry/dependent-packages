@@ -1,1 +1,1 @@
-["buster-ci","buster-ci-agent","buster-node","ibash-sinon","karma-referee","setup-referee-sinon"]
+["buster","buster-ci","buster-ci-agent","buster-node","ibash-sinon","karma-referee","setup-referee-sinon","sinon-es6","web-component-tester-bundle"]

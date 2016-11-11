@@ -1,1 +1,1 @@
-["logger-pipe","rfc3881todicom","winston-papertrail-enhanced","winston-papertrail-fix","winston-syslog-nounix"]
+["docker-logger","logger-pipe","loo-papertrail","openhim-core","rfc3881todicom","syslog-streams2","syslogd-nodejs","syslogger","winston-papertrail","winston-papertrail-enhanced","winston-papertrail-fix","winston-syslog","winston-syslog-nounix","winston-syslogudp"]

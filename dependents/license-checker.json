@@ -1,1 +1,1 @@
-["grunt-contrib-license-report","grunt-license-report"]
+["dep-audit","ecc-license-checker","gather-package-details","gb-license-check","grunt-contrib-license-report","grunt-license","grunt-license-report","license-exceptions","license-to-fail","licenz","validate-licenses"]

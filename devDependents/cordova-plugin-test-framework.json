@@ -1,1 +1,1 @@
-["cordova-plugin-scrypt"]
+["cordova-plugin-curve25519","cordova-plugin-minisodium","cordova-plugin-scrypt"]

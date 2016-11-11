@@ -1,1 +1,1 @@
-["socket.io-zeromq-server"]
+["canjs-feathers","mockio","socket.io-zeromq-server","superio"]

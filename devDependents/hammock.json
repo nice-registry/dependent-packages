@@ -1,1 +1,1 @@
-["accounts-api","datwrapper","mixdown-json","mixdown-plugins","raynos-sentry-logger","routes-router"]
+["accounts-api","body","compiled-files","datwrapper","ix-send-data","mixdown-json","mixdown-plugins","mixdown-static","raynos-sentry-logger","routes-router","send-data","sentry-logger"]

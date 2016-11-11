@@ -1,1 +1,1 @@
-["mesh-laplacian"]
+["column-mesh","cubemap-sh","implicit-mesh","mesh-laplacian","regl","regl-feedback","regl-primitive","regl-recorder","regl-stereo"]

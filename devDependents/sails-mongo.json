@@ -1,1 +1,1 @@
-["connect-waterline","koa-waterline-gowhich","koaw","node-restacular","sublime-data"]
+["connect-waterline","koa-waterline","koa-waterline-gowhich","koaw","node-restacular","sails-hook-fixtures","sails-hook-mongoindexes","sails-mongo-indexes","sublime-data","waterline-adapter-tests","waterline-paginator"]

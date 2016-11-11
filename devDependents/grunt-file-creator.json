@@ -1,1 +1,1 @@
-["grunt-i18n-csv","ui-aliens"]
+["grunt-filetojson","grunt-i18n-csv","grunt-inline-task-sugar","life-helper","moonshine-browserify","moonshinejs","nver","pixi-particles","springroll","ui-aliens"]

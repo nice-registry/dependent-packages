@@ -1,1 +1,1 @@
-["auth-challenge-response","parse-asn1","pbkdf2-utils","roadiejs-api","secret-stream"]
+["auth-challenge-response","bip39","blockchain-wallet-client","copay-dash","crypto-browserify","ethers-wallet","happn-util-crypto","iocane","native-crypto","net-deploy","parse-asn1","pbkdf2-utils","roadiejs-api","secret-stream"]

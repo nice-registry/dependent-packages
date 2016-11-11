@@ -1,1 +1,1 @@
-["jut-node-kafka","winston-logrotate"]
+["jut-node-kafka","juttle-engine","juttle-graphite-adapter","juttle-influx-adapter","juttle-service","juttle-splunk-adapter","juttle-viewer","npminject","testem","vanuan-testem","winston-logrotate"]

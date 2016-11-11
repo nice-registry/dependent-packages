@@ -1,1 +1,1 @@
-["movejs","shipit-bower","shipit-composer","shipit-npm","shipit-nvm","shipit-silverstripe","xlint"]
+["movejs","shipit-assets","shipit-bower","shipit-composer","shipit-db","shipit-deploy","shipit-deploy-package-support","shipit-npm","shipit-nvm","shipit-pm2","shipit-shared","shipit-silverstripe","tad","xlint"]

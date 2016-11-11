@@ -1,1 +1,1 @@
-["ddp-server-event","meteor-check","node-simple-schema","selenium-sync"]
+["ddp-client","ddp-server-event","ddp-server-reactive","electron-meteor","evista-ddp-client","evista-ddp-server-reactive","id-map","meteor-check","node-simple-schema","open-ddp-client","react-ddp","react-native-meteor","rn-meteor-streamer","selenium-sync","snyk-broker"]

@@ -1,1 +1,1 @@
-["nodebb-plugin-email","nodebb-plugin-email-cn","skiff-dispatcher-smtp","upnode-cluster-smtp","youtransfer"]
+["bakat-mailer","monosend","nodebb-plugin-email","nodebb-plugin-email-cn","nodemailer-browser-transport","nodemailer-smtp-pool","nodemailer-smtp-transport","skiff-dispatcher-smtp","tarsius-messaging-email-smtp","upnode-cluster-smtp","xdmailer-smtp-transport","youtransfer","zim"]

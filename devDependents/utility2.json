@@ -1,1 +1,1 @@
-["electron-prebuilt-lite","fann-lite","github-upload","mongodb-minimal","phantomjs-lite","swagger-ui-lite"]
+["db-lite","electron-lite","electron-prebuilt-lite","fann-lite","github-upload","istanbul-lite","mongodb-minimal","nedb-lite","phantomjs-lite","rbst-lite","sandbox2","swagger-ui-lite","uglifyjs-lite"]

@@ -1,1 +1,1 @@
-["ember-cli-deploy-stn-pack"]
+["ember-cli-deploy-aws-pack","ember-cli-deploy-sm-pack","ember-cli-deploy-stn-pack"]

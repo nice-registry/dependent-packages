@@ -1,1 +1,1 @@
-["ember-phoenix-adapter","exelord-mirage","fireplace"]
+["ember-cli-aptible-shared","ember-cli-mirage","ember-data","ember-jsonapi-resources","ember-phoenix-adapter","exelord-mirage","fireplace","warp-drive"]

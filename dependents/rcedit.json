@@ -1,1 +1,1 @@
-["electron-packager-itchio","gulp-atom-shell","nw-builder-rtmp"]
+["brave-builder","cws-nw-builder","electron-packager-itchio","electron-packager-tf","electron-rebrand","electron-tail","grunt-electron-windows-installer","grunt-rcedit","gulp-atom-electron","gulp-atom-shell","gulp-awesome-electron","gulp-electron","kolodny-node-webkit-builder","node-webkit-builder","nw-builder","nw-builder-rtmp","nwjs-builder","stackmagic-nwjs-builder","webkit-builder","ysp_electron-packager"]

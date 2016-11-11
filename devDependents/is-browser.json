@@ -1,1 +1,1 @@
-["audio-spectrum","get-random-values","is-audio-buffer","log-to-socket","then-jsonp","to-array-buffer","work-token"]
+["audio-buffer-utils","audio-shader","audio-spectrum","audio-through","color-spectrum","generator-support","get-random-values","glsl-transpiler","is-audio-buffer","log-to-socket","promisingagent","then-jsonp","to-array-buffer","work-token"]

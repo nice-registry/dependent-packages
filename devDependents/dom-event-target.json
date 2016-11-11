@@ -1,1 +1,1 @@
-["document-visibility","observ-history","once-event-listener","once-events","popstate","window-load"]
+["cordova-deviceready","document-ready","document-visibility","document-visibility-cordova","observ-focus","observ-history","observ-location-hash","once-event-listener","once-events","popstate","textarea-op-stream","window-load"]

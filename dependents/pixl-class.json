@@ -1,1 +1,1 @@
-["pixl-config","pixl-server-api","pixl-server-multi"]
+["pixl-cli","pixl-config","pixl-json-stream","pixl-logger","pixl-mail","pixl-perf","pixl-server","pixl-server-api","pixl-server-multi","pixl-server-storage","pixl-server-user"]

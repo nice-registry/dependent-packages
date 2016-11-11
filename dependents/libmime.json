@@ -1,1 +1,1 @@
-["feedster","node-dkim"]
+["bounce-handler","buildmail","dkim-signer","feedster","getattachments","mailcomposer","mailsplit","node-dkim","nodemailer-any-promise","nodemailer-attachments-parser","nodemailer-build-attachment"]

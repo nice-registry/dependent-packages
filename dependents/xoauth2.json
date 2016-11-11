@@ -1,1 +1,1 @@
-["elastic-transfer","emails","front-simplesmtp","hdma-geoviewer","kestrel-server","skiff-dispatcher-smtp","upnode-cluster-smtp"]
+["cozy-emails","cubesinbox","elastic-transfer","emails","ethercalc","front-simplesmtp","hdma-geoviewer","inbox","kestrel-server","mqp-server","pidfile-watcher","simplesmtp","skiff-dispatcher-smtp","statsd-alerting-backend","upnode-cluster-smtp"]

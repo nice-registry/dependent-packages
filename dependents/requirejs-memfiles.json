@@ -1,1 +1,1 @@
-["builder-amd","builder-amd-css","node-packager"]
+["builder-amd","builder-amd-css","netpack-requirejs","node-packager"]

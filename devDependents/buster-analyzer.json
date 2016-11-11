@@ -1,1 +1,1 @@
-["buster-lint","buster-syntax"]
+["buster-jshint","buster-lint","buster-syntax"]

@@ -1,1 +1,1 @@
-["pub-gatekeeper","pub-pkg-github-oauth","pub-pkg-google-oauth","pub-serve-sessions","pub-src-dropbox","pub-src-fs","pub-src-github","pub-src-http","pub-src-redis"]
+["pub-gatekeeper","pub-generator","pub-pkg-github-oauth","pub-pkg-google-oauth","pub-resolve-opts","pub-serve-sessions","pub-server","pub-src-dropbox","pub-src-fs","pub-src-github","pub-src-http","pub-src-redis"]

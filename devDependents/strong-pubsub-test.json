@@ -1,1 +1,1 @@
-["strong-pubsub-primus","strong-pubsub-proxy"]
+["strong-pubsub","strong-pubsub-bridge","strong-pubsub-connection-mqtt","strong-pubsub-primus","strong-pubsub-proxy","strong-pubsub-redis"]

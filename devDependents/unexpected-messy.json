@@ -1,1 +1,1 @@
-["express-compile-sass","express-jsxtransform","geomaton"]
+["express-compile-sass","express-compiless","express-errorhandler","express-jsxtransform","geomaton","node-stylus-require","piggy-in-the-middle"]

@@ -1,1 +1,1 @@
-["gh-delete","gh-latest-release","gh-patch","gh-post","gh-put","gh-rate-limit","gh-verified-public-keys","is-gist-starred"]
+["get-lodash-aliases","gh-content","gh-delete","gh-latest-release","gh-patch","gh-post","gh-put","gh-rate-limit","gh-user-events","gh-verified-public-keys","is-gist-starred"]

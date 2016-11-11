@@ -1,1 +1,1 @@
-["hibearnate-liquidsoap","message-queue","node-trans"]
+["gearman_status","hibearnate-liquidsoap","message-queue","node-btrans","node-pub-sub","node-trans","zookeeper-commands"]

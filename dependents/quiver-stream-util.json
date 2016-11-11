@@ -1,1 +1,1 @@
-["quiver","quiver-simple-handler"]
+["quiver","quiver-command-component","quiver-component","quiver-component-basic","quiver-component-extra","quiver-core","quiver-file-stream","quiver-http","quiver-router-component","quiver-simple-handler"]

@@ -1,1 +1,1 @@
-["cli-compiler","cli-env","cli-input","cli-logger","cli-mid-parser","cli-rc","cli-store","cli-types","markzero","rlx"]
+["cli-bin","cli-command","cli-compiler","cli-conflict","cli-define","cli-die","cli-env","cli-help","cli-input","cli-logger","cli-mid-env","cli-mid-logger","cli-mid-parser","cli-mid-version","cli-rc","cli-store","cli-toolkit","cli-types","markzero","mdp","mxl","rlx"]

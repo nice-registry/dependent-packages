@@ -1,1 +1,1 @@
-["aiota-ingestion","aiota-longpolling","aiota-stream","bograch-amqp","brickflow-recommend-client","tumblr-rpc"]
+["aiota-ingestion","aiota-longpolling","aiota-stream","bograch-amqp","brickflow-recommend-client","common-transport","domain-config-local","inturn","tumblr-rpc"]

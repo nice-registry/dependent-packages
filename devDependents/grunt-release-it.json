@@ -1,1 +1,1 @@
-["cti-angular-gantt","detectizr","ember-table","eventlint","gatehubclient","grunt-ccompiler","grunt-hash-manifest","jquery-aslider"]
+["amd-builder","angular-gantt","angular-scrollie","argot","argot-browser","cfpathcheck","cti-angular-gantt","detectizr","ember-charts","ember-table","eventlint","gatehubclient","grunt-ccompiler","grunt-cfpathcheck","grunt-hash-manifest","grunt-tv4","jquery-aslider","mixit","mutacache","p5","test_track_js_client","tv4-reporter","wreqr.injector"]

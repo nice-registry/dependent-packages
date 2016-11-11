@@ -1,1 +1,1 @@
-["3d-camera-core","gl-axes","gl-shader-core","gl-surface-plot","ndarray-gaussian-filter","ndarray-gradient","ndarray-stencil","ndarray-unpack","rectangle-decomposition"]
+["3d-camera-core","circumcenter","continuous-observer","csr-matrix","cube-mesh","gl-axes","gl-axes3d","gl-magic-uniforms","gl-shader-core","gl-surface-plot","gl-surface3d","grid-mesh","least-common-ancestor","ndarray-gaussian-filter","ndarray-gradient","ndarray-stencil","ndarray-unpack","planar-dual","rectangle-decomposition","spherical-triangulation","symmetric-tensor-to-string","typedarray-pool"]

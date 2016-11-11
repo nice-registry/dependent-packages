@@ -1,1 +1,1 @@
-["ngraph.agmgen","ngraph.cw","ngraph.forceatlas2","ngraph.forcelayout.nd","ngraph.forcelayout3d","ngraph.forcelayout4d","ngraph.quadtreebh3d","ngraph.slpa"]
+["ngraph.agmgen","ngraph.cw","ngraph.forceatlas2","ngraph.forcelayout.nd","ngraph.forcelayout3d","ngraph.forcelayout4d","ngraph.generators","ngraph.physics.simulator.v2","ngraph.quadtreebh3d","ngraph.slpa","vivagraphjs","vivagraphjs-fork"]

@@ -1,1 +1,1 @@
-["loopback-connector-arangodb","sails-arangodb"]
+["acl-arangodb","jugglingdb-arango","loopback-connector-arangodb","sails-arangodb"]

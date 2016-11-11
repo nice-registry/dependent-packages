@@ -1,1 +1,1 @@
-["static-jsx-webpack-plugin"]
+["domutils","domutils-browserify-ws","static-jsx-webpack-plugin"]

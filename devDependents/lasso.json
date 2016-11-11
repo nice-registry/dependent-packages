@@ -1,1 +1,1 @@
-["lasso-dust","lasso-handlebars","lasso-imagemin","lasso-jade","lasso-sass","lasso-stylus"]
+["clientdatastore","lasso-babel","lasso-babel-transform","lasso-coffee","lasso-dust","lasso-handlebars","lasso-image","lasso-imagemin","lasso-inline-slots","lasso-jade","lasso-jsx","lasso-less","lasso-marko","lasso-sass","lasso-stylus","listener-tracker","localdatastore","marko-floating-action-button","marko-snackbars","marko-widgets","morphdom"]

@@ -1,1 +1,1 @@
-["load-common-gulp-tasks"]
+["angular-build","banger","load-common-gulp-tasks","modern-web-dev-build","node-build-web-app"]

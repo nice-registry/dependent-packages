@@ -1,1 +1,1 @@
-["checklet","routelet"]
+["checklet","easydbi","easydbi-pg","easydbi-sqlite","loglet","routelet","schemalet"]

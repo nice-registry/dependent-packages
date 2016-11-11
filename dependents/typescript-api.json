@@ -1,1 +1,1 @@
-["component-tsc","gulp-typescript-compiler","mimosa-typescript"]
+["component-tsc","gulp-type","gulp-typescript-compiler","mimosa-typescript","ts-compiler","tsc-single-file","typescript-handler","typescriptifier"]

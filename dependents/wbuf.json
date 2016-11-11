@@ -1,1 +1,1 @@
-["jit.js","tls.js"]
+["hackchain-client","hackchain-core","hackchain-server","hpack.js","jit.js","secure-spdy-transport","spdy-transport","tls.js","web-component-tester-bundle"]

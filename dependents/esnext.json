@@ -1,1 +1,1 @@
-["big-gulp","broccoli-esnext","enb-esnext","esnextify","grunt-esnext","gulp-esnext","karma-esnext-preprocessor"]
+["aster-parse-esnext","big-gulp","broccoli-esnext","decaffeinate","enb-esnext","esnext-loader","esnextify","gobble-esnext","grunt-esnext","gulp-esnext","karma-esnext-preprocessor","rollup-plugin-esnext","wintersmith-esnext"]

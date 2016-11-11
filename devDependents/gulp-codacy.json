@@ -1,1 +1,1 @@
-["mongoose-plugin-soft-delete","mongoose-plugin-timestamp"]
+["api-query","api-query-utils","leaflet-ant-path","mongoose-plugin-soft-delete","mongoose-plugin-timestamp","ncmd","node-emerchantpay","sequelize-provider"]

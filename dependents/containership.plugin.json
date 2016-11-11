@@ -1,1 +1,1 @@
-["containership.plugin.enter","containership.plugin.navigator","containership.plugin.standalone","containership.plugin.tide-scheduler"]
+["containership.plugin.cloud-hints","containership.plugin.enter","containership.plugin.logs","containership.plugin.metrics","containership.plugin.navigator","containership.plugin.service-discovery","containership.plugin.standalone","containership.plugin.tide","containership.plugin.tide-scheduler"]

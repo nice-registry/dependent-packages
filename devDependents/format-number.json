@@ -1,1 +1,1 @@
-["json-optimize"]
+["immutable-hash","json-optimize","persistent-hash-trie","strummer"]

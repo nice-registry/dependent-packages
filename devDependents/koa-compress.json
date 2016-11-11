@@ -1,1 +1,1 @@
-["jello-command-devserver","koa-file-cache","koa-mag","nuomi-devserver","tuanb-devserver"]
+["jello-command-devserver","jello-command-feserver","koa-file-cache","koa-liveload","koa-mag","koa-normalize","koan","nuomi-devserver","prom-pb-client","rt-select","rt-tree","tuanb-devserver"]

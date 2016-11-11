@@ -1,1 +1,1 @@
-["cirru-json","cirru-shell","cirru-wasm-ast","clir","gulp-script"]
+["cirru-html","cirru-html-js","cirru-interpreter","cirru-json","cirru-mustache","cirru-script","cirru-shell","cirru-wasm-ast","clir","gulp-cirru-script","gulp-script"]

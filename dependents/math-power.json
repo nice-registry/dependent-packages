@@ -1,1 +1,1 @@
-["distributions-normal-random","math-float64-from-bits","math-roundn"]
+["distributions-normal-random","distributions-truncated-normal-pdf","math-beta","math-float32-from-bits","math-float64-from-bits","math-gamma","math-powm1","math-roundn","stdmath"]

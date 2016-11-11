@@ -1,1 +1,1 @@
-["kinesis-write-stream"]
+["elasticsearch-writable-stream","gridfs-stream","kinesis-write-stream","mongo-bulk-writable","neo4j-batch-index-stream","node-jt400","rethinkdb-regrid","rethinkdbfs"]

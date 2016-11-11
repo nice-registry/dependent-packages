@@ -1,1 +1,1 @@
-["pouchdb-abstract-mapreduce","pouchdb-authentication-cloudant","pouchdb-sqldown"]
+["pouchdb-abstract-mapreduce","pouchdb-authentication-cloudant","pouchdb-sqldown","pouchdb.mapreduce.noeval","smartimage","socket-pouch"]

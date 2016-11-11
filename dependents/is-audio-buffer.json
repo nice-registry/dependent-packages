@@ -1,1 +1,1 @@
-["to-array-buffer"]
+["audio-buffer","audio-buffer-utils","audio-loader","audio-play","audio-source","audio-through","pcm-util","to-array-buffer","web-audio-stream"]

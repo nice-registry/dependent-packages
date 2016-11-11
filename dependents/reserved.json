@@ -1,1 +1,1 @@
-["camelize-identifier","namify"]
+["camelize-identifier","es6-module-transpiler","namify","resig-trie","to-js-identifier"]

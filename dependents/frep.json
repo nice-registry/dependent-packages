@@ -1,1 +1,1 @@
-["elsen-js-comments","grunt-readme","gulp-frep","markdown-symbols","verb-escape-delims"]
+["assemble-contrib-rss","assemble-middleware-rss","elsen-js-comments","febu","grunt-frep","grunt-matter","grunt-readme","gulp-frep","gulp-rev-replace-stream","markdown-symbols","ninit","nixin-cli","strings","verb-escape-delims"]

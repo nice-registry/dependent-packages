@@ -1,1 +1,1 @@
-["detect-conflicts"]
+["cli-utils","detect-conflicts","log-utils"]

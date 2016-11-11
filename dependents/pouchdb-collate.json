@@ -1,1 +1,1 @@
-["derived","hoppel","kendo-pouchdb","pouchdb-abstract-mapreduce"]
+["couchdb-collate","derived","hoppel","kendo-pouchdb","pouchdb-abstract-mapreduce","pouchdb-checkpointer","pouchdb-find","pouchdb-generate-replication-id","pouchdb-gql","pouchdb-live-find","pouchdb-live-query","pouchdb-mapreduce","pouchdb-mapreduce-no-ddocs","pouchdb-search","pouchdb.mapreduce.noeval","prcek_pouchdb","relax-model"]

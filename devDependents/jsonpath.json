@@ -1,1 +1,1 @@
-["grunt-angular-robot"]
+["fastpath","grunt-angular-robot","request-promise-lite","yahoo-arrow"]

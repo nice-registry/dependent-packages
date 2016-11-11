@@ -1,1 +1,1 @@
-["gulp-regexp-sourcemaps","gulp-wrap-commonjs-sourcemaps","shaybagants-test"]
+["gulp-regexp-sourcemaps","gulp-wrap-commonjs","gulp-wrap-commonjs-sourcemaps","shaybagants-test"]

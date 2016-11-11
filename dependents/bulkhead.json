@@ -1,1 +1,1 @@
-["bulkhead-mailer"]
+["bulkhead-crew","bulkhead-kue","bulkhead-mailer","bulkhead-test"]

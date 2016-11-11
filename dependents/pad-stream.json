@@ -1,1 +1,1 @@
-["grunt-concurrently","sindredash"]
+["grunt-concurrent","grunt-concurrently","sindredash"]

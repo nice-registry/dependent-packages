@@ -1,1 +1,1 @@
-["grunt-git-describe-plus","grunt-semver"]
+["grunt-git-describe","grunt-git-describe-plus","grunt-git-dist","grunt-semver"]

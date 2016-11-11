@@ -1,1 +1,1 @@
-["assembler-cli","gulp-lint-everything"]
+["assembler-cli","gulp-asset-pipeline","gulp-lint-everything"]

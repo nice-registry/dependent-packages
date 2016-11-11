@@ -1,1 +1,1 @@
-["bitcoinjs-lib-bi"]
+["bitcoinjs-lib","bitcoinjs-lib-bi","bitcoinjs-lib-zcash","hyperlog","ipfs-merkle-dag","ipld-dag-pb","machinecoinjs-lib","multicoinjs-lib","react-native-bitcoinjs-lib"]

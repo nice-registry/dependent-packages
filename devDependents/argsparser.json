@@ -1,1 +1,1 @@
-["socket.io-mongo"]
+["simple-httpserver","socket.io-mongo"]

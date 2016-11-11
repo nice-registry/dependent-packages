@@ -1,1 +1,1 @@
-["openlayers-builder-util"]
+["closure-util","ngeo","ol3-cesium","ol3-google-maps","openlayers","openlayers-builder-util"]

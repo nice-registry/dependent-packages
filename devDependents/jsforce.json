@@ -1,1 +1,1 @@
-["grunt-jsforce-deploy"]
+["grunt-jsforce-deploy","salesforce-metadata-xml-builder"]

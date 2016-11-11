@@ -1,1 +1,1 @@
-["imagemin-advpng","imgminify"]
+["grunt-mega-image","gulp-cwebp","gulp-image","imagemin-advpng","imagemin-giflossy","imagemin-gifsicle","imagemin-jpeg-recompress","imagemin-jpegtran","imagemin-mozjpeg","imagemin-optipng","imagemin-pngcrush","imagemin-pngquant","imagemin-webp","imagemin-zopfli","imgminify","imgo"]

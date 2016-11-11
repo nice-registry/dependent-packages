@@ -1,1 +1,1 @@
-["adana-format-pretty","babelfmt"]
+["adana-format-pretty","ava","ava-tf","babel-core","babel-core-no-strict","babel-helper-transform-fixture-test-runner","babel-plugin-angularjs-annotate","babel-preset-live","babel-traverse","babelfmt","comal","comal-traverse","css-loader","css-loader-bbq","dac","deduped-babel-presets","eschecker","eslint-codeframe-formatter","generator-arc","localer","module-walker","patternplate-transform-react","polypackage-core","unfort","ustwo.com-frontend","wenke-babel-core"]

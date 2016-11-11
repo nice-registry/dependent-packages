@@ -1,1 +1,1 @@
-["api-router","connect-mongodb-autodestroy","facebook-js"]
+["api-router","assoc","connect-i18n","connect-mongodb","connect-mongodb-autodestroy","dialect","facebook-js","funk","joyentmongosession","linkedin-js","linkedin-js-patched","mongolia","node-backbone-couch","twitter-js"]

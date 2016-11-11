@@ -1,1 +1,1 @@
-["gore-eslint","gore-mocha"]
+["gore-eslint","gore-gulp","gore-mocha","lookly-preset-ava","lookly-preset-esformatter","lookly-preset-eslint","lookly-preset-mocha","lookly-preset-webpack","space-preconfigured-eslint","space-preconfigured-mocha"]

@@ -1,1 +1,1 @@
-["sails-hook-winstonlogger","winston-cloudwatch-wrapper"]
+["sails-hook-winstonlog","sails-hook-winstonlogger","winston-cloudwatch-wrapper"]

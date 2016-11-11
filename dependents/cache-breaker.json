@@ -1,1 +1,1 @@
-["grunt-cache-breaker"]
+["cache-breaker-cli","grunt-cache-breaker","grunt-cache-crusher","grunt-smart-cache-break"]

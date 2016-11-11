@@ -1,1 +1,1 @@
-["bird3-purifycss-webpack-plugin","jstransformer-purifycss"]
+["add-css-to-head-plugin","bird3-purifycss-webpack-plugin","grunt-purifycss","gulp-purifycss","jstransformer-purifycss","piq","postifycss-loader","purifycss-loader","special"]

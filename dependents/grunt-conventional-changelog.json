@@ -1,1 +1,1 @@
-["grunt-semantic-release","kepek-logger"]
+["bch-build","dalek-build-tools","fabs","grunt-semantic-release","kepek-logger","uick-grunt"]

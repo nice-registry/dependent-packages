@@ -1,1 +1,1 @@
-["lint-trap","run-browser-lite"]
+["docker-sidecar","lint-trap","resilient-swarm","run-browser","run-browser-babel","run-browser-lite"]

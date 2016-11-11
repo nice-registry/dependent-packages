@@ -1,1 +1,1 @@
-["hapi-amqp-publish","hapi-tattle","yarp-boom"]
+["hapi-amqp-publish","hapi-auth-whodat","hapi-crud-promise","hapi-tattle","reminisce","vinli-cli","yarp-boom"]

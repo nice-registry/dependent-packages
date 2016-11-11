@@ -1,1 +1,1 @@
-["kevoree-registry-client"]
+["grunt-kevoree-genmodel","kevoree-registry-client","kevoree-resolvers"]

@@ -1,1 +1,1 @@
-["acme-suite","anvil-connect-sdk","jwt-utils"]
+["acme-suite","anvil-connect-jwt","anvil-connect-nodejs","anvil-connect-sdk","doitsimple","jws","jwt-secret","jwt-utils","portier","wgu-jwt"]

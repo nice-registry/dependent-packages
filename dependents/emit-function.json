@@ -1,1 +1,1 @@
-["git-transport-protocol","glslify-stream","json-parse-stream","npm-get-dependents"]
+["git-fetch-pack","git-list-objects","git-transport-protocol","glslify-stream","json-parse-stream","junction-stream","npm-get-dependents"]

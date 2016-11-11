@@ -1,1 +1,1 @@
-["mongodb-es6","mongodb-promisified","mongodb-schema-simulator"]
+["humblejs","mb-mongodb","mongodb-core","mongodb-es6","mongodb-promisified","mongodb-schema-simulator","mongodb-secure"]

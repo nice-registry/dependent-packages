@@ -1,1 +1,1 @@
-["detect-csv","dwa-csv-parser","qflatfile"]
+["binary-csv","csv-formatter","csv-parse","csv-streamify","detect-csv","dwa-csv-parser","qflatfile"]

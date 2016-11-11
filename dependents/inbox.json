@@ -1,1 +1,1 @@
-["co-inbox","hubot-gmail-watcher","hubot-visitor","imap-autoconfig","mailnotif"]
+["co-inbox","google-inbox","hubot-gmail-fetcher","hubot-gmail-watcher","hubot-visitor","imap-autoconfig","inboxthunks","mailnotif","surelia-web-api"]

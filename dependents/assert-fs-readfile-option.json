@@ -1,1 +1,1 @@
-["write-files"]
+["read-glob","write-files"]

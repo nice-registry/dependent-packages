@@ -1,1 +1,1 @@
-["virtual-dom-stringify"]
+["filter-invalid-dom-props","pick-attributes","pick-react-known-prop","virtual-dom-stringify"]

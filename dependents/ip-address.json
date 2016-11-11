@@ -1,1 +1,1 @@
-["base85","ipfs-swarm","maxmind-db-reader","mdns-swarm"]
+["base85","cloudflare-ip","dhcpjs","epochtalk","eum-utilities","geoip-native-lite","geoipfind","hubot-deploy","icebreaker-network","ip-cidr","ipfs-swarm","libnmap","libp2p-tcp","maxmind-db-reader","mdlib-utils-formatter","mdns-swarm","node-libnmap","socks5-client"]

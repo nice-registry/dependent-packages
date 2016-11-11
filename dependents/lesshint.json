@@ -1,1 +1,1 @@
-["linter-lesshint"]
+["grunt-lesshint","gulp-lesshint","linter-lesshint","youwe-magento2-less-linter","youwe-magento2-linter"]

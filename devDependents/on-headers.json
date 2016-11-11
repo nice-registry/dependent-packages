@@ -1,1 +1,1 @@
-["express-transform"]
+["express-transform","http-logger","prepper","zglog-logger","zlog-logger","zlogjs-logger"]

@@ -1,1 +1,1 @@
-["add-package-owners","npm-run-tests","update-contributors"]
+["add-package-owners","lint-deps","npm-run-tests","update-contributors"]

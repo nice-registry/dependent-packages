@@ -1,1 +1,1 @@
-["browserify-cdn","fishbars"]
+["browserify-cdn","cortex-registry-server","fishbars","locke","mocha-http","precious","z-builtins","z-core","z-std-pack"]

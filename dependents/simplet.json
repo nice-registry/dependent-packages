@@ -1,1 +1,1 @@
-["karma-jasmine-html-runner-reporter","karma-jasmine-runner-reporter"]
+["karma-jasmine-html-runner-reporter","karma-jasmine-runner-reporter","karma-jasmine-runner2-reporter","karma-jasmine-spec-runner-reporter"]

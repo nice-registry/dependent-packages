@@ -1,1 +1,1 @@
-["td-mqtt-bridge","telldus-server"]
+["node-red-contrib-tellstick","td-mqtt-bridge","telldus-server"]

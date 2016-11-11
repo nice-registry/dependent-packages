@@ -1,1 +1,1 @@
-["angular-hal-collection","angularjs-coreservice","loomio-angular-new-router","loomio-angular-router","swu-maildev"]
+["angular-cache","angular-hal-collection","angular-mox","angular-new-router-latest","angular-poller","angular-restclient","angular-validated-resource","angularjs-coreservice","chai-angular","hypothesis","idsp-web-seed2-paging","lemon-manager-core","loomio-angular-new-router","loomio-angular-router","loopback-sdk-angular","mi-angular-resource-builder","monad-cms","salte-auth-angular","swu-maildev"]

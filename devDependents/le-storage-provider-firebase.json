@@ -1,1 +1,1 @@
-["le-auth-service","le-phone-service","le-storage-service"]
+["le-auth-service","le-bank-service","le-email-service","le-job-queue-service","le-phone-service","le-storage-service"]

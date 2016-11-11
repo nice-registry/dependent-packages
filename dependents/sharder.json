@@ -1,1 +1,1 @@
-["seneca-shard-store"]
+["seneca-shard-cache","seneca-shard-store"]

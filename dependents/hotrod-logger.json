@@ -1,1 +1,1 @@
-["hotrod-dash-api","hotrod-jobs","hotrod-rabbitmq-sender","hotrod-worker"]
+["hotrod-dash-api","hotrod-dash-data","hotrod-job-data-sender","hotrod-jobs","hotrod-rabbitmq-sender","hotrod-worker"]

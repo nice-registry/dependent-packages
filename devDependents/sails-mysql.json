@@ -1,1 +1,1 @@
-["connect-waterline","sails-hook-sqlize","sails-mysql-live-select"]
+["bulkhead-crew","connect-waterline","sails-hook-sqlize","sails-mysql-live-select","waterline-adapter-tests","waterline-paginator","waterline-sequel"]

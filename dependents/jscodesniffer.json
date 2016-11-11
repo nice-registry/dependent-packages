@@ -1,1 +1,1 @@
-["grunt-jscodesniffer"]
+["grunt-jscodesniffer","gulp-jscodesniffer"]

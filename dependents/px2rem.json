@@ -1,1 +1,1 @@
-["fis-parser-px2rem","fis3-parser-px2rem","fis3-preprocessor-px2rem"]
+["fis-parser-px2rem","fis3-parser-px2rem","fis3-postprocessor-px2rem","fis3-preprocessor-px2rem","gulp-px3rem","gulp-pxrem","postcss-px2rem","px2rem-loader","yjy-px3rem-loader"]

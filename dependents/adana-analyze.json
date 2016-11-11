@@ -1,1 +1,1 @@
-["adana-format-pretty"]
+["adana-format-clover","adana-format-lcov","adana-format-pretty","adana-format-text","karma-adana-reporter"]

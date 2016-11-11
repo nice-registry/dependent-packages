@@ -1,1 +1,1 @@
-["alchemist-gulp","ng-factory","undertaker-common-tasks","undertaker-config-registry","undertaker-task-metadata"]
+["alchemist-gulp","boiler-utils","gulp-pipeline","gulpy-boiler-add-task-target","ng-factory","tridev","undertaker","undertaker-app-tasks","undertaker-common-tasks","undertaker-config-registry","undertaker-forward-reference","undertaker-lib-tasks","undertaker-task-metadata","undertaker-task-provider-registry"]

@@ -1,1 +1,1 @@
-["abstract-record-store","ipfs-kad-record-store","ipfs-record"]
+["abstract-record-store","interface-record-store","ipfs-drs","ipfs-ipld","ipfs-kad-record-store","ipfs-record","libp2p-kad-record-store","libp2p-record"]

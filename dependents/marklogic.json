@@ -1,1 +1,1 @@
-["connect-marklogic","markscript-core","markscript-koa","markscript-uservices-build","ml-admin","ml-project","ml-uservices","mlrepl"]
+["connect-marklogic","connect-ml","markscript-core","markscript-koa","markscript-uservices-build","ml-admin","ml-project","ml-uservices","mlrepl","mlsound"]

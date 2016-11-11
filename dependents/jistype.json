@@ -1,1 +1,1 @@
-["koa-backend","metalsmith-except","metalsmith-only"]
+["co-scat","koa-backend","koa-mounter","koa-vhost","metalsmith-except","metalsmith-only","node-echo"]

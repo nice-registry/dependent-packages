@@ -1,1 +1,1 @@
-["gl-surface-plot","heightmap-contours","vectorize-text"]
+["column-mesh","gl-contour2d","gl-surface-plot","gl-surface3d","heightmap-contours","implicit-mesh","vectorize-text"]

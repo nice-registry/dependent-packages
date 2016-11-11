@@ -1,1 +1,1 @@
-["gulp-async-func-runner","neuf"]
+["generator-cpm-module","generator-cpm-product","gulp-async-func-runner","gulp-dust-compile-render","gulp-load-params","gulp-yadda-steps","istanbul-coverage-source-map","istanbul-reporter-clover-limits","jshint-reporter-bamboo","loopback-connector-sendgrid","loopback-connector-sendgrid-musghost","neuf","oauth-rest-atlassian","source-map-closest-match"]

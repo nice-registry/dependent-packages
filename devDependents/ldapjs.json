@@ -1,1 +1,1 @@
-["passport-adauth"]
+["openrecord","passport-adauth","passport-ldapauth","passport-ldaplng","unpm-ldap"]

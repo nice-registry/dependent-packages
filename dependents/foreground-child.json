@@ -1,1 +1,1 @@
-["phl","spawn-require","test-jstransformer"]
+["assert-100","kpdecker-nyc","letenv","nyc","phl","spawn-require","spawn-wrap","tap","tarec-plugin-mocha-test","test-jstransformer"]

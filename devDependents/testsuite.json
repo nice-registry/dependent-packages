@@ -1,1 +1,1 @@
-["boss-cli","boss-common","boss-daemon","boss-local","boss-remote","boss-web","columbo","nano-repository"]
+["boss-cli","boss-common","boss-daemon","boss-local","boss-remote","boss-web","columbo","guvnor","nano-repository","pm2-web","timeoutify","wantsit"]

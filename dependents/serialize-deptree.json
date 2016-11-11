@@ -1,1 +1,1 @@
-["grunt-depconcat"]
+["grunt-depcombo","grunt-depconcat","grunt-depsconcat"]

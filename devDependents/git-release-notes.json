@@ -1,1 +1,1 @@
-["cache-manifest-webpack-plugin"]
+["appcache-webpack-plugin","cache-manifest-webpack-plugin","chimp","grasshopper-admin","react-component-browser","react-imageloader"]

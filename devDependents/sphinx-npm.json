@@ -1,1 +1,1 @@
-["connect-browserify"]
+["connect-browserify","stream-mux-demux"]

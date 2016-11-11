@@ -1,1 +1,1 @@
-["abacus","good-statsd","k-livedb","livedb","ot-hapi-statsd","sssi-livedb","statsd-client-cached"]
+["abacus","api-metrics-client","aud-socket-server","azure-sb-statsd","fack","ftl-engine","good-statsd","hapi-statsd","i-flicks","k-livedb","livedb","microkit","node-annotation-extend","oc-statsd","openhim-core","orgsync-logger","ot-hapi-statsd","redis-statsd-reporter","s4qs-rs","shunter","sit","sssi-livedb","statsd-backend","statsd-client-cached","statsd-time","storm-statsd","streamstash","svcs","swf-graph","testarmada-nightwatch-extra","xtralife-api"]

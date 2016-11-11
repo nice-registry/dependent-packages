@@ -1,1 +1,1 @@
-["bridge-payments-plugin","bridge-quote-service-client","gatewayd","gatewayd-4","gatewayd-cli","gatewayd-setup-wizard-plugin","market-maker","ripple-account-monitor","ripple-payment-quote","ripple-teller"]
+["bridge-payments-plugin","bridge-quote-service-client","gatewayd","gatewayd-4","gatewayd-cli","gatewayd-ripple-plugin","gatewayd-setup-wizard-plugin","market-maker","ripple-account-monitor","ripple-gateway","ripple-payment-bot","ripple-payment-quote","ripple-teller"]

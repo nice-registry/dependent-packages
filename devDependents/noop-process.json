@@ -1,1 +1,1 @@
-["process-exists","ps-find","ps-kill"]
+["fkill","process-exists","ps-find","ps-kill"]

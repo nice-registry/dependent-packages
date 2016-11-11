@@ -1,1 +1,1 @@
-["ee-db-cluster","ee-db-connection","ee-image-worker","ee-orm","ee-query-builder","ee-soa-website"]
+["distributed-request-message","ee-aws-s3-bucket","ee-db-cluster","ee-db-connection","ee-distributed-cache","ee-image-worker","ee-net","ee-orm","ee-query-builder","ee-soa-website","ee-webservice","ee-xml-to-json","em-rest-service","related"]

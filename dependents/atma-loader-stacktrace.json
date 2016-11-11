@@ -1,1 +1,1 @@
-["atma-loader-traceur"]
+["atma-loader-babel","atma-loader-traceur"]

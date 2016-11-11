@@ -1,1 +1,1 @@
-["less-files"]
+["coffee-files","concatenate-files","less-files","uglify-files"]

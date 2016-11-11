@@ -1,1 +1,1 @@
-["seneca-account","seneca-admin","seneca-data-editor","seneca-engage","seneca-entity-validator","seneca-jsonrest-api","seneca-pbkdf2-user","seneca-perm"]
+["seneca-account","seneca-admin","seneca-cart","seneca-couchdb-store","seneca-data-editor","seneca-engage","seneca-entity","seneca-entity-validator","seneca-jsonrest-api","seneca-mysql","seneca-pay","seneca-pbkdf2-user","seneca-perm","seneca-perm-editor","seneca-project","seneca-sqlite-store","seneca-stripe-pay"]

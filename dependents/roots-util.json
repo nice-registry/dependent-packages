@@ -1,1 +1,1 @@
-["roots-contentful","roots-contentful-es2016","roots-inline-css","roots-sass","roots-yaml"]
+["client-templates","css-pipeline","js-pipeline","roots-browserify","roots-cache-manifest","roots-contentful","roots-contentful-es2016","roots-i18n","roots-image-pipeline","roots-inline-css","roots-netlify","roots-records","roots-records-with-queue","roots-sass","roots-webpack","roots-wordpress","roots-wordpress-tags","roots-yaml"]

@@ -1,1 +1,1 @@
-["escomplex-js","gulp-limit-complexity","vulcan-jslinter"]
+["dba","escomplex-js","gulp-escomplex","gulp-limit-complexity","jscomplexity","vulcan-jslinter"]

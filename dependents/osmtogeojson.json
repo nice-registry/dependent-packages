@@ -1,1 +1,1 @@
-["kosmtik-osm-data-overlay","query-overpass"]
+["geojson.io","kosmtik-osm-data-overlay","kosmtik-overpass-layer","leaflet-storage","open_trails","query-overpass","tilemill-overpass-preprocess"]

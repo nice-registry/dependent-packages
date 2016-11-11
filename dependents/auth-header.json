@@ -1,1 +1,1 @@
-["bearer-token","express-authentication-header"]
+["apiconnect-microgateway","bearer-token","express-authentication-header","just-auth","microgateway"]

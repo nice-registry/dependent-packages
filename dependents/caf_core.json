@@ -1,1 +1,1 @@
-["caf_idol","caf_imap","caf_jsonrpc","caf_pull"]
+["caf_accounts","caf_amqp","caf_dcinabox","caf_deploy","caf_forward","caf_gadget","caf_hellodiffie","caf_hellodynamic","caf_hellofail","caf_helloiot","caf_hellolambda","caf_hellopresent","caf_hellosharing","caf_hellosleepy","caf_helloworld","caf_idol","caf_imap","caf_jsonrpc","caf_launcher","caf_netproxy","caf_pull","caf_react","caf_react_helloworld","caf_registryproxy","caf_srp","caf_turtles"]

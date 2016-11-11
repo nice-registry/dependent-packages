@@ -1,1 +1,1 @@
-["koa-mongo-rest"]
+["dsm-koa-mongo-rest","koa-api-rest","koa-mongo-rest","koa-mongodb-rest"]

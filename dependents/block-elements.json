@@ -1,1 +1,1 @@
-["collapse-whitespace","compose-editor","indent-command","list-command","outdent-command","rand-dom","zeditor"]
+["collapse-whitespace","compose-editor","html-to-article-json","indent-command","list-command","outdent-command","rand-dom","unwrap-range","wrap-range","zeditor"]

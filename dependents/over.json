@@ -1,1 +1,1 @@
-["clay-pullstream","pullstream"]
+["clay-pullstream","persist","persist-with-mysql-timeout-workaround","pullstream"]

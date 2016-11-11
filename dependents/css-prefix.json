@@ -1,1 +1,1 @@
-["auth0-widget.js","gulp-css-prefix","sia"]
+["auth0-widget.js","gulp-css-prefix","gulp-steel-css-fix","prefixer","sia","yarnify"]

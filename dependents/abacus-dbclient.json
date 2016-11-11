@@ -1,1 +1,1 @@
-["abacus-eureka-stub","abacus-provisioning-stub"]
+["abacus-account-plugin","abacus-cf-bridge","abacus-cf-bridge-itest","abacus-cf-renewer","abacus-cf-renewer-itest","abacus-dataflow","abacus-eureka-plugin","abacus-eureka-stub","abacus-provisioning-plugin","abacus-provisioning-stub","abacus-usage-accumulator-itest","abacus-usage-aggregator","abacus-usage-aggregator-itest","abacus-usage-meter","abacus-usage-reporting","abacus-usage-reporting-itest","cf-abacus"]

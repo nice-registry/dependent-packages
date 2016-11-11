@@ -1,1 +1,1 @@
-["gebo-server","mongoose-quaderno","mongoose-stripe-customer","viceroy-mongo","yasp"]
+["express-api-queryhandler","gebo-server","micro-base","microbase","mongoose-credits","mongoose-document-utils","mongoose-plugins-accessible-by","mongoose-quaderno","mongoose-stripe-customer","mongoose-user-account","persistent-task-status","planck","princess-barkles-datasource-mongodb","princess-barkles-rest-api","randomizer","tiller","twitter-smart-geo-stream","viceroy-mongo","yasp"]

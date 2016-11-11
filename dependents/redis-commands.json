@@ -1,1 +1,1 @@
-["comb-redis","medis","promise-redis"]
+["comb-redis","dy-ioredis","ioredis-mock","ioredis-mock-lpl","medis","multiple-redis","pedis","promise-redis","redie","redis-array","redis-knack","refix","socket.io-push-redis","wulian-redis","zipkin-instrumentation-redis"]

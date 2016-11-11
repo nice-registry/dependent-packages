@@ -1,1 +1,1 @@
-["broccoli-es3-safe-recast","grunt-es3-safe-recast","gulp-dereserve","karma-es3-preprocessor"]
+["broccoli-es3-safe-recast","dereserve","grunt-es3-safe-recast","gulp-dereserve","karma-es3-preprocessor"]

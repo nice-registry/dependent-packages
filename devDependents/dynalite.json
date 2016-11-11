@@ -1,1 +1,1 @@
-["dynamise","dynamo-down","dynamo-streams","dynamo-throughput","dynamodb-throughput","epha-model","tilelive-cardboard"]
+["aws-dynamodb","cardboard","ddb-migrate","dynamise","dynamo-archive","dynamo-down","dynamo-streams","dynamo-table","dynamo-table-extensions","dynamo-table-id","dynamo-throughput","dynamodb-sql","dynamodb-throughput","dynamodbdown","epha-model","kine","pyrope","react-server-routing-example","sasquatcha","tilelive-cardboard","webgme"]

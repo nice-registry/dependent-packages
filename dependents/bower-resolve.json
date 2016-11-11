@@ -1,1 +1,1 @@
-["grunt-browserify-resolve","karma-bower"]
+["file-include","grunt-browserify-bower","grunt-browserify-resolve","hc-frontend-skeleton","karma-bower","pecker"]

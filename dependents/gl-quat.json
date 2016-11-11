@@ -1,1 +1,1 @@
-["quat-from-unit-vec3","quat-slerp"]
+["axis3d","gl-engine","orbit-controls","quat-from-unit-vec3","quat-slerp","scene-tree"]

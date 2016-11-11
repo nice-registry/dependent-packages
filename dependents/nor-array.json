@@ -1,1 +1,1 @@
-["nor-acl","nor-api-helpers","nor-api-registration","nor-api-session","nor-api-upload","nor-backend","nor-data-view","nor-date","nor-interface","nor-mvc","nor-rest-jquery","nor-routes-json","nor-spec"]
+["nopg","nor-acl","nor-api-helpers","nor-api-registration","nor-api-session","nor-api-upload","nor-app","nor-backend","nor-csv","nor-data","nor-data-view","nor-date","nor-debug","nor-errors","nor-express","nor-extend","nor-flags","nor-fs","nor-interface","nor-mvc","nor-newrelic","nor-nopg","nor-passport","nor-ref","nor-rest","nor-rest-jquery","nor-routes-json","nor-spec"]

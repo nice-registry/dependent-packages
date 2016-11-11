@@ -1,1 +1,1 @@
-["grunt-instrument","grunt-jscoverage","ilego","totoro-server"]
+["atoum.js","component-jscoverage","easy-coveralls","grunt-instrument","grunt-jscoverage","gulp-instrument","gulp-jscoverage","ilego","jive-testing-framework","lego","totoro-server","yqb"]

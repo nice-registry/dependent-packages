@@ -1,1 +1,1 @@
-["iopa-coap","iopa-coap-packet","iopa-mqtt","iopa-mqtt-packet","iopa-ssdp","iopa-udp"]
+["iopa-bot","iopa-coap","iopa-coap-packet","iopa-common-middleware","iopa-connect","iopa-http","iopa-logger","iopa-mount","iopa-mqtt","iopa-mqtt-packet","iopa-rest","iopa-sample-chat","iopa-serverless","iopa-ssdp","iopa-static","iopa-tcp","iopa-template-handlebars","iopa-templates","iopa-test","iopa-udp"]

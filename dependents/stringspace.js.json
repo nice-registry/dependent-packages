@@ -1,1 +1,1 @@
-["connection.js","mini-store.js"]
+["connection.js","endpoints.js","mini-store.js","perform.js"]

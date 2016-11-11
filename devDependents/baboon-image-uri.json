@@ -1,1 +1,1 @@
-["delaunify","glo-mesh","glo-texture","image-sdf","image-to-canvas","img-async","rate-limited-image-loader","three-sdf-text"]
+["async-image-loader","delaunify","get-image-pixels","glo-mesh","glo-texture","glsl-fast-gaussian-blur","image-sdf","image-to-canvas","img-async","load-img","rate-limited-image-loader","three-buffer-vertex-data","three-sdf-text"]

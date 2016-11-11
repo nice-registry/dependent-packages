@@ -1,1 +1,1 @@
-["esptool","losetup","node-stap"]
+["esptool","ff7lib","losetup","node-flame","node-luks","node-stap","node-struct-crc16","virtual-input"]

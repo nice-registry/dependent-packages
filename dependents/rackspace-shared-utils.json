@@ -1,1 +1,1 @@
-["keystone-client"]
+["keystone-client","rackspace-shared-middleware","service-registry-client","service-registry-wrapper","zookeeper-client"]

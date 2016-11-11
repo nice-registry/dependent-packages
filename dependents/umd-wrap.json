@@ -1,1 +1,1 @@
-["nova-compile"]
+["broccoli-config-writer","broccoli-object-writer","nova-compile"]

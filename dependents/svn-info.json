@@ -1,1 +1,1 @@
-["gulp-asvn","gulp-ecs-svn","mystiquex","zun"]
+["grunt-svn-tag","gulp-asvn","gulp-ecs-svn","gulp-svn","mystiquex","repoman","svn-project-root","zun"]

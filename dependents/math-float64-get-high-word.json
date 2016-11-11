@@ -1,1 +1,1 @@
-["math-float64-exponent","math-float64-signbit"]
+["math-float64-copysign","math-float64-expm1","math-float64-exponent","math-float64-flipsign","math-float64-log1p","math-float64-signbit","stdmath"]

@@ -1,1 +1,1 @@
-["chrome-launch"]
+["chrome-launch","karma-headless-chrome-launcher","project-nexus"]

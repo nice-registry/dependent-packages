@@ -1,1 +1,1 @@
-["lokka-transport-http-auth"]
+["jsonapi-server","lokka-transport-http","lokka-transport-http-auth","lokka-transport-http-mw","lokka-transport-http-querystring"]

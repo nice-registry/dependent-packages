@@ -1,1 +1,1 @@
-["mailgun-stream"]
+["gulp-mailgun","mailgun-stream","mojoio"]

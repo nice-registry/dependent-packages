@@ -1,1 +1,1 @@
-["buffer-codec","isdk"]
+["abstract-type","buffer-codec","cache-factory","isdk","task-registry"]

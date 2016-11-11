@@ -1,1 +1,1 @@
-["brackets-git","generator-amd-build","grunt-include-files","node-frame-extractor","requirejs-dplugins","swagger-clientgen","xplain"]
+["brackets-git","canvace","databridge","defn","generator-amd-build","grunt-amd-build","grunt-include-files","grunt-include-source","hashly","hexo-generator-seo-friendly-sitemap","hexo-helper-seo-structured-data","imutable","next-update","node-frame-extractor","requirejs-dplugins","suggestions-jquery","surround-constructor","swagger-clientgen","type-precedence","ungit","whitesource","xplain","z-schema","zaggino.brackets-git"]

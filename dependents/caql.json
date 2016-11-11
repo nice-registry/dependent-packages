@@ -1,1 +1,1 @@
-["calypso","calypso-query-decompiler","caql-decompiler","caql-js-compiler"]
+["calypso","calypso-mongodb","calypso-postgres","calypso-query-decompiler","calypso-usergrid","caql-decompiler","caql-js-compiler"]

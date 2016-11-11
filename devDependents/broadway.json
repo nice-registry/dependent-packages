@@ -1,1 +1,1 @@
-["broadway-handlebars","forever-win","mixdown-plugins","resourceful-s3","resourceful-simpledb"]
+["aws-sqs-stream","broadway-handlebars","creamer","evented-forever","express-routes-modules","flatiron-express","flatiron-handlers","forever-binom","forever-mac","forever-win","jade-flatiron","minioc-broadway","mixdown-config-couchdb","mixdown-cql","mixdown-geolocation","mixdown-geotools","mixdown-less","mixdown-plugins","mixdown-static","pager-model","resourceful-s3","resourceful-simpledb","viewful","xforever"]

@@ -1,1 +1,1 @@
-["loopback-connector-riak","seneca-riak-store"]
+["loopback-connector-riak","riak_client","sand-riak","seneca-riak-store"]

@@ -1,1 +1,1 @@
-["anvil-connect-keys","fxa-jwtool","jwt-bearer-client-auth","oada-trusted-jws","restify-jwks"]
+["anvil-connect-keys","express-jwks","fxa-jwtool","jwt-bearer-client-auth","oada-trusted-jws","restify-jwks","simple-asymmetric-js","supersphincs"]

@@ -1,1 +1,1 @@
-["mycro-mongoose-rest"]
+["mycro-error","mycro-mongoose","mycro-mongoose-rest","mycro-secrets","mycro-sequelize","mycro-util-policies"]

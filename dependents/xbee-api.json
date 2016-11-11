@@ -1,1 +1,1 @@
-["meshblu-xbee","xbee-helper","xbee-promise","xbee-serialsim"]
+["edge-device-send-data-zigbee","homebridge-xbee","meshblu-xbee","node-red-contrib-zblight","rainfall-xbee-s1","spinalzigbee","xbee-helper","xbee-promise","xbee-rx","xbee-serialsim","xbee-stream","xbmq","zetta-zigbee-photosensor-driver"]

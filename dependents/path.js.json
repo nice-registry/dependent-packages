@@ -1,1 +1,1 @@
-["isdk-cli","mime-type","read-dir-stream"]
+["abstract-file","cache-factory","isdk-cli","isdk-resource","load-config-file","load-config-folder","loopback-supertest","mime-type","read-dir-stream","task-registry-file-copy","task-registry-file-layout"]

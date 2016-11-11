@@ -1,1 +1,1 @@
-["fs-memory-store"]
+["fs-memory-store","mocha-fixture-dir"]

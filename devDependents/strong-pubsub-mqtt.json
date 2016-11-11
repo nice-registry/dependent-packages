@@ -1,1 +1,1 @@
-["strong-pubsub-primus"]
+["strong-pubsub-bridge","strong-pubsub-connection-mqtt","strong-pubsub-primus"]

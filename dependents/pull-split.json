@@ -1,1 +1,1 @@
-["appenddb","megafunnel-view","pull-couch","pull-serializer","pull-wc","streamcast"]
+["appenddb","flumedb-memlog","flumelog-memory","json-logdb","json-sst","log-range-query","megafunnel-view","pull-couch","pull-json-doubleline","pull-ndjson","pull-npm-registry-updates","pull-serializer","pull-wc","streamcast"]

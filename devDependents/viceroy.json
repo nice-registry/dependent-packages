@@ -1,1 +1,1 @@
-["viceroy-mongo"]
+["bfy-viceroy-rest-server","viceroy-mongo","viceroy-nedb","viceroy-rest","viceroy-rest-server"]

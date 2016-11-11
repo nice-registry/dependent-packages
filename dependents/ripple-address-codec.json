@@ -1,1 +1,1 @@
-["ripple-hashes","ripple-keypairs"]
+["ripple-binary-codec","ripple-hashes","ripple-keypairs","ripple-lib","rippled-historical-database","zc-ripple-binary-codec","zc-ripple-lib"]

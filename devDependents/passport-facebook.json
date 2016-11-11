@@ -1,1 +1,1 @@
-["excess","generator-ats-node-webapp"]
+["excess","feathers-authentication","feathers-authentication-patch-wechat","feathers-authentication-refreshtoken","generator-ats-node-webapp","hapi-passport","koa-passport-framework","kuzzle-plugin-auth-passport-oauth","organic-express-passport","toubkal"]

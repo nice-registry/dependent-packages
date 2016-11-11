@@ -1,1 +1,1 @@
-["passport-mongodb"]
+["auth-center","passport-client-certificate","passport-mongodb","passport-openapi"]

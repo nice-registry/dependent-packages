@@ -1,1 +1,1 @@
-["glsl-inject-defines","glslify-bundle","glslify-fancy-imports","glslify-import"]
+["gl-engine","glsl-inject-defines","glslify-bundle","glslify-fancy-imports","glslify-import","kindred-shader-formatter"]

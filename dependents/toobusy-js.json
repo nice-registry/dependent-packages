@@ -1,1 +1,1 @@
-["connect-qos","express-toobusy","flowbench","forkify","harpoon-server","metrics-process","mia.js","node-xmpp-joap","stats-server","stitakis-boomcatch","stratum"]
+["alchemymvc","bagarino","boomcatch","brest","centro","connect-qos","dl-rpc-server","etcd-proxy","express-toobusy","flowbench","forkify","harpoon-server","koalesce-mw-toobusy","metrics-process","mia-js","mia-js-core","mia.js","node-xmpp-joap","nova-server","nova-worker","peddler","process-reporter","raff","ringpop","stats-server","stitakis-boomcatch","stratum","webexapp"]

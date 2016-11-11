@@ -1,1 +1,1 @@
-["electron-ref-array","electron-ref-struct","nan-as","nan-check","nan-marshal","nan-typedarrays","ref-array-atom-shell","ref-struct-atom-shell","ref-union"]
+["autovivify","csound-api","electron-ref-array","electron-ref-struct","nan","nan-as","nan-check","nan-marshal","nan-typedarrays","nawn","node-gyp","nw-gyp","ref-array","ref-array-atom-shell","ref-struct","ref-struct-atom-shell","ref-union","ref-wchar","rtc-quickconnect-test"]

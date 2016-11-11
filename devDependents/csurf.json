@@ -1,1 +1,1 @@
-["express-user-local","jhr","lockit-delete-account","lockit-forgot-password","lockit-login","lockit-signup","tokensec"]
+["csrf-login","express-user-local","grown","jhr","lockit-delete-account","lockit-forgot-password","lockit-login","lockit-login-auth","lockit-signup","tokensec"]

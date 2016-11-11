@@ -1,1 +1,1 @@
-["dora-anyproxy","grunt-load-perf","grunt-throttle","hoxy","iss","stream-bouncer"]
+["anyproxy","anyproxyplus","browser-sync-ui","desktop-uploader","dora-anyproxy","dora-anyproxy-cors","grunt-load-perf","grunt-throttle","gulp-throttle","hoxy","iss","recd-cli","stream-bouncer","youtube-terminal"]

@@ -1,1 +1,1 @@
-["idris-geojson","livefyre-geo-collection","osm-discretize","wgs84-intersect-util"]
+["compare-geojson","geojson-slice","idris-geojson","livefyre-geo-collection","max-inscribed-circle","osm-discretize","simplepolygon","turf","wgs84-intersect-util"]

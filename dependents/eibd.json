@@ -1,1 +1,1 @@
-["knx-components"]
+["iobroker.knx","knx-components","node-red-contrib-eibd"]

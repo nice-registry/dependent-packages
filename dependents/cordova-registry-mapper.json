@@ -1,1 +1,1 @@
-["ionic-cordova-lib","taco-simulate-server"]
+["cordova-common","cordova-simulate","indui-cordova-lib","ionic-cordova-lib","nodekit-cli-lib","pgb-cordova-lib","taco-simulate-server"]

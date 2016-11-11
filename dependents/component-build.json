@@ -1,1 +1,1 @@
-["component","grunt-component-build"]
+["component","component-builder-www","component-koa","component-middleware","component-preview","grunt-component-build","grunt-suitcss","gulp-component-build"]

@@ -1,1 +1,1 @@
-["connect-jade"]
+["connect-jade","jquery.hx","restful-router","restful-wrap","wee-promise"]

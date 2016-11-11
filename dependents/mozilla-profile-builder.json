@@ -1,1 +1,1 @@
-["browser-test","browser-test-dev"]
+["browser-test","browser-test-dev","marionette-host-environment","marionette-profile-builder"]

@@ -1,1 +1,1 @@
-["samjs-mongo-configwise","samjs-mongo-deletion"]
+["samjs-auth","samjs-auth-mongo","samjs-files","samjs-files-auth","samjs-mongo","samjs-mongo-auth","samjs-mongo-configwise","samjs-mongo-deletion","samjs-mongo-isOwner"]

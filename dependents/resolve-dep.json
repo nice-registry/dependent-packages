@@ -1,1 +1,1 @@
-["assemble-handlebars-3","grunt-handlebars-simple-layouts","grunt-readme","load-options","ng-factory"]
+["assemble-handlebars-3","boson","dep-docs","dovetail","grunt-assemble","grunt-assemble-zrh","grunt-handlebars-layouts","grunt-handlebars-simple-layouts","grunt-readme","load-options","load-plugins","ng-factory","recess-imprt-css","template-loader"]

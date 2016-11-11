@@ -1,1 +1,1 @@
-["plugins","stream-loader"]
+["base-npm","matched","middleware-utils","plugins","stream-loader"]

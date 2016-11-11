@@ -1,1 +1,1 @@
-["falcor-ioredis","falcor-local-datasource","falcor-to-path-values","protean"]
+["falcor","falcor-asyncstorage-datasource","falcor-ioredis","falcor-local-datasource","falcor-mem-hierarchy","falcor-router-demo","falcor-saddle","falcor-to-path-values","falcor-wordpress","protean","reaxtor","reaxtor-falcor-json-graph","redux-falcor"]

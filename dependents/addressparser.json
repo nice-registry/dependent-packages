@@ -1,1 +1,1 @@
-["emailjs-knotz","ortoo-feedparser","parse-gmail-email"]
+["abdero-fetcher","buildmail","emailjs","emailjs-knotz","feedjett","feedparser","forwarded-parser","imap-core","mimelib","nodemailer-mandrill-transport","nodemailer-postmark-transport","nodemailer-salesforce-transport","nodemailer-sendinblue-transport","nodemailer-simple-intercom-transport","nodemailer-trap-plugin","ortoo-feedparser","parse-gmail-email"]

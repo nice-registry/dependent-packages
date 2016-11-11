@@ -1,1 +1,1 @@
-["browserify-es6-transpiler","runtime-transpiler"]
+["broccoli-es6-module-jstransform","browserify-es6-transpiler","builder-es6-module-to-cjs","gulp-es6-module-jstransform","quinnc","reactflow","runtime-transpiler"]

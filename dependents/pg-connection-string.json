@@ -1,1 +1,1 @@
-["east-mysql","pg-core","pgexplode","weblift"]
+["dbeasy","east-mysql","east-postgres","hfjy-knex","knex","knex-firebird","knex-node-firebird","knex-oracledb","knex-redshift","knex-redshift-fork","pg-core","pg.js","pgexplode","pgtools","plv8-turbo","postgraphql","punch-knex","rm3","simple-postgres","testx-postgres-keywords","weblift","with-conn-pg"]

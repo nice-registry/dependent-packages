@@ -1,1 +1,1 @@
-["geojson-elevation","local-proj","turf-extent"]
+["geojson-elevation","local-proj","turf","turf-bbox","turf-centroid","turf-combine","turf-concave","turf-convex","turf-explode","turf-extent","turf-flip","turf-shift-longitude"]

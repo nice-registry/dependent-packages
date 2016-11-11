@@ -1,1 +1,1 @@
-["unpm-fs-backend","unpm-s3-backend"]
+["unpm-fs-backend","unpm-leveldb","unpm-mem-backend","unpm-s3-backend"]

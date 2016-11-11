@@ -1,1 +1,1 @@
-["gulp-browserify-task-reactify"]
+["gulp-browserify-bundle-task","gulp-browserify-task-reactify"]

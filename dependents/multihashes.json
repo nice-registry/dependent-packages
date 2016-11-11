@@ -1,1 +1,1 @@
-["chainscript","cube-cli","ipfs-path","multihash-decorator"]
+["aleph","chainscript","cids","cube-cli","ipfs","ipfs-bitswap","ipfs-geoip","ipfs-ipld","ipfs-merkle-dag","ipfs-msgproto-integrity","ipfs-path","ipfs-repo","ipfs-unixfs-engine","ipld","ipld-dag-cbor","ipld-dag-pb","ipld-resolver","is-ipfs","multihash-decorator","multihashing-async","openpublish","peer-id","youbase"]

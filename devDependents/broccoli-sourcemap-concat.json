@@ -1,1 +1,1 @@
-["ember-package"]
+["ember-package","ember-qunit","ember-test-helpers","lesson-03","orbit-core","orbit-indexeddb","orbit-jsonapi","orbit-local-storage","orbit-store"]

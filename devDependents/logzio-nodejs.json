@@ -1,1 +1,1 @@
-["bunyan-logzio"]
+["bunyan-logzio","bunyan-rotating-file-stream"]

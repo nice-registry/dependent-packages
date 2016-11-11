@@ -1,1 +1,1 @@
-["matterhorn-user-cassandra","mystik-dao"]
+["auth0-authz-rules-api","bunyan-cassandra","matterhorn-user-cassandra","mixdown-cql","mystik-dao","polyclay-cassandra-cql","pook.example.db","rinzler","wages-ws"]

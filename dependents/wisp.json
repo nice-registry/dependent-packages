@@ -1,1 +1,1 @@
-["tangle-wisp","wispify"]
+["grunt-wisp-compile","gulp-wisp","tangle-wisp","wisp-brunch","wispify"]

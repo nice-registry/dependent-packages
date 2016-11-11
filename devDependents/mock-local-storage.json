@@ -1,1 +1,1 @@
-["caching-fetch","flummox-localstore","heap-local-storage"]
+["blank-web-sdk","botify-sdk-middlewares","caching-fetch","dapps-react-ui","flummox-localstore","heap-local-storage","i18n-calypso-localize","i18n-calypso-mixin","offer-generator","parity-home","parity-sysui-app","react-combo-select","react-formsy-combo-select","react-formsy-text-input-group","react-intl-tel-input","redux-session","secure-ls","storage-value","swagger-diff"]

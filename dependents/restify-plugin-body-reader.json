@@ -1,1 +1,1 @@
-["restify-plugin-body-parser","restify-plugin-fielded-text-body-parser","restify-plugin-form-body-parser","restify-plugin-json-body-parser"]
+["restify-json-body-parser","restify-plugin-body-parser","restify-plugin-fielded-text-body-parser","restify-plugin-form-body-parser","restify-plugin-json-body-parser"]

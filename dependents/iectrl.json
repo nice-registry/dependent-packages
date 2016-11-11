@@ -1,1 +1,1 @@
-["karma-ievms","launch-browsers"]
+["karma-ievms","karma-ievms-launcher","launch-browsers"]

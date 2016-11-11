@@ -1,1 +1,1 @@
-["serve-es6"]
+["phantomjs-adapter","serve-es6","serve-esnext"]

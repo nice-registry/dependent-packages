@@ -1,1 +1,1 @@
-["browserify-coffeelint","grunt-coffeelint-cjsx","gulp-bsm-helpers","gulp-coffeelint-cjsx","smasher"]
+["browserify-coffeelint","grunt-coffeelint","grunt-coffeelint-cjsx","gulp-bsm-helpers","gulp-coffeelint","gulp-coffeelint-cjsx","smasher","webapp-gulp-builder"]

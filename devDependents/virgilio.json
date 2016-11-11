@@ -1,1 +1,1 @@
-["virgilio-http","virgilio-on","virgilio-redis"]
+["virgilio-action-cache","virgilio-http","virgilio-mongo","virgilio-on","virgilio-redis"]

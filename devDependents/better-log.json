@@ -1,1 +1,1 @@
-["babel-plugin-asm-js","graphql-vogels"]
+["babel-plugin-asm-js","babel-plugin-transform-stylus","graphql-vogels","vstack-validator"]

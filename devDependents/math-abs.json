@@ -1,1 +1,1 @@
-["math-betaln","math-binomcoef","math-cos","math-exp","math-float64-frexp","math-power","math-sin","math-tan"]
+["const-cbrt-eps-float64","const-ln10","const-ln2","const-log10e","const-log2e","const-pi-squared","math-beta","math-betaln","math-binomcoef","math-cos","math-digamma","math-dirichlet-eta","math-erf","math-erfc","math-erfcinv","math-erfinv","math-exp","math-factorial","math-float32-frexp","math-float64-expm1","math-float64-frexp","math-float64-log1p","math-power","math-sin","math-tan"]

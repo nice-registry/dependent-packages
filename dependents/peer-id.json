@@ -1,1 +1,1 @@
-["abstract-peer-routing","interface-peer-routing","libp2p-mdns-discovery","libp2p-railing"]
+["abstract-peer-routing","aleph","gossip-cyclon","interface-peer-routing","ipfs","js-libp2p-pstn-node","libp2p-identify","libp2p-ipfs","libp2p-ipfs-browser","libp2p-mdns-discovery","libp2p-pstn","libp2p-pstn-node","libp2p-railing","libp2p-secio","libp2p-webrtc-star","peer-info"]

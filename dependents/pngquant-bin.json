@@ -1,1 +1,1 @@
-["grunt-myless","grunt-tinyimg","gulp-image-jpegoptim-bind-fix","image-optimizer","node-spritegenerator","pngo","svg-rasterizer","test-grunt-myless"]
+["adluxe-grunt-tinyimg","balmung","grunt-cssimage","grunt-mega-image","grunt-myless","grunt-png8","grunt-tinyimg","gulp-image","gulp-image-jpegoptim-bind-fix","gulp-pngquant","gulp-pngquant-openmp","iconizr","image-optimize","image-optimizer","imagemin-pngquant","imgo","imgopti","in2-flow","myless","node-spritegenerator","pngo","pngquant","stc-imagemin","svg-rasterizer","test-grunt-myless","wag","wintersmith-pngquant"]

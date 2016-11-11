@@ -1,1 +1,1 @@
-["async-waiter","browserify-kraken-spudbundle","construx-makara-browserify","copy-amd-modules","dust-makara-helpers","fs-write-stream-atomic","labnote","makara-writer-amd","naver-npm","npm-msys2"]
+["async-waiter","browserify-kraken-spudbundle","bundalo","construx-makara-browserify","copy-amd-modules","copy-browser-modules","dust-makara-helpers","fs-write-stream-atomic","jmpr-jpm","labnote","makara-builder","makara-writer-amd","naver-npm","npm","npm-msys2","spundle"]

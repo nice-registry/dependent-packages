@@ -1,1 +1,1 @@
-["better-dependency-injector","rpg-server"]
+["annotation-api","better-dependency-injector","grunt-tidy-annotations","param-validator","rpg-node-mvc","rpg-server"]

@@ -1,1 +1,1 @@
-["chuey","fxa-relier-client","pg-redis","promise-bench"]
+["aerogel","chuey","consensus","fx-sync","fxa-js-client","fxa-relier-client","http-bundle","pg-redis","polyclay","polyclay-cassandra","polyclay-cassandra-cql","polyclay-rethink","promise-bench","scamandrios","scurry"]

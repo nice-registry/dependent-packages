@@ -1,1 +1,1 @@
-["ethereumjs-dht","ipfs-kad-router","libp2p-kad-routing","node-mate"]
+["bitboot","bittorrent-dht","bittorrent-dht-byo","devp2p-dpt","discover","ethereumjs-devp2p","ethereumjs-dht","hyperdht","ipfs-kad-router","k-rpc","libp2p-kad-routing","node-mate","peer-relay"]

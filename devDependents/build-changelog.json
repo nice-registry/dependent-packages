@@ -1,1 +1,1 @@
-["auto-async","clean-require","kafka-stream","parse-function-string","request-rx","sassify-object","sassify-object-and-prepend","scotch-tape"]
+["auto-async","clean-require","human.js","kafka-stream","paranoid-request","parse-function-string","request-rx","sassify-object","sassify-object-and-prepend","scotch-tape","species"]

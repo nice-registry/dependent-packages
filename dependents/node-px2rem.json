@@ -1,1 +1,1 @@
-["gulp-rem2px"]
+["cmd-extend","gulp-px2rem","gulp-rem2px"]

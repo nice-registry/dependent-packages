@@ -1,1 +1,1 @@
-["mongo-diff"]
+["koa-mongodb-session","mongo-diff","mongo-diff-update","mongo-query","mongo-update"]

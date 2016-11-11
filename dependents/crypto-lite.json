@@ -1,1 +1,1 @@
-["oauth2-token-manager"]
+["couchdb-calculate-session-id","oauth2-token-manager","pouchdb-auth"]

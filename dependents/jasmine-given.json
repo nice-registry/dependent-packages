@@ -1,1 +1,1 @@
-["launchpad-integration-test"]
+["bb-test","grunt-jasmine-bundle","karma-jasmine-given","launchpad-integration-test"]

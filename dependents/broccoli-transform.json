@@ -1,1 +1,1 @@
-["broccoli-requirejs-fc"]
+["broccoli-dist-es6-module","broccoli-requirejs-fc","broccoli-template-builder"]

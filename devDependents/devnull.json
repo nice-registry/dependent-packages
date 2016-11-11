@@ -1,1 +1,1 @@
-["fast-stable-stringify","memcached-stream"]
+["fast-stable-stringify","hashring","memcached-stream"]

@@ -1,1 +1,1 @@
-["lsm303-rx"]
+["generator-pgsql","lsm303-rx","sortjs","surfacecurve_lib"]

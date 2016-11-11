@@ -1,1 +1,1 @@
-["ember-package","grunt-lock-extended"]
+["aircheck","ember-package","grunt-lock","grunt-lock-extended","hashcat-nf"]

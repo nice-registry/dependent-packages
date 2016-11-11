@@ -1,1 +1,1 @@
-["catan-client","catan-server","httprompt","prodio-leveldb-store","prodio-memory-store","sabot"]
+["apiconnect-cli-util","catan-client","catan-server","httprompt","karmasoc-util","mongo-mock","mongo-stash","prodio-leveldb-store","prodio-memory-store","react-jig","restful-mongo-http-handlers","sabot","socket.io-chat","ve-sequence-utils"]

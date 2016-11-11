@@ -1,1 +1,1 @@
-["deamdify"]
+["browserify-shim","deamdify","hapi-raven","hapi-require-https","minifyify","proxyquireify","tsify","tsify-preprocess"]

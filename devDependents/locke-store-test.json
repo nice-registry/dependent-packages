@@ -1,1 +1,1 @@
-["locke-api"]
+["locke-api","locke-store-mem","locke-store-mongo"]

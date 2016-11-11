@@ -1,1 +1,1 @@
-["file-symlinks","stream-loader"]
+["assemble-streams","file-symlinks","gulp-collection","stream-loader"]

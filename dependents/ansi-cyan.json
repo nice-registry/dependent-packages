@@ -1,1 +1,1 @@
-["composer-errors","composer-runtimes","detect-conflicts","plugin-error"]
+["ansi-colors","composer-errors","composer-runtimes","detect-conflicts","enquirer-prompt-confirm","plugin-error","prompt-checkbox","prompt-confirm","prompt-password","verb"]

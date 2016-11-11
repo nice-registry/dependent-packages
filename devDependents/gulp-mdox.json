@@ -1,1 +1,1 @@
-["bsonize","multikey-hash","superhash"]
+["bsonize","chai-jq","multikey-hash","superhash","webpack-stats-plugin"]

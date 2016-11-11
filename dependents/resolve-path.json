@@ -1,1 +1,1 @@
-["connect-preprocess","kiss","koa-better-static"]
+["connect-preprocess","erg-patternplate","falsealarm","kiss","koa-better-static","koa-file-server","koa-send","koa-static-security","koa-stream","patternplate","quk","react-wildcat","vs-solution-opener-cli"]

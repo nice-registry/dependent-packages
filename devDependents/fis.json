@@ -1,1 +1,1 @@
-["fis-parser-sassokoala","fis-postprocessor-amd","fis3-parser-sass","jello-postprocessor-require-async","jello-preprocessor-extlang"]
+["fis-parser-haml","fis-parser-sass","fis-parser-sassokoala","fis-parser-scss","fis-parser-stylus","fis-postprocessor-amd","fis3-hook-components","fis3-parser-sass","jello-postprocessor-require-async","jello-preprocessor-extlang","pangu-hook-components"]

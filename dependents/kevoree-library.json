@@ -1,1 +1,1 @@
-["generator-kevoree-model","kevoree-comp-kevscript","kevoree-web-editor"]
+["generator-kevoree","generator-kevoree-model","grunt-kevoree","grunt-kevoree-registry","kevoree-cli","kevoree-comp-kevscript","kevoree-compare","kevoree-core","kevoree-entities","kevoree-gen-model","kevoree-group-remotews","kevoree-group-websocket","kevoree-group-ws","kevoree-kevscript","kevoree-merger","kevoree-model-sync","kevoree-node-docker","kevoree-node-javascript","kevoree-nodejs-runtime","kevoree-validator","kevoree-web-editor","kevoree-web-editor-server"]

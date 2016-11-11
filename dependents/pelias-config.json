@@ -1,1 +1,1 @@
-["pelias-openstreetmap-polygons","pelias-quattroshapes","quattroshapes"]
+["pelias-admin-lookup","pelias-api","pelias-api-libpostal","pelias-dbclient","pelias-esclient","pelias-fuzzy-tester","pelias-geonames","pelias-logger","pelias-model","pelias-openaddresses","pelias-openstreetmap","pelias-openstreetmap-polygons","pelias-quattroshapes","pelias-schema","pelias-text-analyzer","pelias-whosonfirst","pelias-wof-admin-lookup","quattroshapes"]

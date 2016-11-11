@@ -1,1 +1,1 @@
-["hive-importexport","hive-ui-importexport"]
+["hive-core","hive-importexport","hive-plugin-import","hive-ui-importexport"]

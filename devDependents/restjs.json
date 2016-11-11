@@ -1,1 +1,1 @@
-["jsonwebuokenredissession","node-token-sockjs"]
+["jsonwebuokenredissession","jwt-redis-session","node-token-sockjs"]

@@ -1,1 +1,1 @@
-["ffi-atom-shell","node-ffi-php-bindings"]
+["ffi","ffi-atom-shell","ffi-prebuilt","node-ffi-php-bindings","ref-strict","ref-struct","ref-struct-prebuilt"]

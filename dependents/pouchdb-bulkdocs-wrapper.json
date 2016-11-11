@@ -1,1 +1,1 @@
-["pouchdb-users","pouchdb-validation"]
+["pouchdb-admins","pouchdb-auth","pouchdb-security","pouchdb-users","pouchdb-validation"]

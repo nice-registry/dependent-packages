@@ -1,1 +1,1 @@
-["archiver-json","chronic","decompress-bzip2","gulp-avas","gulp-ctags","gulp-latex","gulp-pdftocairo","gulp-polish","imagemin-advpng","level-vinyl","vinyl-assign"]
+["archiver-json","chronic","decompress-bzip2","gulp-ava","gulp-avas","gulp-browserify-globs","gulp-ctags","gulp-cwebp","gulp-json-to-map","gulp-jsonjade","gulp-latex","gulp-module-builder","gulp-pdf-thumbnail","gulp-pdftocairo","gulp-polish","gulp-ruby-sass","gulp-testcafe","gulp-watchman","gulp-webp","gulp-xo","imagemin-advpng","itbl","level-vinyl","rs-breakpoints","vinyl-assign","vinyl-to-stream","wed"]

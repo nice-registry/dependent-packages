@@ -1,1 +1,1 @@
-["redux-composer"]
+["babel-brunch","babel-plugin-transform-dead-code-elimination","babel-solo","babel-standalone","babel-standalone-pcnt","babelify","gulp-tasks-monorepo","m-iso","mg-react-ui-toolkit","nexus-core","preact-intl","preact-redux","precharts","react-datetimepicker-bootstrap","react-lazy-image","react-pubsub","react-ui-toolkit","redux-composer","umd-builder","wen-babelify","wenke-babelify"]

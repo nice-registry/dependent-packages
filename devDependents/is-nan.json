@@ -1,1 +1,1 @@
-["native-buffer-browserify"]
+["automated-readability","buffer","coleman-liau","dale-chall-formula","flesch","flesch-kincaid","gunning-fog","native-buffer-browserify","smog-formula","spache-formula"]

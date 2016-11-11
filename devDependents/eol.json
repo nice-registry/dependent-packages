@@ -1,1 +1,1 @@
-["gulp-image-inline","gulp-recipe-browserify","istanbul-react","udhr"]
+["ecstatic","git-test-cli","grunt-bake-eol","gulp-image-data-uri","gulp-image-inline","gulp-less-precompiler","gulp-recipe-browserify","istanbul-react","nw-builder","udhr","webkit-builder"]

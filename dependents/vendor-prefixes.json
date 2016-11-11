@@ -1,1 +1,1 @@
-["is-vendor-prefixed"]
+["is-animatable","is-vendor-prefixed","strip-vendor-prefix"]

@@ -1,1 +1,1 @@
-["grunt-angular-gettext-karmasafe","grunt-gettext-extract","gulp-xgettext-js-more-better"]
+["baked-i18n","grunt-angular-gettext-karmasafe","grunt-angular-gettext-message","grunt-angular-gettext-studygps","grunt-gettext-extract","gulp-angular-gettext","gulp-xgettext-handlebars","gulp-xgettext-js-more-better","robomind-parser"]

@@ -1,1 +1,1 @@
-["gulp-pandoc-filter","mathjax-pandoc-filter"]
+["docx-header-num","docx-title","gulp-pandoc-filter","mathjax-pandoc-filter","pandoc-highlighter","pandoc-mermaid-filter","pandoc-plantuml-filter"]

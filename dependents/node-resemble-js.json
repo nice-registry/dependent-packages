@@ -1,1 +1,1 @@
-["check-visual-regressions","grunt-vigo","visual-diff","visualtesting-api"]
+["check-visual-regressions","css-testing","dayguard","delta-screen","diosmosis2-webdrivercss","fw-backstopjs","grunt-qunit-kimchi","grunt-regress","grunt-vigo","image-diff-tester","pagediffer","screentest","snapshots","stylize-regression","svgo-diff","visual-diff","visualregressionreport","visualtesting-api","webdrivercss","webdrivercss-custom-v4-compatible","webotest","wraith"]

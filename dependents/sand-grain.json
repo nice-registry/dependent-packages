@@ -1,1 +1,1 @@
-["sand-datastore","sand-ldap","sand-lockd","sand-mysql-simple","sand-redis","sand-schedule","sand-scoped","sand-static"]
+["sand-clients","sand-datadog","sand-datastore","sand-elasticsearch","sand-eventsd","sand-gcloud","sand-google-storage","sand-graphql","sand-influx","sand-intercom","sand-io","sand-ldap","sand-lockd","sand-mailgun","sand-memcache","sand-mysql-simple","sand-profiler","sand-redis","sand-riak","sand-schedule","sand-scoped","sand-session","sand-static"]

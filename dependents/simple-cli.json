@@ -1,1 +1,1 @@
-["grunt-neo4j","grunt-simple-git","grunt-simple-grunt","grunt-simple-npm"]
+["grunt-neo4j","grunt-simple-bower","grunt-simple-git","grunt-simple-grunt","grunt-simple-istanbul","grunt-simple-npm"]

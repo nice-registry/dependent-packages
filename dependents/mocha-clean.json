@@ -1,1 +1,1 @@
-["karma-mocha-clean-reporter","promise-task-runner"]
+["karma-mocha-clean-reporter","katulong","mocca","promise-task-runner"]

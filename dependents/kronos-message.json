@@ -1,1 +1,1 @@
-["kronos-step-archive-arangodb"]
+["kronos-adapter-inbound-http-file","kronos-interceptor-message-handler","kronos-step-archive-arangodb","kronos-step-data-processor-csv"]

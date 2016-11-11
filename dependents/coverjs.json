@@ -1,1 +1,1 @@
-["grunt-coverjs"]
+["coverjs-loader","grunt-coverjs"]

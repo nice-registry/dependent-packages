@@ -1,1 +1,1 @@
-["glob-base","level-glob","stream-loader","useref-cli"]
+["appcache-manifest","chokidar","cofounder","copy","expand-files","ez-html-replace","generator-arc","glob-base","glob-fs","glob-stream","gulp-files-sync","gulp-on-rx","gulp-watch","gulp-watch-pug","level-glob","load-templates","mocha-webpack","multi-entry-loader","panqibao","require-glob","sangria-app","spiff","static-base","stream-loader","syncy","thimble","to-file","useref-cli"]

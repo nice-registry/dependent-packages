@@ -1,1 +1,1 @@
-["express-password-reset","express-signin"]
+["express-password-reset","express-restrict","express-signin","express-signup"]

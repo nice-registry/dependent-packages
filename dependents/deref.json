@@ -1,1 +1,1 @@
-["json-schema-2-groovy-pojo","json-schema-java-mapper-utils","raml2code-utils","raml2code-utils-samskiter","refaker"]
+["json-schema-2-groovy-pojo","json-schema-faker","json-schema-java-mapper-utils","json-schema-request","raml2code-fixtures","raml2code-jaxrs-interfaces","raml2code-utils","raml2code-utils-samskiter","refaker","refaker-local-id"]

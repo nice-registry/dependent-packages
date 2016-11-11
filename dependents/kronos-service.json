@@ -1,1 +1,1 @@
-["kronos-koa-service","kronos-service-manager-consul"]
+["kronos-adapter-inbound-http","kronos-koa-service","kronos-service-admin","kronos-service-consul","kronos-service-health-check","kronos-service-koa","kronos-service-logger-gelf","kronos-service-manager","kronos-service-manager-consul","kronos-service-registry","kronos-service-uti","kronos-test-step"]

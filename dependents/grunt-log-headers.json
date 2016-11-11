@@ -1,1 +1,1 @@
-["grunt-deploygate"]
+["can-boilerplate","grunt-content","grunt-deploygate","grunt-drupal-tasks","grunt-git-flow"]

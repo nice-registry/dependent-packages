@@ -1,1 +1,1 @@
-["node-server"]
+["core","core-dev","core-test","dl-node-server","node-server"]

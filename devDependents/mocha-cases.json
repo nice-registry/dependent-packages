@@ -1,1 +1,1 @@
-["gulp-ccr-clean","gulp-ccr-concat","gulp-ccr-config-helper","gulp-ccr-copy","gulp-ccr-each","gulp-ccr-stream-helper"]
+["globjoin","gulp-ccr-browserify","gulp-ccr-clean","gulp-ccr-concat","gulp-ccr-config-helper","gulp-ccr-copy","gulp-ccr-each","gulp-ccr-each-dir","gulp-ccr-stream-helper","gulp-ccr-watch","gulp-chef","json-normalizer","json-regulator","json-regulator-with-regexp"]

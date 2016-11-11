@@ -1,1 +1,1 @@
-["purebem","redux-batch-middleware"]
+["billogram-foundation","purebem","redux-batch-middleware","redux-diff-middleware"]

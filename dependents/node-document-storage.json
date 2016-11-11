@@ -1,1 +1,1 @@
-["node-document"]
+["node-document","node-document-storage-amazons3","node-document-storage-couchdb","node-document-storage-elasticsearch","node-document-storage-fs","node-document-storage-global","node-document-storage-kyotocabinet","node-document-storage-leveldb","node-document-storage-memcached","node-document-storage-mongodb","node-document-storage-nstore","node-document-storage-redis","node-document-storage-riak"]

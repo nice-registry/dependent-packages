@@ -1,1 +1,1 @@
-["buster-core"]
+["buster-assertions","buster-core","buster-evented-logger","buster-format","buster-multicast","buster-promise"]

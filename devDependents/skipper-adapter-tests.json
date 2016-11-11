@@ -1,1 +1,1 @@
-["isfero-skipper","skipper-azure","skipper-disk","skipper-gcs","skipper-gridfs","skipper-pkgcloud","skipper-qiniu","skipper-s3"]
+["grn-skipper-gridfs","isfero-skipper","skipper","skipper-azure","skipper-csv","skipper-disk","skipper-gcs","skipper-gridfs","skipper-gridfs-replica","skipper-memory","skipper-pkgcloud","skipper-postgresql","skipper-qiniu","skipper-s3","skipper-upyun"]

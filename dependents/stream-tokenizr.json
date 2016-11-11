@@ -1,1 +1,1 @@
-["asf-parser","id3v2-parser","mp4-parser","ogg-parser"]
+["asf-parser","flac-parser","id3v2-parser","mp4-parser","mp4-tokenizer","ogg-parser","vorbis-parser"]

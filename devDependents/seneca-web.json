@@ -1,1 +1,1 @@
-["seneca-loadbalance-transport"]
+["auth-token-cookie","ember-seneca-auth","seneca-loadbalance-transport","seneca-web-adapter-connect","seneca-web-adapter-express","seneca-web-adapter-hapi","seneca-web-adapter-koa1","seneca-web-adapter-koa2"]

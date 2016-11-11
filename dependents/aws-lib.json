@@ -1,1 +1,1 @@
-["aws-instances","aws-sqs","coce","njax-app"]
+["amz","aws-instances","aws-sqs","cloudpub","cloudwatch-agent","cloudwatch-init","cloudwatch-librato","coce","ec2-backup","ectwo","elastisnap","funnel","highchair","maestro","njax","njax-app","njax-server-util","notify-by-ses","simpledb","sqsqueue","sque","tower-ec2-adapter","winston-sns-iam"]

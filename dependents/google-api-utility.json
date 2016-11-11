@@ -1,1 +1,1 @@
-["express-gcs-uploader","gcmetrics","googlebigquery"]
+["bigquery","express-gcs-uploader","gcmetrics","google-vision-api-client","googlebigquery"]

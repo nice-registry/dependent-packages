@@ -1,1 +1,1 @@
-["gulp-zopfli"]
+["gulp-gzip","gulp-zopfli","hyperid","simpledb"]

@@ -1,1 +1,1 @@
-["redis-lockr"]
+["redis-exp-lock","redis-lockr"]

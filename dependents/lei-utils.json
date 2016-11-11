@@ -1,1 +1,1 @@
-["clouds-controller","lei-crawler","lei-deploy","rddx-express","super-config-loader","tcp-tunnel"]
+["clouds","clouds-controller","clouds-socket","hojs","hojs-schema","huanying","lei-benchmark","lei-crawler","lei-deploy","lei-run","lei-stream","manoservices","nanoservices","project-core","rddx-express","super-alidayu","super-config-loader","super-log","super-microservices","super-queue","superid","tcp-tunnel"]

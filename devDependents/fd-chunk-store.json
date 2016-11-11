@@ -1,1 +1,1 @@
-["append-only-torrent","kdb-tree-store","sparse-chunk-store"]
+["append-only-torrent","deferred-chunk-store","hyperlog-kdb-index","kdb-tree-store","osm-p2p-db","osm-p2p-geojson","sparse-chunk-store"]

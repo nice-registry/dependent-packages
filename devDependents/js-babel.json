@@ -1,1 +1,1 @@
-["http-promises","js-bdd","mq-pushworker"]
+["file-system-cache","file-system-css","file-system-dropbox","http-promises","js-babel-dev","js-bdd","js-util","mq-connection","mq-pubsub","mq-pushworker","react-schema"]

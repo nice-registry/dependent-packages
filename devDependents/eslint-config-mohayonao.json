@@ -1,1 +1,1 @@
-["audio-worker-compiler","ciseaux","interval-iterator","mml-emitter","node-pico","seq-emitter","tickable-timer","web-audio-test-api"]
+["audio-worker-compiler","audio-worker-node","audio-worker-shim","ciseaux","interval-iterator","mml-emitter","node-pico","seq-emitter","tickable-timer","web-audio-test-api"]

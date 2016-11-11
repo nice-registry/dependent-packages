@@ -1,1 +1,1 @@
-["grunt-kraken-io"]
+["grunt-contrib-kraken","grunt-kraken-io","grunt-kraken_image_compression","gulp-kraken","hapi-kraken","send-to-kraken"]

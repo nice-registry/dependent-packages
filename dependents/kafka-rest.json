@@ -1,1 +1,1 @@
-["cti-kafka-rest-event-publisher","greenlight-models","kafka-stream-map"]
+["cti-kafka-rest-event-publisher","greenlight-models","kafka-stream-map","node-red-contrib-confluent"]

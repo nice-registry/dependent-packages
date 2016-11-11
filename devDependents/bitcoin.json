@@ -1,1 +1,1 @@
-["bitcoind-block-stream"]
+["bitcoin-protocol","bitcoind-block-stream","block-to-transaction-stream","csc-bitcore-node"]

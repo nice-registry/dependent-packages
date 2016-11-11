@@ -1,1 +1,1 @@
-["mmtrix","node-pg-util","pg-query-stream","postgres-gen-migrate"]
+["co-pg","mmtrix","node-pg-util","pg-key-value-stream","pg-query-stream","pg-readable","pg-util","postgres-gen","postgres-gen-dao","postgres-gen-migrate","querybox","relational"]

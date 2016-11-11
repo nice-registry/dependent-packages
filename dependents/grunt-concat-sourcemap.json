@@ -1,1 +1,1 @@
-["graspi"]
+["graspi","grunt-commonjs-tamer","lineman","lineman-backbone","promise-array"]

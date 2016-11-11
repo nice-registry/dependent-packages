@@ -1,1 +1,1 @@
-["backbone.ws","lightstream-socket","slock","terminal-connect-client"]
+["backbone.ws","cm-janus","ethapi-js","five-bells-connector","ilp-plugin-bells","janus-cluster-manager","juttle-client-library","juttle-viewer","kronos-service-manager-ui","lightstream-socket","perftimer","react-native-meteor","slock","terminal-connect-client","vue-syncers-feathers"]

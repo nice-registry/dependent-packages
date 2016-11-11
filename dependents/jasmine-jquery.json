@@ -1,1 +1,1 @@
-["expromptum","karma-jasmine-jquery-matchers","karma-jquery-jasmine"]
+["ca-buildmodule","debox-web-core","expromptum","karma-config-rentpath","karma-jasmine-jquery-matchers","karma-jquery-jasmine","memoria-js"]

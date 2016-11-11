@@ -1,1 +1,1 @@
-["hapi-context-credentials","hapi-negotiator","hapi-strategy","hapi-tattle","hapi-version-route"]
+["anger","artillery-core","blipp","hapi-app-spa","hapi-auth-jasper","hapi-boombox","hapi-context-credentials","hapi-crud-promise","hapi-negotiator","hapi-rbac","hapi-strategy","hapi-swagger","hapi-tattle","hapi-tiny-auth","hapi-version-route","jasper-hapi-metrics","seneca-web","seneca-web-adapter-hapi"]

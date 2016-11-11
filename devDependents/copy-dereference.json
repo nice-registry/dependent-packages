@@ -1,1 +1,1 @@
-["write-transpiled"]
+["broccoli-fast-browserify","ember-browserify","handlebars-serializer","write-transpiled"]

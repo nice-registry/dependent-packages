@@ -1,1 +1,1 @@
-["pm2-rabbitmq"]
+["guv","loopback-component-mq","node-sensu-plugins","pm2-rabbitmq","td.core"]

@@ -1,1 +1,1 @@
-["easydbi-firebird","easydbi-repl","pg-harness"]
+["easydbi-firebird","easydbi-pg","easydbi-repl","easydbi-sqlite","pg-harness"]

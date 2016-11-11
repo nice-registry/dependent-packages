@@ -1,1 +1,1 @@
-["gulp-html-autoprefixer","html-preflight"]
+["autoprefix-cmd","ember-cli-polymer-toolchain","gulp-html-autoprefixer","html-preflight"]
