@@ -1,11 +1,14 @@
 {
   "name": "npm-dependency-stats",
   "version": "1.0.0",
-  "description": "An offline dataset of 'dependents' and 'devDependents' of all npm packages",
+  "description": "Offline collection of the dependents and devDependents of every package in the npm registry.",
   "main": "index.js",
   "scripts": {
-    "build": "node build.js",
-    "count": "node count.js > counts.json",
+    "postinstall": "decompress",
+    "build": "node bin/build.js",
+    "compress": "tar cfzv dependents.tgz dependents && tar cfzv devDependents.tgz devDependents",
+    "decompress": "tar xfzv dependents.tgz && tar xfzv devDependents.tgz",
+    "count": "node bin/count.js > counts.json",
     "test": "node test.js | tap-spec"
   },
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
@@ -13,6 +16,7 @@
   "devDependencies": {
     "lodash.uniq": "^4.5.0",
     "mkdirp": "^0.5.1",
+    "npm-run-all": "^3.1.1",
     "package-stream": "^1.0.2",
     "path-exists": "^3.0.0",
     "require-dir": "^0.3.1",
@@ -21,6 +25,7 @@
     "tape": "^4.6.2"
   },
   "dependencies": {
+    "decompress": "^4.0.0",
     "package-stream": "^1.0.2"
   }
 }
