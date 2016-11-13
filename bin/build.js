@@ -5,7 +5,6 @@ const exists = require('path-exists').sync
 const uniq = require('lodash.uniq')
 const rm = require('rimraf').sync
 const mkdirp = require('mkdirp')
-const fuckups = ['es-snapshot', 'textile-engine']
 let count = 0
 
 createEmptyDir('dependents')
@@ -28,7 +27,6 @@ registry
     process.exit()
   })
 
-
 function extract (pkg, depType) {
   const depNames = depType === 'dependencies' ? pkg.depNames : pkg.devDepNames
   if (!depNames.length) return
@@ -47,7 +45,7 @@ function extract (pkg, depType) {
   })
 }
 
-function createEmptyDir(name) {
+function createEmptyDir (name) {
   rm(path.join(__dirname, '..', name))
   mkdirp(path.join(__dirname, '..', name))
 }

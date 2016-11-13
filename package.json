@@ -1,15 +1,16 @@
 {
-  "name": "npm-dependency-stats",
+  "name": "dependent-packages",
   "version": "1.0.0",
   "description": "Offline collection of the dependents and devDependents of every package in the npm registry.",
+  "repository": "https://github.com/zeke/dependent-packages",
   "main": "index.js",
   "scripts": {
-    "postinstall": "decompress",
+    "install": "npm run decompress",
     "build": "node bin/build.js",
     "compress": "tar cfzv dependents.tgz dependents && tar cfzv devDependents.tgz devDependents",
     "decompress": "tar xfzv dependents.tgz && tar xfzv devDependents.tgz",
     "count": "node bin/count.js > counts.json",
-    "test": "node test.js | tap-spec"
+    "test": "node test.js | tap-spec && standard *.js bin/*.js"
   },
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
@@ -21,6 +22,7 @@
     "path-exists": "^3.0.0",
     "require-dir": "^0.3.1",
     "rimraf": "^2.5.4",
+    "standard": "^8.5.0",
     "tap-spec": "^4.1.1",
     "tape": "^4.6.2"
   },

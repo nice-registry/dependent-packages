@@ -1,4 +1,4 @@
-# npm-dependency-stats 
+# dependent-packages
 
 Offline collection of the dependents and devDependents of every package in the npm registry.
 
