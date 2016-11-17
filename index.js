@@ -6,11 +6,11 @@ module.exports = {
 
   dependentsOf: (packageName) => {
     const file = path.join(__dirname, 'dependents', `${packageName}.json`)
-    return pathExists(file) ? require(file) : null
+    return pathExists(file) ? require(file) : []
   },
 
   devDependentsOf: (packageName) => {
     const file = path.join(__dirname, 'devDependents', `${packageName}.json`)
-    return pathExists(file) ? require(file) : null
+    return pathExists(file) ? require(file) : []
   }
 }
