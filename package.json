@@ -5,11 +5,10 @@
   "repository": "https://github.com/zeke/dependent-packages",
   "main": "index.js",
   "scripts": {
-    "install": "npm run decompress",
-    "build": "node bin/build.js",
-    "compress": "tar cfzv dependents.tgz dependents && tar cfzv devDependents.tgz devDependents",
-    "decompress": "tar xfzv dependents.tgz && tar xfzv devDependents.tgz",
-    "count": "node bin/count.js > counts.json",
+    "build": "npm-run-all build:*",
+    "build:collect": "node bin/collect-from-registry.js",
+    "build:count": "node bin/count.js > counts.json",
+    "build:populate": "node bin/populate-db.js",
     "test": "node test.js | tap-spec && standard *.js bin/*.js"
   },
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
@@ -28,6 +27,7 @@
   },
   "dependencies": {
     "decompress": "^4.0.0",
-    "package-stream": "^1.0.2"
+    "package-stream": "^1.0.2",
+    "sqlite3": "^3.1.8"
   }
 }
