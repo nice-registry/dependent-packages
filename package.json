@@ -15,6 +15,7 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "devDependencies": {
+    "async": "^2.1.4",
     "lodash.uniq": "^4.5.0",
     "mkdirp": "^0.5.1",
     "npm-run-all": "^3.1.1",
