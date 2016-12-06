@@ -4,12 +4,12 @@ const pathExists = require('path-exists').sync
 module.exports = {
   counts: require('./counts.json'),
 
-  dependentsOf: (packageName) => {
+  directDeps: (packageName) => {
     const file = path.join(__dirname, 'dependents', `${packageName}.json`)
     return pathExists(file) ? require(file) : []
   },
 
-  devDependentsOf: (packageName) => {
+  directDevDeps: (packageName) => {
     const file = path.join(__dirname, 'devDependents', `${packageName}.json`)
     return pathExists(file) ? require(file) : []
   }
