@@ -2,14 +2,32 @@
 
 Offline collection of the dependents and devDependents of every package in the npm registry.
 
-## Installation
+⚠️ HEY ⚠️
 
-Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
+This package is kind of big and takes a while to install,
+as it unpacks over 100,000 small JSON files.
+If you want something more lightweight that just gives you
+counts and not the actual dependent package names,
+try the [dependent-counts](http://ghub.io/dependent-counts)
+module.
+
+## Installation
 
 ```sh
 npm install npm-dependency-stats --save
 ```
 
+## Usage
+
+```js
+const {directDependents, directDevDependents} = require('dependent-packages')
+
+directDependents('express')
+// all package names that have express listed in `dependencies`
+
+directDevDependents('cheerio')
+// all package names that have cheerio listed in `devDependencies`
+```
 
 ## Tests
 
