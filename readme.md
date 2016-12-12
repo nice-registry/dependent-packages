@@ -4,12 +4,15 @@ Offline collection of the dependents and devDependents of every package in the n
 
 ⚠️ HEY ⚠️
 
-This package is kind of big and takes a while to install,
+This package weighs in at around 450MB!
+It's kind of big and takes a while to install,
 as it unpacks over 100,000 small JSON files.
-If you want something more lightweight that just gives you
+For a lightweight alternative that just contains
 counts and not the actual dependent package names,
 try the [dependent-counts](http://ghub.io/dependent-counts)
-module.
+module. It's only 7MB.
+
+:v:
 
 ## Installation
 
