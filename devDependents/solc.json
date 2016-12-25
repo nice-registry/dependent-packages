@@ -1,1 +1,1 @@
-["dapid-payment-eth-proof-of-burn","dapid-registry-ethereum-contract","ether-pudding","ethereum-contracts","ethereum-ens","ethers-wallet","grunt-infosphere","grunt-solc","solc-cli","solidity-loader"]
+["dapid-payment-eth-proof-of-burn","dapid-registry-ethereum-contract","eth-registrar-ens","ether-pudding","ethereum-contracts","ethereum-ens","ethereumjs-testrpc-persist","ethers-wallet","ethpm","grunt-infosphere","grunt-solc","solc-cli","solidity-loader","tally-pudding","ultralightbeam","wordbase"]

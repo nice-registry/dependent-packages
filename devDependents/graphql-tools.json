@@ -1,1 +1,1 @@
-["apollo-tracer","elm-graphql","graphql-forms","graphql-tools-subscribe","graphql-tools-types","graphql-tracer"]
+["apollo-tracer","elm-graphql","eslint-graphql-rule","eslint-plugin-graphql","graphql-forms","graphql-tools-subscribe","graphql-tools-types","graphql-tracer"]

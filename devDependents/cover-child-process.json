@@ -1,1 +1,1 @@
-["grunt-md","grunt-mocha-test-y","grunt-tslint","hernanex3-grunt-static-i18n","object-settings"]
+["grunt-md","grunt-mocha-test-y","grunt-static-i18n","grunt-tslint","grunt-tslint-ftl","hernanex3-grunt-static-i18n","object-settings"]

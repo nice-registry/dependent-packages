@@ -1,1 +1,1 @@
-["arc4","autokey","logger-request","top-vhost"]
+["arc4","autokey","basic-authentication","express-sitemap","logger-request","mongodb-backup","mongodb-restore","setheaders","top-vhost"]

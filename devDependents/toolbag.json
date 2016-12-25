@@ -1,1 +1,1 @@
-["borland","toolbag-plugin-nsp-check","toolbag-plugin-stats-collector","vidi-influx-sink","vidi-toolbag-influx-queries"]
+["borland","toolbag-plugin-nsp-check","toolbag-plugin-policy","toolbag-plugin-reporter-error-policy","toolbag-plugin-stats-collector","vidi-influx-sink","vidi-toolbag-influx-queries"]

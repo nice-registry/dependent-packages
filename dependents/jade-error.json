@@ -1,1 +1,1 @@
-["convo","jade-linker"]
+["convo","jade-filters","jade-lexer","jade-linker","jade-lint","jade-parser","jade-strip-comments"]

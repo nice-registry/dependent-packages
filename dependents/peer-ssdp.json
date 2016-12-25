@@ -1,1 +1,1 @@
-["peer-upnp","super-ssdp"]
+["iobroker.yamaha","node-red-contrib-icreate-upnp","peer-dial","peer-upnp","super-ssdp","yamaha-nodejs","yamaha-nodejs-soef"]

@@ -1,1 +1,1 @@
-["dy-ioredis","simple_redis_client"]
+["dy-ioredis","ioredis","simple_redis_client"]

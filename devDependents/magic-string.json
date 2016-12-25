@@ -1,1 +1,1 @@
-["d3-jsnext","esperanto","immutable","leaflet.featuregroup.subgroup","leaflet.markercluster","leaflet.markercluster.freezable","npminject","rollup","stampit","three-jsnext"]
+["cordova-plugin-amplify-pay","cordova-plugin-amplify-payment","d3-jsnext","esperanto","immutable","leaflet.featuregroup.subgroup","leaflet.markercluster","leaflet.markercluster.freezable","leaflet.markercluster.layersupport","leaflet.tilelayer.fallback","rollup","rollup-plugin-envs","stampit","three-jsnext"]

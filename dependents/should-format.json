@@ -1,1 +1,1 @@
-["should-code-eql","toster-spec-reporter"]
+["mocha-better-spec-reporter","should","should-code-eql","toster-spec-reporter"]

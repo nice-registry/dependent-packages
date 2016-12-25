@@ -1,1 +1,1 @@
-["api-surface","app-usage-stats","array-tools","ast-composite","ddata","dmd","filter-where","jsdoc-parse","koa-mock-response","local-web-server","object-tools","reduce-extract","renamer"]
+["api-surface","app-usage-stats","array-tools","ast-composite","ddata","dmd","filter-where","find-replace","jsdoc-parse","koa-mock-response","local-web-server","object-tools","reduce-extract","reduce-without","renamer"]

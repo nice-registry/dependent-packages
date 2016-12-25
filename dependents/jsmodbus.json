@@ -1,1 +1,1 @@
-["jsmodbus-tools","modbus-tool","node-red-contrib-modbustcp","node-red-contrib-modbustcp-no-pooling","node-red-contrib-nexnode","node-red-contrib-nexnode-modbus","node-red-contrib-nexnode-modbustcp"]
+["iobroker.modbus","jsmodbus-tools","modbus-tool","node-red-contrib-modbustcp","node-red-contrib-modbustcp-no-pooling","node-red-contrib-nexnode","node-red-contrib-nexnode-modbus","node-red-contrib-nexnode-modbustcp"]

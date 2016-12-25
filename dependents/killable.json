@@ -1,1 +1,1 @@
-["node-red-contrib-homematic-rpc","pouchdb-server"]
+["node-red-contrib-homematic-rpc","pouchdb-server","sand-http"]

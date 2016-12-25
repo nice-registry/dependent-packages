@@ -1,1 +1,1 @@
-["egret-cli","egret-typescript-ast"]
+["egret-cli","egret-resource-manager","egret-typescript-ast","json-optimizer"]

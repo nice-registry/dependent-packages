@@ -1,1 +1,1 @@
-["storj","storj-bridge","storj-complex","storj-mongodb-adapter","storj-sugar","storj-telemetry-reporter"]
+["storj","storj-bridge","storj-cli","storj-complex","storj-mongodb-adapter","storj-service-storage-models","storj-sugar","storj-telemetry-reporter","storjshare-cli","storjshare-daemon"]

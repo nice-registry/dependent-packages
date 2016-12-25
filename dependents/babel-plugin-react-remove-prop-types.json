@@ -1,1 +1,1 @@
-["babel-presets-react-production"]
+["babel-presets-react-production","isomorphic-flux-boilerplate"]

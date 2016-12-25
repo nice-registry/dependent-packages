@@ -1,1 +1,1 @@
-["http-basic","raml-1-parser","sync-req","sync-request","sync-request-proxy","then-request","then-request-proxy"]
+["http-basic","raml-1-parser","raml-1-parser-temp","sync-curl","sync-req","sync-request","sync-request-proxy","then-request","then-request-proxy"]

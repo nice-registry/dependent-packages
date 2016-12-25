@@ -1,1 +1,1 @@
-["emphasize","hast-util-to-nlcst","mdast-util-to-nlcst","mdast-zone","parse-latin","rehype-autolink-headings","rehype-format","remark-html","remark-man","remark-usage"]
+["emphasize","hast-util-to-nlcst","mdast-util-to-nlcst","mdast-zone","nlcst-emoji-modifier","nlcst-emoticon-modifier","parse-dutch","parse-latin","rehype-autolink-headings","rehype-format","remark-html","remark-man","remark-usage"]

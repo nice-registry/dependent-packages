@@ -1,1 +1,1 @@
-["micromongo","require-dir-all"]
+["config-dir-all","micromongo","require-dir-all"]

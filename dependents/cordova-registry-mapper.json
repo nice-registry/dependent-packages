@@ -1,1 +1,1 @@
-["cordova-common","cordova-simulate","indui-cordova-lib","ionic-cordova-lib","nodekit-cli-lib","pgb-cordova-lib","taco-simulate-server"]
+["cordova-common","cordova-lib","cordova-plugin-amplify-pay","cordova-plugin-amplify-payment","cordova-simulate","indui-cordova-lib","ionic-cordova-lib","nodekit-cli-lib","pgb-cordova-lib","taco-simulate-server"]

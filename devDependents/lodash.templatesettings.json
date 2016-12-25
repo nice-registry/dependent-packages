@@ -1,1 +1,1 @@
-["gulp-load-utils","hence-inquisitor"]
+["gulp-load-utils","gulp-util","hence-inquisitor"]

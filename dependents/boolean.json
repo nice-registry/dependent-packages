@@ -1,1 +1,1 @@
-["env-newrelic","express-waterline","knex-pg-middleware"]
+["env-newrelic","express-waterline","fortune-json-api","knex-pg-middleware"]

@@ -1,1 +1,1 @@
-["amqp-util","grunt-jsdom-jquery","introspect-constrain","introspect-namespace","introspect-pryfs","introspect-typed","nogap","swagger-dsl","tap-object-stream","tmpfs","zapier-platform-core","zapier-platform-schema"]
+["amqp-util","grunt-jsdom-jquery","inote-util","introspect-constrain","introspect-namespace","introspect-pryfs","introspect-typed","nogap","sql-client","swagger-dsl","tap-object-stream","tmpfs","zapier-platform-core","zapier-platform-schema"]

@@ -1,1 +1,1 @@
-["dat-pipe","hypercore-create-stream","hypercore-stream"]
+["dat-pipe","hypercore-create-stream","hypercore-stream","hyperlog-sodium"]

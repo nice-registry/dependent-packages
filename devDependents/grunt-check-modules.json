@@ -1,1 +1,1 @@
-["grunt-phpmd-runner","grunt-phpunit-runner","karma-spec-json-reporter","legalize","medicotree-automation","shouldit","spec-detective"]
+["grunt-phpmd-runner","grunt-phpunit-runner","karma-spec-json-reporter","legalize","medicotree-automation","secrets.js-grempe","shouldit","spec-detective"]

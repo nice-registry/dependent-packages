@@ -1,1 +1,1 @@
-["blear.node.template","coolie"]
+["blear.classes.view-model","blear.node.template","blear.ui.actions","blear.ui.alert","blear.ui.confirm","blear.ui.date-select","blear.ui.dialog","blear.ui.loading","blear.ui.mobile-picker","blear.ui.prompt","blear.ui.pull-loading","blear.ui.upload","coolie"]

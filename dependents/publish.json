@@ -1,1 +1,1 @@
-["btrz-mongo-factory","db-migrate-couchbase","grunt-combine-media-queries","heroku-redis-client"]
+["btrz-mongo-factory","db-migrate-couchbase","grunt-combine-media-queries","heroku-redis-client","tibber-express-utils","woo-components"]

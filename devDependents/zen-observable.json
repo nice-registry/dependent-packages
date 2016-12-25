@@ -1,1 +1,1 @@
-["any-observable","ava","ava-assert","ava-no-babel","ava-tf","clutch-assert","hypothesis","listr","ormojo","painless","respec-given","respec-given-core","respec-given-lab","stream-to-observable"]
+["any-observable","ava","ava-assert","ava-no-babel","ava-tf","clutch-assert","function-done","get-it","hypothesis","is-observable","listr","listr-update-renderer","observable-to-promise","orderly-queue","ormojo","painless","respec-given","respec-given-core","respec-given-lab","stream-to-observable"]

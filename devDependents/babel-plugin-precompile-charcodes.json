@@ -1,1 +1,1 @@
-["postcss-safe-parser","postcss-scss","postcss-strip-inline-comments","postcss-values-parser","sugarss"]
+["cssnano","postcss","postcss-safe-parser","postcss-scss","postcss-selector-parser","postcss-strip-inline-comments","postcss-values-parser","sugarss"]

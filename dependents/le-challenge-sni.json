@@ -1,1 +1,1 @@
-["letsencrypt","letsencrypt-cli","serve-https"]
+["bedrock-letsencrypt","evoxy","letsencrypt","letsencrypt-cli","serve-https"]

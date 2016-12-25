@@ -1,1 +1,1 @@
-["gulp-github-automator","gulp-heroku-deploy-slug","gulp-natural-sort"]
+["gulp-folder-changed","gulp-github-automator","gulp-hbs","gulp-heroku-deploy-slug","gulp-natural-sort"]

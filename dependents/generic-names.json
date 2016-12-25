@@ -1,1 +1,1 @@
-["css-modules-loader-core-btd","css-modules-require-hook","postcss-modules","posthtml-postcss-modules","svg-css-modules-loader"]
+["babel-plugin-react-css-modules","babel-plugin-react-css-modules-fix-11","css-modules-loader-core-btd","css-modules-require-hook","node-stylus-css-modules-require","postcss-modules","posthtml-postcss-modules","svg-css-modules-loader"]

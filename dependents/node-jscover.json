@@ -1,1 +1,1 @@
-["node-jscover-handler","node-jscover-webpack-loader","pagerun-jscoverage","rc-server"]
+["node-jscover-handler","node-jscover-webpack-loader","pagejsunit","pagerun-jscoverage","rc-server"]

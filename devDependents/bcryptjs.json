@@ -1,1 +1,1 @@
-["generator-ats-node-webapp","hapi-auth-2fa","hapi-authy","local-email-verification","nodebb-plugin-upvote-notifications","pyrope","sails-hook-fixtures"]
+["email-verification","generator-ats-node-webapp","hapi-auth-2fa","hapi-authy","local-email-verification","nodebb-plugin-upvote-notifications","oauth2-oidc","ogp-consultation-verification","pyrope","sails-hook-fixtures"]

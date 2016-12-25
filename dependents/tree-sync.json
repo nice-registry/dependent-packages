@@ -1,1 +1,1 @@
-["broccoli-watchify","ember-cli"]
+["broccoli-livereload-middleware","broccoli-watchify","ember-cli"]

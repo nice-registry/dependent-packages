@@ -1,1 +1,1 @@
-["auth0-horn-middlewares"]
+["auth0-extension-express-tools","auth0-extension-tools","auth0-horn-middlewares","azure-authenticate-express-middleware"]

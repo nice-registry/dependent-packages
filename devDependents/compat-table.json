@@ -1,1 +1,1 @@
-["babel-preset-env"]
+["babel-preset-env","babelee","compat-table"]

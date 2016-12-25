@@ -1,1 +1,1 @@
-["cachegoose","cacheman-promise","cacheman-redis-promise","mongoose-cachebox","sailsjs-cacheman"]
+["cachegoose","cacheman-promise","cacheman-redis-promise","mongoose-cachebox","redis-swagger-json-cache","sailsjs-cacheman","solr-client-cache"]

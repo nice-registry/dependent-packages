@@ -1,1 +1,1 @@
-["bootstrap-brandy","grunt-mock-json-api","logfire","mcms-node-admin","node-jsql","node-pigeon-client","node-pigeon-client-no-harmony","xbee-serialsim"]
+["bootstrap-brandy","devops-version-status","grunt-mock-json-api","logfire","mcms-node-admin","node-data-handling","node-jsql","node-pigeon-client","node-pigeon-client-no-harmony","node-push-sender","xbee-serialsim"]

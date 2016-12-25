@@ -1,1 +1,1 @@
-["is-binary-number","nircmd","prepend-if"]
+["append-if","is-binary-number","nircmd","prepend-if"]

@@ -1,1 +1,1 @@
-["mongodb-native-mock","mongodb-promisified","mongodb-read-preference","to-mongodb-core","traceview"]
+["mongodb-baserepository","mongodb-native-mock","mongodb-promisified","mongodb-read-preference","opbeat","to-mongodb-core","traceview"]

@@ -1,1 +1,1 @@
-["bouncy","concat-transform","dataplex","fixed-size-stream-splitter","json-scrape","multiplex","oncrpc","parsley","smtp-protocol","transfuse","utf8-stream"]
+["bouncy","concat-transform","dataplex","fixed-size-stream-splitter","json-scrape","multiplex","oncrpc","parsley","smtp-protocol","stream-chunker","transfuse","trouncy","utf8-stream"]

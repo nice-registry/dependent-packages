@@ -1,1 +1,1 @@
-["anytojson","hana-odbc","magic-ui","node-red-contrib-epsql","node-red-contrib-odbc","odbc-helper","odbc-watch","sage-fifty","seneca-msaccess-store","seneca-sybase-store","sindri-odbc-pool","webd2-db"]
+["anytojson","hana-odbc","magic-ui","node-red-contrib-epsql","node-red-contrib-odbc","odbc-helper","odbc-session-store","odbc-watch","sage-fifty","seneca-msaccess-store","seneca-sybase-store","sindri-odbc-pool","webd2-db"]

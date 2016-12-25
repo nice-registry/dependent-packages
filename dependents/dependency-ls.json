@@ -1,1 +1,1 @@
-["cordova-fetch","nodekit-cli-lib"]
+["cordova-fetch","cordova-plugin-amplify-pay","cordova-plugin-amplify-payment","nodekit-cli-lib"]

@@ -1,1 +1,1 @@
-["feathers-hooks","feathers-service-verify-reset","feathers-starter-react-redux-login","feathers-starter-react-redux-login-roles"]
+["feathers-authentication-management","feathers-hooks","feathers-hooks-validate-joi","feathers-service-verify-reset","feathers-starter-react-redux-login","feathers-starter-react-redux-login-roles"]

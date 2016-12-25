@@ -1,1 +1,1 @@
-["babel-solo","babel-standalone","babel-standalone-pcnt","catl-cli","catl-deploy-ssh","catl-generic-steps","catl-github","catl-npm","catl-step","catl-travis","indexr","scientist.js"]
+["babel-solo","babel-standalone","babel-standalone-pcnt","catl-cli","catl-deploy-ssh","catl-deploySSH","catl-generic-steps","catl-github","catl-npm","catl-step","catl-travis","effects-as-data","effects-as-data-http","indexr","relation","scientist.js","synchronous-promise-stack-resolver"]

@@ -1,1 +1,1 @@
-["grunt-cucumberjs","gulp-chimp","patata","selenium-cucumber-js"]
+["grunt-cucumberjs","gulp-chimp","patata","selenium-cucumber-js","webdriverio-cucumber-js"]

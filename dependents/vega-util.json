@@ -1,1 +1,1 @@
-["vega-crossfilter","vega-dataflow","vega-encode","vega-expression","vega-force","vega-geo","vega-hierarchy","vega-runtime","vega-scale","vega-voronoi"]
+["vega","vega-crossfilter","vega-dataflow","vega-encode","vega-expression","vega-force","vega-geo","vega-hierarchy","vega-loader","vega-parser","vega-runtime","vega-scale","vega-scenegraph","vega-view","vega-voronoi","vega-wordcloud"]

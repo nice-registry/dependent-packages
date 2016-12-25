@@ -1,1 +1,1 @@
-["kwc-redux-observable","redux-boot","rx-ducks-middleware","rxjs-compatibility"]
+["kwc-redux-observable","redux-boot","redux-observable-test-helpers","rx-ducks-middleware","rxjs-compatibility"]

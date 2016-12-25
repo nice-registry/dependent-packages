@@ -1,1 +1,1 @@
-["move-webpack-plugin","packing-rev-webpack-plugin","replace-hash-webpack-plugin"]
+["generator-packing","move-webpack-plugin","packing","packing-rev-webpack-plugin","replace-hash-webpack-plugin"]

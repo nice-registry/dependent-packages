@@ -1,1 +1,1 @@
-["4front-s3-deployments","hapi-serve-s3","multer-imager","multer-s3-acl","multer-s3-uuid","node-git-lfs","s3-rsync"]
+["4front-s3-deployments","hapi-serve-s3","lk-replay","multer-imager","multer-s3-acl","multer-s3-uuid","node-git-lfs","s3-rsync","serverless-s3-crud"]

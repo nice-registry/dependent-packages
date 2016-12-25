@@ -1,1 +1,1 @@
-["node-red-contrib-coap","node-red-contrib-ifttt","node-red-contrib-isa","node-red-contrib-loose","node-red-contrib-modbus","node-red-contrib-mopidy"]
+["node-red-contrib-asakusa_giken","node-red-contrib-cache","node-red-contrib-coap","node-red-contrib-date","node-red-contrib-device-stats","node-red-contrib-ifttt","node-red-contrib-isa","node-red-contrib-loose","node-red-contrib-modbus","node-red-contrib-mopidy","node-red-contrib-sequence-functions"]

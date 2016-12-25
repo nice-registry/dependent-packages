@@ -1,1 +1,1 @@
-["console-x","except-x","object-x","somatic","string-x"]
+["concurrent-clean","console-x","electron-ipc-socket","except-x","interpolate-shell","is-index","is-native","namespaces-js","object-at","object-has","object-set","object-unset","object-x","random-bool","random-char","random-semver","replace-async","somatic","string-x","to-integer","to-num","to-path","to-source-code","to-str","tribe-amqp"]

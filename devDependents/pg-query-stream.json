@@ -1,1 +1,1 @@
-["cormo","hfjy-knex","knex","knex-dschumann","knex-firebird","knex-mycat","knex-node-firebird","knex-oracledb","knex-redshift","knex-redshift-fork","mock-knex","punch-knex","sqldown"]
+["cormo","hfjy-knex","knex","knex-dschumann","knex-firebird","knex-mycat","knex-node-firebird","knex-oracledb","knex-pg-read-replica","knex-redshift","knex-redshift-fork","mock-knex","punch-knex","sqldown"]

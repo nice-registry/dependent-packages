@@ -1,1 +1,1 @@
-["gulp-taskfromstreams","mocha-testdata"]
+["gulp-jslint-simple","gulp-taskfromstreams","mocha-testdata","multi-bundle"]

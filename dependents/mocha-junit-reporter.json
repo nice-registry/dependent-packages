@@ -1,1 +1,1 @@
-["bi-params-decorator","build-test","godaddy-test-tools","mocca","mocha-circleci-reporter","pipeline-test-node","slug-creator","typeproject"]
+["ac-generic-testutils","aoe-raml-validate","build-test","godaddy-test-tools","jibo-gulp","mocca","mocha-circleci-reporter","pipeline-test-node","psychonautwiki-bifrost-testutils","typeproject"]

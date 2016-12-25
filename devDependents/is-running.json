@@ -1,1 +1,1 @@
-["chrome-launch","execa","firefox-launch","grunt-dancer","grunt-sinatra","grunt-sinatra-server","gulp-nodemon-tempfix","monitor-pid"]
+["childminder","chrome-launch","execa","firefox-launch","grunt-dancer","grunt-sinatra","grunt-sinatra-server","gulp-nodemon","gulp-nodemon-tempfix","gulp-nodemon-version","ipfsd-ctl","monitor-pid","npm-script-signal","worker-nodes"]

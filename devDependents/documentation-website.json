@@ -1,1 +1,1 @@
-["boostnode","errorreporter","filelinker","incrementer","internationalisation","storelocator","website-utilities"]
+["boostnode","clientnode","cmswebnodeplugin","databasewebnodeplugin","errorreporter","filelinker","incrementer","internationalisation","nginxwebnodeplugin","serverwebnodeplugin","storelocator","templatewebnodeplugin","web-node","weboptimizer","website-utilities"]

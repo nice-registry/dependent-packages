@@ -1,1 +1,1 @@
-["corsproxy","corsproxy2","hapi-couchdb-store","hoodie-standalone-store","kazana-server"]
+["corsproxy","corsproxy-https","corsproxy2","hapi-couchdb-store","hoodie-standalone-store","kazana-server","serverless-offline"]

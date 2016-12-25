@@ -1,1 +1,1 @@
-["amqplib-rpc","primus-graphql","traceur-mozilla-ast"]
+["amqplib-rpc","primus-graphql","rethinkdb-stream-chunker","rethinkdb-validator-stream","traceur-mozilla-ast"]

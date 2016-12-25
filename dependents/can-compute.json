@@ -1,1 +1,1 @@
-["can","can-component","can-define-stream","can-ejs","can-legacy-view-helpers","can-map","can-map-backup","can-map-define","can-stream","can-view-live","can-view-scope","weston"]
+["can","can-component","can-connect","can-control","can-define","can-define-backup","can-define-stream","can-ejs","can-legacy-view-helpers","can-map","can-map-backup","can-map-define","can-route","can-stache","can-stache-bindings","can-stream","can-view-href","can-view-live","can-view-scope","react-view-models","weston"]

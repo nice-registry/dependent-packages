@@ -1,1 +1,1 @@
-["openzipkin-thriftrw","tcurl","thriftify","yarpc"]
+["jaeger-client","openzipkin-thriftrw","tchannel","tcurl","thriftify","yarpc"]

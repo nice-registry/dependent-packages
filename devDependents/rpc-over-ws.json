@@ -1,1 +1,1 @@
-["rpc-pubsub"]
+["rpc-matchmaker","rpc-pubsub","rpc-user-stats","rpc-virtual-bank"]

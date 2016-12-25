@@ -1,1 +1,1 @@
-["assemble-loader","gulpglob","load-helpers","load-templates","matched","refresh-vinyl-fs","resolve-glob","resolve-up","stream-loader","to-file","vinyl-fs","vinyl-fs-browser","vinyl-fs-that-respects-files"]
+["assemble-loader","gulp-tasks-load","gulpglob","load-helpers","load-templates","matched","refresh-vinyl-fs","resolve-glob","resolve-up","stream-loader","to-file","vinyl-fs","vinyl-fs-browser","vinyl-fs-that-respects-files"]

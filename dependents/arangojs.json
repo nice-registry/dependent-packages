@@ -1,1 +1,1 @@
-["acl-arangodb","arangojs-extended","archive-arangodb","connect-arango","guesser","jugglingdb-arango","k-livedb-arango","k-sync-arango","loopback-connector-arango","loopback-connector-arangodb","ormjs","sails-arangodb"]
+["acl-arangodb","arangojs-extended","archive-arangodb","aui-js","connect-arango","connect-arangodb-session","guesser","js-abstract-synchronizer","jugglingdb-arango","k-livedb-arango","k-sync-arango","loopback-connector-arango","loopback-connector-arangodb","loopback-connector-arangodb-3","ormjs","sails-arangodb","ui-js"]

@@ -1,1 +1,1 @@
-["loopback-cache","loopback-extended-lib","micro-mockers","param-injection"]
+["lib-rest","loopback-cache","loopback-extended-lib","micro-mockers","not-empty-object","param-injection"]

@@ -1,1 +1,1 @@
-["ember-arcgis-portal-services","ember-cli-dynamic-model","ember-cli-remote-logger","ember-cli-sofa","ember-data-contentful","ember-data-fetch-support","ember-oembed","ember-powerbi","ember-profile-upload"]
+["ember-ajax-cached","ember-arcgis-layout-services","ember-arcgis-portal-services","ember-arcgis-server-services","ember-cli-dynamic-model","ember-cli-remote-logger","ember-cli-sofa","ember-cordova-network","ember-data-contentful","ember-data-fetch-support","ember-oembed","ember-powerbi","ember-profile-upload","ember-redux-route-connect","ember-shell"]

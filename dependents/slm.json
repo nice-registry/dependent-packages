@@ -1,1 +1,1 @@
-["grunt-slm","jstransformer-slm","junglist","karma-slm-preprocessor","sir","slm-coffee","slm-loader","sourcejs-slm"]
+["grunt-slm","gulp-slm","jstransformer-slm","junglist","karma-slm-preprocessor","sir","slm-coffee","slm-loader","sourcejs-slm"]

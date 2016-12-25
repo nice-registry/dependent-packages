@@ -1,1 +1,1 @@
-["bygg-plugins","bygg-plugins-light"]
+["bygg-browserify","bygg-plugins","bygg-plugins-light","bygg-rename","bygg-uglify"]

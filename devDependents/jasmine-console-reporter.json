@@ -1,1 +1,1 @@
-["dynamodb-wrapper","jasmine-async-utilities","typescript-ioc"]
+["d3-scale-cluster","dynamodb-wrapper","ha4us-base","jasmine-async-utilities","pg-patch","swagger-police","typescript-ioc"]

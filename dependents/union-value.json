@@ -1,1 +1,1 @@
-["base-cli-process","base-data","base-list","cache-base","clone-repos","data-store","generate-gulpfile","get-download-stats","log-events","sort-object","updater-verb"]
+["base-cli-process","base-data","base-list","bower-store","cache-base","clone-repos","data-store","generate-gulpfile","get-download-stats","log-events","map-schema","pkg-store","sort-object","updater-verb"]

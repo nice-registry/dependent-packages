@@ -1,1 +1,1 @@
-["code-svg-stream","line-length-stream"]
+["code-svg-stream","collect-all","collect-json","line-length-stream"]

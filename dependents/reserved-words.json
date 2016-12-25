@@ -1,1 +1,1 @@
-["jscs","messageformat","mos-plugin-ejs","mos-plugin-markdownscript"]
+["detect-reserved-keywords","jscs","messageformat","mos-plugin-ejs","mos-plugin-markdownscript","react-code-generator"]

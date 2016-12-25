@@ -1,1 +1,1 @@
-["cleanup-wrapper","equal-stream-contents","generator-wupjs","gulpglob","polypipe","stat-again"]
+["argu","cleanup-wrapper","destglob","equal-file-contents","equal-stream-contents","explanation","generator-wupjs","gulpdest","gulpglob","keyfunc","one-go","parallel-singletons","polypipe","polyton","singletons","stat-again"]

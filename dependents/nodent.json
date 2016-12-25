@@ -1,1 +1,1 @@
-["afn","apipublisher","browserify-nodent","fast-async","nodent-loader"]
+["afn","afn-redis-cache","apipublisher","babel-plugin-fast-async","babel-preset-saya","browserify-nodent","fast-async","nodent-loader"]

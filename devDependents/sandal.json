@@ -1,1 +1,1 @@
-["mumba-microservice","mumba-microservice-config","mumba-microservice-logger","mumba-microservice-servicebus","mumba-microservice-sourced","mumba-microservice-sql","mumba-microservice-vault","mumba-microservice-wamp","sandal-autowire","sandal-promise"]
+["mumba-microservice-config","mumba-microservice-logger","mumba-microservice-servicebus","mumba-microservice-sourced","mumba-microservice-sql","mumba-microservice-vault","mumba-microservice-wamp","sandal-autowire","sandal-promise"]

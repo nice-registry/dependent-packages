@@ -1,1 +1,1 @@
-["mongodb-index-model","mongodb-replicaset","mongodb-scope-server","mongodb-sharding"]
+["mongodb-data-service","mongodb-index-model","mongodb-instance-model","mongodb-replicaset","mongodb-scope-server","mongodb-sharding"]

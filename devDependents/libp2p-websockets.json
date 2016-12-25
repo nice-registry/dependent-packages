@@ -1,1 +1,1 @@
-["libp2p-multiplex","libp2p-spdy"]
+["libp2p-multiplex","libp2p-secio","libp2p-spdy","libp2p-swarm"]

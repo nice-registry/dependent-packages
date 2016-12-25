@@ -1,1 +1,1 @@
-["grunt-i18n-static"]
+["grunt-i18n-static","gulp-static-i18n-html"]

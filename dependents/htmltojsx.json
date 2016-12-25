@@ -1,1 +1,1 @@
-["gulp-html2jsx","html-jsx-loader","html-to-react-components","html-to-react-components-es6","html2reactjs","htmltojsx-loader","jade-to-jsx","turbo-react"]
+["grunt-html2jsx","gulp-html2jsx","html-jsx-loader","html-to-react-components","html-to-react-components-es6","html2jsx-loader","html2reactjs","htmltojsx-loader","jade-to-jsx","markdown-component-loader","svg-to-react-cli","turbo-react"]

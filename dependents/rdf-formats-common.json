@@ -1,1 +1,1 @@
-["heracles","rdf-body-parser","rdf-ext-dist-builder","rdf-fetch","rdf-serve-static"]
+["link-lib","rdf-body-parser","rdf-ext-dist-builder","rdf-fetch","rdf-serve-static","rdf-store-ldp"]

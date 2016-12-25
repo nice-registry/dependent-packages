@@ -1,1 +1,1 @@
-["ajl-mongoose","datastools","mongoose-fixedsetdefaultsoninsert","mongoose-nested","mongoose-reload","plaster","transaction-machine"]
+["ajl-mongoose","datastools","mongoose","mongoose-fixedsetdefaultsoninsert","mongoose-nested","mongoose-reload","mongoose-updated-driver","plaster","transaction-machine"]

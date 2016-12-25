@@ -1,1 +1,1 @@
-["seneca-beanstalk-transport","seneca-nsq-transport","seneca-rabbitmq-transport","seneca-rabbitmq-transport-improved","seneca-rabbitmq-transport-v2","seneca-redis-sync-transport","seneca-redis-transport","seneca-stomp-transport","seneca-transport"]
+["seneca-beanstalk-transport","seneca-nsq-transport","seneca-rabbitmq-transport","seneca-rabbitmq-transport-improved","seneca-rabbitmq-transport-v2","seneca-redis-queue-transport","seneca-redis-sync-transport","seneca-redis-transport","seneca-stomp-transport","seneca-transport"]

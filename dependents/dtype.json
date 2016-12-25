@@ -1,1 +1,1 @@
-["array-pack-2d","buffer-to-typed-array","flatten-vertex-data","gl-geometry","glo","glo-texture","ndarray-dtype","ndarray-from-canvas","ndarray-from-image","ndarray-hop","ndarray-tops","quad-indices","tab64"]
+["array-pack-2d","buffer-to-typed-array","flatten-vertex-data","gl-geometry","glo","glo-texture","kindred-geometry","ndarray-dtype","ndarray-from-canvas","ndarray-from-image","ndarray-hop","ndarray-tops","quad-indices","read-audio","tab64"]

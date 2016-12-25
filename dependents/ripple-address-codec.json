@@ -1,1 +1,1 @@
-["ripple-binary-codec","ripple-hashes","ripple-keypairs","ripple-lib","rippled-historical-database","zc-ripple-binary-codec","zc-ripple-lib"]
+["ripple-binary-codec","ripple-domain-verifier","ripple-hashes","ripple-keypairs","ripple-lib","ripple-lib-1","ripple-lib-2","ripple-lib-peersafe","ripple-zxlib","rippled-historical-database","script-ripple-lib","zc-ripple-binary-codec","zc-ripple-lib"]

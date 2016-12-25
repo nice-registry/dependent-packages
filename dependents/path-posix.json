@@ -1,1 +1,1 @@
-["broccoli-funnel","fm2.api.nodejs","jbe-broccoli-funnel-patched","polymer-bundler","serve-index-light","vulcanize"]
+["broccoli-dependency-funnel","broccoli-funnel","fm2.api.nodejs","fs-tree-diff","jbe-broccoli-funnel-patched","polymer-bundler","serve-index-light","vulcanize"]

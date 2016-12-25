@@ -1,1 +1,1 @@
-["eslint-plugin-mongodb","http-auth-utils","knifecycle","objectid-string-utils","objectid-stub","sf-filecache","sf-preferences","sf-time-mock","sf-token","siso","watchdeps","whook","yhttperror"]
+["eslint-plugin-mongodb","http-auth-utils","jsub","knifecycle","objectid-string-utils","objectid-stub","sf-filecache","sf-preferences","sf-time-mock","sf-token","siso","strict-qs","watchdeps","whook","yhttperror"]

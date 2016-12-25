@@ -1,1 +1,1 @@
-["electrode-bundle-analyzer","electrode-check-dependencies","electrode-confippet","electrode-csrf-jwt","electrode-react-webapp","electrode-redux-router-engine","electrode-router-resolver-engine","electrode-server","electrode-static-paths"]
+["electrode-bundle-analyzer","electrode-check-dependencies","electrode-confippet","electrode-csrf-jwt","electrode-keepalive","electrode-react-ssr-caching","electrode-react-webapp","electrode-redux-router-engine","electrode-router-resolver-engine","electrode-server","electrode-static-paths"]

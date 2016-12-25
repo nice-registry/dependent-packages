@@ -1,1 +1,1 @@
-["grunt-multibundle-requirejs","multibundle"]
+["grunt-multibundle-requirejs","ko-extender-stored","multibundle"]

@@ -1,1 +1,1 @@
-["babel-preset-live","generator-arc"]
+["babel-plugin-transform-exponentiation-operator","babel-preset-live","uinz-notification"]

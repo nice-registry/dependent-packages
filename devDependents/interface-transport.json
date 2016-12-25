@@ -1,1 +1,1 @@
-["libp2p-tcp","libp2p-utp"]
+["libp2p-tcp","libp2p-utp","libp2p-websockets"]

@@ -1,1 +1,1 @@
-["atomic-loader","atomic-plugin","babel-plugin-atomizer","grunt-atomizer","gulp-atomizer","webpack-atomizer-loader"]
+["acss-browser","atomic-loader","atomic-plugin","babel-plugin-atomizer","grunt-atomizer","gulp-atomizer","metalsmith-atomizer","webpack-atomizer-loader"]

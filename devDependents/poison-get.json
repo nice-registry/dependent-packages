@@ -1,1 +1,1 @@
-["has-local-storage","has-session-storage"]
+["has-chrome-storage","has-local-storage","has-session-storage"]

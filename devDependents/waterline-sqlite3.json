@@ -1,1 +1,1 @@
-["sails-auth","sails-auth-bugfix-zb","sails-auth-no-test","sails-hook-admin","trailpack-express","trailpack-hapi"]
+["sails-auth","sails-auth-bugfix-zb","sails-auth-no-test","sails-hook-admin","sails-passport-hook","trailpack-express4","trailpack-hapi"]

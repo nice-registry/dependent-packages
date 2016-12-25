@@ -1,1 +1,1 @@
-["angular-number-input","angular-web-notification","event-emitter-enhancer","grunt-copy-browser-modules","grunt-localizr","grunt-markdownlint","grunt-put-packages-in-requirejs-config","js-project-commons","lobo-mongodb-fixtures","multiple-redis","newsflash.js","node-go-require","node-spider-script","oracledb-upsert","postmessage-json-rpc","sickle","simple-oracledb"]
+["eslint-detailed-reporter","grunt-copy-browser-modules","grunt-localizr","grunt-put-packages-in-requirejs-config","lobo-mongodb-fixtures","newsflash.js","postmessage-json-rpc","sickle"]

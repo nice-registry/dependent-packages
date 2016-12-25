@@ -1,1 +1,1 @@
-["cordova-plugin-require-bluetoothle","crypto-browserify","native-crypto","secret-stream","web-push-meteor"]
+["cordova-plugin-amplify-pay","cordova-plugin-amplify-payment","cordova-plugin-require-bluetoothle","crypto-browserify","http_ece-legacy","native-crypto","react-native-crypto","secret-stream","web-push-meteor"]

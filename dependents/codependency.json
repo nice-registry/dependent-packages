@@ -1,1 +1,1 @@
-["broccoli-stylus-single","broccoli-stylus-sourcemaps","ctrl-web-socket-server","logentries-client","metalsmith-metafiles","waterline-lighter"]
+["broccoli-stylus-single","broccoli-stylus-sourcemaps","ctrl-web-socket-server","eflex-broccoli-stylus-single","eslint-config-majestic","haloapi","hilt","le_node","logentries-client","metalsmith-metafiles","waterline-lighter"]

@@ -1,1 +1,1 @@
-["grunt-thin-aws","imapper-auth-s3","s3-easy-deploy"]
+["bucket-mapper","deploy-to-s3","grunt-thin-aws","imapper-auth-s3","s3-easy-deploy"]

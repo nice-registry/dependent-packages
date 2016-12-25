@@ -1,1 +1,1 @@
-["ember-arcgis-page-layout"]
+["ember-arcgis-layout-components","ember-arcgis-layout-services","ember-arcgis-page-layout"]

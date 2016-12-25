@@ -1,1 +1,1 @@
-["grunt-imageoptim","grunt-respimg"]
+["choppy","grunt-imageoptim","grunt-respimg","gulp-imageoptim"]

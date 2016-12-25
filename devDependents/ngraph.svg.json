@@ -1,1 +1,1 @@
-["miserables","ngraph.cw","remove-overlaps"]
+["miserables","ngraph.cw","ngraph.louvain","ngraph.pagerank","ngraph.remove-overlaps","remove-overlaps"]

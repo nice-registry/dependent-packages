@@ -1,1 +1,1 @@
-["delay","p-debounce","p-each-series","p-limit","p-map","p-map-series","p-queue","p-tap","p-throttle","p-wait-for"]
+["delay","nspell","p-debounce","p-each-series","p-limit","p-locate","p-map","p-map-series","p-min-delay","p-queue","p-tap","p-throttle","p-wait-for","promise-concurrent"]

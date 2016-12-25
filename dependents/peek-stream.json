@@ -1,1 +1,1 @@
-["bzip2-maybe","datacat","detect-data-stream","detect-tabular","fragjs-extract","gunzip-maybe","if-stream","mongoscope-importer","multiplex-rpc-streams","parse-input-stream"]
+["bcc","bzip2-maybe","datacat","detect-data-stream","detect-tabular","fragjs-extract","gunzip-maybe","if-stream","mongoscope-importer","multiplex-rpc-streams","parse-input-stream","to-utf-8"]

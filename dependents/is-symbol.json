@@ -1,1 +1,1 @@
-["es-to-primitive","generator-arc","is-equal","is-in-correct-format","is-x","mocha-wrap","safe-to-string-x","tang-union-find"]
+["es-to-primitive","global-cache","is-equal","is-in-correct-format","is-x","mocha-wrap","safe-to-string-x","tang-union-find","to-integer","to-num","to-path","to-str"]

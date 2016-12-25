@@ -1,1 +1,1 @@
-["cobasi","fontmin","get-svg-colors","grunt-mega-image","gulp-image","imagemin-svgo","imgminify","imgo","postcss-inline-base64","postcss-svgo","svg2colors","yellowlabtools"]
+["bsh-iot-gulp-image","cobasi","fontmin","generate-cordova-assets","get-svg-colors","grunt-image","grunt-mega-image","gulp-image","imagemin-svgo","imgminify","imgo","postcss-inline-base64","postcss-svgo","svg2colors","yellowlabtools"]

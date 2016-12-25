@@ -1,1 +1,1 @@
-["iobroker.knx","knx-components","node-red-contrib-eibd"]
+["homebridge-knx","homebridge-legacy-plugins","knx-components","node-red-contrib-eibd"]

@@ -1,1 +1,1 @@
-["blockapps-vm","dapple-chain","dapple-wevm","eth-spore","ethereum-sandbox","ethereum-sandbox-test","ethereumjs-block","ethereumjs-lib","ethereumjs-testrpc","ethereumjs-vm","ethersim","remote-merkle-patricia-tree","s-unit","sol-unit"]
+["blockapps-vm","dapple-chain","dapple-wevm","eth-spore","ethereum-sandbox","ethereum-sandbox-test","ethereumjs-block","ethereumjs-lib","ethereumjs-testrpc","ethereumjs-testrpc-persist","ethereumjs-vm","ethersim","ipld-eth-trie","js-ipld-eth-trie","remote-merkle-patricia-tree","s-unit","sol-unit"]

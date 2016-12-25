@@ -1,1 +1,1 @@
-["account-storage","contract-container-storage-js","dapple-chain","eth-store","ethdeploy-provider-zero-client","ethereumjs-testrpc","ethkit","gnosisjs","metamask-zeroclient","open-registry-sdk","uport-lib"]
+["account-storage","contract-container-storage-js","dapple-chain","eth-store","eth-tx-summary","ethdeploy-provider-zero-client","ethereumjs-testrpc","ethereumjs-testrpc-persist","ethkit","etoken-lib","gnosisjs","infura-proxy","metamask-zeroclient","open-registry-sdk","uport-lib"]

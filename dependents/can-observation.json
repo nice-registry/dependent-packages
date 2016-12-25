@@ -1,1 +1,1 @@
-["can","can-component","can-define-stream","can-ejs","can-list","can-map","can-model","can-simple-map","can-stream","can-view-scope","weston"]
+["can","can-component","can-compute","can-connect","can-control","can-define","can-define-stream","can-ejs","can-list","can-map","can-model","can-route","can-simple-map","can-stache","can-stache-bindings","can-stream","can-view-callbacks","can-view-scope","weston"]

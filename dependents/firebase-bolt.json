@@ -1,1 +1,1 @@
-["firebase-bolt-loader","firebase-bolt-transpiler","gulp-firebase-bolt"]
+["firebase-bolt-loader","firebase-bolt-transpiler","gulp-firebase-bolt","gulp-firebase-bolt-compiler"]

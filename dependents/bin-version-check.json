@@ -1,1 +1,1 @@
-["bin-version-check-cli","bin-wrapper","compass-compiler","compass-middleware","grunt-behat-wrapper","grunt-bundle-wrapper","grunt-compass-wrapper","grunt-contrib-compass","grunt-php","grunt-wellington","gulp-connect-php","pbabel","yeoman-doctor"]
+["babel-cli-justwatch","bin-version-check-cli","bin-wrapper","compass-compiler","compass-middleware","grunt-behat-wrapper","grunt-bundle-wrapper","grunt-compass-wrapper","grunt-contrib-compass","grunt-php","grunt-wellington","gulp-connect-php","pbabel","yeoman-doctor"]

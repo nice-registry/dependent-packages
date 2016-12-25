@@ -1,1 +1,1 @@
-["block-sequence-mongo","block-sequence-mysql"]
+["block-sequence-mongo","block-sequence-mysql","block-sequence-postgres","block-sequence-redis","block-sequence-reference"]

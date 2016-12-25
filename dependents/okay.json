@@ -1,1 +1,1 @@
-["amazon-queue","gelf-encode","node-control-flow","nsq-worker","pg-key-value-stream","pg-query","proxz","stretchypants"]
+["amazon-queue","gelf-encode","maglev","node-control-flow","nsq-worker","pg-key-value-stream","pg-query","proxz","stretchypants"]

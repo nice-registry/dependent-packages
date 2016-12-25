@@ -1,1 +1,1 @@
-["fis3-postprocessor-postcss","postcss-loader-no-warning","zanata-ui"]
+["fis3-postprocessor-postcss","literate-postcss","postcss-loader","postcss-loader-no-warning","stylelint","zanata-ui"]

@@ -1,1 +1,1 @@
-["pouchdb-adapter-fs","pouchdb-admins","pouchdb-derived-database","pouchdb-ensure","pouchdb-find","pouchdb-updateif","redux-pouchdb","redux-pouchdb-sync"]
+["couchdb_changes_handler","pouchdb-adapter-fs","pouchdb-admins","pouchdb-derived-database","pouchdb-doc-api","pouchdb-ensure","pouchdb-find","pouchdb-updateif","redux-pouchdb","redux-pouchdb-sync","transform-pouch"]

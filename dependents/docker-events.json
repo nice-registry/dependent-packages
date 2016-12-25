@@ -1,1 +1,1 @@
-["dcreg","docker-cache","docker-logs","docker-tracker","sematext-agent-docker"]
+["dcreg","docker-cache","docker-gce-discovery","docker-logs","docker-tracker","sematext-agent-docker"]

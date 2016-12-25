@@ -1,1 +1,1 @@
-["hadron-test-utils","mongodb-deployment-model","mongodb-scope-client","mongodb-scope-server"]
+["hadron-test-utils","mongodb-data-service","mongodb-deployment-model","mongodb-scope-client","mongodb-scope-server","mongodb-test-utils"]

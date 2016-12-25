@@ -1,1 +1,1 @@
-["hfe-pm2-logrotate"]
+["artillery-core","hfe-pm2-logrotate","pm2-logrotate-imp"]

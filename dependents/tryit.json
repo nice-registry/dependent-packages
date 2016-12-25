@@ -1,1 +1,1 @@
-["duo-autoprefixer","generator-arc","gulp-front-matter","gulp-htmlmin","gulp-sanitize-html","gulp-wrap","image-size-stream","is-resolvable","is-symlink-sync","jetstream","rs-reporter","td-gulp-htmlmin"]
+["duo-autoprefixer","gulp-front-matter","gulp-htmlmin","gulp-sanitize-html","gulp-svelte","gulp-wrap","image-size-stream","is-resolvable","is-symlink-sync","jetstream","rs-reporter","td-gulp-htmlmin"]

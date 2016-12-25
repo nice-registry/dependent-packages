@@ -1,1 +1,1 @@
-["blear.classes.safe-markdown","blear.node.request","coolie","xdc-cli"]
+["blear.core.cookie","blear.node.request","blear.utils.querystring","coolie","xdc-cli"]

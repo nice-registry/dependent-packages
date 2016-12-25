@@ -1,1 +1,1 @@
-["geo-pixel-stream","mapnik-pool","tilelive-overlay","vector-tile","vt_shaver"]
+["geo-pixel-stream","geojson-mapnikify","mapnik-pool","require-once","tilelive-overlay","torque.js","vector-tile","vt_shaver"]

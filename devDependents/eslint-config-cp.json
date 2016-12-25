@@ -1,1 +1,1 @@
-["chpr-logger","chpr-metrics","node-amqp-bus"]
+["bunyan-sentry-stream","chpr-logger","chpr-metrics","node-amqp-bus"]

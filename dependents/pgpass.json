@@ -1,1 +1,1 @@
-["dbmigrations","pg-core","pg.js"]
+["dbmigrations","pg","pg-core","pg-keepalive-fixed","pg.js","t1t-pg-audit-log"]

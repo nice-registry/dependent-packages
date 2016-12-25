@@ -1,1 +1,1 @@
-["ak-pg","pg-arrays","pg-core","pg.js"]
+["ak-pg","pg","pg-arrays","pg-core","pg-keepalive-fixed","pg.js"]

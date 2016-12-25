@@ -1,1 +1,1 @@
-["ember-cli-fastboot","ember-qunit"]
+["ember-cli-fastboot","ember-mocha","ember-qunit"]

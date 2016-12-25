@@ -1,1 +1,1 @@
-["grunt-spritesmith","grunt-unit-switch-spritesmith","gulp.spritesmith","metalsmith-spritesmith","resizablespritesmith","sprite-webpack-plugin","spritegen-sheets"]
+["grunt-spritesmith","grunt-unit-switch-spritesmith","gulp.spritesmith","metalsmith-spritesmith","resizablespritesmith","sprite-cli","sprite-webpack-plugin","spritegen-sheets","webpack-spritesmith"]

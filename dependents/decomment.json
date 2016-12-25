@@ -1,1 +1,1 @@
-["grunt-decomment","gulp-decomment","gulp-strip-comments","minty","mocer"]
+["grunt-decomment","gulp-decomment","gulp-replace-file","gulp-sass-autoinclude","gulp-strip-comments","minty","mocer"]

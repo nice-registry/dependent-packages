@@ -1,1 +1,1 @@
-["mayor-app-container","mayor-dispatch","mayor-model-cache","nuclear-binding-container","nuclear-instance-container","nuclear-js-react-addons","nuclear-react-mixin","nuclear-transform"]
+["botpress","mayor-app-container","mayor-dispatch","mayor-model-cache","nuclear-binding-container","nuclear-instance-container","nuclear-js-react-addons","nuclear-mocha","nuclear-module-registry","nuclear-react-mixin","nuclear-record","nuclear-transform"]

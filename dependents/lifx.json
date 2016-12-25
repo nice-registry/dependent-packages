@@ -1,1 +1,1 @@
-["karma-lifx-reporter","meshblu-connector-lifx","meshblu-lifx","nestor-lifx","node-red-contrib-lifx","skynet-lifx"]
+["homebridge-legacy-plugins","homebridge-lifx","karma-lifx-reporter","meshblu-connector-lifx","meshblu-lifx","nestor-lifx","node-red-contrib-lifx","skynet-lifx"]

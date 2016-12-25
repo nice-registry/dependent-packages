@@ -1,1 +1,1 @@
-["amphora","ar-workflow-helpers","binder-logging","cargoship-logstash","dagon","isdp","logdapter","microbase","nodlog","npm-winston-logger","off-logger","quilk_ci","zlogd"]
+["amphora","ar-workflow-helpers","aws-logger","binder-logging","cargoship-logstash","dagon","greenbird","isdp","logdapter","microbase","nodlog","npm-winston-logger","off-logger","pm2-logmatic","quilk_ci","ruo","zlogd"]

@@ -1,1 +1,1 @@
-["detect-font","dom-compose","sanitize-elements","string-to-dom","width"]
+["detect-font","sanitize-elements","spooky-element","string-to-dom","width"]

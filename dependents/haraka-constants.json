@@ -1,1 +1,1 @@
-["Haraka","haraka-test-fixtures"]
+["Haraka","haraka-plugin-karma","haraka-plugin-ldap","haraka-plugin-rcpt-postgresql","haraka-plugin-syslog","haraka-test-fixtures"]

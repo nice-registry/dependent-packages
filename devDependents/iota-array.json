@@ -1,1 +1,1 @@
-["box-intersect","functional-red-black-tree","level-iterator","ndarray-awise-prototype","ndarray-band","ndarray-vector-fill","solve-banded","solve-periodic-tridiagonal","solve-tridiagonal","static-kdtree","voxel-crunch"]
+["box-intersect","functional-red-black-tree","level-iterator","leveldown-basho-andris","ndarray-awise-prototype","ndarray-band","ndarray-vector-fill","solve-banded","solve-periodic-tridiagonal","solve-tridiagonal","static-kdtree","voxel-crunch"]

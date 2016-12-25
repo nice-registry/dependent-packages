@@ -1,1 +1,1 @@
-["change-propagation","htcp-purge","hyperswitch","restbase-mod-table-cassandra","swagger-router"]
+["change-propagation","htcp-purge","hyperswitch","restbase","restbase-mod-table-cassandra","restbase-mod-table-sqlite","service-template-node","swagger-router"]

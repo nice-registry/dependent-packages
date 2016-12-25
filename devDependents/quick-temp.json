@@ -1,1 +1,1 @@
-["broccoli-concat","broccoli-jade-render","broccoli-pug-render","broccoli-stencil","localghost","optimizely-sync"]
+["broccoli-concat","broccoli-jade-render","broccoli-pug-render","broccoli-stencil","cordova-plugin-amplify-pay","cordova-plugin-amplify-payment","localghost","optimizely-cli","optimizely-sync"]

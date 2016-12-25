@@ -1,1 +1,1 @@
-["ftl-node","less-terrible-coffeelint-loader","lesshint","lesshint-antd","ng-build","rcloader","rcloader2"]
+["ftl-node","jscs-loader","less-terrible-coffeelint-loader","lesshint","lesshint-antd","ng-build","rcloader","rcloader2","simple-bundle"]

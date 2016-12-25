@@ -1,1 +1,1 @@
-["bridge-module","browser-bridge","make-request","nrtv-bridge-element","nrtv-browse","nrtv-proxy","nrtv-single-use-socket","nrtv-socket","nrtv-wait"]
+["get-socket","make-request","nrtv-bridge-element","nrtv-browse","nrtv-proxy","nrtv-socket","nrtv-wait"]

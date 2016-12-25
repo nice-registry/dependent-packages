@@ -1,1 +1,1 @@
-["grove-gray-oled-js-bbg","oled-js","oled-js-pi","oled-spi","rolling-spider","rolling-spider-server-api"]
+["grove-gray-oled-js-bbg","oled-i2c-bus","oled-js","oled-js-pi","oled-spi","oled-ssd1306-i2c","rolling-spider","rolling-spider-server-api"]

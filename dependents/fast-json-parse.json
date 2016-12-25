@@ -1,1 +1,1 @@
-["bole-pretty","docker-allcontainers","fast-json-body","pino","pino-elasticsearch","pino-gelf","sessions-provider-redis"]
+["bole-pretty","docker-allcontainers","fast-json-body","mu-tcp","pino","pino-arborsculpture","pino-elasticsearch","pino-gelf","pino-tee","sessions-provider-redis"]

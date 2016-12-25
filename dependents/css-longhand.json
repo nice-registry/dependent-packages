@@ -1,1 +1,1 @@
-["css-longhand-cli","gulp-css-longhand"]
+["css-longhand-cli","gulp-css-longhand","postcss-longhand"]

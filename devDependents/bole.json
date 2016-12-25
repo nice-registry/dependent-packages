@@ -1,1 +1,1 @@
-["bistre","commonform-serve","commonform-serve-permissions","commonform-serve-projects","koa-logger-ndjson","ndjson-logrus","pino","server-error"]
+["bistre","commonform-serve","commonform-serve-permissions","commonform-serve-projects","koa-logger-ndjson","ndjson-logrus","pino","server-error","server-sink"]

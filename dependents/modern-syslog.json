@@ -1,1 +1,1 @@
-["Haraka","filog","haraka-content-scanning-server","node-wrapper","simple-log","ssi-logger","strong-supervisor","winston-modern-syslog"]
+["NodeSDK-Base","filog","haraka-content-scanning-server","haraka-plugin-syslog","node-wrapper","simple-log","ssi-logger","statsd","strong-supervisor","strongloop","winston-modern-syslog","zone-mta"]

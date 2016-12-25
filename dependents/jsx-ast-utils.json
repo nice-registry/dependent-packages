@@ -1,1 +1,1 @@
-["eslint-plugin-react","generator-arc"]
+["eslint-plugin-inferno","eslint-plugin-jsx-a11y","eslint-plugin-react","eslint-plugin-react-perf"]

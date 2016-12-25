@@ -1,1 +1,1 @@
-["enhanced-resolve","html-loader","html-str-loader","loader-runner"]
+["enhanced-resolve","html-loader","html-str-loader","loader-runner","webpack-dev-server","webpack-egoist","webpack-ie8","webpack-sources"]

@@ -1,1 +1,1 @@
-["browserify-assets","browserify-shim","browserify-window-context","caseify","confify","find-main","get-package","jshint-growl","npm-scripts","replpad","require-injector","yoloader"]
+["browserify-assets","browserify-shim","browserify-window-context","caseify","confify","find-main","get-package","jshint-growl","npm-script-signal","npm-scripts","parcel-map","replpad","require-injector","yoloader"]

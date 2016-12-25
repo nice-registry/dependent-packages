@@ -1,1 +1,1 @@
-["bluemix-iot-client","node-red-contrib-ibm-watson-iot","node-red-contrib-scx-ibmiotapp"]
+["bluemix-iot-client","node-red-contrib-ibm-watson-iot","node-red-contrib-ibm-wiotp-device-ops","node-red-contrib-scx-ibmiotapp"]

@@ -1,1 +1,1 @@
-["ambient-attx4","attiny-common","backpack-ht16k33","ir-attx4","ir-codes","pir","pulsesensor","sdcard","servo-adafruit-pca9685","tessel-thermalprinter"]
+["accel-mma84","ambient-attx4","attiny-common","audio-vs1053b","avr-isp","backpack-ht16k33","ble-ble113a","camera-vc0706","climate-si7005","gprs-sim900","gps-a2235h","ir-attx4","ir-codes","pir","pulsesensor","relay-mono","rf-nrf24","rfid-pn532","sdcard","servo-adafruit-pca9685","servo-pca9685","tessel-servo","tessel-thermalprinter"]

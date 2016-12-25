@@ -1,1 +1,1 @@
-["babel-preset-babili","better-babel-cli","pob-babel","unbundle"]
+["babel-preset-babili","babel-preset-rax","better-babel-cli","buddy","pob-babel","prepublish","prepublish-lib","unbundle"]

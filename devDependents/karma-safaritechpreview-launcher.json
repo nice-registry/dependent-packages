@@ -1,1 +1,1 @@
-["karma-mocha-reporter","xmlapi-web"]
+["karma-detect-browsers","karma-mocha-reporter","respec","xmlapi-web"]

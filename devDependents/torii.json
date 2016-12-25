@@ -1,1 +1,1 @@
-["ember-arcgis-page-layout","ember-cli-aptible-shared","ember-cli-clickfunnels-auth","ember-cli-csauth","ember-data-arcgis-opendata","ember-dnf-blueprints","ember-simple-auth","emberfire"]
+["arcgis-layout-engine","ember-arcgis-layout-components","ember-arcgis-layout-services","ember-arcgis-page-layout","ember-cli-aptible-shared","ember-cli-clickfunnels-auth","ember-cli-csauth","ember-data-arcgis-opendata","ember-dnf-blueprints","ember-simple-auth","emberfire","torii-salesforce-oauth2","torii-vk"]

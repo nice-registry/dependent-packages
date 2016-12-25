@@ -1,1 +1,1 @@
-["browserify-cssx","cssx-loader","gulp-cssx"]
+["browserify-cssx","cssx-loader","gulp-cssx","rollup-plugin-cssx"]

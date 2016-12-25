@@ -1,1 +1,1 @@
-["asynciterator","fluxebu","fs-memory","lie","lie-pretransform","liferaft","redblackdown","unbreakable","web-pockets","websql"]
+["asynciterator","fluxebu","fs-memory","lie","lie-pretransform","liferaft","memdown","pouchdb","pouchdb-browser","pouchdb-utils","redblackdown","transform-pouch","unbreakable","web-pockets","websql"]

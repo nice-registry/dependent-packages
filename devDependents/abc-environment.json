@@ -1,1 +1,1 @@
-["gw2api-client","gw2e-account-value","gw2e-chat-codes","gw2e-item-attributes","gw2e-playerbase-statistics","gw2e-recipe-calculation","gw2e-recipe-nesting","gw2e-scraping","gw2e-tradingpost-fees","lets-fetch","promise-control-flow","simple-worker"]
+["fast-get","gw2api-client","gw2e-account-statistics","gw2e-account-value","gw2e-chat-codes","gw2e-item-attributes","gw2e-item-value","gw2e-playerbase-statistics","gw2e-recipe-calculation","gw2e-recipe-nesting","gw2e-scraping","gw2e-tradingpost-fees","lets-fetch","promise-control-flow","simple-worker","sum-by"]

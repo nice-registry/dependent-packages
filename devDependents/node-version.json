@@ -1,1 +1,1 @@
-["gengojs","gengojs-accept","gengojs-default-header","gengojs-default-pack","testcafe-browser-provider-phantomjs","testcafe-browser-provider-saucelabs"]
+["gengojs","gengojs-accept","gengojs-default-header","gengojs-default-pack","testcafe-browser-provider-nightmare","testcafe-browser-provider-phantomjs","testcafe-browser-provider-saucelabs"]

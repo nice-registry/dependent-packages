@@ -1,1 +1,1 @@
-["file-cache","hashed-fs","nb-json-db","raml-1-parser","raml-typesystem"]
+["bench-lru","file-cache","git-ssb-web","hashed-fs","nb-json-db","raml-1-parser","raml-1-parser-temp","raml-typesystem","ssb-git-repo"]

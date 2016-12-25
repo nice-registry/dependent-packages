@@ -1,1 +1,1 @@
-["ase","clay-nock","nmock","nock-hotfixed","nock-json-recorder","skiff-algorithm","skiff-client","skiff-dispatcher","skiff-redis","sombrero-node","verbose"]
+["ase","clay-nock","finboxio-nock","nmock","nock","nock-hotfixed","nock-json-recorder","rethinkdb-primus","skiff-algorithm","skiff-client","skiff-dispatcher","skiff-redis","sombrero-node","verbose"]

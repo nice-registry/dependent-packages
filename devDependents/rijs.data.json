@@ -1,1 +1,1 @@
-["popper","rijs.backpressure","rijs.components","rijs.db","rijs.features","rijs.helpers","rijs.mysql","rijs.needs","rijs.reactive","rijs.shadow","rijs.sync","rijs.upload"]
+["popper","rijs.backpressure","rijs.components","rijs.db","rijs.features","rijs.helpers","rijs.hypermedia","rijs.mysql","rijs.needs","rijs.offline","rijs.reactive","rijs.shadow","rijs.sync","rijs.upload","rijs.versioned"]

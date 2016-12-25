@@ -1,1 +1,1 @@
-["textlint-rule-ja-no-abusage","textlint-rule-ja-no-weak-phrase"]
+["morpheme-match-all","textlint-rule-ja-no-abusage","textlint-rule-ja-no-redundant-expression","textlint-rule-ja-no-weak-phrase"]

@@ -1,1 +1,1 @@
-["kronos-cluster-node","kronos-interceptor-http-request","stream-line-tokenizer-csv"]
+["config-expander","kronos-interceptor-http-request","npm-template-sync","scope-reporter","stream-line-tokenizer-csv"]

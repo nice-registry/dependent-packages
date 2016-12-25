@@ -1,1 +1,1 @@
-["pouchdb-adapter-fs","pouchdb-adapter-http-react-native","pouchdb-find","pouchdb-full-sync"]
+["pouchdb-adapter-fs","pouchdb-adapter-http-react-native","pouchdb-find","pouchdb-full-sync","rxdb","transform-pouch"]

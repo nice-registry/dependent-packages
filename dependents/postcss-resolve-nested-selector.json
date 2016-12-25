@@ -1,1 +1,1 @@
-["postcss-bem-linter","stylelint","stylelint-rscss","stylelint-scss","stylelint-selector-max-depth"]
+["postcss-bem-linter","postcss-nested-ancestors","stylelint","stylelint-rscss","stylelint-scss","stylelint-selector-max-depth"]

@@ -1,1 +1,1 @@
-["weex-loader","weex-templater","weex-transformer"]
+["spon-weex-loader","weex-loader","weex-templater","weex-transformer","weex-vue-loader"]

@@ -1,1 +1,1 @@
-["grunt-google-translate","translate-po","translate-resx","translate-templates"]
+["grunt-google-translate","i18n-translate","localize-joi","translate-json-object","translate-markdown","translate-po","translate-resx","translate-templates"]

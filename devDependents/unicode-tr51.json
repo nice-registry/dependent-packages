@@ -1,1 +1,1 @@
-["emoji-regex","multichar-regex"]
+["emoji-regex","multichar-regex","regenerate-unicode-properties","regexpu-core","unicode-canonical-property-names"]

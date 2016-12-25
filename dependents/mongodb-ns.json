@@ -1,1 +1,1 @@
-["hadron-test-utils","mongodb-collection-model","mongodb-collection-sample","mongodb-index-model","mongodb-querybuilder","mongodb-schema","mongodb-scope-client","mongodb-scope-server","mongodb-trigger","mongoscope-client"]
+["dookie","hadron-test-utils","mongodb-collection-model","mongodb-collection-sample","mongodb-data-service","mongodb-index-model","mongodb-instance-model","mongodb-querybuilder","mongodb-schema","mongodb-scope-client","mongodb-scope-server","mongodb-test-utils","mongodb-trigger","mongoscope-client"]

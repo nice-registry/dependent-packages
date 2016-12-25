@@ -1,1 +1,1 @@
-["fs-readdir","is-emitter"]
+["fs-readdir","is-emitter","is-node-emitter"]

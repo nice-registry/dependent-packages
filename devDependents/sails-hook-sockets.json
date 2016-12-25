@@ -1,1 +1,1 @@
-["sails-hook-responsetime"]
+["humpback-hook","sails-hook-blueprints-offshore","sails-hook-pubsub-offshore","sails-hook-responsetime","sails.io.js"]

@@ -1,1 +1,1 @@
-["commonform-server","express-pino-logger","huzzah","pino-elasticsearch","pino-noir","pino-socket","pino-trace","tcp-log-client"]
+["commonform-server","express-pino-logger","huzzah","pino-arborsculpture","pino-elasticsearch","pino-noir","pino-socket","pino-trace","promise-command","tcp-log-client"]

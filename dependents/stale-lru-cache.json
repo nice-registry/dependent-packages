@@ -1,1 +1,1 @@
-["express-remote-handlebars","outputcache"]
+["express-remote-handlebars","outputcache","stale-lru-cache-cluster"]

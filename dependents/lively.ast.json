@@ -1,1 +1,1 @@
-["doc-comments","lively.context","lively.vm"]
+["doc-comments","lively.classes","lively.context","lively.modules","lively.source-transform","lively.vm","mocha-es6"]

@@ -1,1 +1,1 @@
-["babel-plugin-graphql","graphql2cypher","turbine"]
+["babel-plugin-graphql","babel-plugin-transform-graphql","graphql2cypher","turbine"]

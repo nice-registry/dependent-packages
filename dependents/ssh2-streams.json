@@ -1,1 +1,1 @@
-["opensshpubkey-to-x509-converter","rsa-bearer-auth","sftp-promises"]
+["deis-api","node-sftp-server","opensshpubkey-to-x509-converter","rsa-bearer-auth","sftp-promises","ssh2"]

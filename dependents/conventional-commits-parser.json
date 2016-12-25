@@ -1,1 +1,1 @@
-["analyze-commits-commitstylerc","autorelease","conventional-changelog-core","conventional-changelog-lint","conventional-recommended-bump","gitlab-ci-releaser","nlm","publish-dist","release-flow","semantic-release-gitlab-notifier"]
+["analyze-commits-commitstylerc","autorelease","commitizen-git-log-helper","conventional-changelog-core","conventional-changelog-lint","conventional-recommended-bump","gitlab-ci-releaser","hinkelstein","nlm","publish-dist","release-flow","semantic-release-gitlab-notifier"]

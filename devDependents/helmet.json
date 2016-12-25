@@ -1,1 +1,1 @@
-["csrf-login","generator-ats-node-webapp","loopback-component-templates","loopback-glue"]
+["csrf-login","generator-ats-node-webapp","loopback-component-fsm","loopback-component-templates","loopback-glue","loopback-graphql","loopback-ssl"]

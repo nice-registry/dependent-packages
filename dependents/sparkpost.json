@@ -1,1 +1,1 @@
-["campaign-sparkpost","ct-oauth-plugin","loopback-connector-sparkpost","nodebb-plugin-emailer-sparkpost","parse-server-sparkpost-adapter","send-sparkpost-template","shnappy-emailer","sonover-mail","sparkpost-recipient-filter"]
+["campaign-sparkpost","ct-oauth-plugin","interlayer","loopback-connector-sparkpost","nodebb-plugin-emailer-sparkpost","nodemailer-sparkpost-transport","parse-server-sparkpost-adapter","send-sparkpost-template","shnappy-emailer","sonover-mail","sparkpost-recipient-filter"]

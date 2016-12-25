@@ -1,1 +1,1 @@
-["Up2Bucket","fs-duplex-stream","fs-xattr","koa-router-multer","macos-alias","render-webpage","style-ext-html-webpack-plugin"]
+["Up2Bucket","fs-duplex-stream","fs-xattr","koa-multer","koa-router-multer","macos-alias","multer","render-webpage","style-ext-html-webpack-plugin"]

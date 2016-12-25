@@ -1,1 +1,1 @@
-["serverless-alexa-plugin","serverless-offline-request","serverless-plugin-inspect","serverless-slack-invite-api"]
+["atomable","serverless-alexa-plugin","serverless-import-swagger","serverless-offline-request","serverless-plugin-inspect","serverless-slack-invite-api","serverless-url-shortener"]

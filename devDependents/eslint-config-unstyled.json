@@ -1,1 +1,1 @@
-["blend","eslint-add","geojson-extent","geojson-flatten","geojson-summary","init-module","locking","mapbox-error","mapbox-file-sniff","mapbox-upload-validate","mbtiles","patrol-rules-aws","patrol-rules-github","superenv","tilelive-bridge","turf-cli","vector-tile"]
+["blend","eslint-add","geojson-extent","geojson-flatten","geojson-summary","init-module","locking","mapbox-error","mapbox-file-sniff","mapbox-upload-validate","mbtiles","patrol-rules-aws","patrol-rules-github","s3scan","sphericalmercator","superenv","tilelive-bridge","turf-cli","vector-tile"]

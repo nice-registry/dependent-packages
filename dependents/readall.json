@@ -1,1 +1,1 @@
-["co-readall","koa-redis-cache","koa-response-cache","koa-ssdb-cache"]
+["co-readall","koa-oai-cache","koa-redis-cache","koa-response-cache","koa-ssdb-cache"]

@@ -1,1 +1,1 @@
-["ast2template","ecdsa","eckey","fs-extra-tf","hdkey","quire","secp256k1-browserify"]
+["ast2template","ecdsa","eckey","fs-extra","fs-extra-tf","hdkey","hdkey.js","njwt","quire","secp256k1-browserify"]

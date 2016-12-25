@@ -1,1 +1,1 @@
-["data-forwarder-azure-service-bus","data-forwarder-elasticsearch","data-forwarder-mongodb","data-forwarder-splunk","device-protocol-adapter-http","endo-exchange","slurry-core","slurry-salesforce"]
+["data-forwarder-azure-service-bus","data-forwarder-elasticsearch","data-forwarder-mongodb","data-forwarder-splunk","device-protocol-adapter-http","endo-exchange","endo-lib","slurry-core","slurry-salesforce"]

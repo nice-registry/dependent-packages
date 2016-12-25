@@ -1,1 +1,1 @@
-["parse-server-azure-storage","parse-server-fs-adapter","parse-server-oss-adapter","parse-server-s3-adapter"]
+["parse-server-azure-storage","parse-server-fs-adapter","parse-server-oss-adapter","parse-server-s3-adapter","parse-server-s3-adapter-secure"]

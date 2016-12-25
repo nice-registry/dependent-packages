@@ -1,1 +1,1 @@
-["cytoscape-ngraph.forcelayout","fs.collections","gulp-define-vm-module"]
+["cytoscape-ngraph.forcelayout","fs.collections","gulp-define-vm-module","jibo-gulp"]

@@ -1,1 +1,1 @@
-["start-server-webpack-plugin"]
+["express-hot-middleware","start-server-webpack-plugin"]

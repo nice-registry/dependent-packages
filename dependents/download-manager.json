@@ -1,1 +1,1 @@
-["nodeos-barebones","nodeos-cross-toolchain","nodeos-initramfs","nodeos-rootfs"]
+["nodeos-barebones","nodeos-bootfs","nodeos-cross-toolchain","nodeos-rootfs"]

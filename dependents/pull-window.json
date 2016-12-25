@@ -1,1 +1,1 @@
-["idb-pull-blob-store","level-replicate","level-window","pull-debounce","pull-level","pull-merkle"]
+["idb-pull-blob-store","level-master","level-replicate","level-window","pull-debounce","pull-level","pull-merkle"]

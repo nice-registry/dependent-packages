@@ -1,1 +1,1 @@
-["babel-plugin-program-metadata-literals","connect-static-file","jsdom","jsonbird","koa-redux","react-recorder-redux","redux-audio","svg-captcha"]
+["babel-plugin-program-metadata-literals","connect-static-file","indefinite-observable","jsdom","jsonbird","koa-redux","material-motion-runtime","performr-runner-result-graph","performr-runner-result-msgpack","react-recorder-redux","redux-audio"]

@@ -1,1 +1,1 @@
-["azure-blob-list-stream","cqrs-saga","viewmodel"]
+["azure-blob-list-stream","cqrs-domain","cqrs-saga","eventstore","viewmodel"]

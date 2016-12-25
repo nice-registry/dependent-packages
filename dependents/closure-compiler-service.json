@@ -1,1 +1,1 @@
-["grunt-closure-service","gulp-closure-compiler-service"]
+["grunt-closure-service","gulp-closure-compiler-service","libphonenumber-bundler"]

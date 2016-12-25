@@ -1,1 +1,1 @@
-["broccoli-strip-css-comments","css-concat-loader","css2string","gulp-rb-validate-css","gulp-rb-validate-minified","gulp-strip-css-comments","less-imports-extractor","rrunt","sindredash","strip-css-comments-cli","tachyons-generator"]
+["broccoli-strip-css-comments","css-concat-loader","css-prefixer","css2string","grunt-strip-css-comments","gulp-rb-validate-css","gulp-rb-validate-minified","gulp-strip-css-comments","less-imports-extractor","rrunt","sindredash","strip-css-comments-cli","tachyons-generator"]

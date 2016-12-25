@@ -1,1 +1,1 @@
-["cache-chunk-store","deferred-chunk-store","fd-chunk-store","fs-chunk-store","fs-remainder-chunk-store","idb-chunk-store","immediate-chunk-store","memory-chunk-store"]
+["cache-chunk-store","deferred-chunk-store","fd-chunk-store","fs-chunk-store","fs-remainder-chunk-store","idb-chunk-store","immediate-chunk-store","indexdb-chunk-store","ls-chunk-store","memory-chunk-store","queued-chunk-store"]

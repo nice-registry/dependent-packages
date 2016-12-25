@@ -1,1 +1,1 @@
-["bunyan-dynamodb","connect-dynamodb-session","dynamite","simple-dyno","vogels-cache"]
+["bunyan-dynamodb","connect-dynamodb-session","dynamite","fireball-db","simple-dyno","vogels-cache","vogels-redis"]

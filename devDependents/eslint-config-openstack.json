@@ -1,1 +1,1 @@
-["karma-subunit-reporter","node-shovel","node-subunit","openstack-lib","subunit-js"]
+["afs-blob-store","generator-openstack","karma-subunit-reporter","node-shovel","node-subunit","openstack-lib","openstack-registry-hooks","subunit-js"]

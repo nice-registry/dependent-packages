@@ -1,1 +1,1 @@
-["auth0-authz-rules-api","hubba"]
+["auth0-authz-rules-api","hapi-auth-email","hubba","redis-sesh"]

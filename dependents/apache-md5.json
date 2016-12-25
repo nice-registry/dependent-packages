@@ -1,1 +1,1 @@
-["htpasswd-auth","http-auth-max-version","node-red-contrib-http-auth-basic","samsara-lib"]
+["htpasswd","htpasswd-auth","http-auth","http-auth-max-version","node-red-contrib-http-auth-basic","samsara-lib"]

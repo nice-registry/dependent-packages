@@ -1,1 +1,1 @@
-["docbox","hackfoldr-util","mdast-unlink","readme-to-man-page","remark-rewrite-headers","remark-unlink","skypager-documents"]
+["docbox","gatsby-parser-markdown","gatsby-typegen-filesystem","gatsby-typegen-remark","hackfoldr-util","mdast-unlink","patternplate-client","readme-to-man-page","remark-rewrite-headers","remark-unlink","skypager-documents","skypager-project"]

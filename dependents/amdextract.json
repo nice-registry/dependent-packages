@@ -1,1 +1,1 @@
-["amdcheck-loader","gulp-amdcheck"]
+["amdcheck-loader","grunt-amdcheck","gulp-amdcheck"]

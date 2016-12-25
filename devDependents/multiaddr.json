@@ -1,1 +1,1 @@
-["ipfs-bitswap","ipfs-kad-record-store","ipfs-kad-router","libp2p-floodsub","libp2p-kad-record-store","libp2p-kad-routing","libp2p-ping","libp2p-pstn-logger","libp2p-pstn-topo-partialmesh","libp2p-pstn-topo-ring","libp2p-spdy","peer-book"]
+["ipfs-bitswap","ipfs-kad-record-store","ipfs-kad-router","libp2p-floodsub","libp2p-kad-record-store","libp2p-kad-routing","libp2p-ping","libp2p-pstn-logger","libp2p-pstn-topo-partialmesh","libp2p-pstn-topo-ring","libp2p-spdy","libp2p-websockets","peer-book"]

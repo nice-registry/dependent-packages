@@ -1,1 +1,1 @@
-["elasticio-node","gallant","gulp-filter-size","gulp-size","gulp-size-limit-checking","knox","map-stream-file-sizes","npm-ev-source"]
+["elasticio-node","gallant","gulp-filter-size","gulp-size","gulp-size-limit-checking","gulp-warn-size","knox","map-stream-file-sizes","npm-ev-source","xml-compare.js"]

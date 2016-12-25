@@ -1,1 +1,1 @@
-["use-express-middleware"]
+["deepstream-passport","mock-express-response","use-express-middleware"]

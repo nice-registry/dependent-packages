@@ -1,1 +1,1 @@
-["co-async","egg","egg-mock"]
+["co-async","egg","egg-logger","egg-mock"]

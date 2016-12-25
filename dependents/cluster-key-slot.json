@@ -1,1 +1,1 @@
-["dy-ioredis","ms-payments","redis-clustr"]
+["dy-ioredis","ioredis","ms-payments","redis-clustr","redis-filtered-sort"]

@@ -1,1 +1,1 @@
-["rollup-plugin-vue2"]
+["rollup-plugin-stylus-compiler","rollup-plugin-vue","rollup-plugin-vue2","vue-patternfly"]

@@ -1,1 +1,1 @@
-["grunt-jsforce-deploy","salesforce-metadata-xml-builder"]
+["grunt-jsforce-deploy","gulp-jsforce-deploy","salesforce-metadata-xml-builder"]

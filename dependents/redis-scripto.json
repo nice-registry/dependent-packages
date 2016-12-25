@@ -1,1 +1,1 @@
-["dist-lock","node-redis-lock-diamond","yarnl"]
+["dist-lock","node-redis-lock","node-redis-lock-diamond","yarnl"]

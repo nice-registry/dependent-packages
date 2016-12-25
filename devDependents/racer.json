@@ -1,1 +1,1 @@
-["derby-page-transition","derby-validation","derby-validator","primus-racer","racer-bundle","racer-db-mongo","racer-journal-redis","racer-model-local","racer-pubsub-redis","racer-schema","racer-store-hooks","sharedb-backend-hooks"]
+["derby-login","derby-page-transition","derby-validation","derby-validator","primus-racer","racer-bundle","racer-db-mongo","racer-journal-redis","racer-model-local","racer-pubsub-redis","racer-schema","racer-store-hooks","sharedb-backend-hooks"]

@@ -1,1 +1,1 @@
-["posthtml-loader","reshape","reshape-loader","spike-core"]
+["posthtml-loader","posthtml-mixins","reshape","reshape-loader","spike-core"]

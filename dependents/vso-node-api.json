@@ -1,1 +1,1 @@
-["tfx-cli","vso-task-lib","vsoagent-installer"]
+["tfx-cli","vsce","vso-task-lib","vsoagent-installer","vsts-task-lib"]

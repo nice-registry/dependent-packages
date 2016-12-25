@@ -1,1 +1,1 @@
-["redux-ship-logger"]
+["redux-ship-devtools","redux-ship-logger"]

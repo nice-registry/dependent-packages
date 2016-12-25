@@ -1,1 +1,1 @@
-["wast-codegen","wast-diz","wast-parser","wast-traverse","wavedrom"]
+["bit-field","wast-asm","wast-codegen","wast-diz","wast-parser","wast-traverse","wavedrom"]

@@ -1,1 +1,1 @@
-["db-migrate","ember-cli-deploy-ssh-tunnel","ember-deploy-dynamodb","ember-deploy-redis","evac","inject-tunnel-ssh","pg-db-migrate","rethink-tunnel","rethink-wrapper"]
+["aleph","db-migrate","ember-cli-deploy-ssh-tunnel","ember-deploy-dynamodb","ember-deploy-redis","evac","fitay-db-migrate","heroku-pg","inject-tunnel-ssh","pg-db-migrate","rethink-tunnel","rethink-wrapper"]

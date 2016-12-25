@@ -1,1 +1,1 @@
-["mdl-ext","posthtml-beautify","posthtml-load-plugins"]
+["grunt-posthtml","gulp-posthtml","mdl-ext","post-config","post-load-plugins","posthtml-beautify","posthtml-load-config","posthtml-load-plugins","posthtml-mixins"]

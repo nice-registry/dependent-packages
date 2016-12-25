@@ -1,1 +1,1 @@
-["hapi-sequelize-crud","hapi-sequelize-crud-custom","nice-http-error","seneca-amqp-transport"]
+["express-bookshelf-jsonapi","hapi-sequelize-crud","hapi-sequelize-crud-custom","nice-http-error","postmaster-general","seneca-amqp-transport","sqs-bull"]

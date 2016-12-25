@@ -1,1 +1,1 @@
-["karma-mocha-egopulse","karma-mocha-exposed","karma-mocha-extended","karma-mocha-runner","karma-no-mocha"]
+["karma-mocha","karma-mocha-egopulse","karma-mocha-exposed","karma-mocha-extended","karma-mocha-nwjs","karma-mocha-runner","karma-no-mocha"]

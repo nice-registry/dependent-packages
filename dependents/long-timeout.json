@@ -1,1 +1,1 @@
-["Sisense-node-schedule","express-brute","file-expires","node-at","vault-client"]
+["Sisense-node-schedule","express-brute","file-expires","ha4us-adapter.scheduler","happn","happn-3","node-at","node-schedule","vault-client"]

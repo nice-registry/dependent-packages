@@ -1,1 +1,1 @@
-["bench-cache","geteventstore-client","hashring","lighter-lru-cache","machinepack-lrucache","ocsp","opbeat-react","rousseau","snowflakedb","sorrow"]
+["bench-cache","bench-lru","geteventstore-client","hashring","lighter-lru-cache","machinepack-lrucache","ocsp","opbeat-react","rousseau","snowflakedb","sorrow"]

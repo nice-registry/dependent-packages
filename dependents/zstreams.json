@@ -1,1 +1,1 @@
-["zstreams-csv-parse","zstreams-csv-write","zstreams-xml-parser","zstreams-xml-writer"]
+["unimodel-core","unimodel-crud-routes","unimodel-elasticsearch","unimodel-fake","unimodel-mongo","yaar","zipscene-api-client","zstreams-csv-parse","zstreams-csv-write","zstreams-xml-parser","zstreams-xml-writer"]

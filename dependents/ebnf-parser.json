@@ -1,1 +1,1 @@
-["grunt-jison","grunt-jison-processor","gulp-jison-lex","gulp-jison-parser","jison-extended","jison-modules","jison2json","set-analysis-parser"]
+["grunt-jison","grunt-jison-processor","gulp-jison-lex","gulp-jison-parser","jison","jison-extended","jison-modules","jison2json","set-analysis-parser"]

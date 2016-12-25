@@ -1,1 +1,1 @@
-["generator-arc","istanbul-api","karma-istanbuljs-reporter","kpdecker-nyc","nyc"]
+["istanbul-api","karma-istanbuljs-reporter","kpdecker-nyc","mochista","nyc"]

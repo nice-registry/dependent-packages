@@ -1,1 +1,1 @@
-["advanced-boilerplate","gulp-postcss-modules","gulp-vuesplit","pkg-resolve","postcss-font-system","postcss-layout-selector","postcss-load","postcss-smart-import","prepublish-lib","rollup-plugin-relink","systemjs-plugin-css-modules","vuex-validator"]
+["gulp-postcss-modules","gulp-vuesplit","pkg-resolve","postcss-font-system","postcss-layout-selector","postcss-load","postcss-smart-import","prepublish","prepublish-lib","rollup-plugin-rebase","rollup-plugin-relink","systemjs-plugin-css-modules","vue-locale","vuex-validator"]

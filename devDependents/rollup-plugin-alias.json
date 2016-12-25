@@ -1,1 +1,1 @@
-["dash-sdk","event-context","mastic-polyfills","preact-intl","preact-redux","precharts","redux-api-call","relim","simple-react-bootstrap"]
+["bang-ui","dash-sdk","editorconfig-jxa","event-context","filament-sdk","fis-msprd-vue_2_1_2","fis-msprd-vue_2_1_3","fis-msprd-vue_2_1_4","fis-msprd-vue_2_1_5","fis-msprd-vue_2_1_6","lego-core","lego-ui","mastic-polyfills","preact-intl","preact-redux","precharts","redux-api-call","relim","riot","riot-forms","simple-react-bootstrap","vue"]

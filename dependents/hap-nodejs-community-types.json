@@ -1,1 +1,1 @@
-["homebridge-accessory-neurio","homebridge-platform-snmp"]
+["homebridge-accessory-neurio","homebridge-mcuiot","homebridge-platform-aqe","homebridge-platform-snmp","homebridge-platform-yoctopuce"]

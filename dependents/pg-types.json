@@ -1,1 +1,1 @@
-["patio","pg-libpq","pg-native","pg.js"]
+["patio","pg","pg-keepalive-fixed","pg-libpq","pg-native","pg.js"]

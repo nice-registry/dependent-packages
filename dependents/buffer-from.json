@@ -1,1 +1,1 @@
-["gulp-rollup"]
+["cardboard","cardboard-upgrade","clowncar","gdeploy","gulp-rollup","html-tokenize","hyperquest","localstorage-down","pouchdb","pouchdb-adapter-leveldb-core","pouchdb-ajax","pouchdb-binary-utils","pouchdb-node"]

@@ -1,1 +1,1 @@
-["immutable-database-mariasql"]
+["immutable-automock","immutable-database-mariasql","immutable-http-client"]

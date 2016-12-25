@@ -1,1 +1,1 @@
-["node-registry-express","rest-sequelize"]
+["express-exceptions","node-registry-express","rest-sequelize"]

@@ -1,1 +1,1 @@
-["accounting-backend","mysql-promise-plus","pg-promise-plus","sql-promise","sqlite-promise"]
+["accounting-backend","backend-plus","mysql-promise-plus","pg-promise-plus","run-sql","sql-promise","sqlite-promise"]

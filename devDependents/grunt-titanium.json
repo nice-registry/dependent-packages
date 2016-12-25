@@ -1,1 +1,1 @@
-["grunt-alloy","grunt-titaniumifier","liferay-connector","power-templates","ti-commonjs","ti-console","ti-fs","ti-html2as","ti-mocha","ti-soap","ti-superagent","titanium-os","vm-titanium"]
+["grunt-alloy","grunt-titaniumifier","liferay-connector","power-templates","ti-commonjs","ti-console","ti-fs","ti-html2as","ti-mocha","ti-soap","ti-superagent","titanium-os","titaniumifier","vm-titanium"]

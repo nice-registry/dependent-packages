@@ -1,1 +1,1 @@
-["dind-proxy","docker-logentries","docker-loghose","docker-logio","docker-stats"]
+["dind-proxy","docker-logentries","docker-loghose","docker-logio","docker-stats","sematext-agent-nginx"]

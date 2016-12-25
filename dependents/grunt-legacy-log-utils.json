@@ -1,1 +1,1 @@
-["grunt-http-post-deploy"]
+["grunt-http-post-deploy","grunt-legacy-log"]

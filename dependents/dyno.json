@@ -1,1 +1,1 @@
-["cardboard","dynamodb-test","dynamodb-touch","kine","watchbot-progress"]
+["cardboard","cardboard-list","cardboard-upgrade","dynamodb-migrator","dynamodb-replicator","dynamodb-test","dynamodb-touch","kine","watchbot","watchbot-progress"]

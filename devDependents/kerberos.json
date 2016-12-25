@@ -1,1 +1,1 @@
-["habitica","mongodb-bulk-stream","mongodb-elasticsearch-river","mongodb-tail","mongoose-beautiful-unique-validation","mongoose-unique-validation","mydb-observer","paperdrone"]
+["aws-mocks","habitica","mongodb-bulk-stream","mongodb-elasticsearch-river","mongodb-tail","mongoose-beautiful-unique-validation","mongoose-unique-validation","mydb-observer","paperdrone","parse-aws-firehose-logger-adapter","suricate"]

@@ -1,1 +1,1 @@
-["amqp-retry.node","microkit"]
+["amqp-helper","amqp-retry.node","miau","microkit"]

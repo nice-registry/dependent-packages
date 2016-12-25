@@ -1,1 +1,1 @@
-["gulp-postmortem","mocha-testdata","monitorctrlc"]
+["gulp-jslint-simple","gulp-postmortem","mocha-testdata","monitorctrlc","multi-bundle"]

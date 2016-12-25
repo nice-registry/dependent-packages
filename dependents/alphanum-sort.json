@@ -1,1 +1,1 @@
-["postcss-minify-params","postcss-unique-selectors"]
+["postcss-minify-params","postcss-minify-selectors","postcss-unique-selectors"]

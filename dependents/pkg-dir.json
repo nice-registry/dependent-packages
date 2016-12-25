@@ -1,1 +1,1 @@
-["babel-plugin-files","bin-dir","check-installed-dependencies","dojo-cli","eslint-module-utils","grunt-dojo2","npm-cli-dir","pkg-dir-cli","runscripts","shrinkwarp","sigh-ts","unbundle"]
+["babel-plugin-files","bin-dir","check-installed-dependencies","dojo-cli","dojo-cli-create-app","eslint-module-utils","find-cache-dir","generator-graphql","grunt-dojo2","npm-check","npm-check-interactive","npm-cli-dir","pkg-dir-cli","runscripts","shrinkwarp","sigh-ts","unbundle"]

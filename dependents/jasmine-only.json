@@ -1,1 +1,1 @@
-["grunt-jasmine-bundle"]
+["grunt-jasmine-bundle","jest-cli-browser-support"]

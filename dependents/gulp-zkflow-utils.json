@@ -1,1 +1,1 @@
-["gulp-zkflow-angular","zkflow-task-assets","zkflow-task-browserify","zkflow-task-eslint","zkflow-task-jasmine","zkflow-task-karma"]
+["gulp-zkflow-angular","zkflow-angular","zkflow-task-assets","zkflow-task-browserify","zkflow-task-clean","zkflow-task-eslint","zkflow-task-jasmine","zkflow-task-karma"]

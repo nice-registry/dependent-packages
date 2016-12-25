@@ -1,1 +1,1 @@
-["adonis-ace","adonis-ally","adonis-antl","adonis-auth","adonis-binding-resolver","adonis-encrypter","adonis-fold","adonis-hashids","adonis-jsonapi","adonis-lucid","adonis-mail-provider","adonis-middleware","adonis-rate-limiter","adonis-redis"]
+["adonis-ace","adonis-ally","adonis-antl","adonis-auth","adonis-binding-resolver","adonis-encrypter","adonis-fold","adonis-framework","adonis-hashids","adonis-jsonapi","adonis-lucid","adonis-mail-provider","adonis-middleware","adonis-rate-limiter","adonis-redis","adonis-websocket","node-flydrive","oppenheimer-adonis-ally"]

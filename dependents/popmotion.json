@@ -1,1 +1,1 @@
-["popmotion-aframe-role","popmotion-collision","popmotion-react-dom","popmotion-scroll-to"]
+["popmotion-action-inertia","popmotion-adapter-aframe","popmotion-adapter-three","popmotion-aframe-role","popmotion-collision","popmotion-debounce","popmotion-react-dom","popmotion-scroll-to","popmotion-throttle"]

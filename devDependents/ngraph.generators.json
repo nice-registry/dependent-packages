@@ -1,1 +1,1 @@
-["ngraph.ascii","ngraph.asyncforce","ngraph.centrality","ngraph.fabric","ngraph.forcelayout.nd","ngraph.forcelayout.v2","ngraph.forcelayout3d","ngraph.graph-fork","ngraph.matrix","ngraph.pixel","ngraph.pixi","ngraph.shremlin","ngraph.three"]
+["ngraph.ascii","ngraph.asyncforce","ngraph.centrality","ngraph.fabric","ngraph.forcelayout","ngraph.forcelayout.nd","ngraph.forcelayout.v2","ngraph.forcelayout3d","ngraph.graph-fork","ngraph.matrix","ngraph.pagerank","ngraph.pixel","ngraph.pixi","ngraph.shremlin","ngraph.three"]

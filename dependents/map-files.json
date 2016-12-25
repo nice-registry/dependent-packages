@@ -1,1 +1,1 @@
-["base-loader","handlebars-helper-include","head-master","map-requires","partials","sass-glob-importer","template-utils","webpack-windows"]
+["base-loader","file-reader","handlebars-helper-include","head-master","map-requires","partials","sass-glob-importer","template-utils","webpack-windows"]

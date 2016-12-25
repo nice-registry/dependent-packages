@@ -1,1 +1,1 @@
-["cardboard","geojson-coords","geojson-cover","geojson-merge","geojsonapp","geomorph","geotype","koop-geojson-file","mapbox-gl-draw","send-dataset","static-map-string-format","turf-buffer","turf-normalize","wrangel"]
+["cardboard","deck.gl","geojson-coords","geojson-cover","geojson-index","geojson-mapnikify","geojson-merge","geojsonapp","geomorph","geotype","koop-geojson-file","mapbox-gl-draw","probematch","send-dataset","static-map-string-format","turf-buffer","turf-normalize","wrangel"]

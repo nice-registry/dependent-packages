@@ -1,1 +1,1 @@
-["delay","p-debounce","p-limit","p-map","p-queue","p-throttle","p-time","problumz","promise-time","random-float","random-int","time-span"]
+["delay","p-debounce","p-limit","p-locate","p-map","p-min-delay","p-queue","p-throttle","p-time","problumz","promise-concurrent","promise-time","random-float","random-int","time-span"]

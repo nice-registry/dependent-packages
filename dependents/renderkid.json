@@ -1,1 +1,1 @@
-["bonny-cli-renderer","redux-cli-logger","redux-node-logger"]
+["bonny-cli-renderer","pretty-error","redux-node-logger"]

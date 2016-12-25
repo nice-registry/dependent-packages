@@ -1,1 +1,1 @@
-["jstransformer-posthtml","posthtml-cli","posthtml-code-gen","posthtml-loader"]
+["grunt-posthtml","jstransformer-posthtml","posthtml-cli","posthtml-code-gen","posthtml-loader"]

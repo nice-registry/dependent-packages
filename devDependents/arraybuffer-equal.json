@@ -1,1 +1,1 @@
-["array-buffer-from-string","base32-decode","forked.hls.js","hex-to-array-buffer","metacdn.hls.js","murmur-128","murmur-32","murmur128","read-blob"]
+["array-buffer-from-string","base32-decode","codem-isoboxer","forked.hls.js","hex-to-array-buffer","hls.js","metacdn.hls.js","murmur-128","murmur-32","murmur128","read-blob"]

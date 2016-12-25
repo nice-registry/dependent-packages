@@ -1,1 +1,1 @@
-["automation-api","haui","lirc-api","lirc-state-api","pimatic-lirc"]
+["automation-api","haui","lirc-api","lirc-state-api","lirc_web","node-red-contrib-lirc","pimatic-lirc"]

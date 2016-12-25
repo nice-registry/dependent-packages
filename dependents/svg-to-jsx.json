@@ -1,1 +1,1 @@
-["gulp-svg-to-jsx","svg-to-jsx-loader"]
+["gulp-svg-to-jsx","svg-jsx-loader","svg-to-jsx-loader"]

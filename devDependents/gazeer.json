@@ -1,1 +1,1 @@
-["weex-loader","weex-require-polyfill","weex-vdom-tester"]
+["spon-weex-loader","weex-loader","weex-require-polyfill","weex-vdom-tester","weex-vue-migration"]

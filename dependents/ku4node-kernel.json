@@ -1,1 +1,1 @@
-["ku4node-infrastructure"]
+["ku4node-account","ku4node-authentication","ku4node-data","ku4node-infrastructure","ku4node-persistence","ku4node-session","ku4node-social"]

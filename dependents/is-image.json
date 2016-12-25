@@ -1,1 +1,1 @@
-["all-image","article-json-to-contenteditable","gulp-append-url-version","hubot-hangupsjs","image-resizer-middleware","is-image-url","limonade","ls-recursive","mister-lister","resize-images","slate-drop-or-paste-images","slate-plugins-image"]
+["all-image","article-json-to-contenteditable","gulp-append-url-version","hubot-hangupsjs","image-resizer-middleware","imagemin-cli-preserve-dir-structure","is-image-url","limonade","ls-recursive","mister-lister","resize-images","slate-drop-or-paste-images","slate-plugins-image"]

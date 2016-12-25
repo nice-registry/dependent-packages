@@ -1,1 +1,1 @@
-["mof-bottleneck","mof-normalizer","mof-reqadapter","mof-request","mof-seenreq","mof-statsdclient","mof-uarotate"]
+["bdautil","mof-bottleneck","mof-charsetparser","mof-cheerio","mof-iconv","mof-normalizer","mof-recheck","mof-reqadapter","mof-request","mof-seenreq","mof-statsdclient","mof-uarotate","mof-validbody"]

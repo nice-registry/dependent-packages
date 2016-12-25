@@ -1,1 +1,1 @@
-["pouchdb-abstract-mapreduce","pouchdb-adapter-fs"]
+["pouchdb-abstract-mapreduce","pouchdb-adapter-fs","transform-pouch"]

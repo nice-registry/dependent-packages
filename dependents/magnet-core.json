@@ -1,1 +1,1 @@
-["magnet-bunyan","magnet-config","magnet-kue","magnet-mailer","magnet-respond","magnet-spdy"]
+["magnet-agenda","magnet-bunyan","magnet-config","magnet-helmet","magnet-joi","magnet-jwt","magnet-kue","magnet-mailer","magnet-migrate","magnet-mongoose","magnet-passport","magnet-respond","magnet-router","magnet-session","magnet-spdy","magnet-vorpal"]

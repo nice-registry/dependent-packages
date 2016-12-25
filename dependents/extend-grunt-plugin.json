@@ -1,1 +1,1 @@
-["grunt-appc-ci","grunt-bootloader","grunt-pact-js","grunt-phpmd-runner","grunt-phpunit-runner","grunt-providesupport-scaffolding","grunt-sg-release","grunt-sheath"]
+["grunt-appc-ci","grunt-appc-js","grunt-bootloader","grunt-pact-js","grunt-phpmd-runner","grunt-phpunit-runner","grunt-providesupport-scaffolding","grunt-sg-release","grunt-sheath"]

@@ -1,1 +1,1 @@
-["posthtml-loader","spike-records"]
+["posthtml-loader","posthtml-mixins","spike-records"]

@@ -1,1 +1,1 @@
-["flumedb-memlog","flumelog-level","flumelog-memory"]
+["aligned-block-file","flumedb-memlog","flumelog-level","flumelog-memory","flumeview-level","flumeview-reduce"]

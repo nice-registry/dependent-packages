@@ -1,1 +1,1 @@
-["babel-bits","bit-bundler","bit-bundler-browserpack","bit-bundler-splitter","bit-bundler-utils","bit-imports","bit-loader-babel","bit-loader-js","bit-loader-npm","bit-loader-shimmer","bit-plugin-builder","pulling-deps","src-dest"]
+["babel-bits","bit-bundler","bit-bundler-browserpack","bit-bundler-extractsm","bit-bundler-minifyjs","bit-bundler-splitter","bit-bundler-utils","bit-imports","bit-loader","bit-loader-babel","bit-loader-js","bit-loader-npm","bit-loader-shimmer","bit-plugin-builder","pulling-deps","src-dest"]

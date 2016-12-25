@@ -1,1 +1,1 @@
-["dy-ioredis","redis-knack","tomqueue"]
+["dy-ioredis","ioredis","redis","redis-knack","tomqueue"]

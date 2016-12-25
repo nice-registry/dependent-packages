@@ -1,1 +1,1 @@
-["allclose","array-almost-equal","comparable-storable-types","conjugate-gradient","csr-matrix","dirichlet","kdb-tree-store","mumath","plot-grid","rsqrt","stringify-pi","test-fuzzy-array"]
+["allclose","array-almost-equal","comparable-storable-types","conjugate-gradient","csr-matrix","dirichlet","earth-mesh","kdb-tree-store","mumath","plot-grid","rsqrt","sequence-pattern","stringify-pi","test-fuzzy-array"]

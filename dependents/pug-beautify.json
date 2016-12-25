@@ -1,1 +1,1 @@
-["pug-beautifier"]
+["grunt-pug-beautify","gulp-pug-beautify","pug-beautifier"]

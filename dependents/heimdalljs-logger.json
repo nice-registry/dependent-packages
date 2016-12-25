@@ -1,1 +1,1 @@
-["broccoli-diffing-writer","broccoli-merge-trees","broccoli-persistent-filter","broccoli-rollup","broccoli-whatchanged","ember-cli","ember-cli-broccoli-sane-watcher","fs-tree-diff","telling-stories"]
+["atomable","blprnt","broccoli","broccoli-dependency-funnel","broccoli-diffing-writer","broccoli-merge-trees","broccoli-persistent-filter","broccoli-rollup","broccoli-whatchanged","ember-cli","ember-cli-broccoli-sane-watcher","ember-cli-optimize","fs-tree-diff","hash-for-dep","heimdalljs-fs-monitor","telling-stories"]

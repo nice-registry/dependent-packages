@@ -1,1 +1,1 @@
-["cheetahmail-api","cordova-plugin-mobile-explorer","feathers-passport","fi-auth","fi-security","fi-seed-component-auth","grunt-upload-file","heroku-bouncer","level-session-store","medea-session-store","request-persistent"]
+["cheetahmail-api","cordova-plugin-amplify-pay","cordova-plugin-amplify-payment","cordova-plugin-mobile-explorer","ep_mypads","feathers-passport","fi-auth","fi-security","fi-seed-component-auth","gpii-handlebars","gpii-pouchdb","grunt-upload-file","heroku-bouncer","level-session-store","medea-session-store","request-persistent","umd-tough-cookie"]

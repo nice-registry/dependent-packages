@@ -1,1 +1,1 @@
-["html-js-css-webpack-plugin","html-res-webpack-plugin"]
+["html-js-css-webpack-plugin","html-res-replace-webpack-plugin","html-res-webpack-plugin","steamer-react"]

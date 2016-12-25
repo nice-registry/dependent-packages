@@ -1,1 +1,1 @@
-["jsmodbus","node-modbus","stampit-state-machine"]
+["iobroker.modbus","jsmodbus","node-modbus","stampit-state-machine"]

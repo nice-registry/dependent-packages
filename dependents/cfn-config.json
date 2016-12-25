@@ -1,1 +1,1 @@
-["cfn-runner"]
+["cfn-runner","serverless-synchronous-resource-plugin"]

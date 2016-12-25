@@ -1,1 +1,1 @@
-["http-middleware","http-ndjson","krampus","lsofi","middleware-json-parse","multipart-read-stream","node-middleware-log","server-csrf-check","server-render","server-router","size-stream"]
+["http-middleware","http-ndjson","krampus","lsofi","middleware-json-parse","multipart-read-stream","node-middleware-log","server-csrf-check","server-render","server-router","server-sink","size-stream"]

@@ -1,1 +1,1 @@
-["archiver-staging","assets-analyser","blockparser","bower-requirejs","cod","fpm","grunt-hash-required","iffront","moz","nyx_server","pkg-generator","twod"]
+["archiver-staging","assets-analyser","blockparser","bower-requirejs","cod","fpm","grunt-bower-dependencies-to-rjs","grunt-hash-required","grunt-ifbuild","grunt-resfetch","grunt-tpltools","iffront","moz","nyx_server","pkg-generator","twod","wm"]

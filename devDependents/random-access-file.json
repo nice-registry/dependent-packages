@@ -1,1 +1,1 @@
-["dat-folder-db","dat-ping","hypelight","hypercore-tree-storage","hyperdrive","hyperdrive-browserify","hyperdrive-http","hyperdrive-import-files","hyperdrive-stats","hyperdrive-to-zip-stream","hyperfeed","random-access-stream","selective-archive"]
+["archiver-api","dat-ping","dat-transform","hypelight","hypercore-tree-storage","hyperdrive","hyperdrive-browserify","hyperdrive-http","hyperdrive-import-files","hyperdrive-network-speed","hyperdrive-stats","hyperdrive-to-zip-stream","hyperfeed","random-access-stream","selective-archive"]

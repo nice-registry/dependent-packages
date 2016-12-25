@@ -1,1 +1,1 @@
-["fis-deploy-uglify-js","fis-optimizer-uglify-js","remove-module","udebug"]
+["fis-deploy-uglify-js","fis-optimizer-uglify-js","nyc","remove-module","udebug"]

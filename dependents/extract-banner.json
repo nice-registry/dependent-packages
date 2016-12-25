@@ -1,1 +1,1 @@
-["has-banner","strip-banner"]
+["has-banner","rollup-plugin-strip-banner","strip-banner"]

@@ -1,1 +1,1 @@
-["jsonrpc-id-transform","simple-moving-avg","vinyl"]
+["gulp-uglify","jsonrpc-id-transform","simple-moving-avg","vinyl"]

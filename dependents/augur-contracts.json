@@ -1,1 +1,1 @@
-["augur-client","ethrpc"]
+["augur-client","augur.js","ethereumjs-connect","ethrpc","ramble"]

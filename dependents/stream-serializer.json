@@ -1,1 +1,1 @@
-["concurrent-stream2","level-binomial-replication","level-replicate","live-data","message-stream","mux-demux","nodeconf2013","remote-events","repl-stream","repred","rpc-stream","rpc-stream-fork","rpc-streamx","scuttlebutt"]
+["concurrent-stream2","level-binomial-replication","level-master","level-replicate","live-data","message-stream","mux-demux","nodeconf2013","remote-events","repl-stream","repred","rpc-stream","rpc-stream-fork","rpc-streamx","scuttlebutt"]

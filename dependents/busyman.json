@@ -1,1 +1,1 @@
-["ble-packet","ble-shepherd","cc-bnp","coap-node","coap-shepherd","freebird-netcore-ble","freebird-netcore-coap","freebird-netcore-mqtt","freebird-netcore-zigbee","mqtt-node","mqtt-shepherd","smartobject","zcl-id","ziee","zigbee-shepherd","zive"]
+["ble-packet","ble-shepherd","cc-bnp","coap-node","coap-shepherd","freebird","freebird-base","freebird-netcore-ble","freebird-netcore-coap","freebird-netcore-mqtt","freebird-netcore-zigbee","mqtt-node","mqtt-shepherd","objectbox","smartobject","zcl-id","ziee","zigbee-shepherd","zive"]

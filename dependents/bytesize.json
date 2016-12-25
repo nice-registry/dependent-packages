@@ -1,1 +1,1 @@
-["clientkit","jquery-builder"]
+["clientkit","clientkit-task","grunt-bytesize","jquery-builder"]

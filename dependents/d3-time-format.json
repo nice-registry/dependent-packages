@@ -1,1 +1,1 @@
-["chi-datapackage","d3","d3-fluid","d3-scale","d3v4","datalib","ember-cli-d3-primitive","illustrate","jsontableschema","lucid","prong","react-axis","react-easy-chart-mghadley","react-timeseries-charts","refresh-aliyun-cdn"]
+["chi-datapackage","d3","d3-fluid","d3-scale","d3v4","datalib","ember-cli-d3-primitive","giotto","illustrate","jsontableschema","lucid","lucid-ui","prong","react-easy-chart-mghadley","react-timeseries-barchart","react-timeseries-charts","refresh-aliyun-cdn","vega-loader","vega-parser"]

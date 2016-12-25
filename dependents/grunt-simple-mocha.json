@@ -1,1 +1,1 @@
-["grunt-set-node","marrow","node-red-contrib-homegear-mqtt","node-red-habanero","periodic.app.web-app","periodic.app.web-client","periodic.app.web-service","xively"]
+["grunt-set-node","marrow","mas-js-sdk","node-red-contrib-homegear-mqtt","node-red-habanero","periodic.app.web-app","periodic.app.web-client","periodic.app.web-service","xively"]

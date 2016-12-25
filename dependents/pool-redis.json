@@ -1,1 +1,1 @@
-["pool-redis-promise"]
+["arcane-middleware-session","pool-redis-promise"]

@@ -1,1 +1,1 @@
-["charettejs","export-wildcard-loader"]
+["charettejs","export-all-loader","ng-hot-analyzer"]

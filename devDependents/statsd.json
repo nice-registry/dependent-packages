@@ -1,1 +1,1 @@
-["m-require","pm2-ant","sphere-products-availability-sync"]
+["m-require","pm2-ant","sphere-products-availability-sync","statsd-cloudwatch-backend-units"]

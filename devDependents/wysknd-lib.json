@@ -1,1 +1,1 @@
-["grunt-wysknd-aws-cf-generator","s4-client-lib","wysknd-args","wysknd-aws-cf-generator","wysknd-aws-lambda","wysknd-common","wysknd-error","wysknd-identity","wysknd-log","zmq-lib"]
+["grunt-wysknd-aws-cf-generator","iot-client-lib","s4-client-lib","wysknd-args","wysknd-aws-cf-generator","wysknd-aws-lambda","wysknd-common","wysknd-error","wysknd-identity","wysknd-log","zmq-lib"]

@@ -1,1 +1,1 @@
-["frotz-interfacer","job-maestro","sequelize-session-store","slush-sequelize"]
+["frotz-interfacer","job-maestro","sequelize-session-store","slush-sequelize","vcap-services-parser"]

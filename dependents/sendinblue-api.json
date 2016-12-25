@@ -1,1 +1,1 @@
-["gulp-sendinblue"]
+["gulp-sendinblue","nodebb-plugin-emailer-sendinblue"]

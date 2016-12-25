@@ -1,1 +1,1 @@
-["gulp-rollup"]
+["fable-compiler","fable-compiler-netcore","gulp-rollup"]

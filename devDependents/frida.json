@@ -1,1 +1,1 @@
-["frida-device-watcher","frida-get-os","frida-java","frida-load","frida-read-process-memory"]
+["frida-device-watcher","frida-get-ifaddrs","frida-get-os","frida-java","frida-load","frida-read-process-memory"]

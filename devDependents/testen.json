@@ -1,1 +1,1 @@
-["postcss-at-rules-variables","posthtml-beautify","posthtml-cli","posthtml-remove-tags"]
+["post-load-plugins","post-sequence","postcss-at-rules-variables","postcss-attribute-selector-prefix","posthtml-beautify","posthtml-cli","posthtml-remove-tags"]

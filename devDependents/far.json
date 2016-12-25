@@ -1,1 +1,1 @@
-["airbrake","airbrake-johnnyhalife","better-metrics","combined-stream","delayed-stream","fake","fast-or-slow","form-data-verbling","front-airbrake","multipart-parser","retry","stack-trace"]
+["airbrake","airbrake-johnnyhalife","better-metrics","combined-stream","combined-stream-wait-for-it","delayed-stream","fake","fast-or-slow","form-data","form-data-verbling","front-airbrake","multipart-parser","retry","stack-trace","strict-form-data"]

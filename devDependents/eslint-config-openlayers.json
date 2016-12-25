@@ -1,1 +1,1 @@
-["closure-util","ngeo","ol3-cesium","ol3-google-maps","openlayers","openlayers-builder-util"]
+["closure-util","eslint-plugin-openlayers-internal","ngeo","ol-mapbox-style","ol3-cesium","ol3-google-maps","openlayers","openlayers-builder-util"]

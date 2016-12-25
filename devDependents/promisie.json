@@ -1,1 +1,1 @@
-["periodicjs.ext.cron_service","periodicjs.ext.dblogger"]
+["periodicjs.core.controller","periodicjs.core.data","periodicjs.core.protocols","periodicjs.core.responder","periodicjs.ext.cron_service","periodicjs.ext.dblogger"]

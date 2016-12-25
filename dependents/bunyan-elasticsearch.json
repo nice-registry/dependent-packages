@@ -1,1 +1,1 @@
-["bloghub-common","fable-log","niu-elasticsearch-bunyan-logger-middleware"]
+["bloghub-common","fable-log","niu-elasticsearch-bunyan-logger-middleware","restify-log-middleware"]

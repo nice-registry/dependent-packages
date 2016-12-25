@@ -1,1 +1,1 @@
-["babel-plugin-root-require","bozon","child-process-debug","dce-paella-extensions","firekeeper","fspvr","microservicebus.core","modulelog","ned-transpile","nowsecs","office-ui-fabric-js","shifu-wreck","sonparser","tcp-connscan","wreck"]
+["babel-plugin-root-require","bozon","child-process-debug","dce-paella-extensions","firekeeper","fspvr","levenlabs-log","modulelog","ned-transpile","node-bigcommerce","nowsecs","office-ui-fabric-js","shifu-wreck","sonparser","tcp-connscan","wreck"]

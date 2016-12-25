@@ -1,1 +1,1 @@
-["babel-preset-babili"]
+["babel-preset-babili","prepublish","prepublish-lib"]

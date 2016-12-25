@@ -1,1 +1,1 @@
-["couchdb-repl","metadata-js","metadata-pouchdb","pouchdb-dump-cli","pouchdb-http","pouchdb-memory","pouchdb-react-native","pouchdb-repository","pouchy","vault-demo","waterline-pouchdb"]
+["couchdb-repl","graphql-pouch","metadata-js","metadata-pouchdb","pouchdb-dump-cli","pouchdb-http","pouchdb-idb","pouchdb-memory","pouchdb-react-native","pouchdb-repository","pouchdb-server","pouchy","rxdb","vault-demo","waterline-pouchdb","worker-pouch"]

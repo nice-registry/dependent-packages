@@ -1,1 +1,1 @@
-["koa-statsd","telegraf-statsd"]
+["koa-statsd","micro-stats","telegraf-statsd"]

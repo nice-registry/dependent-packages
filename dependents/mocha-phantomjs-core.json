@@ -1,1 +1,1 @@
-["grunt-mocha-phantomjs","gulp-mocha-phantomjs","mocha-phantomjs","mocha-phantomjs-papandreou","shunter"]
+["build-tools","direct-dev","grunt-mocha-phantomjs","gulp-mocha-phantomjs","mocha-phantomjs","mocha-phantomjs-papandreou","shunter"]

@@ -1,1 +1,1 @@
-["grunt-styledown","gulp-styledown"]
+["broccoli-styledown","grunt-styledown","gulp-styledown"]

@@ -1,1 +1,1 @@
-["abase-db","hapi-auth-github","hapi-error","hapi-riot","labels"]
+["abase-db","abase-validate","hapi-auth-github","hapi-auth-jwt2","hapi-error","hapi-riot","hapi-socketio-redis-chat-example","labels","pg-challenges","pg-helpers","pg-people","tags-system"]

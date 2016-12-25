@@ -1,1 +1,1 @@
-["grunt-dredd","todomvc-api"]
+["grunt-dredd","roc-plugin-dredd","todomvc-api"]

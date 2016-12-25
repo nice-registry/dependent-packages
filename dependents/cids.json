@@ -1,1 +1,1 @@
-["ipfs-block-service","ipfs-unixfs-engine","ipld-dag-cbor","ipld-dag-pb","ipld-resolver"]
+["ipfs-bitswap","ipfs-block-service","ipfs-unixfs-engine","ipld-dag-cbor","ipld-dag-pb","ipld-eth-account-snapshot","ipld-eth-block","ipld-eth-trie","ipld-resolver","js-ipld-eth-trie","js-ipld-eth-tx","merkle-trie"]

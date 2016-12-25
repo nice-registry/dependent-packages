@@ -1,1 +1,1 @@
-["async.auto","async.priorityqueue","async.transform","async.util.isarraylike","async.util.queue","async.waterfall"]
+["async.auto","async.priorityqueue","async.transform","async.util.isarraylike","async.util.queue","async.waterfall","is-definitely-array"]

@@ -1,1 +1,1 @@
-["ms-amqp-transport","ms-mailer-client","ms-payments-restify","ms-socket.io-adapter-amqp","ms-users-restify","mservice","restify-utils"]
+["ms-amqp-transport","ms-files-restify","ms-mailer-client","ms-payments-restify","ms-socket.io-adapter-amqp","ms-users-restify","mservice","restify-utils"]

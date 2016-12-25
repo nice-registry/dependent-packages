@@ -1,1 +1,1 @@
-["egg","tcp-base"]
+["cluster-client","egg","egg-boilerplate-empty","egg-boilerplate-framework","egg-boilerplate-plugin","egg-boilerplate-simple","tcp-base"]

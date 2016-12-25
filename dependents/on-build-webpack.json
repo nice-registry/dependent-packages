@@ -1,1 +1,1 @@
-["bb-filesystem-tools","bb-helpers","webpack-clean-manifest-plugin"]
+["bb-filesystem-tools","bb-helpers","jscripty","laravel-webpack-cleanup-plugin","vmake","webpack-clean-manifest-plugin"]

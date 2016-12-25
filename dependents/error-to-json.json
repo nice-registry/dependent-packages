@@ -1,1 +1,1 @@
-["muxdemux","primus-graphql"]
+["muxdemux","primus-graphql","winston-azure-blob-transport"]

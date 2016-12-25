@@ -1,1 +1,1 @@
-["broccoli-bem","broccoli-concat","broccoli-sourcemap-concat"]
+["broccoli-bem","broccoli-concat","broccoli-sourcemap-concat","cordova-plugin-amplify-pay","cordova-plugin-amplify-payment"]

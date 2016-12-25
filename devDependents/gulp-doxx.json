@@ -1,1 +1,1 @@
-["angular-form-for","express-toybox","fl-assert","fl-form-builder","fl-multi-calendar-2","hashdo-analytics-keen","hashdo-db-mongo","jasmine-scope-check","mongoose-q","node-toybox","task-runner-js","yo.js"]
+["angular-form-for","express-toybox","fl-assert","fl-multi-calendar-2","hashdo","hashdo-analytics-keen","hashdo-db-mongo","hashdo-web","influxdb-winston","jasmine-scope-check","mongoose-q","node-toybox","task-runner-js","yo.js"]

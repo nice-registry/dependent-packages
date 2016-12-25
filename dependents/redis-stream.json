@@ -1,1 +1,1 @@
-["node-event-store-redis","node-stream-cache","redis-stream-store","salient_for_meteor"]
+["node-event-store-redis","node-stream-cache","redis-random-data-generator","redis-stream-store","salient","salient_for_meteor"]

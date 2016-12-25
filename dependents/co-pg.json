@@ -1,1 +1,1 @@
-["Mkoa-pg-session","es-migrate","kirjato","koa-pg","koa-pg-session","node-stores","pg.mayflower"]
+["Mkoa-pg-session","es-migrate","kirjato","koa-pg","koa-pg-session","koa-postgresql-pool-connector","node-stores","pg.mayflower"]

@@ -1,1 +1,1 @@
-["ipfs-block-service","ipld-dag-cbor"]
+["ipfs-block-service","ipld-dag-cbor","ipld-eth-account-snapshot","ipld-eth-block","ipld-eth-trie","js-ipld-eth-state-trie","js-ipld-eth-trie","js-ipld-eth-tx"]

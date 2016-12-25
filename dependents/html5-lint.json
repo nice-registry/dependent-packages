@@ -1,1 +1,1 @@
-["bicorn","grunt-html5-lint","grunt-lint5"]
+["bicorn","grunt-html5-lint","grunt-html5-validate","grunt-lint5","gulp-html5-lint","html-auditor"]

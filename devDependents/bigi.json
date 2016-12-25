@@ -1,1 +1,1 @@
-["bitcoinjs-message","hdkey","metaco-client","secp256k1-browserify"]
+["bitcoinjs-message","hdkey","hdkey.js","metaco-client","secp256k1-browserify","secp256k1.js"]

@@ -1,1 +1,1 @@
-["broadway-restify","socketstream","ss-generator","vorka"]
+["broadway-restify","poller","socketstream","ss-generator","vorka"]

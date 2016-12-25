@@ -1,1 +1,1 @@
-["cordova-create","pgb-cordova-lib"]
+["cordova-create","cordova-lib","cordova-plugin-amplify-pay","cordova-plugin-amplify-payment","pgb-cordova-lib"]

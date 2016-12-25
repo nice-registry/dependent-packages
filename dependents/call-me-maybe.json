@@ -1,1 +1,1 @@
-["amqplib-rpc","json-schema-id-ref-parser","json-schema-ref-parser","live-index","primus-graphql","readdir-enhanced","rethinkdb-stream","swagmock"]
+["amqplib-rpc","json-schema-id-ref-parser","json-schema-ref-parser","live-index","primus-graphql","readdir-enhanced","rethinkdb-primus","rethinkdb-stream","swagger-parser","swagger-parser-x","swagmock"]

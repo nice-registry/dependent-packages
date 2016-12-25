@@ -1,1 +1,1 @@
-["axis3d","gl-engine","orbit-controls","quat-from-unit-vec3","quat-slerp","scene-tree"]
+["axis3d","gl-engine","kindred-node","orbit-controls","quat-from-unit-vec3","quat-slerp","rotate-vector-about-axis","scene-tree"]

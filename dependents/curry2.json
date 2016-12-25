@@ -1,1 +1,1 @@
-["array-concat","array-groupby","array-mapcat","arraymap","inarray","json-parse","logical-or","orderby-time","product","program-version","regexp-map","selectn","string-split","take-last","unary"]
+["array-concat","array-groupby","array-mapcat","array.filter","arraymap","inarray","json-parse","logical-or","orderby-time","product","program-version","regexp-map","selectn","string-split","take-last","unary"]

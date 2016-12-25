@@ -1,1 +1,1 @@
-["mendel-development-loader","mendel-development-middleware","mendel-manifest-extract-bundles","mendel-requirify"]
+["mendel","mendel-browserify","mendel-development-loader","mendel-development-middleware","mendel-manifest-extract-bundles","mendel-requirify"]

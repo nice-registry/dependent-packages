@@ -1,1 +1,1 @@
-["amqp-logging","amqp-logging-printer","amqp-test-fixture-runner","azure-event-hubs","azure-handler","azure-iot-amqp-base","meshblu-core-worker-amqp","mqlight","mqlight-dev","qpid-tools","queue-adapter","sbus-amqp10","seneca-servicebus-transport","tim-azure-event-hubs"]
+["amqp-logging","amqp-logging-printer","amqp-test-fixture-runner","azure-event-hubs","azure-handler","azure-iot-amqp-base","forge-nodejs-sdk","meshblu-amqp","mqlight","mqlight-dev","qpid-tools","queue-adapter","sbus-amqp10","seneca-servicebus-transport","tim-azure-event-hubs"]

@@ -1,1 +1,1 @@
-["aws-component-inventory","aws-loopback-connector-es","awses-curator","elastic-reindex","elasticsearch-cli","elasticsearch-reindex","lambda-stash","lambda-taggable-elasticsearch-indexer","logar-curator-aws-es","pts-aws","taggable-searcher","vinyl-elasticsearch"]
+["aws-component-inventory","aws-elasticsearch-client","aws-loopback-connector-es","awses-curator","elas","elastic-reindex","elasticsearch-cli","elasticsearch-reindex","lambda-stash","lambda-taggable-elasticsearch-indexer","logar-curator-aws-es","pts-aws","taggable-searcher","vinyl-elasticsearch"]

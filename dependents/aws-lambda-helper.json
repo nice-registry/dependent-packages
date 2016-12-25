@@ -1,1 +1,1 @@
-["aws-lambda-canary","lambda-ne-classic-package-provider","lambda-taggable-createdocument","lambda-taggable-elasticsearch-indexer","lambda-taggable-s3-event-listener","tag-e-geo"]
+["aws-lambda-canary","lambda-ne-classic-package-provider","lambda-taggable-createdocument","lambda-taggable-elasticsearch-indexer","lambda-taggable-geonames-indexer","lambda-taggable-s3-event-listener","tag-e-geo"]

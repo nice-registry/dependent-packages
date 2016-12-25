@@ -1,1 +1,1 @@
-["coolog-appender-logentries","expresser-logger-logentries","logentries-dtrace","nodezoo","send-logentries","winston-logentries-config","winston-logentries-transport","winston-logentries-transport-with-rewriter","xtralife-env","xtralife-server"]
+["btrz-logger","coolog-appender-logentries","expresser-logger-logentries","logentries-dtrace","nodezoo","send-logentries","seneca-logentries","winston-logentries-config","winston-logentries-transport","winston-logentries-transport-with-rewriter","xtralife-env","xtralife-server"]

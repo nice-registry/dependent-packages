@@ -1,1 +1,1 @@
-["broccoli-css-modules","css-modules-loader-core","css-modules-loader-core-btd","css-modules-loader-core-win","css-modules-require-hook","postcss-modules-parser","postcss-modules-sync","postcss-modules-values"]
+["broccoli-css-modules","css-modules-loader-core","css-modules-loader-core-btd","css-modules-loader-core-source-map","css-modules-loader-core-win","css-modules-require-hook","postcss-modules-parser","postcss-modules-sync","postcss-modules-values","postcss-modules-values-replace","suit-up","webpackdemo"]

@@ -1,1 +1,1 @@
-["2d-polygon-contains-polygon","clean-pslg","exact-segment-intersect","linestring-intersect","red-blue-line-segment-intersect","robust-triangle-triangle-2d-intersect"]
+["2d-polygon-contains-polygon","clean-pslg","exact-segment-intersect","linestring-intersect","red-blue-line-segment-intersect","robust-triangle-triangle-2d-intersect","zipscene-geo-utils"]

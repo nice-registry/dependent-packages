@@ -1,1 +1,1 @@
-["ldp","rdf-normalize","rdf-parser-jsonld","rdf-parser-n3","rdf-parser-rdfxml","rdf-serializer-jsonld"]
+["rdf-normalize","rdf-parser-jsonld","rdf-parser-n3","rdf-parser-rdfxml","rdf-serializer-jsonld"]

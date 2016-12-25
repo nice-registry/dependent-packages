@@ -1,1 +1,1 @@
-["weex-devtool","weex-lint","weex-loader","weexify"]
+["gulp-weex","qap-cli","spon-weex-loader","weex-devtool","weex-lint","weex-loader","weexify"]

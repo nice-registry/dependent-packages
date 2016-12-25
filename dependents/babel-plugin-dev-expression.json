@@ -1,1 +1,1 @@
-["babel-preset-yoctol","babel-presets-react-production"]
+["babel-preset-yoctol","babel-presets-react-production","reactcloud-dev-server","reactcloud-webpack"]

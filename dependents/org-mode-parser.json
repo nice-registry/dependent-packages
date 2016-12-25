@@ -1,1 +1,1 @@
-["gulp-org-parser"]
+["gulp-org-parser","hexo-renderer-orgmode","org-notify.js"]

@@ -1,1 +1,1 @@
-["babel-preset-babili","better-babel-cli"]
+["babel-preset-babili","better-babel-cli","prepublish","prepublish-lib"]

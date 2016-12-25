@@ -1,1 +1,1 @@
-["db-streamer","gtfs-sequelize","pg-copy-streams-binary"]
+["db-streamer","gtfs-sequelize","pg","pg-copy-streams-binary","pg-keepalive-fixed"]

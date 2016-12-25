@@ -1,1 +1,1 @@
-["ember-arcgis-page-layout","ember-arcgis-portal-services","ember-data-arcgis-opendata","hospitalkiller","hospitalrun","torii-provider-arcgis"]
+["ember-arcgis-layout-components","ember-arcgis-layout-services","ember-arcgis-page-layout","ember-arcgis-portal-services","ember-arcgis-server-services","ember-data-arcgis-opendata","hospitalkiller","hospitalrun","torii-provider-arcgis"]

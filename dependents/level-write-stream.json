@@ -1,1 +1,1 @@
-["cache-live-stream","level-cache","level-jobs","levelidb","pinoccio-db","pouchdb","pouchdb-adapter-leveldb","pouchdb-adapter-leveldb-core-rn","pouchdb-node","prcek_pouchdb","s3-sync","s3-sync-aws","s3-sync-nooma","sublevel-migrate"]
+["level-cache","level-jobs","levelidb","pinoccio-db","pouchdb","pouchdb-adapter-leveldb","pouchdb-adapter-leveldb-core-rn","pouchdb-node","prcek_pouchdb","s3-sync","s3-sync-aws","s3-sync-nooma","sublevel-migrate"]

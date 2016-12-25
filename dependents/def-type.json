@@ -1,1 +1,1 @@
-["commonjs-injector","waterline-loader"]
+["commonjs-injector","sails-routes-helpers-maker","waterline-loader"]

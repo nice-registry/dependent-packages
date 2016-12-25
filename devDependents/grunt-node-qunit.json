@@ -1,1 +1,1 @@
-["betajs-scoped","betajs-shims","craftyjs","irrelon-emitter","irrelon-sse","jamesjwood-pouchdb","js-ffmpeg","jsonize-ffmpeg-task","jsonize-server","lazy-ass-helpful","morefun-forerunnerdb","qunit-helpful","qunit-inject","qunit-once","qunit-promises","slip"]
+["betajs-scoped","betajs-shims","craftyjs","forerunnerdb","indexeddbshim-node6","irrelon-emitter","irrelon-sse","jamesjwood-pouchdb","js-ffmpeg","jsonize-ffmpeg-task","jsonize-server","lazy-ass-helpful","morefun-forerunnerdb","qunit-helpful","qunit-inject","qunit-once","qunit-promises","slip"]

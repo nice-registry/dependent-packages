@@ -1,1 +1,1 @@
-["seneca-entity","seneca-jsonfile-store","seneca-level-store","seneca-mem-store","seneca-repl","seneca-user"]
+["giri-cluster-control","giri-sector-control","giri-system-control","seneca-entity","seneca-jsonfile-store","seneca-level-store","seneca-mem-store","seneca-repl","seneca-user"]

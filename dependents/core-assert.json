@@ -1,1 +1,1 @@
-["arch-keystone","ava","ava-assert","ava-no-babel","ava-tf","avas","deep-strict-equal","mukla","pull-test","redux-test-reducer","twreporter-keystone"]
+["arch-keystone","assert-polyfill","ava","ava-assert","ava-no-babel","ava-tf","avas","deep-strict-equal","minibase-assert","mukla","pull-test","redux-test-reducer","twreporter-keystone"]

@@ -1,1 +1,1 @@
-["iobroker.owntracks","mqtt-server"]
+["iobroker.mqtt","iobroker.owntracks","mqtt-server"]

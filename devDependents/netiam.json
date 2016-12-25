@@ -1,1 +1,1 @@
-["netiam-contrib-acl","netiam-contrib-jsonapi"]
+["netiam-contrib-acl","netiam-contrib-auth","netiam-contrib-jsonapi","netiam-contrib-oauth"]

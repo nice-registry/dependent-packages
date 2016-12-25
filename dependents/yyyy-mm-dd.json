@@ -1,1 +1,1 @@
-["loopback-passport-jwt"]
+["express-microservice-auth","logux-server","loopback-passport-jwt"]

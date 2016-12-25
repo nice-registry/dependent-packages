@@ -1,1 +1,1 @@
-["ember-cli-mirage","ember-cli-pretender"]
+["dfaqapi","ember-cli-fake-server","ember-cli-mirage","ember-cli-pretender"]

@@ -1,1 +1,1 @@
-["stereo-panner-node"]
+["constant-source-node","promise-decode-audio-data","stereo-panner-node"]

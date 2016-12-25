@@ -1,1 +1,1 @@
-["babel-plugin-glslify","glslify","glslify-bare"]
+["babel-plugin-glslify","glslify","glslify-babel","glslify-bare","glslify-sync"]

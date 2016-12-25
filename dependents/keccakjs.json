@@ -1,1 +1,1 @@
-["bitgo","ethereumjs-devp2p"]
+["bitgo","eth-client","ethereumjs-util","swarmhash"]

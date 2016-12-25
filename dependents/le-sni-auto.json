@@ -1,1 +1,1 @@
-["http-master","iobroker.js-controller","iobroker.simple-api","letsencrypt","letsencrypt-cluster","letsencrypt-express"]
+["evoxy","http-master","iobroker.js-controller","iobroker.scriptgui","iobroker.simple-api","letsencrypt","letsencrypt-cluster","letsencrypt-express"]

@@ -1,1 +1,1 @@
-["bounce-handler","buildmail","dkim-signer","feedster","getattachments","mailcomposer","mailsplit","node-dkim","nodemailer-any-promise","nodemailer-attachments-parser","nodemailer-build-attachment"]
+["bounce-handler","buildmail","dkim-signer","feedster","getattachments","mailcomposer","mailsplit","node-dkim","nodemailer","nodemailer-any-promise","nodemailer-attachments-parser","nodemailer-build-attachment","zone-mta"]

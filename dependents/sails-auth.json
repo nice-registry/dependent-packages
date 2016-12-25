@@ -1,1 +1,1 @@
-["hashware-api","sails-permissions"]
+["hashware-api","sails-hook-permit-actions","sails-permissions"]

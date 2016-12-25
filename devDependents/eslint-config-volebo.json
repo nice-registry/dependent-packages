@@ -1,1 +1,1 @@
-["express-mw-lang"]
+["express-mw-lang","mkdirp-bluebird","passport-wix-app"]

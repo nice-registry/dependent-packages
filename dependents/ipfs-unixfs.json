@@ -1,1 +1,1 @@
-["beaker-plugin-ipfs","ipfs","ipfs-unixfs-engine"]
+["beaker-plugin-ipfs","ipfs","ipfs-api","ipfs-data-importing","ipfs-unixfs-engine"]

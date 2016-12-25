@@ -1,1 +1,1 @@
-["libp2p-secio","messenger-ws","pull-cat","pull-combine-latest","pull-live","pull-stringify","secret-stack","ssb-feed"]
+["messenger-ws","muxrpc","pull-app","pull-cat","pull-combine-latest","pull-live","pull-on-abort","pull-router","pull-stringify","secret-stack","ssb-feed"]

@@ -1,1 +1,1 @@
-["babel-plugin-transform-bem-jsx"]
+["babel-plugin-analyse-bem-rules","babel-plugin-transform-bem-jsx","bem-jsx-options","bem-jsx-watch-loader"]

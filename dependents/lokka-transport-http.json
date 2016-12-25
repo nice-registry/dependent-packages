@@ -1,1 +1,1 @@
-["coreApi","gluu","graphdux","lokka-transport-http-auth","parse-graphql-client","powr-example","pravda-js","roulade"]
+["coreApi","gluu","graphdux","lokka-transport-http-auth","lokka-transport-jwt-auth","manner-sdk-js","parse-graphql-client","powr-example","pravda-js","react-account-kit-web","roulade"]

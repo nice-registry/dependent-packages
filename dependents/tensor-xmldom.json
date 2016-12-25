@@ -1,1 +1,1 @@
-["grunt-wsmod-packer","sbis3-builder"]
+["grunt-packer","grunt-wsmod-packer","sbis3-builder"]

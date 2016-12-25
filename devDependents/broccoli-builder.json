@@ -1,1 +1,1 @@
-["broccoli-funnel","broccoli-watchify"]
+["broccoli-funnel","broccoli-merge-trees","broccoli-watchify"]

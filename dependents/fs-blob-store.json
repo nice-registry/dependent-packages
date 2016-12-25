@@ -1,1 +1,1 @@
-["cdump","dat-blob-store","docker-registry-server","fs-tus-store","registry-static","scalable-blob-store","skypager-devserver","skypager-server","skypager-service","tcp-log-server","township-media","wsq-server"]
+["afs-blob-store","cdump","dat-blob-store","docker-registry-server","fs-tus-store","ipld-cli","registry-static","scalable-blob-store","skypager-devserver","skypager-server","skypager-service","tcp-log-server","township-media","wsq-server"]

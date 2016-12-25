@@ -1,1 +1,1 @@
-["aliez-match","aliez-render","aliez-response","aliez-static"]
+["aliez-apireq","aliez-match","aliez-mime","aliez-post","aliez-query","aliez-render","aliez-response","aliez-session","aliez-static"]

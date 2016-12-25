@@ -1,1 +1,1 @@
-["bitliner-config","google-translate-api-nodejs-client","mongo-io","quick-e2e-test","restful-mongo","restful-mongo-http-handlers","restful-mongo-protocol-utils"]
+["bitliner-config","google-translate-api-nodejs-client","mongo-io","quick-e2e-test","restful-mongo","restful-mongo-app","restful-mongo-http-handlers","restful-mongo-protocol-utils","restful-mongo-routes"]

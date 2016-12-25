@@ -1,1 +1,1 @@
-["advanced-cache","botsly","gandhi","interval-worker","kue-scheduler","limitd","lock_and_cache","loopback-connector-ioredis","ofa-redlock","pohl","query-swarm","redis_wrapper","solo-worker","xtralife-api","xtralife-http","yowl-lock-redis"]
+["advanced-cache","bossman","botsly","bull","dvp-common","gandhi","interval-worker","kue-scheduler","limitd","lock_and_cache","loopback-connector-ioredis","ofa-redlock","pohl","query-swarm","rebridge","redis-exclusive-task","shimo-queue","solo-worker","xtralife-api","xtralife-http","yowl-lock-redis"]

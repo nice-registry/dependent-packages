@@ -1,1 +1,1 @@
-["assign.js","connect-rest","floca-rest-client","mongoose-schemagen","vindication.js"]
+["assign.js","connect-rest","floca","floca-amqp-client","floca-cli","floca-rest-client","harcon","harcon-amqp","harcon-mqtt","harcon-radiation","harcon-sqs","jade-mithrilier","mithril-mapper","mongoose-schemagen","pug-mithrilier","vindication.js"]

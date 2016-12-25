@@ -1,1 +1,1 @@
-["coinstac-client-core","steelpenny","vue-jwt-mongo"]
+["coinstac-client-core","steelpenny","vue-jwt-mongo","vuex-persistedstate"]

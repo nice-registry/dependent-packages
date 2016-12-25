@@ -1,1 +1,1 @@
-["sqs-pipeline-lamda-sender"]
+["sqs-mv","sqs-pipeline-lambda-sender","sqs-pipeline-lamda-sender"]

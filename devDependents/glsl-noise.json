@@ -1,1 +1,1 @@
-["gl-catmull-clark","gl-particles","gl-render-cubemap","glsl-cos-palette","glsl-gradient-palette","glsl-raytrace","glsl-sdf-normal","glslify","glslify-client","pnp-gui","three-bmfont-text"]
+["gl-catmull-clark","gl-particles","gl-render-cubemap","glsl-cos-palette","glsl-gradient-palette","glsl-raytrace","glsl-sdf-normal","glslify","glslify-client","glslify-promise","pnp-gui","three-bmfont-text"]

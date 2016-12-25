@@ -1,1 +1,1 @@
-["hapi-auto-handler","props-tester","redux-queue-offline","redux-storage-decorator-filter","terrible-lodash","totally"]
+["hapi-auto-handler","hapi-sanitize-payload","mongoose-sanitise","props-tester","redux-queue-offline","redux-storage-decorator-filter","terrible-lodash","totally"]

@@ -1,1 +1,1 @@
-["barchart-alerts-client","barchart-instruments-client","barchart-sms-validator-client"]
+["barchart-alerts-client","barchart-instruments-client","barchart-jerq-aggregator-client","barchart-marketdata-utilities","barchart-sms-validator-client","marketdata-api-js"]

@@ -1,1 +1,1 @@
-["anyfs-ftp-adapter","deploy-asset","grunt-ftp-deploy","grunt-ftp-deploy-i","grunt-ftp-push","grunt-ftp-push-patch","grunt-my-ftp","gulp-deploy-ftp","gulp-ftp","jasonftp","jsftp","jsftp-for-deploy-asset","jsftp-mkdirp","jsftp-modi","rget-jsftp"]
+["anyfs-ftp-adapter","deploy-asset","grunt-ftp","grunt-ftp-deep","grunt-ftp-deploy","grunt-ftp-deploy-i","grunt-ftp-push","grunt-ftp-push-patch","grunt-ftp-sync","grunt-my-ftp","gulp-deploy-ftp","gulp-ftp","jasonftp","jsftp","jsftp-for-deploy-asset","jsftp-lsr","jsftp-mkdirp","jsftp-modi","rget-jsftp"]

@@ -1,1 +1,1 @@
-["anystore","express-factory","hid-handler","hw-error","hw-redis-ohm","hw-store","instance-factory"]
+["anystore","express-factory","hid-handler","hw-error","hw-redis-ohm","hw-store","instance-factory","servedown"]

@@ -1,1 +1,1 @@
-["generator-arc","jsdom","jsdom-no-contextify","jsdom-se","node-jsdom","saml"]
+["jsdom","jsdom-no-contextify","jsdom-se","meteor-react-ssr-jsdom","node-jsdom","saml"]

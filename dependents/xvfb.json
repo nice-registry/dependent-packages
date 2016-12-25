@@ -1,1 +1,1 @@
-["cypress","cypress-cli","karma-headless-chrome-launcher","karma-xvfb-chrome-launcher","rmx","run-headless-chromium","sketch-render"]
+["cypress","cypress-cli","karma-headless-chrome-launcher","karma-xvfb-chrome-launcher","rmx","run-headless-chromium","sketch-render","webflight"]

@@ -1,1 +1,1 @@
-["grunt-scsslint","scss-lint-loader"]
+["enduro","grunt-scsslint","scss-lint-loader"]

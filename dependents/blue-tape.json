@@ -1,1 +1,1 @@
-["abstract-bitcoin-wallet","abstract-tus-store","bootstrapt","deployment-tools","health-checkup","middleware-tester","recursive-deps","semtest","semtest-e2e","surveyor","taped-electron","tas-sdk-js","ut-tools","whim"]
+["abstract-bitcoin-wallet","abstract-tus-store","bootstrapt","cdc","deployment-tools","health-checkup","middleware-tester","recursive-deps","semtest","semtest-e2e","surveyor","taped-electron","tas-sdk-js","ut-tools","whim"]

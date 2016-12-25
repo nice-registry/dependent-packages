@@ -1,1 +1,1 @@
-["agreed-server","redux-effects-socket-io"]
+["agreed","agreed-client","agreed-core","agreed-server","redux-effects-socket-io"]

@@ -1,1 +1,1 @@
-["dora-plugin-webpack-hmr","tapas-build"]
+["dora-plugin-lutool-build-hmr","dora-plugin-webpack-hmr","tapas-build"]

@@ -1,1 +1,1 @@
-["jsmodbus","node-modbus"]
+["iobroker.modbus","jsmodbus","node-modbus"]

@@ -1,1 +1,1 @@
-["redis-backoff"]
+["fetch-cached","got-cached","redis-backoff"]

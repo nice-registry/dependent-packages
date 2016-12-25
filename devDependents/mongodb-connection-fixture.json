@@ -1,1 +1,1 @@
-["mongodb-scope-server"]
+["mongodb-connection-model","mongodb-data-service","mongodb-instance-model","mongodb-scope-server"]

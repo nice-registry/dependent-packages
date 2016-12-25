@@ -1,1 +1,1 @@
-["babel-plugin-dynamic-import","babel-plugin-i18n","eslint-import-resolver-babel-module-alias","eslint-import-resolver-module-alias-rn"]
+["babel-plugin-dynamic-import","babel-plugin-i18n","babel-plugin-module-resolver","eslint-import-resolver-babel-module","eslint-import-resolver-babel-module-alias","eslint-import-resolver-module-alias-rn"]

@@ -1,1 +1,1 @@
-["dynamic-gcloud","gc-vision-api","gce-images","gce-output-stream","gcloud","gcloud-storage-uploader","gcs-resumable-upload","google-cloud-storage-standalone","google-speech-microphone","sand-google-storage","super-simple-sheets","tus-node-server"]
+["dynamic-gcloud","gc-vision-api","gce-images","gce-output-stream","gcloud","gcloud-storage-uploader","gcs-resumable-upload","google-cloud-storage-standalone","google-gax","google-speech-microphone","sand-google-storage","super-simple-sheets","tus-node-server"]

@@ -1,1 +1,1 @@
-["atom-term.js","epipebomb","getpass","grunt-spec","learn-term.js","mbed-connector-api","node-ansiterminal","node-ssh","sh.js","term-with-url-support.js","term.js","xterm2"]
+["atom-term.js","cli-ext","epipebomb","getpass","grunt-spec","learn-term.js","mbed-connector-api","node-ansiterminal","node-ssh","sh.js","ssh","term-with-url-support.js","term.js","ttyname","xterm2"]

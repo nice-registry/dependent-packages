@@ -1,1 +1,1 @@
-["esprima","js-tokens","shift-codegen","shift-parser","shift-reducer","shift-validator"]
+["esprima","js-tokens","shift-codegen","shift-parser","shift-reducer","shift-spidermonkey-converter","shift-validator"]

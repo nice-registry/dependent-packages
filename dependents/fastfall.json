@@ -1,1 +1,1 @@
-["aedes","pbkdf2-password","sqs-aws-sdk","with-conn-pg"]
+["aedes","oast","pbkdf2-password","sqs-aws-sdk","steed","with-conn-pg"]

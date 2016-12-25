@@ -1,1 +1,1 @@
-["nxus-admin","nxus-clientjs","nxus-data-manager","nxus-mailer","nxus-pipeliner","nxus-storage","nxus-templater","nxus-web","nxus-worker-queue"]
+["nxus-admin","nxus-clientjs","nxus-data-manager","nxus-mailer","nxus-md-renderer","nxus-pipeliner","nxus-router","nxus-static-site","nxus-storage","nxus-templater","nxus-users","nxus-web","nxus-worker-queue"]

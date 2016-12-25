@@ -1,1 +1,1 @@
-["aws-sqs-scheduler","heroku-sqs-consumer","ht-sqs-transport","node-architect-consumer","reef-client","reef-service","siquse","sqs-pipeline-lambda-reciever","sqs-pipeline-lamda-reciever","sqs-queue","sqs-to-lambda"]
+["atlassian-connect-sqs-queue","aws-sqs-scheduler","bucket-mapper","heroku-sqs-consumer","ht-sqs-transport","node-architect-consumer","nodestash-shipper","reef-client","reef-service","siquse","sqs-ecs-jobs","sqs-pipeline-lambda-receiver","sqs-pipeline-lambda-reciever","sqs-pipeline-lamda-reciever","sqs-queue","sqs-to-lambda"]

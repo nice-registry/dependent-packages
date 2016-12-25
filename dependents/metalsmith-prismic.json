@@ -1,1 +1,1 @@
-["gulp-metalsmith-build","gulp-metalsmith-server"]
+["gulp-metalsmith-build","gulp-metalsmith-server","metalsmith-prismic-server"]

@@ -1,1 +1,1 @@
-["heroku-mongo-pull"]
+["heroku-mongo-pull","mongodb-connection-model","mongodb-data-service","mongodb-instance-model"]

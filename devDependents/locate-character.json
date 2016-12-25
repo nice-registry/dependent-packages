@@ -1,1 +1,1 @@
-["rollup-plugin-commonjs"]
+["rollup-plugin-commonjs","rollup-plugin-commonjs-iife-fix","svelte"]

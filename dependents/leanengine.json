@@ -1,1 +1,1 @@
-["lean-g-loader","leancloud-server","leancloud-session-storage","leancloud-vue-boilerplate","leanseed","role-model","waterline-leancloud"]
+["klibrary","lean-g-loader","leancloud-graphql","leancloud-log-middleware","leancloud-server","leancloud-session-storage","leancloud-vue-boilerplate","leanseed","passport-leancloud","role-model","waterline-leancloud"]

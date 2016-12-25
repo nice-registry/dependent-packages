@@ -1,1 +1,1 @@
-["gulp-doxdox"]
+["grunt-doxdox","gulp-doxdox"]

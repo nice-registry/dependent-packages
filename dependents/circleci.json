@@ -1,1 +1,1 @@
-["circle-get-artifact","grunt-circleci","torus"]
+["circle-get-artifact","circleci-cli","grunt-circleci","torus","vudash-widget-ci"]

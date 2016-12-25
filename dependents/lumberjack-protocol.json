@@ -1,1 +1,1 @@
-["bunyan-hub-lumberjack","bunyan-lumberjack","winston-lumberjack"]
+["bunyan-hub-lumberjack","bunyan-lumberjack","hapi-good-logstash","winston-lumberjack"]

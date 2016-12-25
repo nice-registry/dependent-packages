@@ -1,1 +1,1 @@
-["jive-angular","jive-persistence-mongo","jive-persistence-postgres","jive-scheduler","jive-scheduler-kue","node-jivev3-api"]
+["jive-angular","jive-persistence-mongo","jive-persistence-postgres","jive-persistence-sqlite","jive-scheduler","jive-scheduler-kue","node-jivev3-api"]

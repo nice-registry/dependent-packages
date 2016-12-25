@@ -1,1 +1,1 @@
-["browser-builtins","bundlet","commonjs-everywhere","grunt-file-info","grunt-google-closure-compiler","iso3166-2","mdbp-mobile-first-dombo","needy-nodecore","react-native-browser-builtins","steal-builtins"]
+["browser-builtins","bundlet","commonjs-everywhere","grunt-file-info","grunt-google-closure-compiler","iso3166-1","iso3166-2","mdbp-mobile-first-dombo","needy-nodecore","react-native-browser-builtins","steal","steal-builtins"]

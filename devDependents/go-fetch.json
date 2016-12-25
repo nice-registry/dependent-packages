@@ -1,1 +1,1 @@
-["go-fetch-auth","go-fetch-content-type","go-fetch-decompress","go-fetch-follow-redirects","go-fetch-json","go-fetch-oauth1","go-fetch-parse-body","go-fetch-useragent"]
+["go-fetch-auth","go-fetch-content-type","go-fetch-decompress","go-fetch-follow-redirects","go-fetch-json","go-fetch-oauth1","go-fetch-parse-body","go-fetch-prefix-url","go-fetch-useragent","jsonapi-collection"]

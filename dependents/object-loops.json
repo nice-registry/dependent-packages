@@ -1,1 +1,1 @@
-["coworkers-errors","docker-mock","multifilter","rabbitmq-schema"]
+["ast-to-reql","coworkers-errors","docker-mock","multifilter","rabbitmq-schema","rethinkdb-primus","validate-reql"]

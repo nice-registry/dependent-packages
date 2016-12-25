@@ -1,1 +1,1 @@
-["floca-nsq"]
+["floca-amqp","floca-cli","floca-mqtt","floca-nsq","floca-sqs"]

@@ -1,1 +1,1 @@
-["bdat","beaker-plugin-dat","dat-desktop","file-smasher","fs-chunk-store","gridcontrol","hypercore-archiver","hyperdrive-swarm","itty-bitty-torrent","minicloud-storage","peerflix-engine","random-access-page-files","torrent-live"]
+["archiver-server","bdat","beaker-plugin-dat","dat-backup","dat-desktop","dat-folder-archive","dat-node","file-smasher","fs-chunk-store","gridcontrol","hypercore-archiver","hyperdrive-http-server","hyperdrive-swarm","hypervision","itty-bitty-torrent","minicloud-storage","peerflix-engine","peermaps","random-access-page-files","torrent-live"]

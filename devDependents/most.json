@@ -1,1 +1,1 @@
-["arpm","most-dispatch","most-proxy","most-rx","most-test","redux-observable-adapter-most","rstore","rx-cast-subject","snabbdom-assert","stk","xstream"]
+["arpm","most-dispatch","most-react","most-rx","most-test","react-stream-connector","redux-observable-adapter-most","rstore","rx-cast-subject","rx-cast-subscription","snabbdom-assert","stk","xstream"]

@@ -1,1 +1,1 @@
-["k-livedb-arango","k-sync-arango"]
+["k-livedb-arango","k-livedb-mongo","k-model","k-sync-arango","k-sync-redis-pubsub"]

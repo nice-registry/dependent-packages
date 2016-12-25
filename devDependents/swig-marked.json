@@ -1,1 +1,1 @@
-["angular-media-player","gulp-swig"]
+["angular-media-player","gulp-swig","gulp-swig-stylebundler"]

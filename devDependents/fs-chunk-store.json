@@ -1,1 +1,1 @@
-["cache-chunk-store","chunk-store-stream","hex-dump","immediate-chunk-store"]
+["cache-chunk-store","chunk-store-stream","hex-dump","immediate-chunk-store","queued-chunk-store"]

@@ -1,1 +1,1 @@
-["gulp-2cos","gulp-qcloud"]
+["cossync","gulp-2cos","gulp-qcloud","qcloud-util"]

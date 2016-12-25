@@ -1,1 +1,1 @@
-["storj-bridge","stream-to-blob-log"]
+["kfs","storj-bridge","storj-lib","storjshare-daemon","stream-to-blob-log"]

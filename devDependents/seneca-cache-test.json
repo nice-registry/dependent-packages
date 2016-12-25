@@ -1,1 +1,1 @@
-["seneca-memcached-cache"]
+["seneca-cache","seneca-memcached-cache","seneca-redis-cache"]

@@ -1,1 +1,1 @@
-["evw-validation-rules","hof-controllers","hof-dotfiles","hof-logger","hof-middleware","hof-transpiler","rtp-monitoring-metrics","rtp-sqs-producer","so-acceptance"]
+["evw-validation-rules","hof-bootstrap","hof-controllers","hof-dotfiles","hof-emailer","hof-logger","hof-middleware","hof-model","hof-transpiler","rtp-formatted-id","rtp-monitoring-metrics","rtp-sqs-producer","so-acceptance"]

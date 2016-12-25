@@ -1,1 +1,1 @@
-["parse-entities","remark-github"]
+["parse-entities","remark-github","stringify-entities"]

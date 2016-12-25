@@ -1,1 +1,1 @@
-["hapi-primus","primus-rooms"]
+["hapi-primus","primus-rooms","primus-rooms-redis-adapter"]

@@ -1,1 +1,1 @@
-["arr-filter","arr-map","common-tags","create-readdir-stream","extglob","fs-readdir","ln","readme-includes"]
+["arr-filter","arr-map","common-tags","create-readdir-stream","extglob","fs-readdir","glob-possible-parent","ln","readme-includes","regex-cache"]

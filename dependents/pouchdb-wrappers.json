@@ -1,1 +1,1 @@
-["express-pouchdb","filter-pouch","http-pouchdb","pouchdb-admins","pouchdb-auth","pouchdb-security","pouchdb-size","pouchdb-system-db","pouchdb-undo","pouchdb-users","pouchdb-validation"]
+["express-pouchdb","filter-pouch","http-pouchdb","pouchdb-admins","pouchdb-auth","pouchdb-security","pouchdb-size","pouchdb-system-db","pouchdb-undo","pouchdb-users","pouchdb-validation","transform-pouch"]

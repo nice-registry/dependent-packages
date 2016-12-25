@@ -1,1 +1,1 @@
-["babel-preset-bluebird","babel-preset-modern-async"]
+["babel-preset-bluebird","babel-preset-modern-async","snackpack"]

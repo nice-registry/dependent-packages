@@ -1,1 +1,1 @@
-["ct-oauth-plugin","egg-jwt","koa-jwt-mongo","kronos-service-manager-admin","mu-koan","muffin","plu","presence-tracker","sagitta","sonido"]
+["bindo","ct-oauth-plugin","egg-jwt","koa-jwt-mongo","kronos-service-koa","kronos-service-manager-admin","magnet-jwt","mu-koan","muffin","peek-service-user","plu","presence-tracker","sagitta","sonido"]

@@ -1,1 +1,1 @@
-["erizo-webmail-api","fax-logger","koa-better-logger","koa-byte-length","koa-external-logger","koa-grace-eagle","koa-grace-logger","koa-http-logger","koa-huggare","koa-log","koa-logger-ndjson","koa-logger-ts","koa-mag","koa-response-length","koa-smplog"]
+["erizo-webmail-api","fax-logger","koa-better-logger","koa-byte-length","koa-external-logger","koa-grace-eagle","koa-grace-logger","koa-http-logger","koa-huggare","koa-log","koa-logger","koa-logger-ndjson","koa-logger-ts","koa-logtown","koa-mag","koa-response-length","koa-smplog","shimo-koa-logger"]

@@ -1,1 +1,1 @@
-["amelisa-mongo","api-orm","cekit","everlive-sdk","glint-adapter-fs","glint-tasks","kwiz","livedb-mingo","livedb-mongo-memory","metalsmith-mingo","pouchdb-subscribe","save","sharedb-memory-mongo","sharedb-mingo","sharedb-mingo-memory","storage-adapter","vizabi-ddfcsv-reader"]
+["amelisa-mongo","api-orm","arrow-orm","cekit","everlive-sdk","glint-adapter-fs","glint-tasks","kwiz","livedb-mingo","livedb-mongo-memory","metalsmith-mingo","pouchdb-subscribe","save","sharedb-memory-mongo","sharedb-mingo","sharedb-mingo-memory","storage-adapter"]

@@ -1,1 +1,1 @@
-["cozy-controller","cozy-data-proxy","cozy-db-pouchdb","cozy-desktop","cozy-light","cozy-monitor","cozy-notifications-helper","cozy-sdk-tunneling","cozydb","npm-manifest-helper"]
+["cozy-controller","cozy-data-proxy","cozy-db-pouchdb","cozy-desktop","cozy-dev","cozy-device-sdk","cozy-light","cozy-monitor","cozy-notifications-helper","cozy-sdk","cozy-sdk-tunneling","cozydb","deis-api","npm-manifest-helper"]

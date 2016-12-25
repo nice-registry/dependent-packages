@@ -1,1 +1,1 @@
-["karma-proclaim","springbokjs-server"]
+["karma-proclaim","polyfill-service","springbokjs-server"]

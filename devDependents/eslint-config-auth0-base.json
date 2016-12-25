@@ -1,1 +1,1 @@
-["auth0-guardian-js","auth0-js","heroku-private-modules"]
+["auth0-extension-express-tools","auth0-guardian-js","auth0-js","auth0-lock","heroku-private-modules"]

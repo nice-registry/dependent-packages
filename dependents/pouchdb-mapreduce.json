@@ -1,1 +1,1 @@
-["metadata-js","metadata-pouchdb","pouchdb-memory","pouchdb-react-native"]
+["metadata-js","metadata-pouchdb","pouchdb-idb","pouchdb-memory","pouchdb-react-native","pouchdb-server","worker-pouch"]

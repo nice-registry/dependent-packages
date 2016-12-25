@@ -1,1 +1,1 @@
-["mendel-core","mendel-development-middleware"]
+["mendel","mendel-browserify","mendel-core","mendel-development-middleware"]

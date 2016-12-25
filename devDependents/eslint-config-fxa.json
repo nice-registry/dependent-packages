@@ -1,1 +1,1 @@
-["fxa-geodb","fxa-js-client","fxa-relier-client","grunt-l10n-lint","hapi-fxa-oauth"]
+["fxa-geodb","fxa-js-client","fxa-relier-client","grunt-l10n-lint","hapi-fxa-oauth","hapi-hpkp","ip-reputation-js-client"]

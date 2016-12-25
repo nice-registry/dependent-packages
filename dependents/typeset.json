@@ -1,1 +1,1 @@
-["grunt-typeset","gulp-typeset","metalsmith-typeset","typeset-brunch"]
+["grunt-typeset","gulp-typeset","jstransformer-typeset","metalsmith-typeset","typeset-brunch"]

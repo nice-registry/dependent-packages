@@ -1,1 +1,1 @@
-["georg","godot-riemann","winston-riemann-transport"]
+["godot-riemann","statsd-riemann-backend","winston-riemann-transport"]

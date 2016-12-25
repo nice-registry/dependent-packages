@@ -1,1 +1,1 @@
-["pouchdb-adapter-cordova-sqlite","pouchdb-adapter-node-websql","pouchdb-adapter-websql"]
+["pouchdb-adapter-cordova-sqlite","pouchdb-adapter-node-websql","pouchdb-adapter-react-native-sqlite","pouchdb-adapter-websql"]

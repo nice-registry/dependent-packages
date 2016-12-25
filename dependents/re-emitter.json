@@ -1,1 +1,1 @@
-["bs2-serial","bs2-serial-protocol","divshot-api","eventual-stream","http-stream","lazy-concat-stream","lazy-reduce-stream","proxy-stream","pubnub-stream","require-fresh","sendy","splice-stream","streams2","ticsta-api","torrent-http-bridge"]
+["bs2-serial","bs2-serial-protocol","divshot-api","eventual-stream","http-stream","lazy-concat-stream","lazy-reduce-stream","proxy-stream","pubnub-stream","require-fresh","sendy","splice-stream","streams2","tap-out","ticsta-api","torrent-http-bridge"]

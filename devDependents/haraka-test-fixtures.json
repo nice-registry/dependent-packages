@@ -1,1 +1,1 @@
-["Haraka","haraka-plugin-asn","haraka-plugin-geoip","haraka-plugin-geoip-lite","haraka-plugin-log-reader","haraka-plugin-watch"]
+["Haraka","haraka-plugin-asn","haraka-plugin-geoip","haraka-plugin-geoip-lite","haraka-plugin-karma","haraka-plugin-ldap","haraka-plugin-ldap-aliases","haraka-plugin-ldap-authn","haraka-plugin-ldap-authz","haraka-plugin-ldap-pool","haraka-plugin-ldap-rcpt_to","haraka-plugin-log-reader","haraka-plugin-rcpt-postgresql","haraka-plugin-syslog","haraka-plugin-watch"]

@@ -1,1 +1,1 @@
-["fwsp-hydra-express"]
+["fwsp-config","fwsp-hydra-express","fwsp-logger","hydra-cli"]

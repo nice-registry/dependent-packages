@@ -1,1 +1,1 @@
-["precon-splunk","winston-splunk-httplogger"]
+["miau","precon-splunk","splunk-bunyan-logger","winston-splunk-httplogger"]

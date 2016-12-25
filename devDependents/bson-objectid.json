@@ -1,1 +1,1 @@
-["chaid","json-api-serializer"]
+["chaid","json-api-ify","json-api-serializer","mongoose-find-or-error"]

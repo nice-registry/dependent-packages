@@ -1,1 +1,1 @@
-["autoprefixer-stylus","earlgrey","espower-source","feri","grunt-espower","grunt-multi-stage-sourcemap","gulp-espower","gulp-transform-js-ast","gulp-unassert","spider-script","stylecow-core","unassertify","webpack-obfuscator"]
+["autoprefixer-stylus","earlgrey","editable-sources-webpack-plugin","espower-source","feri","grunt-espower","grunt-multi-stage-sourcemap","gulp-espower","gulp-transform-js-ast","gulp-unassert","poststylus","spider-script","stylecow-core","ucompiler","unassertify","webpack-obfuscator"]

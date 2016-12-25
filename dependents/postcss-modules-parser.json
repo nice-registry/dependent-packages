@@ -1,1 +1,1 @@
-["cmify","css-modules-loader-core-btd","css-modules-require-hook","posthtml-postcss-modules"]
+["babel-plugin-react-css-modules","babel-plugin-react-css-modules-fix-11","cmify","css-modules-loader-core-btd","css-modules-require-hook","node-stylus-css-modules-require","posthtml-postcss-modules"]

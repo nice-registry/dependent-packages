@@ -1,1 +1,1 @@
-["babel-cli","babel-core","babel-core-no-strict","babel-generator","babel-plugin-transform-es2015-modules-amd-if-required","babel-plugin-transform-react-jsx-props","babylon","ingredients"]
+["babel-cli","babel-cli-justwatch","babel-core","babel-core-no-strict","babel-core-with-resolve-methods","babel-generator","babel-plugin-transform-es2015-modules-amd-if-required","babel-plugin-transform-react-jsx-props","babylon","babylon-iscript","cst","ingredients"]

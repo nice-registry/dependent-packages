@@ -1,1 +1,1 @@
-["agnostic","configly","envar","fbbot","grunt-rendr-requirejs","gulp-requirejs-bundler","gulp-requirejs-bundler-with-baseurl","healthkit","shiro","wigwam"]
+["agnostic","configly","envar","fbbot","grunt-rendr-requirejs","gulp-requirejs-bundler","gulp-requirejs-bundler-quark","gulp-requirejs-bundler-with-baseurl","gulp-requirejs-cdnbundler","healthkit","parse-server-azure-app","parse-server-azure-push","shiro","wigwam"]

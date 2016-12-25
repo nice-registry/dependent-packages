@@ -1,1 +1,1 @@
-["acl-backend-rethinkdb","acl-firebase","acl-knex","acl-mongodb","acl-mssql","acl-redis","acl-sequelize","acl-sequelize-backend"]
+["acl-backend-rethinkdb","acl-elasticsearch-backend","acl-firebase","acl-knex","acl-mongodb","acl-mssql","acl-redis","acl-sequelize","acl-sequelize-backend"]

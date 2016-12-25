@@ -1,1 +1,1 @@
-["aws-lambda-helper","hapi-auth-facebook","hapi-auth-github","hapi-auth-github-example","hapi-auth-google","hapi-email","hapi-redis-connection","learn-nightwatch","redis-connection","redis-pool-connection","sendemail","stream-to-s3","taggable-searcher"]
+["aws-lambda-helper","hapi-auth","hapi-auth-facebook","hapi-auth-github","hapi-auth-github-example","hapi-auth-google","hapi-email","hapi-redis-connection","learn-nightwatch","pg-helpers","redis-connection","redis-pool-connection","stream-to-s3","taggable-searcher"]

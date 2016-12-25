@@ -1,1 +1,1 @@
-["git-config-path","resolve-file"]
+["expand-tilde","git-config-path","global-prefix","resolve-file"]

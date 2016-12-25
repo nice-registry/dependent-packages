@@ -1,1 +1,1 @@
-["amphora-sites","babel-minify","babel-preset-all","babel-preset-babili","better-babel-cli"]
+["amphora-sites","babel-minify","babel-preset-all","babel-preset-babili","better-babel-cli","prepublish","prepublish-lib"]

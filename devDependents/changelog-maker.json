@@ -1,1 +1,1 @@
-["backbone-cortex","cnn-caching","cnn-cipher","cnn-content-retriever","cnn-hapi","cnn-health","cnn-logger","cnn-markdown-service","cnn-metrics","cnn-package-generator","generator-cnn-base","generator-cnn-cli","generator-cnn-generator","generator-cnn-hapi","vxx"]
+["backbone-cortex","cnn-caching","cnn-cipher","cnn-config-client","cnn-content-retriever","cnn-hapi","cnn-health","cnn-logger","cnn-markdown-service","cnn-metrics","cnn-package-generator","generator-cnn-base","generator-cnn-cli","generator-cnn-generator","generator-cnn-hapi","gridcontrol","jq-cli-wrapper","vxx"]

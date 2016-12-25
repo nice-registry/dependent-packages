@@ -1,1 +1,1 @@
-["L.TileLayer.Kartverket","blueimp-canvastoblob","blueimp-load-image-browserify","fng-jq-upload","ockham","queue-adt","stack-adt"]
+["L.TileLayer.Kartverket","blueimp-canvastoblob","blueimp-file-upload-npm","blueimp-load-image-browserify","fng-jq-upload","grunt-locales","ockham","queue-adt","stack-adt"]

@@ -1,1 +1,1 @@
-["jade-linker"]
+["jade-filters","jade-linker","jade-load","jade-source-gen","jade-walk-extract-text"]

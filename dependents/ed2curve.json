@@ -1,1 +1,1 @@
-["mm-box","mm-dht","mm-platform","mm-services-kademlia","sodium-browserify-tweetnacl"]
+["hyperidentity","mm-box","mm-dht","mm-platform","mm-services-kademlia","sodium-browserify-tweetnacl","wire-webapp-proteus"]

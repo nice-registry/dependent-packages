@@ -1,1 +1,1 @@
-["karma-should-sinon","miniJsonp"]
+["karma-should-sinon","kuzzle-plugin-websocket","miniJsonp"]

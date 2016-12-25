@@ -1,1 +1,1 @@
-["canjs-feathers"]
+["canjs-feathers","feathers-authentication-client","feathers-authentication-jwt","feathers-authentication-ldap","feathers-authentication-local","feathers-authentication-oauth1","feathers-authentication-oauth2","feathers-authentication-popups-github","feathers-swagger"]

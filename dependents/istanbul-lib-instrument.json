@@ -1,1 +1,1 @@
-["babel-plugin-istanbul","generator-arc","istanbul-api","istanbul-instrumenter-loader","istanbul-systemjs","jspm-tap","kpdecker-nyc","nyc","start-istanbul"]
+["babel-plugin-istanbul","istanbul-api","istanbul-instrumenter-loader","istanbul-systemjs","jest-cli","jspm-tap","kpdecker-nyc","mochista","nyc","start-istanbul","ts-jest"]

@@ -1,1 +1,1 @@
-["posthtml-load-plugins"]
+["post-load-plugins","posthtml-load-plugins"]

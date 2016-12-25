@@ -1,1 +1,1 @@
-["provision-editorconfig","provision-git","provision-gitignore"]
+["provision-editorconfig","provision-eslint","provision-git","provision-gitignore","provision-npm-babel","provision-npm-semantic-release","provision-stylelint"]

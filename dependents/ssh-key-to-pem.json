@@ -1,1 +1,1 @@
-["azure-cli","node-opcua","node-opcua-crypto","pemtools","rsa-stream"]
+["azure-cli","ghsign","node-opcua-crypto","pemtools","rsa-stream"]

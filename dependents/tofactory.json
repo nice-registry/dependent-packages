@@ -1,1 +1,1 @@
-["event-router","mongo-observer","mongo-pubsub"]
+["create-emitter","event-router","mongo-observer","mongo-pubsub"]

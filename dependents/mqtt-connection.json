@@ -1,1 +1,1 @@
-["iobroker.owntracks","mosca","mosca-bitfinder","mosca-lowfat","mqtt-client","mqtt-for-milkcocoa","mqtt-m","mqtt-server","pomelo-mqtt-connector","replyer","strong-pubsub-connection-mqtt"]
+["homebridge-platform-aqe","iobroker.mqtt","iobroker.owntracks","mosca","mosca-bitfinder","mosca-lowfat","mqtt-client","mqtt-for-milkcocoa","mqtt-m","mqtt-server","pomelo-mqtt-connector","replyer","strong-pubsub-connection-mqtt"]

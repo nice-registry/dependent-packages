@@ -1,1 +1,1 @@
-["key-value-store-anysql","object-layer"]
+["document-store","instance-store","key-value-store-anysql","object-layer"]

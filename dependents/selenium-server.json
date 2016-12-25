@@ -1,1 +1,1 @@
-["gulp-nightwatch-headless","selenium-run","unit-env"]
+["gulp-nightwatch-headless","selenium-run","unit-env","vue-build"]

@@ -1,1 +1,1 @@
-["amqplib-rpc","buffer-splice","cast-buffer","coworkers","coworkers-errors","coworkers-test","first-event","proxy-pumpify","qaap-barge","qaap-node-kickstart","qaap-pharos","rpc-websockets"]
+["amqplib-rpc","buffer-splice","cast-buffer","coworkers","coworkers-errors","coworkers-test","first-event","normalize-slashes","proxy-pumpify","qaap-barge","qaap-node-kickstart","qaap-pharos","rethinkdb-validator-stream","rpc-websockets"]

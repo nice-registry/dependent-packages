@@ -1,1 +1,1 @@
-["electrium","hadron-test-utils"]
+["electrium","hadron-test-utils","mongodb-test-utils","spectron-fake-menu"]

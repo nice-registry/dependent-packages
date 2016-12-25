@@ -1,1 +1,1 @@
-["parse-dutch","parse-english","parse-japanese","parse-japanese-basic","rehype-document","rehype-highlight","rehype-wordspan","retext-japanese","retext-textlint","split-paragraphs-permissively"]
+["parse-english","parse-japanese","parse-japanese-basic","rehype-document","rehype-highlight","rehype-wordspan","remark-absolute-links","retext-japanese","retext-textlint","split-paragraphs-permissively"]

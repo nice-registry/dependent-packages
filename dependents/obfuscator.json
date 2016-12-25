@@ -1,1 +1,1 @@
-["accelerated","grunt-obfuscator-node","grunt-obfuscator-redux","gulp-obfuscator"]
+["accelerated","grunt-obfuscator","grunt-obfuscator-node","grunt-obfuscator-redux","gulp-obfuscator","gulp-obfuscator-wrapper"]

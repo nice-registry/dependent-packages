@@ -1,1 +1,1 @@
-["dowork","hapi-nsq","harcon-nsq","mercuryjs","nsq-logger","nsq-seneca","nsq-strategies","nsqjs-streams","nsquishy","seneca-nsq-transport","winston-nsq-transport"]
+["dowork","hapi-nsq","harcon-nsq","mercuryjs","nsq-logger","nsq-rocket","nsq-seneca","nsq-strategies","nsqjs-streams","nsquishy","seneca-nsq-transport","winston-nsq-transport"]

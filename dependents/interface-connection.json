@@ -1,1 +1,1 @@
-["libp2p-secio","libp2p-spdy","libp2p-tcp","libp2p-webrtc-star","multistream-select"]
+["libp2p-secio","libp2p-spdy","libp2p-swarm","libp2p-tcp","libp2p-webrtc-star","libp2p-websockets","multistream-select"]

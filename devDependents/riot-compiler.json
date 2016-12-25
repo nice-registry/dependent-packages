@@ -1,1 +1,1 @@
-["babel-preset-es2015-riot"]
+["babel-preset-es2015-riot","gulp-riot-only-compiler-template","riotify"]

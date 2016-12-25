@@ -1,1 +1,1 @@
-["fonteditor-ttf2svg-cli","fontmin","fontmin-concat","is-otf","is-ttf","svg-caster"]
+["fonteditor-ttf2svg-cli","fontmin","fontmin-concat","fontmin-dump","fontmin-ttf2svgs","is-otf","is-ttf","svg-caster"]

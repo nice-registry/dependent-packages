@@ -1,1 +1,1 @@
-["ibash-sinon","karma-better-sinon-chai","karma-sinon-chai","peach-cli","syn-dev-tools","testdouble-timers","viu-launchpad","web-component-tester-bundle"]
+["gulp-core-build-karma","ibash-sinon","karma-better-sinon-chai","karma-sinon-chai","peach-cli","reactstarterkit","sinon","syn-dev-tools","testdouble-timers","viu-launchpad","web-component-tester-bundle"]

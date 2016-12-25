@@ -1,1 +1,1 @@
-["periodicjs.core.extensions"]
+["periodicjs.core.controller","periodicjs.core.extensions"]

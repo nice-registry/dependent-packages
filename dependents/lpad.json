@@ -1,1 +1,1 @@
-["format-json-log","grunt-concurrent-pinterest","grunt-parallel","grunt-sizediff","grunt-subgrunt-io","lpad-align","pad-stdio"]
+["format-json-log","grunt-concurrent-pinterest","grunt-parallel","grunt-parallelize","grunt-sizediff","grunt-subgrunt-io","lpad-align","pad-stdio"]

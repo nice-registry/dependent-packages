@@ -1,1 +1,1 @@
-["immutable-core","immutable-database-mariasql"]
+["immutable-core","immutable-database-mariasql","immutable-http-client"]

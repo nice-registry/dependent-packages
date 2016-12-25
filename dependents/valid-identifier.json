@@ -1,1 +1,1 @@
-["cordova-create","indui-cordova-lib","ionic-cordova-lib","nodekit-cli-lib","pgb-cordova-lib","tarifa"]
+["cordova-create","cordova-lib","cordova-plugin-amplify-pay","cordova-plugin-amplify-payment","indui-cordova-lib","ionic-cordova-lib","nodekit-cli-lib","pgb-cordova-lib","tarifa"]

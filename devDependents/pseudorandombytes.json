@@ -1,1 +1,1 @@
-["crypto-browserify","webcrypto"]
+["crypto-browserify","react-native-crypto","webcrypto"]

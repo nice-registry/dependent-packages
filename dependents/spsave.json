@@ -1,1 +1,1 @@
-["gulp-spsave","sp-live-reload"]
+["gulp-spsave","sp-live-reload","spsave-webpack-plugin"]

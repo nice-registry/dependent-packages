@@ -1,1 +1,1 @@
-["ut-alert","ut-bus","ut-port-ftp","ut-port-http","ut-port-httpserver","ut-port-jsonrpc","ut-port-postgres","ut-port-script","ut-port-sql","ut-rule"]
+["ut-alert","ut-bus","ut-identity","ut-port-ftp","ut-port-http","ut-port-httpserver","ut-port-jsonrpc","ut-port-mail","ut-port-postgres","ut-port-script","ut-port-sql","ut-rule"]

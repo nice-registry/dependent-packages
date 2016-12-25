@@ -1,1 +1,1 @@
-["can-component","can-connect-feathers","can-jquery","can-observation","can-route-pushstate","can-stache-converters","can-view-model","can-view-scope","funcunit","weston"]
+["can-component","can-compute","can-connect-feathers","can-control","can-jquery","can-observation","can-route","can-route-pushstate","can-stache","can-stache-bindings","can-stache-converters","can-view-autorender","can-view-model","can-view-scope","funcunit","weston"]

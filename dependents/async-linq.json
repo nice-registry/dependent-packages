@@ -1,1 +1,1 @@
-["publishjs-assemble","publishjs-jshint","publishjs-less","publishjs-livereload"]
+["detour-proxy","publishjs","publishjs-assemble","publishjs-jshint","publishjs-less","publishjs-livereload"]

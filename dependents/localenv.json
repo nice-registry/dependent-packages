@@ -1,1 +1,1 @@
-["bare-auth","envenc","envlocalify","localenvify","page-pipe-server"]
+["bare-auth","configenv","envenc","envlocalify","envobj","localenvify","page-pipe-server"]

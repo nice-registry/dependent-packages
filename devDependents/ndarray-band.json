@@ -1,1 +1,1 @@
-["solve-banded","solve-periodic-tridiagonal","solve-tridiagonal"]
+["ndarray-blas-level2","solve-banded","solve-periodic-tridiagonal","solve-tridiagonal"]

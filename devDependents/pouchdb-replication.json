@@ -1,1 +1,1 @@
-["pouchdb-adapter-fs","pouchdb-find"]
+["pouchdb-adapter-fs","pouchdb-find","rxdb","transform-pouch"]

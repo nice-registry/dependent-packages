@@ -1,1 +1,1 @@
-["should-code-eql","should-equal","should-format","should-type-adaptors","toster-spec-reporter"]
+["mocha-better-spec-reporter","should","should-code-eql","should-equal","should-format","should-type-adaptors","toster-spec-reporter"]

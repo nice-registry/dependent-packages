@@ -1,1 +1,1 @@
-["gulp-coffee-istanbul","ibrik-instrumenter-loader","instrumentify","jasminetea","karma-coverage-blamer","karma-coverage-blamer1","karma-coverage-intfolders","karma-coverage-lynx","karma-gvcoverage","karma-json-to-file","karma-police"]
+["gulp-coffee-istanbul","ibrik-instrumenter-loader","instrumentify","jasminetea","karma-coverage-blamer","karma-coverage-blamer1","karma-coverage-es6","karma-coverage-intfolders","karma-coverage-lynx","karma-gvcoverage","karma-json-to-file","karma-police"]

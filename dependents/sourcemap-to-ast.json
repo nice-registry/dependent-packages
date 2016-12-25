@@ -1,1 +1,1 @@
-["amdclean","assetgraph","aster-uglify","browserify-esprima-tools","esmangle-webpack-plugin","gulp-aster","powerbuild"]
+["amdclean","assetgraph","aster-uglify","browserify-esprima-tools","esmangle-webpack-plugin","gulp-aster","powerbuild","transpile"]

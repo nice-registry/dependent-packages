@@ -1,1 +1,1 @@
-["dstore-postgresql","node-projector","schema-mapper-driver-postgresql","voodoo-waterline-postgres"]
+["dstore-postgresql","node-projector","schema-mapper-driver-postgresql","voodoo-waterline-postgres","waterline-postgresql"]

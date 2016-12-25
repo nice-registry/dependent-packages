@@ -1,1 +1,1 @@
-["framebuffer","losetup","pi-watchdog","usbreset","virtual-input"]
+["framebuffer","losetup","pi-watchdog","uinput","usbreset","virtual-input"]

@@ -1,1 +1,1 @@
-["cao","co-cache-wrapper","co-common","co-parallel-limit","co-process","co-retry","heroku-certs","heroku-cli-addons","hive-worker","koa-delay","koa-random-sse","probo","sht1x","skinny-bone-lifecycle"]
+["cao","co-cache-wrapper","co-common","co-parallel-limit","co-process","co-retry","heroku-apps","heroku-certs","heroku-ci","heroku-cli-addons","heroku-kafka","heroku-pg","hive-worker","koa-delay","koa-random-sse","probo","sht1x","skinny-bone-lifecycle"]

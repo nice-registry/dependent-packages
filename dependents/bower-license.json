@@ -1,1 +1,1 @@
-["find-licenses","grunt-license-bower","gulp-bower-license-finder","spark-build"]
+["find-licenses","gript","grunt-license-bower","grunt-licensy","gulp-bower-license-finder"]

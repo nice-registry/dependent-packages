@@ -1,1 +1,1 @@
-["airbrite","csharp.js","frankendoc","grunt-coffee-browserify","mongohq-pull","node-migrate-mongo","node-migrate-redis","npm-copy","padm-cli","pivotal-deliver-cli","prepare"]
+["airbrite","csharp.js","frankendoc","grunt-coffee-browserify","grunt-mongo-migrations","mongohq-pull","node-migrate-mongo","node-migrate-redis","npm-copy","padm-cli","pivotal-deliver-cli","prepare"]

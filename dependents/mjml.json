@@ -1,1 +1,1 @@
-["gulp-mjml","jstransformer-mjml","mailplate","mjml-loader","mjml-serve","mjml-utils","mjml-with-images-loader"]
+["gulp-mjml","jstransformer-mjml","laravel-elixir-mjml","mailplate","maily","mjml-loader","mjml-serve","mjml-utils","mjml-utils-2","mjml-with-images-loader","mjml2-utils"]

@@ -1,1 +1,1 @@
-["fwdns","native-dns-cache"]
+["dns-cachejs","fwdns","native-dns-cache"]

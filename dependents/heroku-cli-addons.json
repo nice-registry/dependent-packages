@@ -1,1 +1,1 @@
-["heroku-pg-extras"]
+["heroku-kafka","heroku-pg","heroku-pg-extras"]

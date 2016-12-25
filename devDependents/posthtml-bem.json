@@ -1,1 +1,1 @@
-["metalsmith-posthtml","posthtml-bem-sugar","posthtml-cli","posthtml-load-config","posthtml-load-plugins","posthtml-use"]
+["metalsmith-posthtml","post-config","post-load-plugins","posthtml-bem-sugar","posthtml-cli","posthtml-load-plugins","posthtml-use"]

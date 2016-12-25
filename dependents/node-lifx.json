@@ -1,1 +1,1 @@
-["homestar-lifx","lifx-cli","meshblu-connector-lifx-light","meshblu-device-discoverer","meshblu-lifx-light","node-red-contrib-lifx2"]
+["homebridge-lifx-lan","homestar-lifx","lifx-cli","lifxsh","meshblu-connector-lifx-light","meshblu-device-discoverer","meshblu-lifx-light","node-red-contrib-lifx2","seneca-lifx"]

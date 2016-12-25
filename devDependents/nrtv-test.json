@@ -1,1 +1,1 @@
-["bridge-module","browser-bridge","function-call","make-it-editable","make-request","nrtv-bridge-element","nrtv-bridge-route","nrtv-browse","nrtv-couch","nrtv-dispatcher","nrtv-he","nrtv-minions","nrtv-proxy","nrtv-server","nrtv-single-use-socket","nrtv-socket","nrtv-tree","nrtv-wait","web-element"]
+["get-socket","make-it-editable","make-request","nrtv-bridge-element","nrtv-bridge-route","nrtv-browse","nrtv-couch","nrtv-dispatcher","nrtv-he","nrtv-minions","nrtv-proxy","nrtv-server","nrtv-single-use-socket","nrtv-socket","nrtv-tree","nrtv-wait"]

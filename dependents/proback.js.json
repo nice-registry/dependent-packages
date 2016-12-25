@@ -1,1 +1,1 @@
-["connect-rest","harcon-flow"]
+["connect-rest","floca","floca-amqp-client","harcon","harcon-amqp","harcon-flow","harcon-mqtt","harcon-radiation","harcon-sqs"]

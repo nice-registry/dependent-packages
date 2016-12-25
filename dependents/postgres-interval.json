@@ -1,1 +1,1 @@
-["pg-core","postgraphql"]
+["pg-core","pg-types","postgraphql"]

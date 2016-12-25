@@ -1,1 +1,1 @@
-["denormalizer","redux-api-middleware","redux-resources"]
+["denormalizer","react-redux-model","redux-api-middleware","redux-model-util","redux-pack","redux-resources","redux-sails-socket-middleware"]

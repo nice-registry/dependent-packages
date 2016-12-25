@@ -1,1 +1,1 @@
-["bipartite-vertex-cover","box-intersect","ndarray","ndarray-gemm","ndarray-nobuffer","ndarray-select","ndgemm","planar-dual","static-kdtree","t-ndarray","voxel-crunch"]
+["bipartite-vertex-cover","box-intersect","ndarray","ndarray-gemm","ndarray-nobuffer","ndarray-select","ndgemm","planar-dual","point-in-region","static-kdtree","t-ndarray","voxel-crunch"]

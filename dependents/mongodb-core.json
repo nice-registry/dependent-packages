@@ -1,1 +1,1 @@
-["gulp-mongodb-data","mb-mongodb","mongo-babel-promises","mongodb-bulk-stream","mongodb-es6","mongodb-schema-simulator","mongodb-tools","mongodb-topology-manager","promised-mongo","super-object-mapper","then-mongodb"]
+["gulp-mongodb-data","mb-mongodb","mongo-babel-promises","mongodb","mongodb-bulk-stream","mongodb-es6","mongodb-schema-simulator","mongodb-tools","mongodb-topology-manager","mongorun","promised-mongo","super-object-mapper","then-mongodb"]

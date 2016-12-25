@@ -1,1 +1,1 @@
-["nexus-core"]
+["express-router-tcomb","express-router-tcomb-test","nexus-core","pouchdb-model","tcomb-pretty-match"]

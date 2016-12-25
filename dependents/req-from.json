@@ -1,1 +1,1 @@
-["knex-migrate","req-cwd","yaml-runner"]
+["knex-migrate","mochista","req-cwd","tern-jspm","yaml-runner"]

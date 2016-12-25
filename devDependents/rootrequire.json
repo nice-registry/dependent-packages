@@ -1,1 +1,1 @@
-["babel-plugin-async-try-catch","siren-resource"]
+["babel-plugin-async-try-catch","babel-plugin-source-map-support","json-cli-toolkit","siren-resource"]

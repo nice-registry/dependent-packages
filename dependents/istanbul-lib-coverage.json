@@ -1,1 +1,1 @@
-["generator-arc","istanbul-api","istanbul-lib-report","istanbul-merge","karma-istanbuljs-reporter","kpdecker-nyc","nyc","start-istanbul"]
+["istanbul-api","istanbul-lib-instrument","istanbul-lib-report","istanbul-lib-source-maps","istanbul-merge","jest-cli","karma-istanbuljs-reporter","kpdecker-nyc","nyc","start-istanbul"]

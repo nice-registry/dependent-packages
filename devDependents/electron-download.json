@@ -1,1 +1,1 @@
-["electron-osx-sign","electron-osx-sign-tf"]
+["electron-macos-sign","electron-osx-sign","electron-osx-sign-tf","minidump"]

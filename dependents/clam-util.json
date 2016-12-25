@@ -1,1 +1,1 @@
-["grunt-formatdata"]
+["generator-clam","grunt-cacheinfo","grunt-formatdata"]

@@ -1,1 +1,1 @@
-["ember-cli-blueprint-test-helpers"]
+["ember-cli-blueprint-test-helpers","ember-cli-internal-test-helpers","gulp-holograph"]

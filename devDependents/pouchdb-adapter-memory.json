@@ -1,1 +1,1 @@
-["coinstac-client-core","coinstac-common","hawkify-pouchdb","pouchdb-admins","pouchdb-find","pouchdb-repository","pouchy","prcek_pouchdb","redux-pouchdb","redux-pouchdb-sync"]
+["coinstac-client-core","coinstac-common","couchdb_changes_handler","hawkify-pouchdb","pouchdb-admins","pouchdb-doc-api","pouchdb-find","pouchdb-repository","pouchdb-security-helper","pouchy","prcek_pouchdb","redux-pouchdb","redux-pouchdb-sync","rxdb","transform-pouch"]

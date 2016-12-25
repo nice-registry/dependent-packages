@@ -1,1 +1,1 @@
-["metalsmith-jstransformer-partials"]
+["jstransformer-cli","metalsmith-jstransformer","metalsmith-jstransformer-partials"]

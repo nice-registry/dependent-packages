@@ -1,1 +1,1 @@
-["gulp-rev-loader","linked-data-reactor","redux-little-router","song-display","static-site-generator-webpack-plugin","subdivide","vendors-dashboard-worona","victory-heatmap"]
+["gulp-rev-loader","linked-data-reactor","redux-little-router","song-display","static-generator-webpack-plugin","static-site-generator-webpack-plugin","subdivide","victory-heatmap","webpack-disk-plugin"]

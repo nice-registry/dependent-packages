@@ -1,1 +1,1 @@
-["cttv.expansionView","cttv.speciesIcons","tnt.board","tnt.ensembl","tnt.legend","tnt.tooltip","tnt.tree.node"]
+["cttv.api","cttv.expansionView","cttv.genome","cttv.speciesIcons","cttv.targetAssociationsBubbles","tnt.board","tnt.ensembl","tnt.genome","tnt.legend","tnt.rest","tnt.tooltip","tnt.tree","tnt.tree.node","tntvis"]

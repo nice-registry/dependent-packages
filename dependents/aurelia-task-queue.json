@@ -1,1 +1,1 @@
-["aurelia-binding","aurelia-framework","aurelia-google-maps","aurelia-plugins-google-maps","aurelia-templating","aurelia-templating-resources","aurelia-ui-virtualization","oribella-aurelia-sortable"]
+["aurelia-binding","aurelia-configuration","aurelia-framework","aurelia-google-maps","aurelia-persistence","aurelia-plugins-google-maps","aurelia-templating","aurelia-templating-resources","aurelia-ui-virtualization","aurelia-validation","oribella-aurelia-sortable"]

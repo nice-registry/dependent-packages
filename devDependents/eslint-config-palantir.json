@@ -1,1 +1,1 @@
-["grunt-tslint","gulp-csslint-less-reporter"]
+["grunt-tslint","grunt-tslint-ftl","gulp-csslint-less-reporter"]

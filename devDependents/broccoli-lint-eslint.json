@@ -1,1 +1,1 @@
-["ember-inspector","orbit-core","orbit-indexeddb","orbit-jsonapi","orbit-local-storage","orbit-store"]
+["ember-inspector","ember-mocha","ember-test-helpers","orbit-core","orbit-indexeddb","orbit-jsonapi","orbit-local-storage","orbit-store"]

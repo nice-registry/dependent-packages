@@ -1,1 +1,1 @@
-["handlebars-react","postcss-autoreset","postcss-js-loader","postcss-mixins","postcss-rtlcss-combined"]
+["css-objectify-loader","handlebars-react","postcss-autoreset","postcss-js-loader","postcss-mixins","postcss-rtlcss-combined"]

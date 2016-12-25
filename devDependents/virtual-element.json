@@ -1,1 +1,1 @@
-["assert-element","deku-component-find-all","deku-component-find-class","deku-component-is-node","deku-component-mount","deku-redux","deku-search","deku-swipe","item-selection"]
+["assert-element","deku-component-find-all","deku-component-find-class","deku-component-is-node","deku-component-mount","deku-element-to-jsx-string","deku-redux","deku-swipe","dom-to-vdom","item-selection"]

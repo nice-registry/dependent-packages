@@ -1,1 +1,1 @@
-["grunt-jspacker","grunt-packitjs","grunt-pngdrive"]
+["grunt-jspacker","grunt-packitjs","grunt-pngdrive","gulp-packer","malta-js-packer"]

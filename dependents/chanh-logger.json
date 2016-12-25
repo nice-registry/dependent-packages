@@ -1,1 +1,1 @@
-["chanh-db-con","chanh-globalchannel-plugin","chanh-http-plugin","chanh-master-master-plugin","chanh-master-master-server","chanh-masterha-plugin"]
+["chanh-db-con","chanh-http-plugin","chanh-masterha-plugin","chanh-rpc"]

@@ -1,1 +1,1 @@
-["app-root","dependency-tree","dependents","extract-depends","gulp-haschanged-deps","list-dependencies","patternplate-transform-babel","website-dependency-tree"]
+["app-root","dependency-tree","dependents","extract-depends","gulp-haschanged-deps","list-dependencies","patternplate-transform-babel","serverless-plugin-include-dependencies","website-dependency-tree","xipcode"]

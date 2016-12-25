@@ -1,1 +1,1 @@
-["jsonapi-server","lokka-transport-http","lokka-transport-http-auth","lokka-transport-http-mw","lokka-transport-http-querystring"]
+["jsonapi-server","lokka-transport-graphql-js","lokka-transport-http","lokka-transport-http-auth","lokka-transport-http-mw","lokka-transport-http-querystring","lokka-typed"]

@@ -1,1 +1,1 @@
-["lightstep-overlay","opentracing-tracedpromise","traced-kew"]
+["hawkular-apm-opentracing","instana-nodejs-sensor","jaeger-client","lightstep-overlay","opentracing-tracedpromise","traced-kew","tracing-middleware"]

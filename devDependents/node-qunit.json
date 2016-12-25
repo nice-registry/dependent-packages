@@ -1,1 +1,1 @@
-["node-qunit","qgetopt","qhttp-agent","qqsort","qversion"]
+["kqueue","node-qunit","qgetopt","qhttp-agent","qqsort","qrpc","qversion"]

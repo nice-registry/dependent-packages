@@ -1,1 +1,1 @@
-["cst-helpers","html-to-react-components","html-to-react-components-es6","jscs","jscs-ember-deprecations"]
+["cst-helpers","deps-formatter","ember-cli-tree-shake","gulp-cst","html-to-react-components","html-to-react-components-es6","jscs","jscs-ember-deprecations"]

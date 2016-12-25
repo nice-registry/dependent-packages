@@ -1,1 +1,1 @@
-["roc-plugin-typed-css-modules","typed-stylus-modules"]
+["dojo-cli-css-typings","gulp-typed-css-modules","roc-plugin-typed-css-modules","ts-typed-css-modules-loader","typed-css-loader","typed-stylus-modules"]

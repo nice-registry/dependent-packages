@@ -1,1 +1,1 @@
-["backtrace-node","connect-static","optimus-image-store","s3-eu-central-1"]
+["backtrace-morgue","backtrace-node","connect-static","juto-s3","optimus-image-store","s3","s3-eu-central-1","source-scan"]

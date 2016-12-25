@@ -1,1 +1,1 @@
-["simple-require-loader","techtonic"]
+["invoke-parallel","simple-require-loader","techtonic","thallium"]

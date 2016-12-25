@@ -1,1 +1,1 @@
-["d3","d3-force","d3-transition","d3v4","ember-cli-d3-primitive","illustrate","kw-victory-core","periodic.js","react-d3-animation","react-set-animate","react-tween","rumble-charts","tune-victory-core","victory-animation"]
+["d3","d3-canvas-transition","d3-force","d3-transition","d3-view","d3v4","ember-cli-d3-primitive","illustrate","kalpa-tree","kw-victory-core","periodic.js","react-d3-animation","react-liquid-gauge","react-liquidchart","react-set-animate","react-solidgauge","react-tween","redux-animate","rumble-charts","tune-victory-core","victory-animation","victory-core"]

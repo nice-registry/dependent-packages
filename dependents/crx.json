@@ -1,1 +1,1 @@
-["browserevent","crx-repo","crx-webpack-plugin","crxify","ember-cli-deploy-chrome-app","ember-cli-mobile-chrome-apps","grunt-crx","gulp-crx-pack","gulp-crx-pkg","webdriverjs"]
+["browserevent","crx-repo","crx-webpack-plugin","crxify","ember-cli-deploy-chrome-app","ember-cli-mobile-chrome-apps","grunt-crx","grunt-webext-builder","gulp-crx-pack","gulp-crx-pkg","webdriverjs"]

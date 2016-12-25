@@ -1,1 +1,1 @@
-["electron-screenshot-app","electron-screenshot-service","floyd-steinberg","grove-gray-oled-js-bbg","gulp.spritesmith","imagesearch","ledstripe","ledstripe-fork","oled-js","oled-js-pi","oled-spi","pixelbank","zoomdata-client"]
+["electron-screenshot-app","electron-screenshot-service","floyd-steinberg","grove-gray-oled-js-bbg","gulp.spritesmith","imagesearch","ledstripe","ledstripe-fork","oled-i2c-bus","oled-js","oled-js-pi","oled-spi","oled-ssd1306-i2c","pixelbank","zoomdata-client"]

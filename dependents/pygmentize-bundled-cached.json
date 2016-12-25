@@ -1,1 +1,1 @@
-["balloon-generator","gulp-makdoc"]
+["balloon-generator","gulp-makdoc","hexo-renderer-moemark-pygments"]

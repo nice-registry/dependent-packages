@@ -1,1 +1,1 @@
-["wBitmask","wColor","wConsequence","wCopyable","wDeployer","wEventHandler","wFiles","wPath","wProto","wRegexpObject","wTools"]
+["wBitmask","wColor","wColor256","wConsequence","wCopyable","wDeployer","wEventHandler","wFiles","wLogger","wPath","wProto","wRegexpObject","wTools","wloggertofile","wloggertojstructure"]

@@ -1,1 +1,1 @@
-["expect-jsx","jsx-chai","mdast-util-to-hast","mos-core","react-element-to-jsx-string","rehype-minify-whitespace","remark-parse","should-jsx","tape-jsx-includes","tape-jsx-notincludes"]
+["expect-jsx","jasmine-expect-jsx","jsx-chai","mdast-util-to-hast","mos-core","react-element-to-jsx-string","rehype-minify-whitespace","remark-parse","should-jsx","tape-jsx-includes","tape-jsx-notincludes"]

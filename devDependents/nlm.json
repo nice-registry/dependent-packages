@@ -1,1 +1,1 @@
-["cached","cson-parser","find-open-port","gofer","gofer-proxy","node-inspect","selenium-download","shared-store","testium-cookie","testium-core","testium-driver-wd","testium-mocha","webdriver-http-sync","zoidtypes"]
+["assertive","assertive-as-promised","cached","cson-parser","find-open-port","gofer","gofer-proxy","ndu","node-inspect","selenium-download","shared-store","testium-cookie","testium-core","testium-driver-sync","testium-driver-wd","testium-example-app","testium-mocha","webdriver-http-sync","zoidtypes"]

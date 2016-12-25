@@ -1,1 +1,1 @@
-["cordova-plugin-iosrtc","websocketwrapper"]
+["cordova-plugin-iosrtc","websocket","websocket-without-native","websocketwrapper"]

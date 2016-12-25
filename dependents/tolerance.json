@@ -1,1 +1,1 @@
-["cqrs-eventdenormalizer","cqrs-saga","node-queue","sessionstore","sessionstore-cloudant","shelloid-sessionstore","viewmodel"]
+["cqrs-domain","cqrs-eventdenormalizer","cqrs-saga","elf-sessionstore","eventstore","node-queue","sessionstore","sessionstore-cloudant","shelloid-sessionstore","viewmodel"]

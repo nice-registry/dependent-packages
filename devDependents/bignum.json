@@ -1,1 +1,1 @@
-["bignum-browserify","flocon","math-buffer","radix-64","secp256k1","string-to-btc-addresses"]
+["bignum-browserify","flocon","math-buffer","radix-64","secp256k1","secp256k1.js","string-to-btc-addresses"]

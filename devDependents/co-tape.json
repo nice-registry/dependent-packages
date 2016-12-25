@@ -1,1 +1,1 @@
-["koa-github-webhook-handler","koa-hawk","koa-signed-url","rain-util-http","rain-util-postgres"]
+["co-http-test","koa-github-webhook-handler","koa-hawk","koa-signed-url","rain-util-http","rain-util-postgres"]

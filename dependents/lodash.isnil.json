@@ -1,1 +1,1 @@
-["background-task","kinvey-backend-sdk","lodash-invariants","merge-json-schemas","pact","pact-interceptor","redux-standard-actions","terrible-lodash"]
+["background-task","expect-stream","js.spec","kinvey-backend-sdk","kinvey-flex-sdk","lodash-invariants","merge-json-schemas","pact","pact-interceptor","redux-standard-actions","terrible-lodash"]

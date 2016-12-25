@@ -1,1 +1,1 @@
-["coinstac-client-core","feathers-authentication","feathers-authentication-patch-wechat","feathers-authentication-refreshtoken","feathers-localstorage","gw2api-client"]
+["coinstac-client-core","feathers-authentication","feathers-authentication-client","feathers-authentication-patch-wechat","feathers-authentication-refreshtoken","feathers-localstorage","gw2api-client","localstory"]

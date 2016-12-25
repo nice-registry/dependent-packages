@@ -1,1 +1,1 @@
-["db-migrate","ep_cloudfoundry","heroku-db","heroku-env","pg-db-migrate"]
+["db-migrate","ep_cloudfoundry","fitay-db-migrate","heroku-db","heroku-env","pg-db-migrate","unleash-server"]

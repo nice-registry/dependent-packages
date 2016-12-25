@@ -1,1 +1,1 @@
-["cbor","flexcache","json-literal","jsonify"]
+["borc","cbor","fast-cbor","flexcache","json-literal","jsonify"]

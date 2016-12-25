@@ -1,1 +1,1 @@
-["koa-grace-model","koa-grace-session"]
+["koa-grace-model","koa-grace-mongo","koa-grace-proxy","koa-grace-session"]

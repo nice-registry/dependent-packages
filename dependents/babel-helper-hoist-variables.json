@@ -1,1 +1,1 @@
-["babel-helper-call-delegate","babel-plugin-transform-es2015-modules-systemjs","generator-arc"]
+["babel-helper-call-delegate","babel-plugin-async-to-promises","babel-plugin-transform-es2015-modules-systemjs","uinz-notification"]

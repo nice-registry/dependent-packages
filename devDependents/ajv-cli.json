@@ -1,1 +1,1 @@
-["figlet-loader","generate-robotstxt","remark-preset-lint-itgalaxy","stylelint-config-itgalaxy","webpack-modernizr-loader"]
+["eslint-plugin-itgalaxy","event-callback-webpack-plugin","figlet-loader","flatten-formatter-assets-webpack-plugin","generate-robotstxt","get-sass-vars-sync","punkapi-db","remark-preset-lint-itgalaxy","robotstxt-webpack-plugin","stylelint-config-itgalaxy","table","webfont","webpack-modernizr-loader","webpack-webfont","wordpress-debug","wpcli"]

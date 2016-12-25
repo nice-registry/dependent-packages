@@ -1,1 +1,1 @@
-["crowsnest-rules-aws","lambda-cfn","patrol-rules-aws"]
+["crowsnest-rules-aws","dynamodb-replicator","lambda-cfn"]

@@ -1,1 +1,1 @@
-["cordova-plugin-dbmeter","cordova-plugin-permissionScope","cordova-plugin-time-geofence"]
+["cordova-plugin-dbmeter","cordova-plugin-geofence","cordova-plugin-optimizely","cordova-plugin-permissionScope","cordova-plugin-time-geofence","pushlink-cordova-plugin"]

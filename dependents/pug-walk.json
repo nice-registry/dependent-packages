@@ -1,1 +1,1 @@
-["angular-aot-fixer-pug","jade-jsx","kure-filters","local-scoped-scss-with-pug-loader","pug-dependency","pug-filters","pug-include-glob","pug-inheritance","pug-linker","pug-load","pug-loader","webpack-es6-builder"]
+["angular-aot-fixer-pug","io-ng2-aot-fixer-pug","jade-jsx","kure-filters","local-scoped-scss-with-pug-loader","pug-dependency","pug-filters","pug-include-glob","pug-inheritance","pug-linker","pug-load","pug-loader","pug-source-gen","pug-walk-extract-text","webpack-es6-builder"]

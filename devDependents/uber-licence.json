@@ -1,1 +1,1 @@
-["bufrw","canduit","canduitz","failpoints","hyperbahn","idl","jetstream","kafka-logger","kafka-rest-client","larch","node-flame","node-stap","ringpop","sea","tcap","tcurl","thriftify","thriftrw","uber-larch","yarpc"]
+["bufrw","canduit","canduitz","failpoints","hyperbahn","idl","jaeger-client","jetstream","kafka-jlogger","kafka-logger","kafka-rest-client","larch","logtron","node-flame","node-stap","ringpop","sea","tcap","tchannel","tcurl","thriftify","thriftrw","typed-request-stack","uber-larch","yarpc"]

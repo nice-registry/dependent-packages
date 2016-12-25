@@ -1,1 +1,1 @@
-["gpageinsights","grunt-build-config","grunt-jsinspect","grunt-lab","grunt-laxar","grunt-laxar-compass","grunt-pm2-deploy","grunt-rust","grunt-submodule","grunt-wet-boew-postbuild"]
+["gpageinsights","grunt-build-config","grunt-jsdeps","grunt-jsinspect","grunt-lab","grunt-laxar","grunt-laxar-compass","grunt-pm2-deploy","grunt-rust","grunt-submodule","grunt-wet-boew-postbuild"]

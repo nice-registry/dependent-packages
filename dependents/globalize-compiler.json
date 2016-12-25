@@ -1,1 +1,1 @@
-["globalize-config-compiler","globalize-webpack-plugin"]
+["babel-plugin-globalize","globalize-compiler-plus","globalize-config-compiler","globalize-webpack-plugin"]

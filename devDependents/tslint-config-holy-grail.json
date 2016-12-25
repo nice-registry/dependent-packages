@@ -1,1 +1,1 @@
-["worker-timers","worker-timers-broker","worker-timers-worker"]
+["audio-context-timers","extendable-media-recorder-wav-encoder","extendable-media-recorder-wav-encoder-worker","json-midi-encoder","json-midi-encoder-broker","json-midi-encoder-worker","json-midi-message-encoder","midi-file-slicer","midi-json-parser","midi-json-parser-broker","midi-json-parser-worker","worker-timers","worker-timers-broker","worker-timers-worker"]

@@ -1,1 +1,1 @@
-["regenerator-preset"]
+["babel-plugin-transform-regenerator","regenerator-preset","uinz-notification"]

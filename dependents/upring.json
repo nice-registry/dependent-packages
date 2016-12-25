@@ -1,1 +1,1 @@
-["upring-pubsub"]
+["upring-control","upring-kv","upring-pubsub"]

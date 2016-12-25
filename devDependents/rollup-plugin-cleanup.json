@@ -1,1 +1,1 @@
-["ensue","polyfill-generator","redux-api-call"]
+["ensue","nb-blob-worker","nb-event-service","nb-immutable-model","nb-moment-calendar","nb-riot-rx-form","nb-simple-fp","polyfill-generator","redux-api-call","we-js-logger"]

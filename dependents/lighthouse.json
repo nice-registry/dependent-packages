@@ -1,1 +1,1 @@
-["is-pwa","lighthouse-reports","pwmetrics"]
+["is-pwa","lighthouse-reports","pwmetrics","webpack-lighthouse-plugin"]

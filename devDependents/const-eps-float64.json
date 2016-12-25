@@ -1,1 +1,1 @@
-["const-cbrt-eps-float64","const-ln10","const-ln2","const-log10e","const-log2e","const-pi-squared","math-absolute-difference","math-cospi","math-dirichlet-eta","math-factorial","math-relative-difference","math-sinpi"]
+["const-cbrt-eps-float64","const-ln-sqrt-two-pi","const-ln10","const-ln2","const-log10e","const-log2e","const-pi-squared","math-absolute-difference","math-cospi","math-dirichlet-eta","math-factorial","math-relative-difference","math-riemann-zeta","math-sinpi"]

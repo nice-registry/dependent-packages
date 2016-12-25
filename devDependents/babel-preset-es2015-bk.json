@@ -1,1 +1,1 @@
-["rollup-plugin-ng-annotate"]
+["ng-hmr","rollup-plugin-ng-annotate"]

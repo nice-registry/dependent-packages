@@ -1,1 +1,1 @@
-["appium-android-driver-test","appium-ios-driver","appium-uiautomator2-driver","appium-uiautomator2-driver-test","appium-uiautomator2-driver-test-1","appium-youiengine-driver","node-isimulator"]
+["appium-android-driver","appium-android-driver-conan","appium-android-driver-test","appium-ios-driver","appium-ios-simulator","appium-uiautomator2-driver","appium-uiautomator2-driver-test","appium-uiautomator2-driver-test-1","appium-youiengine-driver","node-isimulator"]

@@ -1,1 +1,1 @@
-["mfcc","node-mfcc"]
+["autocorrelation","mfcc","node-mfcc","sound-parameters-extractor"]

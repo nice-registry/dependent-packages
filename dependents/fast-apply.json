@@ -1,1 +1,1 @@
-["attach-middleware","debox-redux-api","emitter-context","extend-this","is-schema","redux-api"]
+["attach-middleware","debox-redux-api","deepequal","emitter-context","extend-this","is-schema","redux-api","redux-api-immutable"]

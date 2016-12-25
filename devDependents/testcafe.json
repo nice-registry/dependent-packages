@@ -1,1 +1,1 @@
-["grunt-testcafe","testcafe-browser-provider-phantomjs","testcafe-browser-provider-saucelabs","testcafe-reporter-json","testcafe-reporter-list","testcafe-reporter-minimal","testcafe-reporter-spec","testcafe-reporter-xunit"]
+["dsw","grunt-testcafe","testcafe-browser-provider-phantomjs","testcafe-browser-provider-saucelabs","testcafe-reporter-json","testcafe-reporter-list","testcafe-reporter-minimal","testcafe-reporter-spec","testcafe-reporter-xunit","vue-range-slider"]

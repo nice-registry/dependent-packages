@@ -1,1 +1,1 @@
-["broccoli-strip-debug","fis3-parser-plugin-stripdebug","gulp-strip-debug","own-strip","requisite","strip-debug-loader","sulky-optimizer-strip-debug"]
+["broccoli-strip-debug","fis3-parser-plugin-stripdebug","grunt-strip-debug","gulp-strip-debug","own-strip","requisite","rjs-it","strip-debug-loader","sulky-optimizer-strip-debug"]

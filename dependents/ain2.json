@@ -1,1 +1,1 @@
-["activitystreams","ain2-wrapper","apis","boomcatch","cinovo-logger-syslog","cloudwatchd","cozy-controller","log4js-ain2","log4js-syslog","log4js-syslog-appender","pm2-syslog","stitakis-boomcatch","syslog-console","syslog4js","webpagetest-mapper","winston-syslog-ain2"]
+["activitystreams","ain2-wrapper","apis","apn-rest","boomcatch","cinovo-logger-syslog","cloudwatchd","cozy-controller","log4js-ain2","log4js-syslog","log4js-syslog-appender","pm2-syslog","stitakis-boomcatch","syslog-console","syslog4js","webpagetest-mapper","winston-syslog-ain2"]

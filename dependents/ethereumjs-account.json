@@ -1,1 +1,1 @@
-["blockapps-vm","dapple-chain","dapple-wevm","ethereum-sandbox","ethereum-sandbox-test","ethereumjs-lib","ethereumjs-testrpc","ethereumjs-vm","ethersim","s-unit","sol-unit","web3-provider-engine"]
+["blockapps-vm","dapple-chain","dapple-wevm","ethereum-sandbox","ethereum-sandbox-test","ethereumjs-lib","ethereumjs-testrpc","ethereumjs-testrpc-persist","ethereumjs-vm","ethersim","ipld-eth-account-snapshot","s-unit","sol-unit"]

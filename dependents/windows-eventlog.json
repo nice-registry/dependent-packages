@@ -1,1 +1,1 @@
-["ngn-daemon","winston-winlog"]
+["bunyan-windows-eventlog","ngn-daemon","winston-winlog"]

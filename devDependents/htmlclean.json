@@ -1,1 +1,1 @@
-["gallezy","gulp-inject-deps","gulp-inject-html","gulp-name-amd","gulp-split-sass-js","leader-line","strip-js"]
+["gallezy","gulp-inject-deps","gulp-inject-html","gulp-name-amd","gulp-split-sass-js","htmlclean-loader","leader-line","strip-js"]

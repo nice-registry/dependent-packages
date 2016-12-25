@@ -1,1 +1,1 @@
-["redux-persist-transform-expire","slideshow-generator"]
+["redux-persist-state-manager","redux-persist-transform-encrypt","redux-persist-transform-expire","redux-persist-transform-filter","slideshow-generator"]

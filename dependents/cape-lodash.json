@@ -1,1 +1,1 @@
-["cape-redux-collection","cape-redux-socket","cape-select","redux-graph"]
+["cape-redux","cape-redux-collection","cape-redux-reducer","cape-redux-socket","cape-select","redux-field","redux-graph","redux-windowsize"]

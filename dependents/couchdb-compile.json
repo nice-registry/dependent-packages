@@ -1,1 +1,1 @@
-["couch-push","couchdb-configure","couchdb-push","couchdb-secure"]
+["5984","couch-push","couchdb-configure","couchdb-push","couchdb-secure","grunt-couch"]

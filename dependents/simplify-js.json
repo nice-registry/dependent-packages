@@ -1,1 +1,1 @@
-["d3plus","leaflet.tilelayer.canvasdatagrid","pelias-admin-lookup","pelias-hierarchy-lookup","turf-simplify","zeitpunkt"]
+["d3plus","leaflet.tilelayer.canvasdatagrid","pelias-admin-lookup","pelias-hierarchy-lookup","pelias-wof-pip-service","tileshrink","turf-simplify","zeitpunkt"]

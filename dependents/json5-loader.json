@@ -1,1 +1,1 @@
-["aegis-tools","build-styles-loader","cosmic-dev-server","nio-pack","react-bandjs-renderer","webpack-config-json"]
+["aegis-tools","babel-build","build-styles-loader","nio-pack","react-bandjs-renderer","react-isolate","webpack-config-json"]

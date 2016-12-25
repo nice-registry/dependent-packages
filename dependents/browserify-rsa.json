@@ -1,1 +1,1 @@
-["browserify-sign","public-encrypt"]
+["browserify-sign","cordova-plugin-amplify-pay","cordova-plugin-amplify-payment","public-encrypt"]

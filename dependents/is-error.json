@@ -1,1 +1,1 @@
-["core-assert","equal-pmb","ho-iter","imdb-list","json-log","zeker"]
+["core-assert","electron-ipc-socket","equal-pmb","fsaction","ho-iter","imdb-list","json-log","try-invoke","zeker"]

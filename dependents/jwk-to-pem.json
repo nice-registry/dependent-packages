@@ -1,1 +1,1 @@
-["brightspace-auth-validation","docker-registry-client","native-crypto","portier"]
+["brightspace-auth-validation","docker-registry-client","idcs-strategy","keycloak-auth-utils","native-crypto","portier"]

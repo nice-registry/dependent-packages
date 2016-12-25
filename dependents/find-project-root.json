@@ -1,1 +1,1 @@
-["grunt-download-wcjs","grunt-ffmpeg-libs","grunt-vlc-libs","quickscope","quickscope-cli","wcjs-prebuilt"]
+["dw-utils","grunt-download-wcjs","grunt-ffmpeg-libs","grunt-vlc-libs","quickscope","quickscope-cli","wcjs-prebuilt"]

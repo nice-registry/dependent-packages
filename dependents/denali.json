@@ -1,1 +1,1 @@
-["denali-babel","denali-eslint"]
+["denali-auth","denali-babel","denali-eslint","denali-mailer","denali-node-orm2"]

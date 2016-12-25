@@ -1,1 +1,1 @@
-["babel-plugin-datascript","categories-js","cycle-firebase","cycle-history","cycle-time-driver","cyclejs-aws-iot-driver","cyclejs-soundmanager-driver","cyclic-fire","rx-injectable-observable","snabbdom-assert","switch-path"]
+["babel-plugin-datascript","categories-js","cycle-firebase","cycle-history","cycle-simple-http-driver","cycle-time-driver","cyclejs-aws-iot-driver","cyclejs-soundmanager-driver","cyclic-fire","rx-datascript","rx-injectable-observable","snabbdom-assert"]

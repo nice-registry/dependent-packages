@@ -1,1 +1,1 @@
-["couchdb-get-authorised-user-node","fetch-auth","react-customscroll","react-switch-case"]
+["couchdb-get-authorised-user-node","fetch-auth","jwt-auth","jwt-couchdb","react-customscroll","react-switch-case"]

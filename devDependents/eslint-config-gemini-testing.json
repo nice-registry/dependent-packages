@@ -1,1 +1,1 @@
-["gemini","gemini-gui","gemini-localip","gemini-optipng","gemini-react","gemini-url-decorator","glob-extra","hermione-faildump","hermione-teamcity-reporter","hermione-url-decorator","plugins-loader"]
+["console-notifier","gemini","gemini-core","gemini-coverage","gemini-gui","gemini-localip","gemini-optipng","gemini-react","gemini-url-decorator","glob-extra","hermione","hermione-faildump","hermione-teamcity-reporter","hermione-url-decorator","plugins-loader","ssh-tunneler","url-decorator"]

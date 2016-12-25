@@ -1,1 +1,1 @@
-["seneca-postgres-store","seneca-postgresql-store"]
+["seneca-postgres-store","seneca-postgresql-store","seneca-store-query"]

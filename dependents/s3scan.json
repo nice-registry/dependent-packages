@@ -1,1 +1,1 @@
-["aws-log-replay","cloudfront-log-reader"]
+["aws-log-replay","cloudfront-log-reader","dynamodb-replicator"]

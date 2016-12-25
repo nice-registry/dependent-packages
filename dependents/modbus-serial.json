@@ -1,1 +1,1 @@
-["little-brother-dcim-agent","modbus-eastron","modbus-event","modbus-sdm120ct","modbus-sdm530","modbus-sdm630-production","modbus-ws","node-red-contrib-serial-modbus","sdm530-instance"]
+["iobroker.eastron","little-brother-dcim-agent","modbus-eastron","modbus-event","modbus-rest","modbus-sdm120ct","modbus-sdm530","modbus-sdm630-production","modbus-ws","node-red-contrib-serial-modbus","sdm530-instance"]

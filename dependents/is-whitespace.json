@@ -1,1 +1,1 @@
-["hapi-sanitize-payload","is-blank","shtml","trim-leading-lines"]
+["condense-newlines","is-blank","shtml","trim-leading-lines"]

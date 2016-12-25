@@ -1,1 +1,1 @@
-["passport-opentoken"]
+["hapi-auth-opentoken","passport-opentoken"]

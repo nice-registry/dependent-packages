@@ -1,1 +1,1 @@
-["broccoli-esnext","broccoli-livescript","dexter-mocks"]
+["broccoli-esnext","broccoli-livescript","dexter-mocks","node-elm-repl"]

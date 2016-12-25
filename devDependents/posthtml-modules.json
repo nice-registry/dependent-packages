@@ -1,1 +1,1 @@
-["posthtml-beautify","posthtml-load-plugins"]
+["post-config","post-load-plugins","posthtml-beautify","posthtml-load-plugins"]

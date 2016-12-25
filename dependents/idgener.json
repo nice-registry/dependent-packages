@@ -1,1 +1,1 @@
-["consume-queue","record-actions","serialize-front"]
+["capture-action","consume-queue","general-bridge","record-actions","serialize-front"]

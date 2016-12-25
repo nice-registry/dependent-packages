@@ -1,1 +1,1 @@
-["bunyan-nokafka","ebb-core","hapi-sse-kafka","hiot-kafka","kafka-proxy","kafka-queue","kafkasauce","kbus","log4js-logstash-kafka","rx-no-kafka"]
+["bunyan-nokafka","ebb-core","hapi-sse-kafka","heroku-kafka","hiot-kafka","kafka-pipeline-lambda-receiver","kafka-pipeline-lambda-sender","kafka-proxy","kafka-queue","kafkasauce","kbus","log4js-logstash-kafka","memux","rx-no-kafka"]

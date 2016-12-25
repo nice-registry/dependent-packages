@@ -1,1 +1,1 @@
-["jsonload","mb-mongodb","mongo-url-utils","mongodb-secure"]
+["jsonload","mb-mongodb","mongo-url-utils","mongodb","mongodb-secure"]

@@ -1,1 +1,1 @@
-["babel-plugin-cheddar-compile","cheddar-lang"]
+["babel-plugin-cheddar-compile","babel-plugin-compile-cheddar","cheddar-lang","cheddar-lang-beta"]

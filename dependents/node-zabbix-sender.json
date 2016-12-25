@@ -1,1 +1,1 @@
-["bunyan-zabbix","graphout-output-zabbix"]
+["bunyan-zabbix","graphout-output-zabbix","zabbix-redis-trapper"]

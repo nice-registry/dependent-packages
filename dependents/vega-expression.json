@@ -1,1 +1,1 @@
-["vega-browserify"]
+["vega","vega-browserify","vega-parser"]

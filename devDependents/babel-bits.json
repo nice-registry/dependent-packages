@@ -1,1 +1,1 @@
-["babel-bits","bit-bundler","loggero","split-keypath"]
+["babel-bits","bit-bundler","bit-loader","loggero","split-keypath","then-pipeline"]

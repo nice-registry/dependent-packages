@@ -1,1 +1,1 @@
-["h5.modbus","spark-protocol"]
+["binary-version-reader","h5.modbus","modbus-rest","spark-mysql-protocol","spark-protocol"]

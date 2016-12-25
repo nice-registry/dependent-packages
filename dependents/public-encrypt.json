@@ -1,1 +1,1 @@
-["crypto-browserify","native-crypto"]
+["cordova-plugin-amplify-pay","cordova-plugin-amplify-payment","crypto-browserify","native-crypto","react-native-crypto"]

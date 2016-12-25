@@ -1,1 +1,1 @@
-["node-weixin-oauth"]
+["node-weixin-jssdk","node-weixin-link","node-weixin-media","node-weixin-menu","node-weixin-oauth","node-weixin-pay","node-weixin-user"]

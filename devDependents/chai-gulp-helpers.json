@@ -1,1 +1,1 @@
-["gulp-awspublish-router","gulp-es3ify","gulp-fixtures2js","gulp-resolver","gulp-spa-modify"]
+["gulp-awspublish-router","gulp-es3ify","gulp-fixtures2js","gulp-resolver","gulp-spa","gulp-spa-modify","lcov-result-merger"]

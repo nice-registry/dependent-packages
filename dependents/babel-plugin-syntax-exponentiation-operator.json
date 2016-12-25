@@ -1,1 +1,1 @@
-["babel-plugin-flow-relay-query","babel-preset-escompile","babel-preset-escompile-node","babel-preset-hyeonu","babel-preset-syntax-from-presets","babel-preset-target","better-babel-cli","format-message-cli","generator-arc","module-imports-exports"]
+["babel-plugin-flow-relay-query","babel-plugin-transform-exponentiation-operator","babel-preset-escompile","babel-preset-escompile-node","babel-preset-hyeonu","babel-preset-syntax-from-presets","babel-preset-target","better-babel-cli","format-message-cli","generator-arwen","module-imports-exports","uinz-notification"]

@@ -1,1 +1,1 @@
-["babel-plugin-transform-bem-jsx"]
+["babel-plugin-analyse-bem-rules","babel-plugin-remove-bem-attrs","babel-plugin-transform-bem-jsx"]

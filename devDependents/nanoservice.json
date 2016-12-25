@@ -1,1 +1,1 @@
-["nanoservice-transport-internal","nanoservice-transport-ipc-client","nanoservice-transport-ipc-server","nanoservice-transport-websocket-server"]
+["nanoservice-provider-page-grabber","nanoservice-transport-ipc-client","nanoservice-transport-ipc-server","nanoservice-transport-websocket-server"]

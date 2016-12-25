@@ -1,1 +1,1 @@
-["babel-minify","babel-preset-babili","babel-preset-escompress","babel-preset-minify","babel-preset-minify-es2015","babel-preset-movio","better-babel-cli","webcompiler"]
+["babel-minify","babel-preset-babili","babel-preset-escompress","babel-preset-minify","babel-preset-minify-es2015","babel-preset-movio","better-babel-cli","generator-arwen","prepublish","prepublish-lib","webcompiler"]

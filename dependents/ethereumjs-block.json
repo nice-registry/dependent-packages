@@ -1,1 +1,1 @@
-["dapple-chain","dapple-wevm","ethereum-sandbox","ethereum-sandbox-test","ethereumjs-blockchain","ethereumjs-lib","ethereumjs-testrpc","ethereumjs-vm","ethersim","s-unit","sol-unit","web3-provider-engine"]
+["dapple-chain","dapple-wevm","eth-tx-summary","ethereum-sandbox","ethereum-sandbox-test","ethereumjs-blockchain","ethereumjs-lib","ethereumjs-testrpc","ethereumjs-testrpc-persist","ethereumjs-vm","ethersim","ipld-eth-block","s-unit","sol-unit","web3-provider-engine"]

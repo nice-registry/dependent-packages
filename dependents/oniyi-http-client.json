@@ -1,1 +1,1 @@
-["ibm-connections-profiles-service"]
+["ibm-connections-activities-service","ibm-connections-profiles-service","loopback-connector-microsoft-graph-mail"]

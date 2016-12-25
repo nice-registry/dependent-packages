@@ -1,1 +1,1 @@
-["betajs-scoped","betajs-shims","grunt-betajs-templates"]
+["betajs-scoped","betajs-shims","grunt-betajs-docs-compile","grunt-betajs-templates","mock-ajax-server","mock-file-server"]

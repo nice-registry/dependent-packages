@@ -1,1 +1,1 @@
-["passport-cognito"]
+["authenticate-cognito","passport-cognito"]

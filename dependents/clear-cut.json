@@ -1,1 +1,1 @@
-["atom-keymap","pps-keymap"]
+["atom-keymap","dom-listener","hadron-command-registry","phosphor-keymap","pps-keymap"]

@@ -1,1 +1,1 @@
-["dapid-payment-eth-proof-of-burn","dapid-registry-ethereum-contract"]
+["dapid-payment-eth-proof-of-burn","dapid-registry-ethereum-contract","ethjs-account","ethjs-sha3","ethjs-signer","ipfs-mini"]

@@ -1,1 +1,1 @@
-["amqp-util","dust-engine","json-spec"]
+["amqp-util","document-alchemy-cli","dust-engine","json-spec","sql-client"]

@@ -1,1 +1,1 @@
-["eb-authenticate-npm"]
+["eb-authenticate-npm","eb-cleanup-node-perf-logging","eb-fix-npm","eb-install-aws-xray-config"]

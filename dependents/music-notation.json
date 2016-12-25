@@ -1,1 +1,1 @@
-["music-dictionary","music-key","note-interval","note-midi","note-transposer","semitones"]
+["chord-progression","interval-simplify","music-chord","music-dictionary","music-gamut","music-key","note-filter","note-harmonizer","note-interval","note-midi","note-transposer","pitch-class","semitones"]

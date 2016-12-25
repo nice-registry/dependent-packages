@@ -1,1 +1,1 @@
-["grunt-appverse-sonar-version","grunt-java-properties","jmcnet"]
+["grunt-appverse-sonar-version","grunt-java-properties","java-properties-loader","jmcnet"]

@@ -1,1 +1,1 @@
-["postgraphql","sqlfile-loader"]
+["pg-promise","postgraphql","sqlfile-loader"]

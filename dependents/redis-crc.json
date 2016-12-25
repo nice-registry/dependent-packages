@@ -1,1 +1,1 @@
-["bearcat-dao","push-redis-failover","push-redis-failover2"]
+["bearcat-dao","push-ioredis","push-redis-failover","push-redis-failover2"]

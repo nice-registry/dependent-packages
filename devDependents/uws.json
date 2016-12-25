@@ -1,1 +1,1 @@
-["engine.io","primus"]
+["deepstream.io-client-js","engine.io","feathers-primus","primus","primus-requests"]

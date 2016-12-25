@@ -1,1 +1,1 @@
-["bolzagger","generator-swagapi","grunt-swagger-spec-generator","open-api-test-generator","openapi-exec","openapi-schema-validation","swagger-spec-express","swagger-spec-middleware","swaggerize","swaggerize-defaulthandler","swaggerize-routes"]
+["api-flow","bolzagger","generator-swagapi","grunt-swagger-spec-generator","open-api-test-generator","openapi-exec","openapi-schema-validation","swagger-express-route","swagger-parser","swagger-parser-x","swagger-spec-express","swagger-spec-middleware","swaggerize","swaggerize-defaulthandler","swaggerize-routes","sway"]

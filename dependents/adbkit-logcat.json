@@ -1,1 +1,1 @@
-["adbkit","mozdevice"]
+["adbkit","androidlib","caf-adbkit","mozdevice"]

@@ -1,1 +1,1 @@
-["juejin-vue-loader","vue-promise-loader"]
+["fis3-parser-vue-component","fis3-preprocessor-vue-tmpl","fisx-vue-loader","juejin-vue-loader","miox-vue-classify-hot-loader","rollup-plugin-vue","rollup-plugin-vue2","vue-lancer-loader","vue-loader","vue-promise-loader","vue-template-es2015-loader","vue-template-loader","vue-templatify","vueify","weex-vue-loader"]

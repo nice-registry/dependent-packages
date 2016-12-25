@@ -1,1 +1,1 @@
-["electron-meshblu-connector-installer","is-elevated","pm2-windows-service"]
+["is-elevated","pm2-windows-service","pm2-windows-service-netfx-4"]

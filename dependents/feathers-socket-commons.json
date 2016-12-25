@@ -1,1 +1,1 @@
-["feathers-primus","feathers-socketio"]
+["feathers-authentication","feathers-primus","feathers-socketio"]

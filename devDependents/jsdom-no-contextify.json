@@ -1,1 +1,1 @@
-["cordova-js","monaco-languages","redux-i18n","tape-enzyme"]
+["cf-monaco-editor-core","cordova-js","monaco-languages","redux-i18n","tape-enzyme"]

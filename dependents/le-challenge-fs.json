@@ -1,1 +1,1 @@
-["iobroker.js-controller","iobroker.simple-api","letsencrypt","letsencrypt-express","redbird","serve-https"]
+["evoxy","iobroker.js-controller","iobroker.scriptgui","iobroker.simple-api","letsencrypt","letsencrypt-express","redbird","serve-https"]

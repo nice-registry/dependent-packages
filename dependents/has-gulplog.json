@@ -1,1 +1,1 @@
-["gulp-load-plugins","panqibao"]
+["gulp-generate-image-data-uri","gulp-load-plugins","gulp-uglify","gulp-util","panqibao"]

@@ -1,1 +1,1 @@
-["bookify","cache-service","cache-service-redis","cn-search","rarefied-redis-js"]
+["bookify","cache-service","cache-service-redis","cn-search","rarefied-redis-js","redis-express-rate-limiter"]

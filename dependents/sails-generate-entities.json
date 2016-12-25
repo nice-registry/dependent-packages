@@ -1,1 +1,1 @@
-["sails-backbone","sails-odata","sails-permissions"]
+["sails-backbone","sails-hook-permit-actions","sails-odata","sails-permissions"]

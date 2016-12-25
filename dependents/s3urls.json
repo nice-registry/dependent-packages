@@ -1,1 +1,1 @@
-["aws-log-replay","cfn-config","mapbox-grid-copy","mapbox-tile-copy","tilelive-s3","tilelive-vector"]
+["aws-log-replay","cfn-config","dynamodb-replicator","mapbox-grid-copy","mapbox-tile-copy","s3scan","tilelive-s3","tilelive-vector"]

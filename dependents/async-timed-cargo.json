@@ -1,1 +1,1 @@
-["bunyan-influxdb","express-kafka-producer"]
+["bunyan-influxdb","express-kafka-producer","kafka-consumer-router","node-data-handling"]

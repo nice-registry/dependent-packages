@@ -1,1 +1,1 @@
-["abstract-tus-store","broken-http-server","build-swagger","empty-promise","file-type-stream","fs-tus-store","keyed-tus-store","kitchenfile","meterstream","naked-promise","s3-tus-store","tus-header-parser","tus-metadata","tusboy","winston-rollbar-transport"]
+["abstract-tus-store","broken-http-server","build-swagger","empty-promise","file-type-stream","fs-tus-store","keyed-tus-store","kitchenfile","meterstream","naked-promise","phantom-pool","s3-tus-store","tus-header-parser","tus-metadata","tusboy","winston-rollbar-transport"]

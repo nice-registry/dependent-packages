@@ -1,1 +1,1 @@
-["parallel-uglifyjs","recursive-cssmin","recursive-uglifyjs"]
+["parallel-uglifyjs","recursive-cssmin","recursive-uglifyjs","tradie-template-react-static-site"]

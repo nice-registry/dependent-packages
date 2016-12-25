@@ -1,1 +1,1 @@
-["aws-cloudwatch-statsd-backend","awssum-amazon-route53","csv-2-geo-json","dynroute","greenqloud-awssum","gridcontrol","node-riakcs","proxy-only","seagull","statsd-cloudwatch-backend","statsd-udpkv-backend","tag-release"]
+["aws-cloudwatch-statsd-backend","awssum-amazon-route53","csv-2-geo-json","dynroute","greenqloud-awssum","gridcontrol","net-functions-pm2","node-riakcs","proxy-only","seagull","statsd-cloudwatch-backend","statsd-cloudwatch-backend-units","statsd-udpkv-backend","tag-release"]

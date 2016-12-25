@@ -1,1 +1,1 @@
-["cordova-plugin-curve25519","cordova-plugin-minisodium","cordova-plugin-scrypt"]
+["cordova-plugin-curve25519","cordova-plugin-file-node-like","cordova-plugin-minisodium","cordova-plugin-scrypt","cordova-plugin-secure-storage"]

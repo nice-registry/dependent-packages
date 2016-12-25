@@ -1,1 +1,1 @@
-["fonteditor-ttf2svg-cli","fontmin","fontmin-concat","svg-caster","webfont-crusher"]
+["fonteditor-ttf2svg-cli","fontmin","fontmin-concat","fontmin-dump","fontmin-ttf2svgs","fonty","six-widget-buildsupport","svg-caster","webfont-crusher"]

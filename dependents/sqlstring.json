@@ -1,1 +1,1 @@
-["common-dao-mysql","db3-config","db3-order-by","db3-set","db3-where","mysql-clusterfarm","mysql2","nodeshot","queryize","sql-json-generator","sql-tagged-template-literal","vn-mysql","zoho-cloud-sql"]
+["cadena","common-dao-mysql","db3-config","db3-order-by","db3-query-string","db3-set","db3-where","momy","mysql","mysql-clusterfarm","mysql2","nodeshot","queryize","sql-json-generator","sql-tagged-template-literal","vn-mysql","zoho-cloud-sql"]

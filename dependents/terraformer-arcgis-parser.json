@@ -1,1 +1,1 @@
-["ags-stream","arcgis-featureservice","esri-gnip","featureservice2trigger","fulcrum-ags-import","koop-cloudant","koop-provider","koop-server","nxus-data-loader","nxus-data-manager","nxus-dataset","shapefile-ags","soda-geoservices","winnow"]
+["ags-stream","arcgis-featureservice","esri-gnip","express-geoservices-adaptor","featureservice2trigger","fulcrum-ags-import","koop","koop-cloudant","koop-provider","koop-server","nxus-data-loader","nxus-data-manager","shapefile-ags","soda-geoservices","winnow"]

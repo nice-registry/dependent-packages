@@ -1,1 +1,1 @@
-["babel-plugin-async-try-catch","babel-plugin-source-map-support-for-6","escallmatch","esplan","merge-estraverse-visitors"]
+["babel-plugin-async-try-catch","babel-plugin-source-map-support","babel-plugin-source-map-support-for-6","empower-assert","escallmatch","esplan","merge-estraverse-visitors","shift-spidermonkey-converter"]
