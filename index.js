@@ -1,16 +1,16 @@
 const path = require('path')
-const pathExists = require('path-exists').sync
+const fs = require('fs')
 
 module.exports = {
   counts: require('./counts.json'),
 
   directDependents: (packageName) => {
     const file = path.join(__dirname, 'dependents', `${packageName}.json`)
-    return pathExists(file) ? require(file) : []
+    return fs.existsSync(file) ? require(file) : []
   },
 
   directDevDependents: (packageName) => {
     const file = path.join(__dirname, 'devDependents', `${packageName}.json`)
-    return pathExists(file) ? require(file) : []
+    return fs.existsSync(file) ? require(file) : []
   }
 }

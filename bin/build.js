@@ -1,7 +1,6 @@
 const path = require('path')
 const fs = require('fs')
 const registry = require('package-stream')()
-const exists = require('path-exists').sync
 const uniq = require('lodash.uniq')
 const rm = require('rimraf').sync
 const mkdirp = require('mkdirp')
@@ -38,7 +37,7 @@ function extract (pkg, depType) {
       (depType === 'dependencies' ? 'dependents' : 'devDependents'),
       `${depName}.json`
     )
-    let extantDeps = exists(filename) ? require(filename) : []
+    let extantDeps = fs.existsSync(filename) ? require(filename) : []
     extantDeps.push(pkg.name)
     fs.writeFileSync(filename, JSON.stringify(uniq(extantDeps).sort()))
     process.stdout.write(depType === 'dependencies' ? '*' : '@')
