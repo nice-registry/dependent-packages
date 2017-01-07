@@ -8,7 +8,7 @@
     "install": "npm run decompress",
     "build": "node bin/build.js",
     "compress": "tar cfzv dependents.tgz dependents && tar cfzv devDependents.tgz devDependents",
-    "decompress": "tar xfzv dependents.tgz && tar xfzv devDependents.tgz",
+    "decompress": "tar xfz dependents.tgz && tar xfz devDependents.tgz",
     "count": "node bin/count.js > counts.json",
     "test": "node test.js | tap-spec && standard *.js bin/*.js"
   },
