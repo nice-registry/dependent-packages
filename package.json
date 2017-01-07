@@ -1,6 +1,6 @@
 {
   "name": "dependent-packages",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "Offline collection of the dependents and devDependents of every package in the npm registry.",
   "repository": "https://github.com/zeke/dependent-packages",
   "main": "index.js",
